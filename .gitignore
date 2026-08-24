@@ -1,0 +1,38 @@
+# зависимости
+node_modules/
+.pnpm-store/
+
+# сборка
+.next/
+dist/
+build/
+out/
+
+# окружение и секреты
+.env
+.env.*
+!.env.example
+
+# сертификаты (в репозиторий не кладем, ставятся при сборке образа)
+certs/*.pem
+certs/*.crt
+
+# данные разведки и временные выгрузки
+*.local.json
+probe*.txt
+tools/probe/out/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+
+# редакторы и ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# логи
+*.log
+npm-debug.log*
