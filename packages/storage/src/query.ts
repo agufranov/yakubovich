@@ -2,7 +2,7 @@
  * Поиск и фильтры по лотам в памяти. Интерфейс продуман под будущий Postgres:
  * это тот же контракт, что даст SQL с tsvector, — заменится реализация.
  */
-import type { CoreLot, LotKind, LotStatus } from '@bankrot/shared';
+import type { CoreLot, LegalBasis, LotKind, LotStatus } from '@bankrot/shared';
 import { ACTIVE_STATUSES } from '@bankrot/shared';
 
 export type StatusGroup = 'active' | 'finished' | 'all';
@@ -11,6 +11,7 @@ export type SortKey = 'newest' | 'deadline' | 'price_asc' | 'price_desc';
 export interface LotQuery {
   text?: string;
   kind?: LotKind;
+  basis?: LegalBasis;
   region?: string;
   statusGroup?: StatusGroup;
   priceFrom?: number;
@@ -22,6 +23,7 @@ export interface LotQuery {
 
 export interface Facets {
   kinds: { value: LotKind; count: number }[];
+  bases: { value: LegalBasis; count: number }[];
   regions: { value: string; count: number }[];
   statusGroups: { value: StatusGroup; count: number }[];
 }
@@ -72,19 +74,25 @@ export function queryLots(all: CoreLot[], q: LotQuery): QueryResult {
   });
 
   const afterKindRegion = base.filter(
-    (lot) => (!q.kind || lot.kind === q.kind) && (!q.region || lot.regionCode === q.region),
+    (lot) =>
+      (!q.kind || lot.kind === q.kind) &&
+      (!q.region || lot.regionCode === q.region) &&
+      (!q.basis || lot.legalBasis === q.basis),
   );
   const filtered = afterKindRegion.filter((lot) => inStatusGroup(lot, group));
 
   // фасеты
   const kindCounts = new Map<LotKind, number>();
+  const basisCounts = new Map<LegalBasis, number>();
   const regionCounts = new Map<string, number>();
   for (const lot of base.filter((l) => inStatusGroup(l, group))) {
-    if (!q.region || lot.regionCode === q.region) {
-      kindCounts.set(lot.kind, (kindCounts.get(lot.kind) ?? 0) + 1);
-    }
-    if (!q.kind || lot.kind === q.kind) {
-      if (lot.regionCode) regionCounts.set(lot.regionCode, (regionCounts.get(lot.regionCode) ?? 0) + 1);
+    const kindOk = !q.kind || lot.kind === q.kind;
+    const regionOk = !q.region || lot.regionCode === q.region;
+    const basisOk = !q.basis || lot.legalBasis === q.basis;
+    if (regionOk && basisOk) kindCounts.set(lot.kind, (kindCounts.get(lot.kind) ?? 0) + 1);
+    if (kindOk && regionOk) basisCounts.set(lot.legalBasis, (basisCounts.get(lot.legalBasis) ?? 0) + 1);
+    if (kindOk && basisOk && lot.regionCode) {
+      regionCounts.set(lot.regionCode, (regionCounts.get(lot.regionCode) ?? 0) + 1);
     }
   }
   const statusGroups: Facets['statusGroups'] = (['active', 'finished', 'all'] as const).map((g) => ({
@@ -125,6 +133,7 @@ export function queryLots(all: CoreLot[], q: LotQuery): QueryResult {
     pages,
     facets: {
       kinds: [...kindCounts].map(([value, count]) => ({ value, count })).sort((a, b) => b.count - a.count),
+      bases: [...basisCounts].map(([value, count]) => ({ value, count })).sort((a, b) => b.count - a.count),
       regions: [...regionCounts].map(([value, count]) => ({ value, count })).sort((a, b) => b.count - a.count),
       statusGroups,
     },

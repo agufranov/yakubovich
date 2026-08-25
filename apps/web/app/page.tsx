@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { KIND_LABELS, regionName, type LotKind } from '@bankrot/shared';
+import { KIND_LABELS, LEGAL_BASIS_LABELS, regionName, type LegalBasis, type LotKind } from '@bankrot/shared';
 import { queryLots, type LotQuery, type SortKey, type StatusGroup } from '@bankrot/storage';
 import { LotCard } from '@/components/LotCard';
 import { getStore } from '@/lib/data';
@@ -54,6 +54,7 @@ export default async function CatalogPage(props: { searchParams: Promise<Params>
   const q: LotQuery = {
     text: s(params, 'q'),
     kind: s(params, 'kind') as LotKind | undefined,
+    basis: s(params, 'basis') as LegalBasis | undefined,
     region: s(params, 'region'),
     statusGroup: (s(params, 'status') as StatusGroup | undefined) ?? 'all',
     priceFrom: n(params, 'from'),
@@ -64,7 +65,9 @@ export default async function CatalogPage(props: { searchParams: Promise<Params>
 
   const all = getStore().loadLots();
   const res = queryLots(all, q);
-  const hasFilters = Boolean(q.text || q.kind || q.region || q.priceFrom || q.priceTo || (q.statusGroup !== 'all'));
+  const hasFilters = Boolean(
+    q.text || q.kind || q.basis || q.region || q.priceFrom || q.priceTo || q.statusGroup !== 'all',
+  );
 
   return (
     <main className="page">
@@ -73,6 +76,7 @@ export default async function CatalogPage(props: { searchParams: Promise<Params>
           <form action="/" method="get">
             {/* сохранить остальные параметры при поиске текстом */}
             {q.kind && <input type="hidden" name="kind" value={q.kind} />}
+            {q.basis && <input type="hidden" name="basis" value={q.basis} />}
             {q.region && <input type="hidden" name="region" value={q.region} />}
             {q.statusGroup !== 'all' && <input type="hidden" name="status" value={q.statusGroup} />}
             <h3>Поиск</h3>
@@ -124,6 +128,24 @@ export default async function CatalogPage(props: { searchParams: Promise<Params>
                   href={href(params, { kind: k.value })}
                 >
                   {KIND_LABELS[k.value]} <span className="n">{k.count}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <h3>Основание торгов</h3>
+            <div className="facet-list">
+              <Link className={!q.basis ? 'on' : ''} href={href(params, { basis: undefined })}>
+                Все основания
+              </Link>
+              {res.facets.bases.map((b) => (
+                <Link
+                  key={b.value}
+                  className={q.basis === b.value ? 'on' : ''}
+                  href={href(params, { basis: b.value })}
+                >
+                  {LEGAL_BASIS_LABELS[b.value]} <span className="n">{b.count}</span>
                 </Link>
               ))}
             </div>
