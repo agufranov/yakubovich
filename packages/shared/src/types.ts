@@ -111,6 +111,8 @@ export interface RawRecord {
 /** Итог одного прогона коннектора — основа наблюдаемости (docs/03) */
 export interface RunRecord {
   sourceCode: string;
+  /** ingest — обход листинга; sweep — перепроверка давно не виденных лотов */
+  mode?: 'ingest' | 'sweep';
   startedAt: string;
   finishedAt: string;
   pagesScanned: number;
@@ -118,6 +120,8 @@ export interface RunRecord {
   itemsNew: number;
   itemsChanged: number;
   itemsUnchanged: number;
+  /** лоты, стертые источником и переведенные у нас в archived (sweep) */
+  itemsArchived?: number;
   cardsFetched: number;
   parseErrors: number;
   httpErrors: number;

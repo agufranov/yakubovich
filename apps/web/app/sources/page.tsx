@@ -50,12 +50,14 @@ export default function SourcesPage() {
             <thead>
               <tr>
                 <th>Источник</th>
+                <th>Режим</th>
                 <th>Когда</th>
                 <th>Стр.</th>
                 <th>Увидено</th>
                 <th>Новых</th>
                 <th>Изм.</th>
                 <th>Карточек</th>
+                <th>Архив</th>
                 <th>HTTP err</th>
                 <th>Parse err</th>
                 <th>Прим.</th>
@@ -65,6 +67,7 @@ export default function SourcesPage() {
               {runs.map((r, i) => (
                 <tr key={i}>
                   <td>{r.sourceCode}</td>
+                  <td>{r.mode ?? 'ingest'}</td>
                   <td>{formatDateTime(r.finishedAt, 180, 'МСК')}</td>
                   <td>{r.pagesScanned}</td>
                   <td>{r.itemsSeen}</td>
@@ -74,6 +77,7 @@ export default function SourcesPage() {
                   </td>
                   <td>{r.itemsChanged}</td>
                   <td>{r.cardsFetched}</td>
+                  <td>{r.itemsArchived ?? 0}</td>
                   <td className={r.httpErrors > 0 ? 'warn' : ''}>{r.httpErrors}</td>
                   <td className={r.parseErrors > 0 ? 'warn' : ''}>{r.parseErrors}</td>
                   <td>{r.aborted ?? ''}</td>

@@ -160,24 +160,22 @@ function cleanValue(v: unknown): string | undefined {
 
 // ---------- коннектор ----------
 
-export interface GisTorgiParams {
-  /** срез по типу торгов: '229FZ', '178FZ', ... (docs: фильтр проверен зондом) */
-  biddType?: string;
-}
-
 export const gisTorgi: Connector = {
   code: 'gis-torgi',
 
   async *discover(http: HttpClient, opts: DiscoverOptions): AsyncGenerator<DiscoverItem[]> {
     const maxPages = Math.min(opts.maxPages ?? 25, MAX_PAGE + 1);
-    const biddType = opts.params?.biddType;
     for (let page = 0; page < maxPages; page++) {
       const qs = new URLSearchParams({
         size: String(PAGE_SIZE),
         page: String(page),
         sort: 'firstVersionPublicationDate,desc',
       });
-      if (biddType) qs.set('biddType', biddType);
+      // срез: biddType, pubFrom/pubTo (yyyy-MM-dd), dynSubjRF, catCode —
+      // все проверены методом мусорного значения (docs/research/gis-torgi-api.md)
+      for (const [k, v] of Object.entries(opts.params ?? {})) {
+        if (v) qs.set(k, v);
+      }
       let data: GtSearchPage;
       try {
         data = await http.getJson<GtSearchPage>(`${API}/lotcards/search?${qs}`);
