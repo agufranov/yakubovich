@@ -36,3 +36,7 @@ Thumbs.db
 # логи
 *.log
 npm-debug.log*
+
+# выгрузка реестра ЭТП (исходник; извлеченное — в tools/probe/etp_list.json)
+reestr.html
+reestr_files/

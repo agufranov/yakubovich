@@ -1,0 +1,568 @@
+{
+ "Банкротство": [
+  {
+   "num": 1,
+   "etp_id": 109,
+   "name": "uTender",
+   "url": "http://utender.ru/"
+  },
+  {
+   "num": 2,
+   "etp_id": 119,
+   "name": "B2B-Center",
+   "url": "https://www.b2b-center.ru/"
+  },
+  {
+   "num": 3,
+   "etp_id": 120,
+   "name": "Фабрикант",
+   "url": "http://www.fabrikant.ru/"
+  },
+  {
+   "num": 4,
+   "etp_id": 121,
+   "name": "ЗАО «Сбербанк-АСТ»",
+   "url": "http://utp.sberbank-ast.ru/Bankruptcy/"
+  },
+  {
+   "num": 5,
+   "etp_id": 122,
+   "name": "ЭП Центра реализации",
+   "url": "https://bankrupt.centerr.ru/"
+  },
+  {
+   "num": 6,
+   "etp_id": 123,
+   "name": "Аукционы Сибири",
+   "url": "https://ausib.ru/"
+  },
+  {
+   "num": 7,
+   "etp_id": 124,
+   "name": "Российский аукционный дом",
+   "url": "http://www.lot-online.ru/"
+  },
+  {
+   "num": 8,
+   "etp_id": 125,
+   "name": "СЭЛТИМ",
+   "url": "https://www.seltim.ru/"
+  },
+  {
+   "num": 9,
+   "etp_id": 126,
+   "name": "Аукционный тендерный центр",
+   "url": "https://www.atctrade.ru/"
+  },
+  {
+   "num": 10,
+   "etp_id": 127,
+   "name": "МЭТС",
+   "url": "https://m-ets.ru/"
+  },
+  {
+   "num": 11,
+   "etp_id": 129,
+   "name": "«ЭТП ELECTRO-TORGI.RU»",
+   "url": "https://bankrotstvo.electro-torgi.ru/"
+  },
+  {
+   "num": 12,
+   "etp_id": 131,
+   "name": "RUSSIA OnLine",
+   "url": "https://rus-on.ru/"
+  },
+  {
+   "num": 13,
+   "etp_id": 132,
+   "name": "Балтийская ЭП",
+   "url": "https://bankruptcy.bepspb.ru/"
+  },
+  {
+   "num": 14,
+   "etp_id": 135,
+   "name": "Сибирская ТП",
+   "url": "http://www.sibtoptrade.ru/"
+  },
+  {
+   "num": 15,
+   "etp_id": 136,
+   "name": "Региональная ТП",
+   "url": "https://www.regtorg.com/"
+  },
+  {
+   "num": 16,
+   "etp_id": 137,
+   "name": "«Property Trade»",
+   "url": "http://www.propertytrade.ru/"
+  },
+  {
+   "num": 17,
+   "etp_id": 138,
+   "name": "ЭП «Вердиктъ»",
+   "url": "https://bankrot.vertrades.ru/"
+  },
+  {
+   "num": 18,
+   "etp_id": 139,
+   "name": "Арбитат",
+   "url": "http://www.arbitat.ru/"
+  },
+  {
+   "num": 19,
+   "etp_id": 140,
+   "name": "МЕТА-ИНВЕСТ",
+   "url": "http://www.meta-invest.ru/"
+  },
+  {
+   "num": 20,
+   "etp_id": 141,
+   "name": "Центр дистанционных торгов",
+   "url": "https://bankrot.cdtrf.ru/"
+  },
+  {
+   "num": 21,
+   "etp_id": 142,
+   "name": "АКОСТА info",
+   "url": "https://www.akosta.info/"
+  },
+  {
+   "num": 22,
+   "etp_id": 145,
+   "name": "Аукцион-центр",
+   "url": "http://www.aukcioncenter.ru/"
+  },
+  {
+   "num": 23,
+   "etp_id": 146,
+   "name": "«ТЕНДЕР ГАРАНТ»",
+   "url": "http://www.tendergarant.com/"
+  },
+  {
+   "num": 24,
+   "etp_id": 149,
+   "name": "ЭТП \"Профит\"",
+   "url": "https://etp-profit.ru/"
+  },
+  {
+   "num": 25,
+   "etp_id": 151,
+   "name": "ЭТП \"Регион\"",
+   "url": "https://bankruptcy.gloriaservice.ru/"
+  },
+  {
+   "num": 26,
+   "etp_id": 152,
+   "name": "Единая торговая электронная площадка",
+   "url": "https://bankrupt.tender.one/"
+  },
+  {
+   "num": 27,
+   "etp_id": 153,
+   "name": "Электронная площадка ЭСП",
+   "url": "http://el-torg.com/"
+  },
+  {
+   "num": 28,
+   "etp_id": 154,
+   "name": "Альянс Трейд",
+   "url": "https://trade-alliance.ru/"
+  },
+  {
+   "num": 29,
+   "etp_id": 157,
+   "name": "Альфалот",
+   "url": "https://bankrupt.alfalot.ru/"
+  },
+  {
+   "num": 30,
+   "etp_id": 158,
+   "name": "ТендерСтандарт",
+   "url": "https://tenderstandart.ru/"
+  },
+  {
+   "num": 31,
+   "etp_id": 160,
+   "name": "ПТП-Центр (ВТБ)",
+   "url": "https://ptp-center.ru/"
+  },
+  {
+   "num": 32,
+   "etp_id": 161,
+   "name": "Южная ЭТП",
+   "url": "https://torgibankrot.ru/"
+  },
+  {
+   "num": 33,
+   "etp_id": 162,
+   "name": "Уральская ЭТП",
+   "url": "https://bankrupt.etpu.ru/"
+  },
+  {
+   "num": 34,
+   "etp_id": 165,
+   "name": "Объединенная Торговая Площадка",
+   "url": "https://bankrupt.utpl.ru/"
+  },
+  {
+   "num": 35,
+   "etp_id": 166,
+   "name": "«Новые информационные сервисы»",
+   "url": "https://nistp.ru/"
+  },
+  {
+   "num": 36,
+   "etp_id": 167,
+   "name": "\"ЭТС24\"",
+   "url": "http://bankrupt.ets24.ru/"
+  },
+  {
+   "num": 37,
+   "etp_id": 168,
+   "name": "Всероссийская ЭТП",
+   "url": "https://xn--80ab2alglp.xn--b1a0ai7b.xn--p1ai/"
+  },
+  {
+   "num": 38,
+   "etp_id": 170,
+   "name": "Евразийская ТП",
+   "url": "http://eurtp.ru/"
+  },
+  {
+   "num": 39,
+   "etp_id": 179,
+   "name": "\"Ru-Trade24\"",
+   "url": "https://ru-trade24.ru/"
+  },
+  {
+   "num": 40,
+   "etp_id": 180,
+   "name": "Открытая ТП",
+   "url": "http://www.opentp.ru/"
+  },
+  {
+   "num": 41,
+   "etp_id": 181,
+   "name": "Арббитлот",
+   "url": "https://torgi.arbbitlot.ru/"
+  },
+  {
+   "num": 42,
+   "etp_id": 183,
+   "name": "ЭТП \"Пром-Консалтинг\"",
+   "url": "https://promkonsalt.ru/"
+  },
+  {
+   "num": 43,
+   "etp_id": 184,
+   "name": "Сибирская ЭП",
+   "url": "http://www.sibtorgi.ru/"
+  },
+  {
+   "num": 44,
+   "etp_id": 185,
+   "name": "Систематорг",
+   "url": "https://sistematorg.com/"
+  },
+  {
+   "num": 45,
+   "etp_id": 186,
+   "name": "ЭТП \"Заказ РФ\"",
+   "url": "http://bankrot.zakazrf.ru/"
+  },
+  {
+   "num": 46,
+   "etp_id": 187,
+   "name": "ЭТП \"Югра\"",
+   "url": "https://etpugra.ru/"
+  },
+  {
+   "num": 47,
+   "etp_id": 188,
+   "name": "Аукционы Дальнего Востока",
+   "url": "https://torgidv.ru/bankrupt/"
+  },
+  {
+   "num": 48,
+   "etp_id": 189,
+   "name": "АукционPRO",
+   "url": "https://au-pro.ru/"
+  },
+  {
+   "num": 49,
+   "etp_id": 191,
+   "name": "ТоргГрупп",
+   "url": "https://bankrot.torggroup.org/"
+  }
+ ],
+ "TorgiGov": [
+  {
+   "num": 50,
+   "etp_id": 901,
+   "name": "Torgi.gov - Аренда",
+   "url": "https://torgi.gov.ru/"
+  },
+  {
+   "num": 51,
+   "etp_id": 902,
+   "name": "Torgi.gov - Земельные участки",
+   "url": "https://torgi.gov.ru/"
+  },
+  {
+   "num": 52,
+   "etp_id": 906,
+   "name": "Torgi.gov - Незавершенное строительство",
+   "url": "https://torgi.gov.ru/"
+  },
+  {
+   "num": 53,
+   "etp_id": 907,
+   "name": "Torgi.gov - Продажа по минимальной цене",
+   "url": "https://torgi.gov.ru/"
+  },
+  {
+   "num": 54,
+   "etp_id": 908,
+   "name": "Torgi.gov - Продажа",
+   "url": "https://torgi.gov.ru/"
+  },
+  {
+   "num": 55,
+   "etp_id": 913,
+   "name": "Torgi.gov - Арестованное",
+   "url": "https://torgi.gov.ru/"
+  }
+ ],
+ "Залоговое": [
+  {
+   "num": 56,
+   "etp_id": 1003,
+   "name": "ЭТП Центр Реализации",
+   "url": "http://www.business.centerr.ru/"
+  },
+  {
+   "num": 57,
+   "etp_id": 1004,
+   "name": "ПАО \"ТРАНСКАПИТАЛБАНК\"",
+   "url": "https://www.tkbbank.ru/realization"
+  },
+  {
+   "num": 58,
+   "etp_id": 1005,
+   "name": "ПАО ВТБ",
+   "url": "https://komission.vtb.ru/"
+  },
+  {
+   "num": 59,
+   "etp_id": 1006,
+   "name": "ПАО \"Совкомбанк\"",
+   "url": "https://sovcombank.ru/property"
+  },
+  {
+   "num": 60,
+   "etp_id": 1007,
+   "name": "ПАО \"ПРОМСВЯЗЬБАНК\"",
+   "url": "https://www.psbank.ru/Assets"
+  },
+  {
+   "num": 61,
+   "etp_id": 1010,
+   "name": "ООО \"ЭТП\"",
+   "url": "http://sale.etprf.ru/"
+  },
+  {
+   "num": 62,
+   "etp_id": 1011,
+   "name": "ПАО КБ «Восточный»",
+   "url": "https://www.vostbank.ru/about/property/"
+  },
+  {
+   "num": 63,
+   "etp_id": 1012,
+   "name": "ПАО «БАНК УРАЛСИБ»",
+   "url": "https://sales.uralsib.ru/"
+  },
+  {
+   "num": 64,
+   "etp_id": 1013,
+   "name": "ПАО \"Банк ЗЕНИТ\"",
+   "url": "https://www.zenit.ru/personal/property-sale/"
+  },
+  {
+   "num": 65,
+   "etp_id": 1014,
+   "name": "ПАО «МТС-Банк»",
+   "url": "https://www.mtsbank.ru/o-banke/realizacia-aktivov/vitrina/"
+  },
+  {
+   "num": 66,
+   "etp_id": 1015,
+   "name": "ПАО «Банк Санкт-Петербург»",
+   "url": "https://www.bspb.ru/retail/lien/"
+  },
+  {
+   "num": 67,
+   "etp_id": 1016,
+   "name": "АО \"ОТП Банк\"",
+   "url": "https://www.otpbank.ru/retail/pledged-property/"
+  },
+  {
+   "num": 68,
+   "etp_id": 1017,
+   "name": "АО «Датабанк»",
+   "url": "https://databank.ru/person/realizatsiya-zalogovogo-imushchestva/"
+  },
+  {
+   "num": 69,
+   "etp_id": 1018,
+   "name": "«Азиатско-Тихоокеанский Банк» (АО)",
+   "url": "https://www.atb.su/services/collateral-property/"
+  },
+  {
+   "num": 70,
+   "etp_id": 1019,
+   "name": "АО КБ «Урал ФД»",
+   "url": "https://www.uralfd.ru/about/other/zalog/"
+  },
+  {
+   "num": 71,
+   "etp_id": 1020,
+   "name": "ПАО \"АК БАРС\" БАНК",
+   "url": "https://profit.akbars.ru/mortgaged-properties"
+  },
+  {
+   "num": 72,
+   "etp_id": 1021,
+   "name": "ПАО \"Сургутнефтегаз\"",
+   "url": "https://market.surgutneftegas.ru/"
+  },
+  {
+   "num": 73,
+   "etp_id": 1022,
+   "name": "КБ \"Москоммерцбанк\" (АО)",
+   "url": "https://www.moskb.ru/zalogy/"
+  },
+  {
+   "num": 74,
+   "etp_id": 1023,
+   "name": "ПАО \"Запсибкомбанк\"",
+   "url": "https://www.zapsibkombank.ru/imushchestvo/"
+  },
+  {
+   "num": 75,
+   "etp_id": 1024,
+   "name": "Банк \"ВБРР\" (АО)",
+   "url": "https://www.vbrr.ru/noncoreassets/"
+  },
+  {
+   "num": 76,
+   "etp_id": 1025,
+   "name": "Банк «Левобережный» (ПАО)",
+   "url": "https://www.nskbl.ru/private/pledge/"
+  },
+  {
+   "num": 77,
+   "etp_id": 1026,
+   "name": "АО \"Солид Банк\"",
+   "url": "https://solidbank.ru/assets/"
+  },
+  {
+   "num": 78,
+   "etp_id": 1037,
+   "name": "TENDER TECHNOLOGIES",
+   "url": "https://etp.tender.one/"
+  },
+  {
+   "num": 79,
+   "etp_id": 1041,
+   "name": "АО \"Ингосстрах Банк\"",
+   "url": "https://ingobank.ru/sale-assets/real-estate/"
+  }
+ ],
+ "Коммерческое": [
+  {
+   "num": 80,
+   "etp_id": 2027,
+   "name": "АО \"СБЕРБАНК - АСТ\"",
+   "url": "https://utp.sberbank-ast.ru/VIP/List/PurchaseList"
+  },
+  {
+   "num": 81,
+   "etp_id": 2028,
+   "name": "B2B Center",
+   "url": "https://www.b2b-center.ru/"
+  },
+  {
+   "num": 82,
+   "etp_id": 2029,
+   "name": "ОАО «РЖД»",
+   "url": "https://company.rzd.ru/ru/9395"
+  },
+  {
+   "num": 83,
+   "etp_id": 2030,
+   "name": "Центр дистанционных торгов",
+   "url": "https://cdtrf.ru/"
+  },
+  {
+   "num": 84,
+   "etp_id": 2033,
+   "name": "Новые информационные сервисы Коммерческие торги",
+   "url": "http://trade.nistp.ru/"
+  },
+  {
+   "num": 85,
+   "etp_id": 2034,
+   "name": "РОСЭЛТОРГ Коммерческие торги",
+   "url": "https://www.roseltorg.ru/"
+  },
+  {
+   "num": 86,
+   "etp_id": 2035,
+   "name": "ЭТП ТЭК-Торг",
+   "url": "https://www.tektorg.ru/"
+  },
+  {
+   "num": 87,
+   "etp_id": 2036,
+   "name": "РТС Тендер",
+   "url": "https://www.rts-tender.ru/"
+  },
+  {
+   "num": 88,
+   "etp_id": 2038,
+   "name": "Альфалот Коммерческие торги",
+   "url": "https://etp.alfalot.ru/"
+  },
+  {
+   "num": 89,
+   "etp_id": 2039,
+   "name": "ООО ЭТП ГПБ",
+   "url": "https://etpgpb.ru/"
+  },
+  {
+   "num": 90,
+   "etp_id": 2040,
+   "name": "Zakazrf",
+   "url": "http://sale.zakazrf.ru/"
+  },
+  {
+   "num": 91,
+   "etp_id": 2042,
+   "name": "Уральская электронная торговая площадка",
+   "url": "https://torgi.etpu.ru/"
+  },
+  {
+   "num": 92,
+   "etp_id": 2043,
+   "name": "Доброторг",
+   "url": "https://xn--90aeb4bbamcq.xn--p1ai/"
+  },
+  {
+   "num": 93,
+   "etp_id": 2044,
+   "name": "Etpcentr",
+   "url": "https://etpcentr.ru/"
+  }
+ ]
+}
