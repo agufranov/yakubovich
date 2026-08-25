@@ -1,0 +1,23 @@
+{
+  "name": "web",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "@bankrot/connector-core": "*",
+    "@bankrot/connector-gis-torgi": "*",
+    "@bankrot/shared": "*",
+    "@bankrot/storage": "*",
+    "next": "^15.5.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0"
+  }
+}

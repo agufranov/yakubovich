@@ -1,0 +1,409 @@
+{
+ "id": "23000050620000000089_35",
+ "lotName": "Д-к Яковлев В.В. Право аренды на з/у (договор аренды №1669 от 25.09.2002г, срок аренды 49 лет), пл.22 кв.м, КН 23:19:0106198:2, нежилое здание пл. 22 кв.м, КН 23:19:0106172:32, адрес: КК, Ленинградский р-н, ст-ца Ленинградская, ул. Терновая, 42,квартал 142, гараж 6. Обременение:арест, н/ц 342 000,00 руб., з-к 68 400,00 руб., ш/а 3 420,00 руб.",
+ "lotStatus": "PUBLISHED",
+ "biddForm": {
+  "code": "EA",
+  "name": "Электронный аукцион"
+ },
+ "noticeNumber": "23000050620000000089",
+ "lotNumber": 35,
+ "biddType": {
+  "code": "229FZ",
+  "name": "Реализация имущества должников"
+ },
+ "subjectRFCode": "23",
+ "lotDescription": "Д-к Яковлев В.В. Право аренды на з/у (договор аренды №1669 от 25.09.2002г, срок аренды 49 лет), пл.22 кв.м, КН 23:19:0106198:2, нежилое здание пл. 22 кв.м, КН 23:19:0106172:32, адрес: КК, Ленинградский р-н, ст-ца Ленинградская, ул. Терновая, 42,квартал 142, гараж 6. Обременение:арест, н/ц 342 000,00 руб., з-к 68 400,00 руб., ш/а 3 420,00 руб.",
+ "priceMin": 342000,
+ "priceMinExact": "342000.00",
+ "priceStep": 3420,
+ "previousProcedures": [],
+ "lotImages": [
+  "6a8c770fe096f456f84c216c"
+ ],
+ "lotVideos": [],
+ "lotAttachments": [
+  {
+   "fileId": "6a8c770fe096f456f84c216c",
+   "signatureId": "6a8d7902e97c8005ab9ca052",
+   "fileName": "Торги недвижимое имущество.jpeg",
+   "fileSize": 35349,
+   "uploadDate": "2026-08-24T16:53:35.227+00:00",
+   "hash": "1d160ce2c9bce9ebdb5aa3518c6ab35a09fe7477c9012c6c2538b1a2db37e2df",
+   "inactive": false,
+   "checkResult": "OK"
+  }
+ ],
+ "noticeAttachments": [
+  {
+   "fileId": "6a8c46fde096f456f84c05ee",
+   "signatureId": "6a8d78cb9f49281e408fd374",
+   "fileName": "Бланк Анкета физ.лицо.docx",
+   "fileSize": 21847,
+   "uploadDate": "2026-08-24T13:28:30.239+00:00",
+   "hash": "3cdf87bea90d6801ec0e2889fa1e9575b565e3846d17580695fb11fe8155bc3c",
+   "attachmentTypeCode": "Other",
+   "attachmentTypeName": "Иное",
+   "inactive": false,
+   "checkResult": "OK"
+  },
+  {
+   "fileId": "6a8c46fdefd603213f13e9a0",
+   "signatureId": "6a8d79129f49281e408fd39e",
+   "fileName": "Бланк Анкета юр.лицо.docx",
+   "fileSize": 24470,
+   "uploadDate": "2026-08-24T13:28:30.242+00:00",
+   "hash": "d69bb0b22686176e98c1e128986ab8727154bab4fe23df7a53a4f37bb2ead6eb",
+   "attachmentTypeCode": "Other",
+   "attachmentTypeName": "Иное",
+   "inactive": false,
+   "checkResult": "OK"
+  },
+  {
+   "fileId": "6a8c46fd63124f3d8ea63072",
+   "signatureId": "6a8d790ce97c8005ab9ca057",
+   "fileName": "Бланк Заявление на возврат задатка.docx",
+   "fileSize": 13674,
+   "uploadDate": "2026-08-24T13:28:30.244+00:00",
+   "hash": "982bdd4ad75523d82f9ad05c0c36823af7beba771125252b2f75dd1aa5c514de",
+   "attachmentTypeCode": "Other",
+   "attachmentTypeName": "Иное",
+   "inactive": false,
+   "checkResult": "OK"
+  },
+  {
+   "fileId": "6a8c46feefd603213f13e9a3",
+   "signatureId": "6a8d78a4824a5c5f14dbce07",
+   "fileName": "Заявка на участие в электронных торгах.doc",
+   "fileSize": 62976,
+   "uploadDate": "2026-08-24T13:28:30.246+00:00",
+   "hash": "ac12068b0c0bbfc5498cd0b748126a73c79a1d3114bfbb44966fd2972dfbc333",
+   "attachmentTypeCode": "Application_Form",
+   "attachmentTypeName": "Форма заявки",
+   "inactive": false,
+   "checkResult": "OK"
+  },
+  {
+   "fileId": "6a8c46fdefd603213f13e99d",
+   "signatureId": "6a8d78b611d72b7704c505d1",
+   "fileName": "НОВЫЕ РЕКВИЗИТЫ.docx",
+   "fileSize": 15282,
+   "uploadDate": "2026-08-24T13:28:30.248+00:00",
+   "hash": "bb4a3043bb3509098d7eec74d0bd3afcc4ece025b9b9f8b1e053d509541cbaf3",
+   "attachmentTypeCode": "Other",
+   "attachmentTypeName": "Иное",
+   "inactive": false,
+   "checkResult": "OK"
+  },
+  {
+   "fileId": "6a8c46fd63124f3d8ea63075",
+   "signatureId": "6a8d7901824a5c5f14dbce44",
+   "fileName": "Основание для реализации.docx",
+   "fileSize": 12668,
+   "uploadDate": "2026-08-24T13:28:30.250+00:00",
+   "hash": "e33963d5f16b468a77a790419942645e85dbdcef37bf1cc33b1274f8869ec7ab",
+   "attachmentTypeCode": "Basis_for_sale",
+   "attachmentTypeName": "Основание реализации имущества",
+   "inactive": false,
+   "checkResult": "OK"
+  },
+  {
+   "fileId": "6a8c46fde096f456f84c05f1",
+   "signatureId": "6a8d78d4824a5c5f14dbce29",
+   "fileName": "Перечень документов для участия в торгах.docx",
+   "fileSize": 14933,
+   "uploadDate": "2026-08-24T13:28:30.253+00:00",
+   "hash": "42306b96ec24e1cc3b0de88b4d9cb28be2a04d4f1c7602853ca15f72296d9185",
+   "attachmentTypeCode": "Other",
+   "attachmentTypeName": "Иное",
+   "inactive": false,
+   "checkResult": "OK"
+  },
+  {
+   "fileId": "6a8c46fd57a2662b5529bd06",
+   "signatureId": "6a8d78fa9f49281e408fd392",
+   "fileName": "Форма согласия на обработку перс. данных Блиц.docx",
+   "fileSize": 23782,
+   "uploadDate": "2026-08-24T13:28:30.257+00:00",
+   "hash": "a649725a6ce3188e41ddb26912423f7769cc75dd8f85b51db15acdcd69d3a6e3",
+   "attachmentTypeCode": "Other",
+   "attachmentTypeName": "Иное",
+   "inactive": false,
+   "checkResult": "OK"
+  },
+  {
+   "fileId": "6a8d705e57a2662b552a5419",
+   "signatureId": "6a8d78efe97c8005ab9ca040",
+   "fileName": "Проект договора торги.docx",
+   "fileSize": 32810,
+   "uploadDate": "2026-08-25T10:37:18.792+00:00",
+   "hash": "9a13c09caa366cc91a04649a599c33f09a1a958b1e4472b4bc10c364b5780dff",
+   "attachmentTypeCode": "Draft_Contract",
+   "attachmentTypeName": "Проект договора",
+   "inactive": false,
+   "checkResult": "OK"
+  },
+  {
+   "fileId": "6a8d7080e096f456f84c926e",
+   "signatureId": "6a8d789e824a5c5f14dbce02",
+   "fileName": "25-08-01.pdf",
+   "fileSize": 12264681,
+   "uploadDate": "2026-08-25T10:37:34.125+00:00",
+   "hash": "a4cb706bb699eaa68b003101c76ccf55cb945ac65c441054d05d485b2c7704a1",
+   "attachmentTypeCode": "Notice_Document",
+   "attachmentTypeName": "Извещение ",
+   "inactive": false,
+   "checkResult": "OK"
+  },
+  {
+   "fileId": "6a8d706f57a2662b552a541d",
+   "signatureId": "6a8d790b11d72b7704c5060e",
+   "fileName": "25-08-08.pdf",
+   "fileSize": 232004,
+   "uploadDate": "2026-08-25T10:37:34.129+00:00",
+   "hash": "28361d2ef8d373827fabcab26ad77edae77ab275986dd9c9b9b4dfad33285455",
+   "attachmentTypeCode": "Notice_Document",
+   "attachmentTypeName": "Извещение ",
+   "inactive": false,
+   "checkResult": "OK"
+  },
+  {
+   "fileId": "6a8d706ee096f456f84c9236",
+   "signatureId": "6a8d78a011d72b7704c505c7",
+   "fileName": "Информационное извещение на сайт №128(8118) от 25.08.2026г.pdf",
+   "fileSize": 133186,
+   "uploadDate": "2026-08-25T10:37:34.131+00:00",
+   "hash": "31dce799bb0b855c1faef6e66882bc4febf7256a8ff329fd7c271c5ced057f94",
+   "attachmentTypeCode": "Notice_Document",
+   "attachmentTypeName": "Извещение ",
+   "inactive": false,
+   "checkResult": "OK"
+  }
+ ],
+ "characteristics": [
+  {
+   "name": "Год ввода в эксплуатацию",
+   "code": "yearCommissioning",
+   "type": "Text(20)"
+  },
+  {
+   "characteristicValue": "Обременение: арест",
+   "name": "Вид ограничений и обременений",
+   "code": "typeRestrictionsEncumbrances",
+   "type": "Text(100)"
+  },
+  {
+   "characteristicValue": 22,
+   "name": "Общая площадь",
+   "code": "totalAreaRealty",
+   "unit": {
+    "code": "081",
+    "name": "Квадратный метр общей площади",
+    "symbol": "м^2 общ. пл"
+   },
+   "type": "Decimal"
+  },
+  {
+   "name": "Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)",
+   "code": "locationObjectRealty",
+   "type": "Text(100)"
+  },
+  {
+   "name": "Кадастровая стоимость ",
+   "code": "cadastralValue",
+   "type": "Money"
+  },
+  {
+   "characteristicValue": "23:19:0106172:32 | 23:19:0106198:2",
+   "name": "Кадастровый номер",
+   "code": "cadastralNumberRealty",
+   "type": "Text(500)"
+  },
+  {
+   "characteristicValue": "Обременение: арест",
+   "name": "Общие сведения об ограничениях и обременениях ",
+   "code": "restrictionsEncumbrances",
+   "type": "Text(500)"
+  }
+ ],
+ "currencyCode": "643",
+ "etpCode": "ETP_MMVB",
+ "category": {
+  "code": "10",
+  "name": "Гаражи и машиноместа"
+ },
+ "timeZoneName": "МСК",
+ "timezoneOffset": "180",
+ "ownershipForm": {
+  "code": "99",
+  "name": "Иная собственность"
+ },
+ "isCompound": false,
+ "deposit": 68400,
+ "estateAddress": "край Краснодарский , Ленинградский р-н, ст-ца Ленинградская, ул. Терновая, 42, квартал 142, гараж 6",
+ "attributes": [
+  {
+   "code": "DA_basis_EA(229)",
+   "fullName": "Основание реализации имущества",
+   "value": "Поручение МТУ Росимущества в Краснодарском крае и Республике Адыгея. Постановление СПИ о передаче арестованного имущества на торги",
+   "attributeType": "Text(1000)",
+   "group": {
+    "code": "NL250",
+    "name": "5.3 Лот_основная_информация",
+    "displayGroupType": "LOT"
+   },
+   "sortOrder": 1
+  },
+  {
+   "code": "DA_owner_EA(229)",
+   "fullName": "Собственник имущества",
+   "value": "Яковлев В.В. ",
+   "attributeType": "Text(100)",
+   "group": {
+    "code": "NL250",
+    "name": "5.3 Лот_основная_информация",
+    "displayGroupType": "LOT"
+   },
+   "sortOrder": 2
+  },
+  {
+   "code": "DA_familiarization_EA(229)",
+   "fullName": "Порядок ознакомления с имуществом",
+   "value": "Согласно условиям извещения",
+   "attributeType": "Text(1000)",
+   "group": {
+    "code": "NL250",
+    "name": "5.3 Лот_основная_информация",
+    "displayGroupType": "LOT"
+   },
+   "sortOrder": 3
+  },
+  {
+   "code": "DA_encumbrance_EA(229)",
+   "fullName": "Обременения реализуемого имущества",
+   "value": "Обременение: арест",
+   "attributeType": "Text(1000)",
+   "group": {
+    "code": "NL250",
+    "name": "5.3 Лот_основная_информация",
+    "displayGroupType": "LOT"
+   },
+   "sortOrder": 4
+  },
+  {
+   "code": "DA_conditionContract_EA(229)",
+   "fullName": "Условия договора, заключаемого по результатам торгов",
+   "value": "Согласно условиям извещения",
+   "attributeType": "Text(1000)",
+   "group": {
+    "code": "NL250",
+    "name": "5.3 Лот_основная_информация",
+    "displayGroupType": "LOT"
+   },
+   "sortOrder": 5
+  },
+  {
+   "code": "DA_contractSignPeriod__EA(229)",
+   "fullName": "Срок заключения договора",
+   "value": "Договор купли-продажи имущества по результатам торгов (при условии поступления оплаты в полном объеме) заключается с Победителем торгов не ранее, чем через 10 (десять) рабочих дней с момента размещения протокола о результатах торгов в сети «Интернет»",
+   "attributeType": "Text(500)",
+   "group": {
+    "code": "NL250",
+    "name": "5.3 Лот_основная_информация",
+    "displayGroupType": "LOT"
+   },
+   "sortOrder": 6
+  },
+  {
+   "code": "DA_biddingPayment_EA(229)",
+   "fullName": "Порядок и сроки уплаты покупной цены по итогам проведения торгов",
+   "value": "Победитель торгов в течении 5 (пяти) рабочих дней должен оплатить стоимость приобретаемого имущества",
+   "attributeType": "Text(1000)",
+   "group": {
+    "code": "NL250",
+    "name": "5.3 Лот_основная_информация",
+    "displayGroupType": "LOT"
+   },
+   "sortOrder": 7
+  },
+  {
+   "code": "DA_FeatureObject_EA(229)",
+   "fullName": "Особенности объекта торгов",
+   "value": [],
+   "attributeType": "Multiselect",
+   "group": {
+    "code": "NL250",
+    "name": "5.3 Лот_основная_информация",
+    "displayGroupType": "LOT"
+   },
+   "sortOrder": 8
+  },
+  {
+   "code": "DA_depositTimeAndRules_EA(229)",
+   "fullName": "Срок и порядок внесения задатка",
+   "value": "Согласно условиям извещения \n",
+   "attributeType": "Text(500)",
+   "group": {
+    "code": "NL255",
+    "name": "5.4.2 Лот_информация_о_задатке_дин",
+    "displayGroupType": "LOT"
+   },
+   "sortOrder": 1
+  }
+ ],
+ "depositElectronicPlatform": false,
+ "depositRecipientName": "УФК ПО НИЖЕГОРОДСКОЙ ОБЛАСТИ (МТУ РОСИМУЩЕСТВА В КРАСНОДАРСКОМ КРАЕ И РЕСПУБЛИКЕ АДЫГЕЯ)",
+ "depositRecipientINN": "2308171570",
+ "depositRecipientKPP": "230901001",
+ "depositBankName": "ОКЦ № 1 ВВГУ Банка России//УФК по Нижегородской области, г Нижний Новгород",
+ "depositBIK": "012202102",
+ "depositPayAccount": "03212643000000013241",
+ "depositCorAccount": "40102810745370000024",
+ "depositTreasuryAccount": "05181А55970",
+ "depositPurposePayment": "В графе «Назначение платежа» следует указать: «Задаток за участие в торгах по реализации арестованного имущества (должник ………) по извещению № ……….. от «___» _______ 20__ г.» или «Оплата за приобретение арестованного имущества (должника ………….) по извещению № ……….. от «__» _______ 20__ г.».",
+ "hasAppeals": false,
+ "isStopped": false,
+ "auctionStartDate": "2026-09-25T07:00:00Z",
+ "biddStartTime": "2026-08-26T07:00:00Z",
+ "biddEndTime": "2026-09-21T13:00:00Z",
+ "versionId": "623bd5a7-1fbc-4025-b493-94c7f4917fc9",
+ "noticeSignedData": {
+  "fileId": "6a8d787f63124f3d8ea6d215",
+  "signatureId": "6a8d788c9f49281e408fd354",
+  "fileName": "Извещение о торгах.json",
+  "fileSize": 270587,
+  "uploadDate": "2026-08-25T11:11:59.469+00:00",
+  "hash": "f48544011eda8ccd3cb9a13d7f02c02f12d1852401254b5389b95d518cddcc14",
+  "inactive": false
+ },
+ "egrnInfoRequestList": [],
+ "noticeAttributes": [
+  {
+   "code": "DA_npaForProcedure_EA(229)",
+   "fullName": "Нормативный правовой акт, на основании которого проходят торги",
+   "value": {
+    "code": "229FZ",
+    "name": "229-ФЗ"
+   },
+   "attributeType": "Select",
+   "group": {
+    "code": "N250",
+    "name": "1.2 Извещение_основные_сведения",
+    "displayGroupType": "NOTICE"
+   },
+   "sortOrder": 1
+  }
+ ],
+ "noticeFirstVersionPublicationDate": "2026-08-25T11:16:39.979Z",
+ "isAnnulled": false,
+ "lotVat": {
+  "code": "notAssessedVAT",
+  "name": "НДС не облагается"
+ },
+ "npaHintCode": "hint2_229FZ_EA_1",
+ "typeTransaction": "sale",
+ "point": {
+  "lat": 45.54491,
+  "lon": 39.610422
+ }
+}

@@ -15,12 +15,21 @@
 **Причина:** госсайты используют сертификаты Национального удостоверяющего центра
 Минцифры, которого нет в стандартных хранилищах доверия ОС и рантаймов.
 
-**Правильное решение:** установить корневой сертификат «Russian Trusted Root CA» в
-хранилище доверия и явно указать бандл рантайму:
+**Правильное решение:** положить в доверие корневой сертификат Минцифры И промежуточные.
+В репозитории лежит готовый бандл `certs/russian_trusted_bundle.pem`; наш HTTP-клиент
+(`packages/connector-core/src/http.ts`) подхватывает его сам, без переменных окружения.
 
-- Python: `REQUESTS_CA_BUNDLE=/path/russian_trusted_root_ca.pem`
-- Node: `NODE_EXTRA_CA_CERTS=/path/russian_trusted_root_ca.pem`
-- Docker: копировать в `/usr/local/share/ca-certificates/` + `update-ca-certificates`
+**Вторая грабля внутри первой:** сервер `torgi.gov.ru` не отдает цепочку — только
+листовой сертификат, подписанный **Russian Trusted Sub CA 2024**. А по известной
+ссылке на gu-st.ru (`russian_trusted_sub_ca_pem.crt`) лежит СТАРЫЙ Sub CA с другим
+ключом. С ним ошибка `UNABLE_TO_VERIFY_LEAF_SIGNATURE`, хотя «сертификат же поставили».
+Правильный файл — `russian_trusted_sub_ca_2024_pem.crt`. Проверять совпадение по
+Authority Key Identifier листа и Subject Key Identifier промежуточного.
+
+Для других инструментов:
+- Python: `REQUESTS_CA_BUNDLE=certs/russian_trusted_bundle.pem`
+- Node вне нашего клиента: `NODE_EXTRA_CA_CERTS=certs/russian_trusted_bundle.pem`
+- Docker: копировать бандл в `/usr/local/share/ca-certificates/` + `update-ca-certificates`
 
 **Чего не делать:** `verify=False` / `rejectUnauthorized: false` / `curl -k` в
 продакшене. В разведке допустимо (мы так и делали), в боевом коннекторе — нет:

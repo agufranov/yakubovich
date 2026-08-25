@@ -12,7 +12,28 @@
 
 ## Состояние
 
-Планирование. Кода продукта нет. Текущий шаг и открытые вопросы — [PROGRESS.md](PROGRESS.md).
+MVP-скелет работает: коннектор ГИС Торги -> файловое хранилище -> сайт на Next.js.
+Текущий шаг и открытые вопросы — [PROGRESS.md](PROGRESS.md).
+
+## Код и запуск
+
+Монорепо npm workspaces, весь код TypeScript (решение №7).
+
+```
+packages/shared              типы CoreLot, регионы, форматирование
+packages/connector-core      HTTP-клиент (RU CA, ретраи, rate-limit), контракт Connector, раннер
+packages/storage             файловое хранилище NDJSON + поиск/фасеты (интерфейс = будущий Postgres)
+packages/connector-gis-torgi коннектор ГИС Торги + фикстуры + тесты
+apps/web                     Next.js: каталог, карточка лота, /sources, прокси файлов
+data/                        (gitignore) raw/core/state/cache
+certs/                       сертификаты Минцифры — бандл для TLS к госсайтам
+```
+
+- `npm run ingest -- --bidd-type=229FZ --pages=30 --limit-cards=250` — сбор
+- `npm run web` — dev-сервер (порт 3777: 3000 занят другим проектом пользователя)
+- `npm test` — тесты parse на фикстурах реальных ответов
+- БД пока файловая **сознательно**: интерфейс хранилища повторяет будущий
+  Postgres-репозиторий, миграция локальна (docs/06 остается целевой картиной).
 
 ## Документы
 

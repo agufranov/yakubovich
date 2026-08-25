@@ -1,0 +1,18 @@
+{
+  "name": "yakubovich",
+  "private": true,
+  "type": "module",
+  "workspaces": ["packages/*", "apps/*"],
+  "scripts": {
+    "ingest": "tsx packages/connector-gis-torgi/src/cli.ts",
+    "web": "npm run dev -w apps/web",
+    "web:build": "npm run build -w apps/web",
+    "test": "tsx --test packages/connector-gis-torgi/test/parse.test.ts",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  }
+}
