@@ -234,6 +234,20 @@ html.nav-busy .page {
   transition: box-shadow 0.15s, transform 0.15s;
 }
 .lot-card:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); text-decoration: none; }
+
+/* заглушка на время загрузки дампа базы: каталог рендерится в браузере */
+.lot-card.skeleton {
+  min-height: 260px;
+  box-shadow: none;
+  background: linear-gradient(100deg, var(--gray-soft) 30%, var(--surface) 50%, var(--gray-soft) 70%);
+  background-size: 300% 100%;
+  animation: skeleton-shine 1.4s ease-in-out infinite;
+}
+.lot-card.skeleton:hover { transform: none; box-shadow: none; }
+@keyframes skeleton-shine {
+  from { background-position: 150% 0; }
+  to { background-position: -50% 0; }
+}
 .lot-card .thumb {
   aspect-ratio: 16 / 10;
   background: var(--gray-soft);

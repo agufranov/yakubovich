@@ -31,6 +31,9 @@ certs/                       сертификаты Минцифры — бан�
 
 - `npm run ingest -- --bidd-type=229FZ --pages=30 --limit-cards=250` — сбор
 - `npm run web` — dev-сервер (порт 3777: 3000 занят другим проектом пользователя)
+- `npm run deploy` — статическая сборка и выкладка на GitHub Pages
+  ([docs/11](docs/11-deploy.md)): база уходит дампом в `out/data/lots.json`,
+  каталог фильтрует ее в браузере, карточки лотов отрендерены заранее
 - `npm test` — тесты parse на фикстурах реальных ответов
 - БД пока файловая **сознательно**: интерфейс хранилища повторяет будущий
   Postgres-репозиторий, миграция локальна (docs/06 остается целевой картиной).
@@ -49,6 +52,7 @@ certs/                       сертификаты Минцифры — бан�
 | [docs/08-seo.md](docs/08-seo.md) | Главный канал трафика |
 | [docs/09-roadmap.md](docs/09-roadmap.md) | Этапы работ |
 | [docs/10-economics.md](docs/10-economics.md) | Объемы и смета |
+| [docs/11-deploy.md](docs/11-deploy.md) | Выкладка витрины на GitHub Pages и ее границы |
 | [docs/research/gis-torgi-api.md](docs/research/gis-torgi-api.md) | Спецификация API ГИС Торги |
 | [docs/research/etp-registry.md](docs/research/etp-registry.md) | 49 площадок: движки, семейство iTender, подключаемость |
 | [docs/research/grabli.md](docs/research/grabli.md) | **Грабли. Читать перед работой с источниками** |

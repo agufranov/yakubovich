@@ -5,6 +5,13 @@
 import type { CoreLot, LegalBasis, LotKind, LotStatus } from '@bankrot/shared';
 import { ACTIVE_STATUSES } from '@bankrot/shared';
 
+/**
+ * Все, что нужно фильтрам и сортировке. Не `CoreLot` целиком: каталог на
+ * GitHub Pages работает с дампом без вложений (apps/web/lib/dump.ts), а модуль
+ * должен оставаться одним на оба режима — иначе поиск разъедется с серверным.
+ */
+export type QueryableLot = Omit<CoreLot, 'attachments'>;
+
 export type StatusGroup = 'active' | 'finished' | 'all';
 export type SortKey = 'newest' | 'deadline' | 'price_asc' | 'price_desc';
 
@@ -28,8 +35,8 @@ export interface Facets {
   statusGroups: { value: StatusGroup; count: number }[];
 }
 
-export interface QueryResult {
-  lots: CoreLot[];
+export interface QueryResult<T extends QueryableLot = CoreLot> {
+  lots: T[];
   total: number;
   page: number;
   pages: number;
@@ -38,20 +45,20 @@ export interface QueryResult {
 
 const FINISHED: LotStatus[] = ['finished', 'failed', 'canceled', 'archived'];
 
-function inStatusGroup(lot: CoreLot, group: StatusGroup): boolean {
+function inStatusGroup(lot: QueryableLot, group: StatusGroup): boolean {
   if (group === 'all') return true;
   if (group === 'active') return (ACTIVE_STATUSES as string[]).includes(lot.status);
   return (FINISHED as string[]).includes(lot.status);
 }
 
-function priceOf(lot: CoreLot): number | undefined {
+function priceOf(lot: QueryableLot): number | undefined {
   const v = lot.priceStart ?? lot.priceMin;
   if (v == null) return undefined;
   const n = Number(v);
   return Number.isFinite(n) ? n : undefined;
 }
 
-function matchesText(lot: CoreLot, needle: string): boolean {
+function matchesText(lot: QueryableLot, needle: string): boolean {
   return (
     lot.title.toLowerCase().includes(needle) ||
     (lot.description?.toLowerCase().includes(needle) ?? false) ||
@@ -60,7 +67,7 @@ function matchesText(lot: CoreLot, needle: string): boolean {
   );
 }
 
-export function queryLots(all: CoreLot[], q: LotQuery): QueryResult {
+export function queryLots<T extends QueryableLot>(all: T[], q: LotQuery): QueryResult<T> {
   const needle = q.text?.trim().toLowerCase();
   const group = q.statusGroup ?? 'all';
 

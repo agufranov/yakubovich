@@ -3,6 +3,8 @@ import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import {
   KIND_LABELS,
+  lotIdFromSlug,
+  lotSlug,
   LEGAL_BASIS_LABELS,
   TRADE_KIND_LABELS,
   formatDate,
@@ -14,16 +16,26 @@ import {
 } from '@bankrot/shared';
 import { StatusChip } from '@/components/bits';
 import { getStore } from '@/lib/data';
-
-export const dynamic = 'force-dynamic';
+import { fileUrl } from '@/lib/site';
 
 interface Props {
-  params: Promise<{ id: string }>;
+  params: Promise<{ slug: string }>;
+}
+
+/**
+ * Все карточки рендерятся заранее: на GitHub Pages рендерить в момент запроса
+ * некому, а для SEO (docs/08 — главный канал трафика) страница лота должна быть
+ * готовым HTML, а не пустой оболочкой с фетчем.
+ */
+export function generateStaticParams(): { slug: string }[] {
+  return getStore()
+    .loadLots()
+    .map((lot) => ({ slug: lotSlug(lot.id) }));
 }
 
 export async function generateMetadata(props: Props): Promise<Metadata> {
-  const { id } = await props.params;
-  const lot = getStore().getLot(decodeURIComponent(id));
+  const { slug } = await props.params;
+  const lot = getStore().getLot(lotIdFromSlug(slug));
   return { title: lot ? lot.title.slice(0, 90) : 'Лот не найден' };
 }
 
@@ -35,12 +47,13 @@ function fmtSize(bytes?: number): string | undefined {
 }
 
 export default async function LotPage(props: Props) {
-  const { id } = await props.params;
-  const lot = getStore().getLot(decodeURIComponent(id));
+  const { slug } = await props.params;
+  const lot = getStore().getLot(lotIdFromSlug(slug));
   if (!lot) notFound();
 
   const region = regionName(lot.regionCode);
   const left = daysLeft(lot.biddEndAt);
+  const [cover, ...moreImages] = lot.images;
   const prevLots = lot.prevProcedureIds
     .map((pid) => getStore().getLot(`${lot.sourceCode}:${pid}`))
     .filter((x): x is NonNullable<typeof x> => Boolean(x));
@@ -69,18 +82,18 @@ export default async function LotPage(props: Props) {
 
       <div className="lot-layout">
         <div>
-          {lot.images.length > 0 && (
+          {cover && (
             <div className="panel gallery">
               <div className="main">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={`/api/file/${lot.images[0]}`} alt={lot.title} />
+                <img src={fileUrl(cover)} alt={lot.title} />
               </div>
-              {lot.images.length > 1 && (
+              {moreImages.length > 0 && (
                 <div className="thumbs">
-                  {lot.images.slice(1).map((img) => (
-                    <a key={img} href={`/api/file/${img}`} target="_blank" rel="noopener">
+                  {moreImages.map((img) => (
+                    <a key={img} href={fileUrl(img)} target="_blank" rel="noopener">
                       {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img src={`/api/file/${img}`} alt="" loading="lazy" />
+                      <img src={fileUrl(img)} alt="" loading="lazy" />
                     </a>
                   ))}
                 </div>
@@ -126,7 +139,7 @@ export default async function LotPage(props: Props) {
               <h2>Документы ({lot.attachments.length})</h2>
               <div className="files">
                 {lot.attachments.map((f) => (
-                  <a key={f.fileId} href={`/api/file/${f.fileId}`} target="_blank" rel="noopener">
+                  <a key={f.fileId} href={fileUrl(f.fileId)} target="_blank" rel="noopener">
                     <span>📎 {f.name}</span>
                     <span className="size">{fmtSize(f.size)}</span>
                   </a>
@@ -140,7 +153,7 @@ export default async function LotPage(props: Props) {
               <h2>Предыдущие процедуры по этому имуществу</h2>
               <div className="files">
                 {prevLots.map((p) => (
-                  <Link key={p.id} href={`/lot/${encodeURIComponent(p.id)}`}>
+                  <Link key={p.id} href={`/lot/${lotSlug(p.id)}`}>
                     {p.title.slice(0, 90)}
                   </Link>
                 ))}

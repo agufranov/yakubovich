@@ -6,7 +6,7 @@ import type { Metadata } from 'next';
 import { formatDateTime } from '@bankrot/shared';
 import { getStore } from '@/lib/data';
 
-export const dynamic = 'force-dynamic';
+// без force-dynamic: в статической сборке страница — снимок на момент выкладки
 export const metadata: Metadata = { title: 'Источники' };
 
 export default function SourcesPage() {

@@ -1,20 +1,21 @@
 import Link from 'next/link';
-import type { CoreLot } from '@bankrot/shared';
-import { formatMoney, regionName } from '@bankrot/shared';
+import { formatMoney, lotSlug, regionName } from '@bankrot/shared';
+import type { DumpLot } from '@/lib/dump';
+import { fileUrl } from '@/lib/site';
 import { KIND_ICONS, StatusChip, cardAttributes, deadlineInfo } from './bits';
 
-export function LotCard({ lot }: { lot: CoreLot }) {
+export function LotCard({ lot }: { lot: DumpLot }) {
   const price = formatMoney(lot.priceStart, lot.currency);
   const deadline = deadlineInfo(lot);
   const attrs = cardAttributes(lot);
   const region = regionName(lot.regionCode);
 
   return (
-    <Link href={`/lot/${encodeURIComponent(lot.id)}`} className="lot-card">
+    <Link href={`/lot/${lotSlug(lot.id)}`} className="lot-card">
       <div className="thumb">
         {lot.images[0] ? (
           // eslint-disable-next-line @next/next/no-img-element
-          <img src={`/api/file/${lot.images[0]}`} alt="" loading="lazy" />
+          <img src={fileUrl(lot.images[0])} alt="" loading="lazy" />
         ) : (
           <span className="placeholder" aria-hidden>
             {KIND_ICONS[lot.kind]}

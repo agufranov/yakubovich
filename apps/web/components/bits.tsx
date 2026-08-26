@@ -1,5 +1,6 @@
-import type { CoreLot, LotKind, LotStatus } from '@bankrot/shared';
+import type { LotKind, LotStatus } from '@bankrot/shared';
 import { STATUS_LABELS, daysLeft, plural } from '@bankrot/shared';
+import type { DumpLot } from '@/lib/dump';
 
 /** Цвет статуса: живое — зеленое/синее, подведение — янтарное, мертвое — серое/красное */
 const STATUS_COLOR: Record<LotStatus, string> = {
@@ -30,7 +31,7 @@ export const KIND_ICONS: Record<LotKind, string> = {
 };
 
 /** «через 3 дня» — и признак срочности для подсветки */
-export function deadlineInfo(lot: CoreLot): { text: string; soon: boolean } | null {
+export function deadlineInfo(lot: DumpLot): { text: string; soon: boolean } | null {
   const d = daysLeft(lot.biddEndAt);
   if (d == null) return null;
   if (d === 0) return { text: 'заявки — сегодня', soon: true };
@@ -58,7 +59,7 @@ const CARD_ATTR_SHORT: Record<string, (v: string, u?: string) => string> = {
   engineCapacity: (v) => `${v} л`,
 };
 
-export function cardAttributes(lot: CoreLot, max = 2): string[] {
+export function cardAttributes(lot: DumpLot, max = 2): string[] {
   const out: string[] = [];
   for (const key of CARD_ATTR_KEYS) {
     const a = lot.attributes.find((x) => x.key === key);
