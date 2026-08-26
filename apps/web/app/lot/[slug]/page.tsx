@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import {
   KIND_LABELS,
+  etpName,
   lotIdFromSlug,
   lotSlug,
   LEGAL_BASIS_LABELS,
@@ -240,13 +241,15 @@ export default async function LotPage(props: Props) {
               {lot.etpCode && (
                 <>
                   <dt>Площадка</dt>
-                  <dd>{lot.etpCode.replace(/^ETP_/, '')}</dd>
+                  <dd>
+                    <Link href={`/?etp=${lot.etpCode}`}>{etpName(lot.etpCode)}</Link>
+                  </dd>
                 </>
               )}
             </dl>
 
             <a className="btn primary big" href={lot.sourceUrl} target="_blank" rel="noopener">
-              Смотреть на torgi.gov.ru →
+              Смотреть на {new URL(lot.sourceUrl).host.replace(/^www\./, '')} →
             </a>
             <div style={{ fontSize: 12, color: 'var(--text-faint)' }}>
               Участие в торгах — на официальной площадке. Мы не проводим торги и не

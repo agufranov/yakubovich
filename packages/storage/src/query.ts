@@ -20,6 +20,8 @@ export interface LotQuery {
   kind?: LotKind;
   basis?: LegalBasis;
   region?: string;
+  /** код площадки (CoreLot.etpCode) */
+  etp?: string;
   statusGroup?: StatusGroup;
   priceFrom?: number;
   priceTo?: number;
@@ -32,6 +34,7 @@ export interface Facets {
   kinds: { value: LotKind; count: number }[];
   bases: { value: LegalBasis; count: number }[];
   regions: { value: string; count: number }[];
+  etps: { value: string; count: number }[];
   statusGroups: { value: StatusGroup; count: number }[];
 }
 
@@ -84,7 +87,8 @@ export function queryLots<T extends QueryableLot>(all: T[], q: LotQuery): QueryR
     (lot) =>
       (!q.kind || lot.kind === q.kind) &&
       (!q.region || lot.regionCode === q.region) &&
-      (!q.basis || lot.legalBasis === q.basis),
+      (!q.basis || lot.legalBasis === q.basis) &&
+      (!q.etp || lot.etpCode === q.etp),
   );
   const filtered = afterKindRegion.filter((lot) => inStatusGroup(lot, group));
 
@@ -92,14 +96,19 @@ export function queryLots<T extends QueryableLot>(all: T[], q: LotQuery): QueryR
   const kindCounts = new Map<LotKind, number>();
   const basisCounts = new Map<LegalBasis, number>();
   const regionCounts = new Map<string, number>();
+  const etpCounts = new Map<string, number>();
   for (const lot of base.filter((l) => inStatusGroup(l, group))) {
     const kindOk = !q.kind || lot.kind === q.kind;
     const regionOk = !q.region || lot.regionCode === q.region;
     const basisOk = !q.basis || lot.legalBasis === q.basis;
-    if (regionOk && basisOk) kindCounts.set(lot.kind, (kindCounts.get(lot.kind) ?? 0) + 1);
-    if (kindOk && regionOk) basisCounts.set(lot.legalBasis, (basisCounts.get(lot.legalBasis) ?? 0) + 1);
-    if (kindOk && basisOk && lot.regionCode) {
+    const etpOk = !q.etp || lot.etpCode === q.etp;
+    if (regionOk && basisOk && etpOk) kindCounts.set(lot.kind, (kindCounts.get(lot.kind) ?? 0) + 1);
+    if (kindOk && regionOk && etpOk) basisCounts.set(lot.legalBasis, (basisCounts.get(lot.legalBasis) ?? 0) + 1);
+    if (kindOk && basisOk && etpOk && lot.regionCode) {
       regionCounts.set(lot.regionCode, (regionCounts.get(lot.regionCode) ?? 0) + 1);
+    }
+    if (kindOk && regionOk && basisOk && lot.etpCode) {
+      etpCounts.set(lot.etpCode, (etpCounts.get(lot.etpCode) ?? 0) + 1);
     }
   }
   const statusGroups: Facets['statusGroups'] = (['active', 'finished', 'all'] as const).map((g) => ({
@@ -142,6 +151,7 @@ export function queryLots<T extends QueryableLot>(all: T[], q: LotQuery): QueryR
       kinds: [...kindCounts].map(([value, count]) => ({ value, count })).sort((a, b) => b.count - a.count),
       bases: [...basisCounts].map(([value, count]) => ({ value, count })).sort((a, b) => b.count - a.count),
       regions: [...regionCounts].map(([value, count]) => ({ value, count })).sort((a, b) => b.count - a.count),
+      etps: [...etpCounts].map(([value, count]) => ({ value, count })).sort((a, b) => b.count - a.count),
       statusGroups,
     },
   };

@@ -2,14 +2,18 @@
   "name": "yakubovich",
   "private": true,
   "type": "module",
-  "workspaces": ["packages/*", "apps/*"],
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
   "scripts": {
     "ingest": "tsx packages/connector-gis-torgi/src/cli.ts",
     "web": "npm run dev -w apps/web",
     "web:build": "npm run build -w apps/web",
     "deploy": "tsx tools/deploy/gh-pages.ts",
-    "test": "tsx --test packages/connector-gis-torgi/test/parse.test.ts",
-    "typecheck": "tsc -p tsconfig.json --noEmit"
+    "test": "tsx --test packages/connector-gis-torgi/test/parse.test.ts packages/connector-etp-itender/test/parse.test.ts",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "ingest:etp": "tsx packages/connector-etp-itender/src/cli.ts"
   },
   "devDependencies": {
     "@types/node": "^24.3.0",

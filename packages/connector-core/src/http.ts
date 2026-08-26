@@ -8,6 +8,7 @@
  */
 import https from 'node:https';
 import http from 'node:http';
+import tls from 'node:tls';
 import { readFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -40,13 +41,17 @@ let cachedCa: string[] | null = null;
  * Российские корневые сертификаты. Грабля: у gu-st.ru под известной ссылкой
  * лежит СТАРЫЙ Sub CA; для torgi.gov.ru нужен Sub CA 2024. В бандле — корень и
  * оба промежуточных.
+ *
+ * Отдаем ВМЕСТЕ с системными корнями: поле `ca` в Node ЗАМЕНЯЕТ хранилище
+ * доверия, а не дополняет его. Голый бандл Минцифры ломал бы TLS ко всем ЭТП
+ * с обычными сертификатами (Let's Encrypt и родня).
  */
 export function russianCaBundle(): string[] {
   if (cachedCa) return cachedCa;
   const p = path.join(findRepoRoot(), 'certs', 'russian_trusted_bundle.pem');
   const pem = readFileSync(p, 'utf-8');
   const certs = pem.match(/-----BEGIN CERTIFICATE-----[\s\S]*?-----END CERTIFICATE-----/g) ?? [];
-  cachedCa = certs;
+  cachedCa = [...tls.rootCertificates, ...certs];
   return cachedCa;
 }
 
@@ -86,6 +91,8 @@ export interface ClientOptions {
 export class HttpClient {
   private lastRequestAt = 0;
   private queue: Promise<unknown> = Promise.resolve();
+  /** Куки по хостам. WebForms без сессионной куки теряет состояние постбэков. */
+  private cookies = new Map<string, Map<string, string>>();
   readonly stats = { requests: 0, retries: 0, errors: 0 };
 
   constructor(private opts: ClientOptions = {}) {}
@@ -93,8 +100,31 @@ export class HttpClient {
   /** GET c rate-limit и ретраями. Отдает сырые байты. */
   async get(url: string, headers: Record<string, string> = {}): Promise<HttpResponse> {
     // сериализуем запросы: один клиент — одна очередь к источнику
-    const run = this.queue.then(() => this.getWithRetries(url, headers));
+    const run = this.queue.then(() => this.requestWithRetries('GET', url, headers));
     this.queue = run.catch(() => undefined); // ошибка одного запроса не рвет очередь
+    return run;
+  }
+
+  /**
+   * POST формы (application/x-www-form-urlencoded) — постбэки ASP.NET WebForms
+   * у ЭТП семейства iTender. Ретраи те же, что у GET: постбэк листинга читает,
+   * а не меняет, повторить его безопасно.
+   */
+  async post(
+    url: string,
+    form: Record<string, string>,
+    headers: Record<string, string> = {},
+  ): Promise<HttpResponse> {
+    const body = new URLSearchParams(form).toString();
+    const run = this.queue.then(() =>
+      this.requestWithRetries(
+        'POST',
+        url,
+        { 'Content-Type': 'application/x-www-form-urlencoded', ...headers },
+        body,
+      ),
+    );
+    this.queue = run.catch(() => undefined);
     return run;
   }
 
@@ -110,14 +140,19 @@ export class HttpClient {
     return JSON.parse(text) as T;
   }
 
-  private async getWithRetries(url: string, headers: Record<string, string>): Promise<HttpResponse> {
+  private async requestWithRetries(
+    method: 'GET' | 'POST',
+    url: string,
+    headers: Record<string, string>,
+    body?: string,
+  ): Promise<HttpResponse> {
     const retries = this.opts.retries ?? 4;
     let lastErr: unknown;
     for (let attempt = 0; attempt <= retries; attempt++) {
       await this.throttle();
       try {
         this.stats.requests++;
-        const res = await this.rawGet(url, headers);
+        const res = await this.rawRequest(method, url, headers, body);
         if (res.status === 429 || res.status >= 500) {
           const retryAfter = Number(res.headers['retry-after']) || 0;
           const backoff = Math.max(retryAfter * 1000, 2000 * 2 ** attempt);
@@ -150,16 +185,63 @@ export class HttpClient {
     this.lastRequestAt = Date.now();
   }
 
-  private rawGet(url: string, headers: Record<string, string>): Promise<HttpResponse> {
+  // ---------- куки (минимум для сессий: имя=значение по хосту) ----------
+
+  private cookieHeader(host: string): string | undefined {
+    const jar = this.cookies.get(host);
+    if (!jar || jar.size === 0) return undefined;
+    return [...jar].map(([k, v]) => `${k}=${v}`).join('; ');
+  }
+
+  private storeCookies(host: string, setCookie: string | string[] | undefined): void {
+    if (!setCookie) return;
+    const jar = this.cookies.get(host) ?? new Map<string, string>();
+    for (const line of Array.isArray(setCookie) ? setCookie : [setCookie]) {
+      const pair = line.split(';', 1)[0] ?? '';
+      const eq = pair.indexOf('=');
+      if (eq > 0) jar.set(pair.slice(0, eq).trim(), pair.slice(eq + 1).trim());
+    }
+    this.cookies.set(host, jar);
+  }
+
+  private async rawRequest(
+    method: 'GET' | 'POST',
+    url: string,
+    headers: Record<string, string>,
+    body?: string,
+    redirectsLeft = 5,
+  ): Promise<HttpResponse> {
     const u = new URL(url);
+    const res = await this.rawOnce(method, u, headers, body);
+    this.storeCookies(u.host, res.headers['set-cookie']);
+
+    // редиректы: у WebForms POST часто отвечает 302, http-площадки шлют на https
+    const loc = res.headers['location'];
+    if (res.status >= 300 && res.status < 400 && typeof loc === 'string' && redirectsLeft > 0) {
+      const next = new URL(loc, u).toString();
+      // после 301/302/303 браузеры повторяют GET без тела — делаем так же
+      return this.rawRequest('GET', next, headers, undefined, redirectsLeft - 1);
+    }
+    return res;
+  }
+
+  private rawOnce(
+    method: 'GET' | 'POST',
+    u: URL,
+    headers: Record<string, string>,
+    body?: string,
+  ): Promise<HttpResponse> {
     const isHttps = u.protocol === 'https:';
     const lib = isHttps ? https : http;
+    const cookie = this.cookieHeader(u.host);
     const options: https.RequestOptions = {
-      method: 'GET',
+      method,
       headers: {
         'User-Agent': this.opts.userAgent ?? DEFAULT_UA,
         'Accept-Language': 'ru-RU,ru;q=0.9',
+        ...(cookie ? { Cookie: cookie } : {}),
         ...headers,
+        ...(body != null ? { 'Content-Length': Buffer.byteLength(body) } : {}),
       },
       timeout: this.opts.timeoutMs ?? 40_000,
     };
@@ -177,8 +259,9 @@ export class HttpClient {
         );
         res.on('error', reject);
       });
-      req.on('timeout', () => req.destroy(new Error(`timeout: ${url}`)));
+      req.on('timeout', () => req.destroy(new Error(`timeout: ${u}`)));
       req.on('error', reject);
+      if (body != null) req.write(body);
       req.end();
     });
   }

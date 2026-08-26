@@ -9,7 +9,7 @@
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import type { ReactNode } from 'react';
-import { KIND_LABELS, LEGAL_BASIS_LABELS, regionName } from '@bankrot/shared';
+import { KIND_LABELS, LEGAL_BASIS_LABELS, etpName, regionName } from '@bankrot/shared';
 import type { LotQuery, QueryResult, SortKey, StatusGroup } from '@bankrot/storage/query';
 import { LotCard } from '@/components/LotCard';
 import type { Params } from '@/lib/catalog-query';
@@ -62,7 +62,7 @@ export function CatalogView({ params, q, res, loading = false, error = null, foo
   const router = useRouter();
 
   const hasFilters = Boolean(
-    q.text || q.kind || q.basis || q.region || q.priceFrom || q.priceTo || q.statusGroup !== 'all',
+    q.text || q.kind || q.basis || q.region || q.etp || q.priceFrom || q.priceTo || q.statusGroup !== 'all',
   );
 
   /** GET-форма через роутер: обычная перезагрузка в статике заново качает дамп */
@@ -86,6 +86,7 @@ export function CatalogView({ params, q, res, loading = false, error = null, foo
             {q.kind && <input type="hidden" name="kind" value={q.kind} />}
             {q.basis && <input type="hidden" name="basis" value={q.basis} />}
             {q.region && <input type="hidden" name="region" value={q.region} />}
+            {q.etp && <input type="hidden" name="etp" value={q.etp} />}
             {q.statusGroup !== 'all' && <input type="hidden" name="status" value={q.statusGroup} />}
             {q.sort !== 'newest' && <input type="hidden" name="sort" value={q.sort} />}
             <h3>Поиск</h3>
@@ -170,6 +171,24 @@ export function CatalogView({ params, q, res, loading = false, error = null, foo
                   href={href(params, { basis: b.value })}
                 >
                   {LEGAL_BASIS_LABELS[b.value]} <span className="n">{b.count}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <h3>Площадка</h3>
+            <div className="facet-list">
+              <Link className={!q.etp ? 'on' : ''} href={href(params, { etp: undefined })}>
+                Все площадки
+              </Link>
+              {res.facets.etps.slice(0, 12).map((e) => (
+                <Link
+                  key={e.value}
+                  className={q.etp === e.value ? 'on' : ''}
+                  href={href(params, { etp: e.value })}
+                >
+                  {etpName(e.value)} <span className="n">{e.count}</span>
                 </Link>
               ))}
             </div>

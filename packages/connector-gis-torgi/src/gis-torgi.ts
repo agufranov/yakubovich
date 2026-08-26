@@ -6,6 +6,7 @@
  *   - под нагрузкой 503 -> клиент ретраит с паузами (connector-core).
  */
 import type { CoreLot, LotAttribute, LotKind, LegalBasis, LotStatus, TradeKind } from '@bankrot/shared';
+import { classifyKind } from '@bankrot/shared';
 import {
   EmptyBodyError,
   HttpClient,
@@ -126,14 +127,8 @@ const KIND_BY_CATEGORY_CODE: Record<string, LotKind> = {
 
 function kindFromCategory(code: string | undefined, name: string | undefined, title: string): LotKind {
   if (code && KIND_BY_CATEGORY_CODE[code]) return KIND_BY_CATEGORY_CODE[code];
-  const hay = `${name ?? ''} ${title}`.toLowerCase();
-  if (/автомоб|транспорт|легков|грузов|прицеп|мотоцикл|спецтехн|самоход|судно|катер|самолет|воздушн/.test(hay)) return 'vehicle';
-  if (/земельн|земли|участок/.test(hay)) return 'land';
-  if (/квартир|жил|помещен|здани|недвиж|дом|гараж|машино-мест|сооружен/.test(hay)) return 'realty';
-  if (/оборудован|станок|станк|техник|инструмент|электрон/.test(hay)) return 'equipment';
-  if (/дебиторск|права требован/.test(hay)) return 'receivable';
-  if (/доля в уставн|акци|предприят|бизнес/.test(hay)) return 'business';
-  return 'other';
+  // фолбэк по ключевым словам — общий для всех источников (packages/shared)
+  return classifyKind(`${name ?? ''} ${title}`);
 }
 
 function exactPrice(exact: string | undefined, approx: number | undefined): string | undefined {

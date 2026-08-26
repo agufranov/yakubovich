@@ -35,6 +35,7 @@ export function parseQuery(params: Params): LotQuery {
     kind: params.kind as LotKind | undefined,
     basis: params.basis as LegalBasis | undefined,
     region: params.region,
+    etp: params.etp,
     statusGroup: (params.status as StatusGroup | undefined) ?? 'all',
     priceFrom: num(params.from),
     priceTo: num(params.to),

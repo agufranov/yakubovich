@@ -24,12 +24,15 @@ packages/shared              типы CoreLot, регионы, форматир�
 packages/connector-core      HTTP-клиент (RU CA, ретраи, rate-limit), контракт Connector, раннер
 packages/storage             файловое хранилище NDJSON + поиск/фасеты (интерфейс = будущий Postgres)
 packages/connector-gis-torgi коннектор ГИС Торги + фикстуры + тесты
+packages/connector-etp-itender коннектор семейства iTender: 14 банкротных ЭТП одним кодом
 apps/web                     Next.js: каталог, карточка лота, /sources, прокси файлов
 data/                        (gitignore) raw/core/state/cache
 certs/                       сертификаты Минцифры — бандл для TLS к госсайтам
 ```
 
-- `npm run ingest -- --bidd-type=229FZ --pages=30 --limit-cards=250` — сбор
+- `npm run ingest -- --bidd-type=229FZ --pages=30 --limit-cards=250` — сбор ГИС Торги
+- `npm run ingest:etp -- --platform=centerr --pages=3` — сбор с ЭТП iTender
+  (`--all` — по всем площадкам семейства)
 - `npm run web` — dev-сервер (порт 3777: 3000 занят другим проектом пользователя)
 - `npm run deploy` — статическая сборка и выкладка на GitHub Pages
   ([docs/11](docs/11-deploy.md)): база уходит дампом в `out/data/lots.json`,
