@@ -1,0 +1,155 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000004620000000158_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000004620000000158_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000004620000000158_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=03","children":"Бурятия"}]]]}],["$","h1",null,{"children":"Транспортное средство УРАЛ4320 № С 405 КН 03"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Спецтехника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8ce360efd603213f141931","alt":"Транспортное средство УРАЛ4320 № С 405 КН 03"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8ce35f57a2662b5529ecda",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8ce35f57a2662b5529ecda","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8ce35f57a2662b5529ecda","alt":"","loading":"lazy"}]}],["$","a","6a8ce360efd603213f141937",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8ce360efd603213f141937","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8ce360efd603213f141937","alt":"","loading":"lazy"}]}],["$","a","6a8ce360efd603213f141933",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8ce360efd603213f141933","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8ce360efd603213f141933","alt":"","loading":"lazy"}]}],["$","a","6a8ce360efd603213f14192e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8ce360efd603213f14192e","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8ce360efd603213f14192e","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Самосвал Урал4320, 1991 г. выпуска, идентификационный номер (VIN) XIP432000M0177288, № двигателя 238M2-4-40204414, № шасси 177288, цвет хаки"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","specEquipmentType",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Самосвал Урал4320",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег"}],["$","td",null,{"children":["179437"," км"]}]]}],["$","tr","specEquipmentMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["УРАЛ4320",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["1991",""]}]]}],["$","tr","specEquipmentModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["УРАЛ4320",""]}]]}],["$","tr","vinFactory",{"children":[["$","td",null,{"children":"VIN (заводской) номер"}],["$","td",null,{"children":["XIP432000M0177288",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"респ. Бурятия, м.р-н Баунтовский эвенкийский, с.п. Уакитское, п. Уакит"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",7,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8ce374efd603213f141944",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8ce374efd603213f141944","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","птс урал.pdf"]}],["$","span",null,{"className":"size","children":"2.2 МБ"}]]}],["$","a","6a8ce37eefd603213f141947",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8ce37eefd603213f141947","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Распоряжение  об условиях приватизации Урал.docx"]}],["$","span",null,{"className":"size","children":"28 КБ"}]]}],["$","a","6a8ce360efd603213f141931",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8ce360efd603213f141931","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16"]}]]}],false,"$L17"]}],"$L18"]}]]}]
+11:["$","span",null,{"children":["📎 ","IMG_20260410_130532_535.jpg"]}]
+12:["$","span",null,{"className":"size","children":"274 КБ"}]
+13:["$","a","6a8ce35f57a2662b5529ecda",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8ce35f57a2662b5529ecda","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260410_130533_675.jpg"]}],["$","span",null,{"className":"size","children":"310 КБ"}]]}]
+14:["$","a","6a8ce360efd603213f141937",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8ce360efd603213f141937","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260410_130537_306.jpg"]}],["$","span",null,{"className":"size","children":"359 КБ"}]]}]
+15:["$","a","6a8ce360efd603213f141933",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8ce360efd603213f141933","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260410_130540_915.jpg"]}],["$","span",null,{"className":"size","children":"382 КБ"}]]}]
+16:["$","a","6a8ce360efd603213f14192e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8ce360efd603213f14192e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260410_130542_086.jpg"]}],["$","span",null,{"className":"size","children":"322 КБ"}]]}]
+19:T110a,{
+  "id": "gis-torgi:21000004620000000158_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000004620000000158_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000004620000000158_1",
+  "title": "Транспортное средство УРАЛ4320 № С 405 КН 03",
+  "description": "Самосвал Урал4320, 1991 г. выпуска, идентификационный номер (VIN) XIP432000M0177288, № двигателя 238M2-4-40204414, № шасси 177288, цвет хаки",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "101",
+  "categoryName": "Спецтехника",
+  "regionCode": "03",
+  "address": "респ. Бурятия, м.р-н Баунтовский эвенкийский, с.п. Уакитское, п. Уакит",
+  "priceStart": "378000.00",
+  "priceStep": "18900",
+  "deposit": "37800",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T00:55:40.429Z",
+  "biddStartAt": "2026-08-25T16:00:00Z",
+  "biddEndAt": "2026-09-21T06:00:00Z",
+  "auctionAt": "2026-09-25T05:00:00Z",
+  "tzOffsetMin": 480,
+  "tzName": "МСК+5",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8ce360efd603213f141931",
+    "6a8ce35f57a2662b5529ecda",
+    "6a8ce360efd603213f141937",
+    "6a8ce360efd603213f141933",
+    "6a8ce360efd603213f14192e"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8ce374efd603213f141944",
+      "name": "птс урал.pdf",
+      "size": 2356280,
+      "sha256": "c900da16f08cb359a1ea18cade8fae66b816e21386d4651918cb5494d8b514b4"
+    },
+    {
+      "fileId": "6a8ce37eefd603213f141947",
+      "name": "Распоряжение  об условиях приватизации Урал.docx",
+      "size": 28937,
+      "sha256": "c45b3bd00e0029f26b14953bb57c5e0ef9ebe20c2a65459409751a77af57c0e2"
+    },
+    {
+      "fileId": "6a8ce360efd603213f141931",
+      "name": "IMG_20260410_130532_535.jpg",
+      "size": 280237,
+      "sha256": "f107d264f98f2bca2b4dd512494bf0d7900f044b5d598a680cc17ca0c762e2c0"
+    },
+    {
+      "fileId": "6a8ce35f57a2662b5529ecda",
+      "name": "IMG_20260410_130533_675.jpg",
+      "size": 317269,
+      "sha256": "7633885710698dc71e299788103cc9a139ff358a3ca029e2595fdac057e47fe5"
+    },
+    {
+      "fileId": "6a8ce360efd603213f141937",
+      "name": "IMG_20260410_130537_306.jpg",
+      "size": 367233,
+      "sha256": "1c95ac542575a58286c1262bc57d3d4fcacf28befeae1b3e1451b7a887ea0f9a"
+    },
+    {
+      "fileId": "6a8ce360efd603213f141933",
+      "name": "IMG_20260410_130540_915.jpg",
+      "size": 391238,
+      "sha256": "65f95e3f32e3a5007ccd813d5c192270adce1e9e6729b679c532229e6695a659"
+    },
+    {
+      "fileId": "6a8ce360efd603213f14192e",
+      "name": "IMG_20260410_130542_086.jpg",
+      "size": 329429,
+      "sha256": "548dad35be275bf884a556662455f65d7cbb889b5a7e9187d3f53b6568a646f1"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "specEquipmentType",
+      "name": "Назначение",
+      "value": "Самосвал Урал4320",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег",
+      "value": "179437",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "specEquipmentMarka",
+      "name": "Марка",
+      "value": "УРАЛ4320",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "1991",
+      "source": "structured"
+    },
+    {
+      "key": "specEquipmentModel",
+      "name": "Модель",
+      "value": "УРАЛ4320",
+      "source": "structured"
+    },
+    {
+      "key": "vinFactory",
+      "name": "VIN (заводской) номер",
+      "value": "XIP432000M0177288",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:27:50.619Z",
+  "lastSeenAt": "2026-08-25T13:27:50.619Z",
+  "contentHash": "f334119bb56dd226ada189e7ec7347bc16de90512bcc29d4301d6486d2ddcf34"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"378 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"18 900 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"37 800 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 00:00 (МСК+5)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 14:00 (МСК+5)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"25 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 13:00 (МСК+5)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Бурятия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000004620000000158_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Транспортное средство УРАЛ4320 № С 405 КН 03 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

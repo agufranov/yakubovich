@@ -1,0 +1,187 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000019350000000216_3",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000019350000000216_3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000019350000000216_3","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=59","children":"Пермский край"}]]]}],["$","h1",null,{"children":"Лот №3. Помещение, назначение: нежилое, общая площадь 40,7 кв.м, кадастровый номер 59:29:0550002:388. Адрес объекта: Российская Федерация, Пермский край, муниципальный округ Осинский, село Новозалесново, улица Советская, дом 32, помещение 2."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d54b4efd603213f145d9c","alt":"Лот №3. Помещение, назначение: нежилое, общая площадь 40,7 кв.м, кадастровый номер 59:29:0550002:388. Адрес объекта: Российская Федерация, Пермский край, муниципальный округ Осинский, село Новозалесново, улица Советская, дом 32, помещение 2."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d54b5e096f456f84c7229",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b5e096f456f84c7229","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d54b5e096f456f84c7229","alt":"","loading":"lazy"}]}],["$","a","6a8d54b557a2662b552a2b95",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b557a2662b552a2b95","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d54b557a2662b552a2b95","alt":"","loading":"lazy"}]}],["$","a","6a8d54b5e096f456f84c722a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b5e096f456f84c722a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d54b5e096f456f84c722a","alt":"","loading":"lazy"}]}],["$","a","6a8d54b563124f3d8ea6a606",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b563124f3d8ea6a606","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d54b563124f3d8ea6a606","alt":"","loading":"lazy"}]}],["$","a","6a8d54b4efd603213f145da1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b4efd603213f145da1","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d54b4efd603213f145da1","alt":"","loading":"lazy"}]}],["$","a","6a8d54b7e096f456f84c7235",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b7e096f456f84c7235","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d54b7e096f456f84c7235","alt":"","loading":"lazy"}]}],["$","a","6a8d54b763124f3d8ea6a60c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b763124f3d8ea6a60c","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d54b763124f3d8ea6a60c","alt":"","loading":"lazy"}]}],["$","a","6a8d54b7efd603213f145da7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b7efd603213f145da7","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d54b7efd603213f145da7","alt":"","loading":"lazy"}]}],["$","a","6a8d54b8efd603213f145db3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b8efd603213f145db3","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d54b8efd603213f145db3","alt":"","loading":"lazy"}]}],["$","a","6a8d54b7efd603213f145dac",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b7efd603213f145dac","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d54b7efd603213f145dac","alt":"","loading":"lazy"}]}],"$L11","$L12"]}]]}],"$L13","$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","a","6a8d54b7e096f456f84c7234",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b7e096f456f84c7234","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d54b7e096f456f84c7234","alt":"","loading":"lazy"}]}]
+12:["$","a","6a8d54b863124f3d8ea6a612",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b863124f3d8ea6a612","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d54b863124f3d8ea6a612","alt":"","loading":"lazy"}]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Характеристика: Фундамент: бетонный, ленточный; Стены: бревенчатые; Перекрытия: деревянные, отепленные; Крыша: шиферная по деревянной обрешетке; Полы дощатые; Отопление: печное. Год завершения строительства - 1997."}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["1997",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["40.7"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["59:29:0550002:388",""]}]]}],["$","tr","typeNolivingQuarters",{"children":[["$","td",null,{"children":"Назначение нежилого помещения"}],["$","td",null,{"children":["нежилое",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Пермский, м.о. Осинский, с. Новозалесново, ул. Советская, дом 32 помещение 2"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",14,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d54e257a2662b552a2baf",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54e257a2662b552a2baf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Р № 196 - измен. в план приватиз. 2026-2028.docx"]}],["$","span",null,{"className":"size","children":"58 КБ"}]]}],["$","a","6a8d54b4efd603213f145d9c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b4efd603213f145d9c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1761838172084.jpg"]}],["$","span",null,{"className":"size","children":"636 КБ"}]]}],["$","a","6a8d54b5e096f456f84c7229",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b5e096f456f84c7229","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1761838172090.jpg"]}],["$","span",null,{"className":"size","children":"563 КБ"}]]}],["$","a","6a8d54b557a2662b552a2b95",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b557a2662b552a2b95","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1761838172096.jpg"]}],["$","span",null,{"className":"size","children":"654 КБ"}]]}],["$","a","6a8d54b5e096f456f84c722a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b5e096f456f84c722a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1761838172101.jpg"]}],["$","span",null,{"className":"size","children":"437 КБ"}]]}],["$","a","6a8d54b563124f3d8ea6a606",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b563124f3d8ea6a606","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1761838172106.jpg"]}],["$","span",null,{"className":"size","children":"667 КБ"}]]}],["$","a","6a8d54b4efd603213f145da1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b4efd603213f145da1","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1761838172117.jpg"]}],["$","span",null,{"className":"size","children":"625 КБ"}]]}],["$","a","6a8d54b7e096f456f84c7235",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b7e096f456f84c7235","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1761838172123.jpg"]}],["$","span",null,{"className":"size","children":"719 КБ"}]]}],["$","a","6a8d54b763124f3d8ea6a60c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b763124f3d8ea6a60c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1761838172128.jpg"]}],["$","span",null,{"className":"size","children":"919 КБ"}]]}],["$","a","6a8d54b7efd603213f145da7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b7efd603213f145da7","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1761838172140.jpg"]}],["$","span",null,{"className":"size","children":"991 КБ"}]]}],["$","a","6a8d54b8efd603213f145db3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b8efd603213f145db3","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1761838172145.jpg"]}],["$","span",null,{"className":"size","children":"1.0 МБ"}]]}],["$","a","6a8d54b7efd603213f145dac",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b7efd603213f145dac","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1761838172151.jpg"]}],["$","span",null,{"className":"size","children":"761 КБ"}]]}],["$","a","6a8d54b7e096f456f84c7234",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b7e096f456f84c7234","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1761838172157.jpg"]}],["$","span",null,{"className":"size","children":"997 КБ"}]]}],["$","a","6a8d54b863124f3d8ea6a612",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d54b863124f3d8ea6a612","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1761838172162.jpg"]}],["$","span",null,{"className":"size","children":"955 КБ"}]]}]]}]]}]
+19:T1807,{
+  "id": "gis-torgi:22000019350000000216_3",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000019350000000216_3",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000019350000000216_3",
+  "title": "Лот №3. Помещение, назначение: нежилое, общая площадь 40,7 кв.м, кадастровый номер 59:29:0550002:388. Адрес объекта: Российская Федерация, Пермский край, муниципальный округ Осинский, село Новозалесново, улица Советская, дом 32, помещение 2.",
+  "description": "Характеристика: Фундамент: бетонный, ленточный; Стены: бревенчатые; Перекрытия: деревянные, отепленные; Крыша: шиферная по деревянной обрешетке; Полы дощатые; Отопление: печное. Год завершения строительства - 1997.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "59",
+  "address": "край Пермский, м.о. Осинский, с. Новозалесново, ул. Советская, дом 32 помещение 2",
+  "priceStart": "195000.00",
+  "priceStep": "9750",
+  "deposit": "19500",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T09:21:12.434Z",
+  "biddStartAt": "2026-08-26T03:00:00Z",
+  "biddEndAt": "2026-09-30T12:00:00Z",
+  "auctionAt": "2026-10-02T06:00:00Z",
+  "tzOffsetMin": 300,
+  "tzName": "МСК+2",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d54b4efd603213f145d9c",
+    "6a8d54b5e096f456f84c7229",
+    "6a8d54b557a2662b552a2b95",
+    "6a8d54b5e096f456f84c722a",
+    "6a8d54b563124f3d8ea6a606",
+    "6a8d54b4efd603213f145da1",
+    "6a8d54b7e096f456f84c7235",
+    "6a8d54b763124f3d8ea6a60c",
+    "6a8d54b7efd603213f145da7",
+    "6a8d54b8efd603213f145db3",
+    "6a8d54b7efd603213f145dac",
+    "6a8d54b7e096f456f84c7234",
+    "6a8d54b863124f3d8ea6a612"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d54e257a2662b552a2baf",
+      "name": "Р № 196 - измен. в план приватиз. 2026-2028.docx",
+      "size": 58967,
+      "sha256": "f57468bef23ad4095c8814aafef18d8850f8bb021046ef45f593a78e2e1eeea2"
+    },
+    {
+      "fileId": "6a8d54b4efd603213f145d9c",
+      "name": "1761838172084.jpg",
+      "size": 651720,
+      "sha256": "717a5ecab625066dffe53d40a62c8efd4ba0e3b4b1aeebfef5d6f271d981ba73"
+    },
+    {
+      "fileId": "6a8d54b5e096f456f84c7229",
+      "name": "1761838172090.jpg",
+      "size": 576727,
+      "sha256": "62e9dcd8cd5f72e78c2450b816311c9933c926aa69c5d41f4a59c96b7556d90a"
+    },
+    {
+      "fileId": "6a8d54b557a2662b552a2b95",
+      "name": "1761838172096.jpg",
+      "size": 669508,
+      "sha256": "b118312df29bda26fb71d1d22120301b0ed3158e37eba55a113d5ead75bfacc1"
+    },
+    {
+      "fileId": "6a8d54b5e096f456f84c722a",
+      "name": "1761838172101.jpg",
+      "size": 447209,
+      "sha256": "7f06bfeb05ac37ec943b39c2dd5afe9042cf99dadf0112ab8c64132828d80a8f"
+    },
+    {
+      "fileId": "6a8d54b563124f3d8ea6a606",
+      "name": "1761838172106.jpg",
+      "size": 683181,
+      "sha256": "47a8c2f313720ba6e31dfcc6a3858b789277fdfe0dbd85f247565f05a898797d"
+    },
+    {
+      "fileId": "6a8d54b4efd603213f145da1",
+      "name": "1761838172117.jpg",
+      "size": 639599,
+      "sha256": "1ab8fcb962518fafaed16bd499520437e923b979250e73533bdb150595ab3113"
+    },
+    {
+      "fileId": "6a8d54b7e096f456f84c7235",
+      "name": "1761838172123.jpg",
+      "size": 736504,
+      "sha256": "2cffc42ff92937e7636a8eb22e3f1f8c19ba9d90b74287686f8621e1c3fa111e"
+    },
+    {
+      "fileId": "6a8d54b763124f3d8ea6a60c",
+      "name": "1761838172128.jpg",
+      "size": 941166,
+      "sha256": "ec0bf426843f5c18b8ff3159c61035ed336c6dc8071e92232eff9e0ce559290e"
+    },
+    {
+      "fileId": "6a8d54b7efd603213f145da7",
+      "name": "1761838172140.jpg",
+      "size": 1014887,
+      "sha256": "b9a07fbd4983e3d473df0e0fdd8d004cd37b2cfb3296b0665c95bfd6716591fb"
+    },
+    {
+      "fileId": "6a8d54b8efd603213f145db3",
+      "name": "1761838172145.jpg",
+      "size": 1055779,
+      "sha256": "ab6e7b79c2c62a2f38e7a0d2c526a184476f33927b76ad0b786c33c9bcbafdf5"
+    },
+    {
+      "fileId": "6a8d54b7efd603213f145dac",
+      "name": "1761838172151.jpg",
+      "size": 779052,
+      "sha256": "eed1291c7bfd91b4886716405235dd1a001f268de8ee2bf48f2a14212ed80cf3"
+    },
+    {
+      "fileId": "6a8d54b7e096f456f84c7234",
+      "name": "1761838172157.jpg",
+      "size": 1020626,
+      "sha256": "0a1a48ec048d688c6d726a28c4e9c914575be42fb5610359755c4fbaee004bf1"
+    },
+    {
+      "fileId": "6a8d54b863124f3d8ea6a612",
+      "name": "1761838172162.jpg",
+      "size": 977604,
+      "sha256": "33f727947b1da21d2a39e2cfdba2072ece4faec03a0c202358a475d4b79bcfd9"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "1997",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "40.7",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "59:29:0550002:388",
+      "source": "structured"
+    },
+    {
+      "key": "typeNolivingQuarters",
+      "name": "Назначение нежилого помещения",
+      "value": "нежилое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:16:47.469Z",
+  "lastSeenAt": "2026-08-25T13:16:47.469Z",
+  "contentHash": "66656a29ce384be1580096fc910bccc686f89edeced1c65f4e4e9fbc77ed1be1"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"195 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"9 750 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"19 500 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 08:00 (МСК+2)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"30 сент. 2026 г., 17:00 (МСК+2)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"34 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"2 окт. 2026 г., 11:00 (МСК+2)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Пермский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000019350000000216_3","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Лот №3. Помещение, назначение: нежилое, общая площадь 40,7 кв.м, кадастровый номер 59:29:0 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

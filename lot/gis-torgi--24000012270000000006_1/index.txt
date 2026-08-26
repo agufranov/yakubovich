@@ -1,0 +1,207 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--24000012270000000006_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--24000012270000000006_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--24000012270000000006_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=54","children":"Новосибирская обл."}]]]}],["$","h1",null,{"children":"Здание с кадастровым номером 54:03:032501:465"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Здания"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3d57a2662b552906af","alt":"Здание с кадастровым номером 54:03:032501:465"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8bdd3dac85246d2d84bc32",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3dac85246d2d84bc32","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3dac85246d2d84bc32","alt":"","loading":"lazy"}]}],["$","a","6a8bdd3d63124f3d8ea58a77",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3d63124f3d8ea58a77","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3d63124f3d8ea58a77","alt":"","loading":"lazy"}]}],["$","a","6a8bdd3d57a2662b552906b4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3d57a2662b552906b4","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3d57a2662b552906b4","alt":"","loading":"lazy"}]}],["$","a","6a8bdd3d63124f3d8ea58a7c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3d63124f3d8ea58a7c","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3d63124f3d8ea58a7c","alt":"","loading":"lazy"}]}],["$","a","6a8bdd3d63124f3d8ea58a82",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3d63124f3d8ea58a82","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3d63124f3d8ea58a82","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Здание с кадастровым номером 54:03:032501:465 площадь 23.5 по адресу Российская Федерация, Новосибирская область, муниципальный район Болотнинский, сельское поселение Новобибеевский сельсовет, деревня Старобибеево, улица Береговая, дом 3"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["1961",""]}]]}],["$","tr","numberUndergroundFloors",{"children":[["$","td",null,{"children":"Количество подземных этажей"}],["$","td",null,{"children":["0",""]}]]}],["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["нет",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["23.5"," м^2 общ. пл"]}]]}],["$","tr","buildingWallMaterials",{"children":[["$","td",null,{"children":"Материалы наружных стен здания"}],["$","td",null,{"children":["Деревянные",""]}]]}],["$","tr","cadastralValue",{"children":[["$","td",null,{"children":"Кадастровая стоимость"}],["$","td",null,{"children":["23100",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["54:03:032501:465",""]}]]}],["$","tr","purposeBuilding",{"children":[["$","td",null,{"children":"Назначение здания"}],["$","td",null,{"children":["Жилой дом",""]}]]}],["$","tr","numberFloors",{"children":[["$","td",null,{"children":"Количество этажей"}],["$","td",null,{"children":["1",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["нет",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":["$L11","$L12"]}],"$L13",false,"$L14"]}],"$L15"]}]]}]
+11:["$","h2",null,{"children":"Местоположение"}]
+12:["$","div",null,{"children":"обл. Новосибирская, м.р-н Болотнинский, с.п. Новобибеевский сельсовет, д. Старобибеево, ул. Береговая, дом 3"}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",13,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8bdcc9ac85246d2d84bbdb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bdcc9ac85246d2d84bbdb","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","извещение торги.doc"]}],["$","span",null,{"className":"size","children":"64 КБ"}]]}],["$","a","6a8bdcf457a2662b5529065b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bdcf457a2662b5529065b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","постановление торги.pdf"]}],["$","span",null,{"className":"size","children":"1.1 МБ"}]]}],["$","a","6a8bdd4d57a2662b552906b7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bdd4d57a2662b552906b7","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","2026-08-24_12-10-18.png"]}],["$","span",null,{"className":"size","children":"97 КБ"}]]}],["$","a","6a8bde9e57a2662b55290784",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bde9e57a2662b55290784","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Заявка участия в аукционе.docx"]}],["$","span",null,{"className":"size","children":"15 КБ"}]]}],["$","a","6a8cffd6e096f456f84c3379",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cffd6e096f456f84c3379","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Приложение 2 Договор_имущество.docx"]}],["$","span",null,{"className":"size","children":"31 КБ"}]]}],["$","a","6a8cffe257a2662b5529f280",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cffe257a2662b5529f280","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Приложение 3 Договор_земельный участок.docx"]}],["$","span",null,{"className":"size","children":"29 КБ"}]]}],["$","a","6a8bdd3d57a2662b552906af",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3d57a2662b552906af","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","499.jpg"]}],["$","span",null,{"className":"size","children":"623 КБ"}]]}],["$","a","6a8bdd3dac85246d2d84bc32",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3dac85246d2d84bc32","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","500.jpg"]}],["$","span",null,{"className":"size","children":"1005 КБ"}]]}],["$","a","6a8bdd3d63124f3d8ea58a77",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3d63124f3d8ea58a77","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","502.jpg"]}],["$","span",null,{"className":"size","children":"404 КБ"}]]}],["$","a","6a8bdd3d57a2662b552906b4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3d57a2662b552906b4","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","504.jpg"]}],["$","span",null,{"className":"size","children":"689 КБ"}]]}],["$","a","6a8bdd3d63124f3d8ea58a7c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3d63124f3d8ea58a7c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","506.jpg"]}],["$","span",null,{"className":"size","children":"755 КБ"}]]}],["$","a","6a8bdd3d63124f3d8ea58a82",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bdd3d63124f3d8ea58a82","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","507.jpg"]}],["$","span",null,{"className":"size","children":"850 КБ"}]]}],["$","a","6a8d013863124f3d8ea6620e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d013863124f3d8ea6620e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ON_DOGDOC_000773cb6b6-a07f-484f-8856-517a18a4f643_0003d7c0e68-c02d-4ffa-8ed7-41833dcc1731_20260825_e673d196-ce47-490f-8e52-e31c78b8d724_1_00_00_01.pdf"]}],["$","span",null,{"className":"size","children":"121 КБ"}]]}]]}]]}]
+16:T1a1c,{
+  "id": "gis-torgi:24000012270000000006_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "24000012270000000006_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/24000012270000000006_1",
+  "title": "Здание с кадастровым номером 54:03:032501:465",
+  "description": "Здание с кадастровым номером 54:03:032501:465 площадь 23.5 по адресу Российская Федерация, Новосибирская область, муниципальный район Болотнинский, сельское поселение Новобибеевский сельсовет, деревня Старобибеево, улица Береговая, дом 3",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "8",
+  "categoryName": "Здания",
+  "regionCode": "54",
+  "address": "обл. Новосибирская, м.р-н Болотнинский, с.п. Новобибеевский сельсовет, д. Старобибеево, ул. Береговая, дом 3",
+  "priceStart": "116000.00",
+  "priceStep": "5800",
+  "deposit": "11600",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T02:44:06.996Z",
+  "biddStartAt": "2026-08-25T17:00:00Z",
+  "biddEndAt": "2026-09-19T17:00:00Z",
+  "auctionAt": "2026-09-25T03:00:00Z",
+  "tzOffsetMin": 420,
+  "tzName": "МСК+4",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8bdd3d57a2662b552906af",
+    "6a8bdd3dac85246d2d84bc32",
+    "6a8bdd3d63124f3d8ea58a77",
+    "6a8bdd3d57a2662b552906b4",
+    "6a8bdd3d63124f3d8ea58a7c",
+    "6a8bdd3d63124f3d8ea58a82"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8bdcc9ac85246d2d84bbdb",
+      "name": "извещение торги.doc",
+      "size": 65536,
+      "sha256": "324583401180726a14aea41eedf70a6f06ecfc0b5ba7879699acf7c49f656943"
+    },
+    {
+      "fileId": "6a8bdcf457a2662b5529065b",
+      "name": "постановление торги.pdf",
+      "size": 1148737,
+      "sha256": "d731ccdbb2b6b6a94f8e98ca88299c64d2ebb65676c9d58bd7f766d2380ebe07"
+    },
+    {
+      "fileId": "6a8bdd4d57a2662b552906b7",
+      "name": "2026-08-24_12-10-18.png",
+      "size": 99131,
+      "sha256": "004538a3c8d0dc8357039cf799e9515cc4fa853eda3259090f008c2118bf4865"
+    },
+    {
+      "fileId": "6a8bde9e57a2662b55290784",
+      "name": "Заявка участия в аукционе.docx",
+      "size": 15127,
+      "sha256": "88dcc18fd65c7eaf76070a3294fcde9652f8e25925ce762a405bfcaadff3194a"
+    },
+    {
+      "fileId": "6a8cffd6e096f456f84c3379",
+      "name": "Приложение 2 Договор_имущество.docx",
+      "size": 32211,
+      "sha256": "cfbf25375f63cf43bda9ef3b24361fa0a8f60b2724be9c58e7afe89f46a67e0b"
+    },
+    {
+      "fileId": "6a8cffe257a2662b5529f280",
+      "name": "Приложение 3 Договор_земельный участок.docx",
+      "size": 29802,
+      "sha256": "14a815c3027e4993d13bbf6677e3e01d2990cf329ec28e82f20a49165068d4fc"
+    },
+    {
+      "fileId": "6a8bdd3d57a2662b552906af",
+      "name": "499.jpg",
+      "size": 637756,
+      "sha256": "bd2992b9683ac442c003d4618afae3331c77b409e9a9fbeebd5588610226c502"
+    },
+    {
+      "fileId": "6a8bdd3dac85246d2d84bc32",
+      "name": "500.jpg",
+      "size": 1029116,
+      "sha256": "630bbad2ec13d5ed15e4315224ec458dcf7aa6a899ca916b9012a0bf07d5e19a"
+    },
+    {
+      "fileId": "6a8bdd3d63124f3d8ea58a77",
+      "name": "502.jpg",
+      "size": 413426,
+      "sha256": "1f7feaf5123894b8278b7cf9edc688ac08802899303bb5f3ce068c25af902b1f"
+    },
+    {
+      "fileId": "6a8bdd3d57a2662b552906b4",
+      "name": "504.jpg",
+      "size": 705898,
+      "sha256": "89b6629553af1d5d2bc5701208dc36ba49fbadf65ee5db668667c1acfcd4a6bb"
+    },
+    {
+      "fileId": "6a8bdd3d63124f3d8ea58a7c",
+      "name": "506.jpg",
+      "size": 773194,
+      "sha256": "d138b636c4b588981549436264f3ec6da15543459c99b5009545dde6279103d2"
+    },
+    {
+      "fileId": "6a8bdd3d63124f3d8ea58a82",
+      "name": "507.jpg",
+      "size": 870710,
+      "sha256": "c17cb3f4e9dd4eed19e085d8856043aceb2b90418c17f020980392ff577f369c"
+    },
+    {
+      "fileId": "6a8d013863124f3d8ea6620e",
+      "name": "ON_DOGDOC_000773cb6b6-a07f-484f-8856-517a18a4f643_0003d7c0e68-c02d-4ffa-8ed7-41833dcc1731_20260825_e673d196-ce47-490f-8e52-e31c78b8d724_1_00_00_01.pdf",
+      "size": 124287,
+      "sha256": "eb9a593b2c0ae202fc58bd69436825a562008e5f5c78f9b12721bcb153c0b5d1"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "1961",
+      "source": "structured"
+    },
+    {
+      "key": "numberUndergroundFloors",
+      "name": "Количество подземных этажей",
+      "value": "0",
+      "source": "structured"
+    },
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "нет",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "23.5",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "buildingWallMaterials",
+      "name": "Материалы наружных стен здания",
+      "value": "Деревянные",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralValue",
+      "name": "Кадастровая стоимость",
+      "value": "23100",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "54:03:032501:465",
+      "source": "structured"
+    },
+    {
+      "key": "purposeBuilding",
+      "name": "Назначение здания",
+      "value": "Жилой дом",
+      "source": "structured"
+    },
+    {
+      "key": "numberFloors",
+      "name": "Количество этажей",
+      "value": "1",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "нет",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:25:41.654Z",
+  "lastSeenAt": "2026-08-25T13:25:41.654Z",
+  "contentHash": "822acfb510964fce89a1e5769eb777643929689687a967a8a45ad8687664173d"
+}14:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$16"}]]}]
+15:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"116 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"5 800 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"11 600 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 00:00 (МСК+4)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"20 сент. 2026 г., 00:00 (МСК+4)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"24 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 10:00 (МСК+4)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Новосибирская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/24000012270000000006_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Здание с кадастровым номером 54:03:032501:465 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

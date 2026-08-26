@@ -1,0 +1,205 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000086190000000412_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000086190000000412_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000086190000000412_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=66","children":"Свердловская обл."}]]]}],["$","h1",null,{"children":"Продажа посредством публичного предложения  нежилого помещения с кадастровым номером 66:59:0102016:1575 площадь 584.8 по адресу Свердловская область, г. Полевской, п. Зюзельский, пер. Молодежный, д. 5"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d681563124f3d8ea6be0c","alt":"Продажа посредством публичного предложения  нежилого помещения с кадастровым номером 66:59:0102016:1575 площадь 584.8 по адресу Свердловская область, г. Полевской, п. Зюзельский, пер. Молодежный, д. 5"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d681557a2662b552a48a3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681557a2662b552a48a3","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d681557a2662b552a48a3","alt":"","loading":"lazy"}]}],["$","a","6a8d681557a2662b552a48a0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681557a2662b552a48a0","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d681557a2662b552a48a0","alt":"","loading":"lazy"}]}],["$","a","6a8d6815efd603213f147487",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6815efd603213f147487","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6815efd603213f147487","alt":"","loading":"lazy"}]}],["$","a","6a8d681657a2662b552a48ac",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681657a2662b552a48ac","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d681657a2662b552a48ac","alt":"","loading":"lazy"}]}],["$","a","6a8d6815e096f456f84c86ac",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6815e096f456f84c86ac","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6815e096f456f84c86ac","alt":"","loading":"lazy"}]}],["$","a","6a8d681557a2662b552a48a6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681557a2662b552a48a6","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d681557a2662b552a48a6","alt":"","loading":"lazy"}]}],["$","a","6a8d6816efd603213f14748d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6816efd603213f14748d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6816efd603213f14748d","alt":"","loading":"lazy"}]}],["$","a","6a8d6816e096f456f84c86b5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6816e096f456f84c86b5","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6816e096f456f84c86b5","alt":"","loading":"lazy"}]}],["$","a","6a8d681657a2662b552a48af",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681657a2662b552a48af","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d681657a2662b552a48af","alt":"","loading":"lazy"}]}],["$","a","6a8d681657a2662b552a48b2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681657a2662b552a48b2","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d681657a2662b552a48b2","alt":"","loading":"lazy"}]}],["$","a","6a8d681663124f3d8ea6be0f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681663124f3d8ea6be0f","target":"_blank","rel":"noopener","children":"$L11"}],"$L12"]}]]}],"$L13","$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d681663124f3d8ea6be0f","alt":"","loading":"lazy"}]
+12:["$","a","6a8d6816e096f456f84c86b2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6816e096f456f84c86b2","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6816e096f456f84c86b2","alt":"","loading":"lazy"}]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Продажа посредством публичного предложения  нежилого помещения с кадастровым номером 66:59:0102016:1575 площадь 584.8 по адресу Свердловская область, г. Полевской, п. Зюзельский, пер. Молодежный, д. 5"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["-",""]}]]}],["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["-",""]}]]}],["$","tr","cadastralNumberObjectRealty",{"children":[["$","td",null,{"children":"Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение"}],["$","td",null,{"children":["-",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["584.8"," м^2 общ. пл"]}]]}],["$","tr","cadastralValue",{"children":[["$","td",null,{"children":"Кадастровая стоимость"}],["$","td",null,{"children":["4584101",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["66:59:0102016:1575",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["-",""]}]]}],["$","tr","typeNolivingQuarters",{"children":[["$","td",null,{"children":"Назначение нежилого помещения"}],["$","td",null,{"children":["нежилое помещение",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл Свердловская, м.о. Полевской, п Зюзельский, пер Молодежный, дом 5"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",13,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d681563124f3d8ea6be0c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681563124f3d8ea6be0c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","WhatsApp Image 2025-06-26 at 09.18.55 (1).jpeg"]}],["$","span",null,{"className":"size","children":"128 КБ"}]]}],["$","a","6a8d681557a2662b552a48a3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681557a2662b552a48a3","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","WhatsApp Image 2025-06-26 at 09.18.55.jpeg"]}],["$","span",null,{"className":"size","children":"153 КБ"}]]}],["$","a","6a8d681557a2662b552a48a0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681557a2662b552a48a0","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","WhatsApp Image 2025-06-26 at 09.18.56 (1).jpeg"]}],["$","span",null,{"className":"size","children":"117 КБ"}]]}],["$","a","6a8d6815efd603213f147487",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6815efd603213f147487","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","WhatsApp Image 2025-06-26 at 09.18.56 (2).jpeg"]}],["$","span",null,{"className":"size","children":"147 КБ"}]]}],["$","a","6a8d681657a2662b552a48ac",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681657a2662b552a48ac","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","WhatsApp Image 2025-06-26 at 09.18.56.jpeg"]}],["$","span",null,{"className":"size","children":"165 КБ"}]]}],["$","a","6a8d6815e096f456f84c86ac",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6815e096f456f84c86ac","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","WhatsApp Image 2025-06-26 at 09.18.58 (1).jpeg"]}],["$","span",null,{"className":"size","children":"153 КБ"}]]}],["$","a","6a8d681557a2662b552a48a6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681557a2662b552a48a6","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","WhatsApp Image 2025-06-26 at 09.18.58 (2).jpeg"]}],["$","span",null,{"className":"size","children":"69 КБ"}]]}],["$","a","6a8d6816efd603213f14748d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6816efd603213f14748d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","WhatsApp Image 2025-06-26 at 09.18.58.jpeg"]}],["$","span",null,{"className":"size","children":"126 КБ"}]]}],["$","a","6a8d6816e096f456f84c86b5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6816e096f456f84c86b5","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","WhatsApp Image 2025-06-26 at 09.18.59.jpeg"]}],["$","span",null,{"className":"size","children":"170 КБ"}]]}],["$","a","6a8d681657a2662b552a48af",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681657a2662b552a48af","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","WhatsApp Image 2025-06-26 at 09.19.00.jpeg"]}],["$","span",null,{"className":"size","children":"178 КБ"}]]}],["$","a","6a8d681657a2662b552a48b2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681657a2662b552a48b2","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","WhatsApp Image 2025-06-26 at 09.19.37.jpeg"]}],["$","span",null,{"className":"size","children":"169 КБ"}]]}],["$","a","6a8d681663124f3d8ea6be0f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d681663124f3d8ea6be0f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","WhatsApp Image 2025-06-26 at 09.20.16.jpeg"]}],["$","span",null,{"className":"size","children":"61 КБ"}]]}],["$","a","6a8d6816e096f456f84c86b2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6816e096f456f84c86b2","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","WhatsApp Image 2025-06-26 at 09.22.19.jpeg"]}],["$","span",null,{"className":"size","children":"87 КБ"}]]}]]}]]}]
+19:T1b58,{
+  "id": "gis-torgi:22000086190000000412_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000086190000000412_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000086190000000412_1",
+  "title": "Продажа посредством публичного предложения  нежилого помещения с кадастровым номером 66:59:0102016:1575 площадь 584.8 по адресу Свердловская область, г. Полевской, п. Зюзельский, пер. Молодежный, д. 5",
+  "description": "Продажа посредством публичного предложения  нежилого помещения с кадастровым номером 66:59:0102016:1575 площадь 584.8 по адресу Свердловская область, г. Полевской, п. Зюзельский, пер. Молодежный, д. 5",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Публичное предложение",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "66",
+  "address": "обл Свердловская, м.о. Полевской, п Зюзельский, пер Молодежный, дом 5",
+  "priceStart": "7134560.00",
+  "priceStep": "356728",
+  "deposit": "713456",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T10:10:21.999Z",
+  "biddStartAt": "2026-08-26T04:00:00Z",
+  "biddEndAt": "2026-09-23T11:00:00Z",
+  "auctionAt": "2026-10-02T04:00:00Z",
+  "tzOffsetMin": 300,
+  "tzName": "МСК+2",
+  "etpCode": "ETP_EETP",
+  "images": [
+    "6a8d681563124f3d8ea6be0c",
+    "6a8d681557a2662b552a48a3",
+    "6a8d681557a2662b552a48a0",
+    "6a8d6815efd603213f147487",
+    "6a8d681657a2662b552a48ac",
+    "6a8d6815e096f456f84c86ac",
+    "6a8d681557a2662b552a48a6",
+    "6a8d6816efd603213f14748d",
+    "6a8d6816e096f456f84c86b5",
+    "6a8d681657a2662b552a48af",
+    "6a8d681657a2662b552a48b2",
+    "6a8d681663124f3d8ea6be0f",
+    "6a8d6816e096f456f84c86b2"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d681563124f3d8ea6be0c",
+      "name": "WhatsApp Image 2025-06-26 at 09.18.55 (1).jpeg",
+      "size": 130996,
+      "sha256": "819be41ecf937ae94c1df5f2ae44102cdab464f88fa40d9fd9e58e8dc1d11155"
+    },
+    {
+      "fileId": "6a8d681557a2662b552a48a3",
+      "name": "WhatsApp Image 2025-06-26 at 09.18.55.jpeg",
+      "size": 156782,
+      "sha256": "c71b684bde0abadf38028c1689d11fd5b1148385b19c709d42ca1ea75ede3079"
+    },
+    {
+      "fileId": "6a8d681557a2662b552a48a0",
+      "name": "WhatsApp Image 2025-06-26 at 09.18.56 (1).jpeg",
+      "size": 119914,
+      "sha256": "3f96df96535a6f76bc8e05c2d816009e0100adcc049ca9cf630b061d1c2e6851"
+    },
+    {
+      "fileId": "6a8d6815efd603213f147487",
+      "name": "WhatsApp Image 2025-06-26 at 09.18.56 (2).jpeg",
+      "size": 150986,
+      "sha256": "013c2694c652b06f67851d0a762b8bc9722ad131d6147da11f8793625d310d1e"
+    },
+    {
+      "fileId": "6a8d681657a2662b552a48ac",
+      "name": "WhatsApp Image 2025-06-26 at 09.18.56.jpeg",
+      "size": 169097,
+      "sha256": "44188c685e1fbb68ad3a3a79dc98501a5b15cac3adf23bce38f43c5482836f4e"
+    },
+    {
+      "fileId": "6a8d6815e096f456f84c86ac",
+      "name": "WhatsApp Image 2025-06-26 at 09.18.58 (1).jpeg",
+      "size": 157035,
+      "sha256": "d279404d3ef6616ac69c4cf9c28ecc70d7c1f0879be428e9ee8bf3bf90398e5f"
+    },
+    {
+      "fileId": "6a8d681557a2662b552a48a6",
+      "name": "WhatsApp Image 2025-06-26 at 09.18.58 (2).jpeg",
+      "size": 71151,
+      "sha256": "3d5aa98231182d264293ad605f3c63422159adfce6d5e725e22ddafa6bd8123e"
+    },
+    {
+      "fileId": "6a8d6816efd603213f14748d",
+      "name": "WhatsApp Image 2025-06-26 at 09.18.58.jpeg",
+      "size": 128959,
+      "sha256": "ea0eb010c19ffd966b5917f38ce79905accf5b538854a1396ec6b24189ec8634"
+    },
+    {
+      "fileId": "6a8d6816e096f456f84c86b5",
+      "name": "WhatsApp Image 2025-06-26 at 09.18.59.jpeg",
+      "size": 174471,
+      "sha256": "a733080b1f92f150310338971af8d3ad2ef22ec005c47847943e75f3a2032b19"
+    },
+    {
+      "fileId": "6a8d681657a2662b552a48af",
+      "name": "WhatsApp Image 2025-06-26 at 09.19.00.jpeg",
+      "size": 182244,
+      "sha256": "3a36a5d9a3ac52cefcf90769460519cd7d03ed3c896e2bcb6f0224ec762168a7"
+    },
+    {
+      "fileId": "6a8d681657a2662b552a48b2",
+      "name": "WhatsApp Image 2025-06-26 at 09.19.37.jpeg",
+      "size": 173405,
+      "sha256": "84978894984ef4a4fc8c8addd1d4881baf3d5f288fca444f15c51ea0a56c4af0"
+    },
+    {
+      "fileId": "6a8d681663124f3d8ea6be0f",
+      "name": "WhatsApp Image 2025-06-26 at 09.20.16.jpeg",
+      "size": 62717,
+      "sha256": "22374d653258261791d990dcd21b48e4bbc19ef519a52197d1e3d5a96a94987a"
+    },
+    {
+      "fileId": "6a8d6816e096f456f84c86b2",
+      "name": "WhatsApp Image 2025-06-26 at 09.22.19.jpeg",
+      "size": 88661,
+      "sha256": "d4579c971a7f36f43a81249dd30195ccc98261dc2e63a058855b77d57be5043c"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "-",
+      "source": "structured"
+    },
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "-",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberObjectRealty",
+      "name": "Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение",
+      "value": "-",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "584.8",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralValue",
+      "name": "Кадастровая стоимость",
+      "value": "4584101",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "66:59:0102016:1575",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "-",
+      "source": "structured"
+    },
+    {
+      "key": "typeNolivingQuarters",
+      "name": "Назначение нежилого помещения",
+      "value": "нежилое помещение",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:14:34.027Z",
+  "lastSeenAt": "2026-08-25T13:14:34.027Z",
+  "contentHash": "d6909b96eacb0a3b701993a2725f28fe0e52053f43de1ba610ab3fd8c3b0ad5b"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"7 134 560 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"356 728 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"713 456 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 09:00 (МСК+2)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"23 сент. 2026 г., 16:00 (МСК+2)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"27 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"2 окт. 2026 г., 09:00 (МСК+2)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Свердловская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"EETP"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000086190000000412_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Продажа посредством публичного предложения  нежилого помещения с кадастровым номером 66:59 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

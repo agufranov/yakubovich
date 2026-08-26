@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000050380000000608_2",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000050380000000608_2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000050380000000608_2","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Tf8b,{
+  "id": "gis-torgi:23000050380000000608_2",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000050380000000608_2",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000050380000000608_2",
+  "title": "Помещение жилое (квартира), площадь 63,3 кв.м, кадастровый номер 40:26:000355:647, адрес: Калужская обл., г.Калуга, ул.Степана Разина, д.64, кв.119",
+  "description": "Помещение жилое (квартира), площадь 63,3 кв.м, кадастровый номер 40:26:000355:647, адрес: Калужская обл., г.Калуга, ул.Степана Разина, д.64, кв.119. Начальная цена продажи – 3 754 770,96 руб. Шаг аукциона – 37 547,71 руб. Сумма задатка – 187 738,55 руб. (не облагается НДС). Ограничение (обременение) права: залог, арест, запрет регистрационных действий. Сведения о зарегистрированных лицах отсутствуют. Отсутствует информация о задолженности по оплате взносов на капитальный ремонт. Собственник/должник: Куликова А.Ю.",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "9",
+  "categoryName": "Жилые помещения",
+  "regionCode": "40",
+  "address": "обл. Калужская г.Калуга, ул.Степана Разина, д.64, кв.119",
+  "priceStart": "3754770.96",
+  "priceStep": "37547.71",
+  "deposit": "187738.55",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T06:44:00.99Z",
+  "biddStartAt": "2026-08-25T11:00:00Z",
+  "biddEndAt": "2026-09-18T11:00:00Z",
+  "auctionAt": "2026-09-22T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8c336457a2662b55299845"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c3866efd603213f13d2ce",
+      "name": "178 Куликова А.Ю. торги ЗАЛОГ о.pdf",
+      "size": 8442199,
+      "sha256": "a74e75fcc9658f1958ed593d75cdf2e718e578525f9df9e9bfefd9276d28b0df"
+    },
+    {
+      "fileId": "6a8c336457a2662b55299845",
+      "name": "Заставка.jpeg",
+      "size": 59458,
+      "sha256": "8ff7ae09cf36e9a379585660826317a21031d2f63f71ad15d8effc6bdcb9fc82"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "залог, арест, запрет регистрационных действий",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "63.3",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "typeLivingQuarters",
+      "name": "Вид жилого помещения",
+      "value": "квартира",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "40:26:000355:647",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "залог, арест, запрет регистрационных действий",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:27:38.742Z",
+  "lastSeenAt": "2026-08-25T11:27:38.742Z",
+  "contentHash": "f7688cb3830e33378d5ee2727400a64ca8963c21541380edac29d9be26862b34"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=40","children":"Калужская обл."}]]]}],["$","h1",null,{"children":"Помещение жилое (квартира), площадь 63,3 кв.м, кадастровый номер 40:26:000355:647, адрес: Калужская обл., г.Калуга, ул.Степана Разина, д.64, кв.119"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Жилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c336457a2662b55299845","alt":"Помещение жилое (квартира), площадь 63,3 кв.м, кадастровый номер 40:26:000355:647, адрес: Калужская обл., г.Калуга, ул.Степана Разина, д.64, кв.119"}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Помещение жилое (квартира), площадь 63,3 кв.м, кадастровый номер 40:26:000355:647, адрес: Калужская обл., г.Калуга, ул.Степана Разина, д.64, кв.119. Начальная цена продажи – 3 754 770,96 руб. Шаг аукциона – 37 547,71 руб. Сумма задатка – 187 738,55 руб. (не облагается НДС). Ограничение (обременение) права: залог, арест, запрет регистрационных действий. Сведения о зарегистрированных лицах отсутствуют. Отсутствует информация о задолженности по оплате взносов на капитальный ремонт. Собственник/должник: Куликова А.Ю."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["залог, арест, запрет регистрационных действий",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["63.3"," м^2 общ. пл"]}]]}],["$","tr","typeLivingQuarters",{"children":[["$","td",null,{"children":"Вид жилого помещения"}],["$","td",null,{"children":["квартира",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["40:26:000355:647",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["залог, арест, запрет регистрационных действий",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Калужская г.Калуга, ул.Степана Разина, д.64, кв.119"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c3866efd603213f13d2ce",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c3866efd603213f13d2ce","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","178 Куликова А.Ю. торги ЗАЛОГ о.pdf"]}],["$","span",null,{"className":"size","children":"8.1 МБ"}]]}],["$","a","6a8c336457a2662b55299845",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c336457a2662b55299845","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Заставка.jpeg"]}],["$","span",null,{"className":"size","children":"58 КБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"3 754 770,96 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"37 547,71 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"187 738,55 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 14:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"18 сент. 2026 г., 14:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"22 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"22 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Калужская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000050380000000608_2","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Помещение жилое (квартира), площадь 63,3 кв.м, кадастровый номер 40:26:000355:647, адрес:  — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

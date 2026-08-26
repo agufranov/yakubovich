@@ -1,0 +1,197 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000014880000000038_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000014880000000038_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000014880000000038_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=27","children":"Хабаровский край"}]]]}],["$","h1",null,{"children":"Нежилое функциональное (встроенное) помещение № 2, I(8-15,18)"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8cdee2efd603213f1418d1","alt":"Нежилое функциональное (встроенное) помещение № 2, I(8-15,18)"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8cdee2efd603213f1418d4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee2efd603213f1418d4","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8cdee2efd603213f1418d4","alt":"","loading":"lazy"}]}],["$","a","6a8cdee257a2662b5529ec92",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee257a2662b5529ec92","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8cdee257a2662b5529ec92","alt":"","loading":"lazy"}]}],["$","a","6a8cdee263124f3d8ea65a86",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee263124f3d8ea65a86","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8cdee263124f3d8ea65a86","alt":"","loading":"lazy"}]}],["$","a","6a8cdee2e096f456f84c2d1b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee2e096f456f84c2d1b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8cdee2e096f456f84c2d1b","alt":"","loading":"lazy"}]}],["$","a","6a8cdee263124f3d8ea65a89",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee263124f3d8ea65a89","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8cdee263124f3d8ea65a89","alt":"","loading":"lazy"}]}],["$","a","6a8cdee257a2662b5529ec8f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee257a2662b5529ec8f","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8cdee257a2662b5529ec8f","alt":"","loading":"lazy"}]}],["$","a","6a8cdee357a2662b5529ec98",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee357a2662b5529ec98","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8cdee357a2662b5529ec98","alt":"","loading":"lazy"}]}],["$","a","6a8cdee257a2662b5529ec95",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee257a2662b5529ec95","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8cdee257a2662b5529ec95","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Помещение с кадастровым номером 27:13:0302010:27 площадь 94.2 кв.м., по адресу Хабаровский край, р-н. Советско-Гаванский, рп. Майский, ул. Камчатская, д. 4, пом. 2, I(8-15,18)"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["1956",""]}]]}],["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["отсутствуют",""]}]]}],["$","tr","cadastralNumberObjectRealty",{"children":[["$","td",null,{"children":"Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение"}],"$L11"]}],"$L12","$L13","$L14","$L15","$L16"]}]}]]}],"$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","td",null,{"children":["27:13:0302010:27",""]}]
+12:["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["94.2"," м^2 общ. пл"]}]]}]
+13:["$","tr","locationObjectRealty",{"children":[["$","td",null,{"children":"Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)"}],["$","td",null,{"children":["1 этаж",""]}]]}]
+14:["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["27:13:0302010:27",""]}]]}]
+15:["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["отсутствуют",""]}]]}]
+16:["$","tr","typeNolivingQuarters",{"children":[["$","td",null,{"children":"Назначение нежилого помещения"}],["$","td",null,{"children":["Нежилое функциональное (встроенное) помещение",""]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Хабаровский, м.р-н Советско-Гаванский, г.п. рабочий поселок Майский, рп. Майский, ул. Камчатская, дом 4"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",12,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8cdf0257a2662b5529ec9b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdf0257a2662b5529ec9b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН_Камчатская, д. 4, пом. 2, I(8-15,18).pdf"]}],["$","span",null,{"className":"size","children":"208 КБ"}]]}],["$","a","6a8cdf1b57a2662b5529eca8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdf1b57a2662b5529eca8","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписки 296.pdf"]}],["$","span",null,{"className":"size","children":"496 КБ"}]]}],["$","a","6a8cdf35efd603213f1418ec",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdf35efd603213f1418ec","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Технический паспорт (Камчатская, 4) (пом.№ 2, 1(8-15,18).pdf"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}],["$","a","6a8cdee2efd603213f1418d1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee2efd603213f1418d1","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","02bd9393-7ec3-43cc-a206-3d8c99415b6b.jpg"]}],["$","span",null,{"className":"size","children":"121 КБ"}]]}],["$","a","6a8cdee2efd603213f1418d4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee2efd603213f1418d4","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","3bad998a-55ca-44cd-bc7f-4efb63badbaa.jpg"]}],["$","span",null,{"className":"size","children":"187 КБ"}]]}],["$","a","6a8cdee257a2662b5529ec92",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee257a2662b5529ec92","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","8bde7f2a-ed41-4ae2-809a-98ce0fe27852.jpg"]}],["$","span",null,{"className":"size","children":"144 КБ"}]]}],["$","a","6a8cdee263124f3d8ea65a86",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee263124f3d8ea65a86","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","880ddc01-0612-4a1f-840a-4658c1c6a593.jpg"]}],["$","span",null,{"className":"size","children":"205 КБ"}]]}],["$","a","6a8cdee2e096f456f84c2d1b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee2e096f456f84c2d1b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","560504bc-d1e8-4093-bd8c-ba407cda6c80.jpg"]}],["$","span",null,{"className":"size","children":"99 КБ"}]]}],["$","a","6a8cdee263124f3d8ea65a89",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee263124f3d8ea65a89","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","43475246-dea5-4cb2-9d1c-43382fa6eeb8.jpg"]}],["$","span",null,{"className":"size","children":"169 КБ"}]]}],["$","a","6a8cdee257a2662b5529ec8f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee257a2662b5529ec8f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","bb1b1b52-9353-412b-8e9c-a3f62bb3658e.jpg"]}],["$","span",null,{"className":"size","children":"124 КБ"}]]}],["$","a","6a8cdee357a2662b5529ec98",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee357a2662b5529ec98","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","e783a99e-2365-4f29-b135-ab7c5f5a5290.jpg"]}],["$","span",null,{"className":"size","children":"150 КБ"}]]}],["$","a","6a8cdee257a2662b5529ec95",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cdee257a2662b5529ec95","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","edea55f5-084d-4f2d-90a0-fbbadef23343.jpg"]}],["$","span",null,{"className":"size","children":"74 КБ"}]]}]]}]]}]
+1b:T1a0d,{
+  "id": "gis-torgi:22000014880000000038_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000014880000000038_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000014880000000038_1",
+  "title": "Нежилое функциональное (встроенное) помещение № 2, I(8-15,18)",
+  "description": "Помещение с кадастровым номером 27:13:0302010:27 площадь 94.2 кв.м., по адресу Хабаровский край, р-н. Советско-Гаванский, рп. Майский, ул. Камчатская, д. 4, пом. 2, I(8-15,18)",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "27",
+  "address": "край Хабаровский, м.р-н Советско-Гаванский, г.п. рабочий поселок Майский, рп. Майский, ул. Камчатская, дом 4",
+  "priceStart": "440000.00",
+  "priceStep": "22000",
+  "deposit": "44000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T02:38:36.703Z",
+  "biddStartAt": "2026-08-26T23:00:00Z",
+  "biddEndAt": "2026-09-22T07:00:00Z",
+  "auctionAt": "2026-09-24T01:00:00Z",
+  "tzOffsetMin": 600,
+  "tzName": "МСК+7",
+  "etpCode": "ETP_EETP",
+  "images": [
+    "6a8cdee2efd603213f1418d1",
+    "6a8cdee2efd603213f1418d4",
+    "6a8cdee257a2662b5529ec92",
+    "6a8cdee263124f3d8ea65a86",
+    "6a8cdee2e096f456f84c2d1b",
+    "6a8cdee263124f3d8ea65a89",
+    "6a8cdee257a2662b5529ec8f",
+    "6a8cdee357a2662b5529ec98",
+    "6a8cdee257a2662b5529ec95"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8cdf0257a2662b5529ec9b",
+      "name": "Выписка из ЕГРН_Камчатская, д. 4, пом. 2, I(8-15,18).pdf",
+      "size": 212541,
+      "sha256": "29bfe48d9fc70428481381496feeae9e34d88d4b84825e6821b308671b4af254"
+    },
+    {
+      "fileId": "6a8cdf1b57a2662b5529eca8",
+      "name": "Выписки 296.pdf",
+      "size": 507490,
+      "sha256": "6384a0751d6ff24ec6eeb99ca1b83c01ff147c3c344673ca7aa55ae4e2fdcd48"
+    },
+    {
+      "fileId": "6a8cdf35efd603213f1418ec",
+      "name": "Технический паспорт (Камчатская, 4) (пом.№ 2, 1(8-15,18).pdf",
+      "size": 2440505,
+      "sha256": "db354654e7e2caeca0daeb6085d0b92b852594e52362f0e7a7aa661d6692f7b8"
+    },
+    {
+      "fileId": "6a8cdee2efd603213f1418d1",
+      "name": "02bd9393-7ec3-43cc-a206-3d8c99415b6b.jpg",
+      "size": 123851,
+      "sha256": "3722f7f342c24c96493056fb8b2096d948fc50b6498dfaa8e4475e697d309203"
+    },
+    {
+      "fileId": "6a8cdee2efd603213f1418d4",
+      "name": "3bad998a-55ca-44cd-bc7f-4efb63badbaa.jpg",
+      "size": 191182,
+      "sha256": "3ec4ff7cd6204636f72ad9f307c7ffcd4db774cf8d2e9f381106980e1399dcb7"
+    },
+    {
+      "fileId": "6a8cdee257a2662b5529ec92",
+      "name": "8bde7f2a-ed41-4ae2-809a-98ce0fe27852.jpg",
+      "size": 147734,
+      "sha256": "7792e6a76e0713dc1ecb5086955ab29885d2c2b0c4fad087c2cea0725d23a407"
+    },
+    {
+      "fileId": "6a8cdee263124f3d8ea65a86",
+      "name": "880ddc01-0612-4a1f-840a-4658c1c6a593.jpg",
+      "size": 209836,
+      "sha256": "09cbac2170982a878065f5e58eb08ec3fc08806a0851eeff20d4505147932868"
+    },
+    {
+      "fileId": "6a8cdee2e096f456f84c2d1b",
+      "name": "560504bc-d1e8-4093-bd8c-ba407cda6c80.jpg",
+      "size": 101329,
+      "sha256": "3bfa54391184034fcc68a55b276728a4bef473c7183bf817320c759f2c9e6d9b"
+    },
+    {
+      "fileId": "6a8cdee263124f3d8ea65a89",
+      "name": "43475246-dea5-4cb2-9d1c-43382fa6eeb8.jpg",
+      "size": 173547,
+      "sha256": "37eb44cb9d1c732ffbaec0a144ee1f35b381023168a5b9fba16f56a137c2204a"
+    },
+    {
+      "fileId": "6a8cdee257a2662b5529ec8f",
+      "name": "bb1b1b52-9353-412b-8e9c-a3f62bb3658e.jpg",
+      "size": 127241,
+      "sha256": "c5feaed2a5f785deba6bc4b99fc000906ea6b5c66b6924544b09aa60c372fb28"
+    },
+    {
+      "fileId": "6a8cdee357a2662b5529ec98",
+      "name": "e783a99e-2365-4f29-b135-ab7c5f5a5290.jpg",
+      "size": 153996,
+      "sha256": "98aa34ccd757ecfefa1a3ee74b68da179593de18a0f0b93adf69b6991c7a967f"
+    },
+    {
+      "fileId": "6a8cdee257a2662b5529ec95",
+      "name": "edea55f5-084d-4f2d-90a0-fbbadef23343.jpg",
+      "size": 75861,
+      "sha256": "8e38a31608e24eb1749ba667bc11149c3bdd9a3047f9d35531897063fe94d947"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "1956",
+      "source": "structured"
+    },
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberObjectRealty",
+      "name": "Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение",
+      "value": "27:13:0302010:27",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "94.2",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "locationObjectRealty",
+      "name": "Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)",
+      "value": "1 этаж",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "27:13:0302010:27",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "typeNolivingQuarters",
+      "name": "Назначение нежилого помещения",
+      "value": "Нежилое функциональное (встроенное) помещение",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:25:48.864Z",
+  "lastSeenAt": "2026-08-25T13:25:48.864Z",
+  "contentHash": "4598668cc015e6f7e241dc1124222ecfa9e49bd9c24eb0943ed4f471378d184d"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"440 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"22 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"44 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 авг. 2026 г., 09:00 (МСК+7)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 17:00 (МСК+7)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"24 сент. 2026 г., 11:00 (МСК+7)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Хабаровский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"EETP"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000014880000000038_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое функциональное (встроенное) помещение № 2, I(8-15,18) — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

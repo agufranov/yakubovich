@@ -1,0 +1,317 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000038210000000224_6",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000038210000000224_6","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000038210000000224_6","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Нежилые здания с земельным участком, расположенные по адресу: Российская Федерация, Краснодарский край, городской округ город Краснодар,               ст-ца Елизаветинская, ул. им. Яна Полуяна, д. 202. (Согласно информационному сообщению)"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Земельный участок со зданием"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0157a2662b55298f60","alt":"Нежилые здания с земельным участком, расположенные по адресу: Российская Федерация, Краснодарский край, городской округ город Краснодар,               ст-ца Елизаветинская, ул. им. Яна Полуяна, д. 202. (Согласно информационному сообщению)"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c2eff57a2662b55298f3d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2eff57a2662b55298f3d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2eff57a2662b55298f3d","alt":"","loading":"lazy"}]}],["$","a","6a8c2eff57a2662b55298f3c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2eff57a2662b55298f3c","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2eff57a2662b55298f3c","alt":"","loading":"lazy"}]}],["$","a","6a8c2efeac85246d2d852dbd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2efeac85246d2d852dbd","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2efeac85246d2d852dbd","alt":"","loading":"lazy"}]}],["$","a","6a8c2efdefd603213f13bdce",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2efdefd603213f13bdce","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2efdefd603213f13bdce","alt":"","loading":"lazy"}]}],["$","a","6a8c2efdefd603213f13bdb7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2efdefd603213f13bdb7","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2efdefd603213f13bdb7","alt":"","loading":"lazy"}]}],["$","a","6a8c2f0163124f3d8ea60d17",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0163124f3d8ea60d17","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0163124f3d8ea60d17","alt":"","loading":"lazy"}]}],["$","a","6a8c2f0457a2662b55298f9f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0457a2662b55298f9f","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0457a2662b55298f9f","alt":"","loading":"lazy"}]}],["$","a","6a8c2f0357a2662b55298f7d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0357a2662b55298f7d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0357a2662b55298f7d","alt":"","loading":"lazy"}]}],["$","a","6a8c2f06ac85246d2d852df7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f06ac85246d2d852df7","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f06ac85246d2d852df7","alt":"","loading":"lazy"}]}],["$","a","6a8c2f04ac85246d2d852dd7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f04ac85246d2d852dd7","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f04ac85246d2d852dd7","alt":"","loading":"lazy"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e"]}]]}],"$L1f",false,"$L20","$L21",false,"$L22"]}],"$L23"]}]]}]
+11:["$","a","6a8c2f0457a2662b55298fb4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0457a2662b55298fb4","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0457a2662b55298fb4","alt":"","loading":"lazy"}]}]
+12:["$","a","6a8c2f0663124f3d8ea60d2c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0663124f3d8ea60d2c","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0663124f3d8ea60d2c","alt":"","loading":"lazy"}]}]
+13:["$","a","6a8c2f0757a2662b55298fc8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0757a2662b55298fc8","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0757a2662b55298fc8","alt":"","loading":"lazy"}]}]
+14:["$","a","6a8c2f08ac85246d2d852e0f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f08ac85246d2d852e0f","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f08ac85246d2d852e0f","alt":"","loading":"lazy"}]}]
+15:["$","a","6a8c2f09efd603213f13bde4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f09efd603213f13bde4","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f09efd603213f13bde4","alt":"","loading":"lazy"}]}]
+16:["$","a","6a8c2f0857a2662b55298fde",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0857a2662b55298fde","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0857a2662b55298fde","alt":"","loading":"lazy"}]}]
+17:["$","a","6a8c2f0aac85246d2d852e25",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0aac85246d2d852e25","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0aac85246d2d852e25","alt":"","loading":"lazy"}]}]
+18:["$","a","6a8c2f0b57a2662b55298ff4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0b57a2662b55298ff4","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0b57a2662b55298ff4","alt":"","loading":"lazy"}]}]
+19:["$","a","6a8c2f0b63124f3d8ea60d5c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0b63124f3d8ea60d5c","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0b63124f3d8ea60d5c","alt":"","loading":"lazy"}]}]
+1a:["$","a","6a8c2f0b63124f3d8ea60d5d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0b63124f3d8ea60d5d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0b63124f3d8ea60d5d","alt":"","loading":"lazy"}]}]
+1b:["$","a","6a8c2f0c57a2662b55299007",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0c57a2662b55299007","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0c57a2662b55299007","alt":"","loading":"lazy"}]}]
+1c:["$","a","6a8c2f0e57a2662b5529901d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0e57a2662b5529901d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0e57a2662b5529901d","alt":"","loading":"lazy"}]}]
+1d:["$","a","6a8c2f0fac85246d2d852e3d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0fac85246d2d852e3d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0fac85246d2d852e3d","alt":"","loading":"lazy"}]}]
+1e:["$","a","6a8c2f0f57a2662b55299036",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0f57a2662b55299036","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0f57a2662b55299036","alt":"","loading":"lazy"}]}]
+1f:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилые здания с земельным участком, расположенные по адресу: Российская Федерация, Краснодарский край, городской округ город Краснодар, ст-ца Елизаветинская, ул. им. Яна Полуяна, д. 202. (Согласно информационному сообщению)"}]]}]
+20:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Краснодарский, г.о. город Краснодар, ст-ца Елизаветинская, ул. им. Яна Полуяна, дом 202"}]]}]
+21:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",33,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c3027ac85246d2d852f71",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c3027ac85246d2d852f71","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Нежилое здание.pdf"]}],["$","span",null,{"className":"size","children":"357 КБ"}]]}],["$","a","6a8c302757a2662b55299142",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c302757a2662b55299142","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","стр В.pdf"]}],["$","span",null,{"className":"size","children":"281 КБ"}]]}],["$","a","6a8c3027ac85246d2d852f72",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c3027ac85246d2d852f72","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","стр Е.pdf"]}],["$","span",null,{"className":"size","children":"301 КБ"}]]}],["$","a","6a8c3027ac85246d2d852f7b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c3027ac85246d2d852f7b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","стр. А.pdf"]}],["$","span",null,{"className":"size","children":"268 КБ"}]]}],["$","a","6a8c3027ac85246d2d852f73",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c3027ac85246d2d852f73","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","стр. Б.pdf"]}],["$","span",null,{"className":"size","children":"278 КБ"}]]}],["$","a","6a8c3027ac85246d2d852f7a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c3027ac85246d2d852f7a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","стр. Г.pdf"]}],["$","span",null,{"className":"size","children":"267 КБ"}]]}],["$","a","6a8c3028efd603213f13bf77",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c3028efd603213f13bf77","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","стр. Д.pdf"]}],["$","span",null,{"className":"size","children":"248 КБ"}]]}],["$","a","6a8c31a1efd603213f13c30a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c31a1efd603213f13c30a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Земельный участок.pdf"]}],["$","span",null,{"className":"size","children":"450 КБ"}]]}],["$","a","6a8c2f0157a2662b55298f60",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0157a2662b55298f60","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_103053.jpg"]}],["$","span",null,{"className":"size","children":"8.1 МБ"}]]}],["$","a","6a8c2eff57a2662b55298f3d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2eff57a2662b55298f3d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_103108.jpg"]}],["$","span",null,{"className":"size","children":"8.2 МБ"}]]}],["$","a","6a8c2eff57a2662b55298f3c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2eff57a2662b55298f3c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_103523.jpg"]}],["$","span",null,{"className":"size","children":"7.4 МБ"}]]}],["$","a","6a8c2efeac85246d2d852dbd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2efeac85246d2d852dbd","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_103531.jpg"]}],["$","span",null,{"className":"size","children":"6.2 МБ"}]]}],["$","a","6a8c2efdefd603213f13bdce",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2efdefd603213f13bdce","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_103553.jpg"]}],["$","span",null,{"className":"size","children":"5.0 МБ"}]]}],["$","a","6a8c2efdefd603213f13bdb7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2efdefd603213f13bdb7","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_103601.jpg"]}],["$","span",null,{"className":"size","children":"4.6 МБ"}]]}],["$","a","6a8c2f0163124f3d8ea60d17",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0163124f3d8ea60d17","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_103606.jpg"]}],["$","span",null,{"className":"size","children":"4.3 МБ"}]]}],["$","a","6a8c2f0457a2662b55298f9f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0457a2662b55298f9f","target":"_blank","rel":"noopener","children":["$L24","$L25"]}],"$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36"]}]]}]
+37:T2642,{
+  "id": "gis-torgi:22000038210000000224_6",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000038210000000224_6",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000038210000000224_6",
+  "title": "Нежилые здания с земельным участком, расположенные по адресу: Российская Федерация, Краснодарский край, городской округ город Краснодар,               ст-ца Елизаветинская, ул. им. Яна Полуяна, д. 202. (Согласно информационному сообщению)",
+  "description": "Нежилые здания с земельным участком, расположенные по адресу: Российская Федерация, Краснодарский край, городской округ город Краснодар, ст-ца Елизаветинская, ул. им. Яна Полуяна, д. 202. (Согласно информационному сообщению)",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "903",
+  "categoryName": "Земельный участок со зданием",
+  "regionCode": "23",
+  "address": "край Краснодарский, г.о. город Краснодар, ст-ца Елизаветинская, ул. им. Яна Полуяна, дом 202",
+  "priceStart": "13577762.86",
+  "priceStep": "678888.14",
+  "deposit": "1357776.29",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T14:23:28.724Z",
+  "biddStartAt": "2026-08-27T09:00:00Z",
+  "biddEndAt": "2026-09-29T07:00:00Z",
+  "auctionAt": "2026-10-06T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_EETP",
+  "images": [
+    "6a8c2f0157a2662b55298f60",
+    "6a8c2eff57a2662b55298f3d",
+    "6a8c2eff57a2662b55298f3c",
+    "6a8c2efeac85246d2d852dbd",
+    "6a8c2efdefd603213f13bdce",
+    "6a8c2efdefd603213f13bdb7",
+    "6a8c2f0163124f3d8ea60d17",
+    "6a8c2f0457a2662b55298f9f",
+    "6a8c2f0357a2662b55298f7d",
+    "6a8c2f06ac85246d2d852df7",
+    "6a8c2f04ac85246d2d852dd7",
+    "6a8c2f0457a2662b55298fb4",
+    "6a8c2f0663124f3d8ea60d2c",
+    "6a8c2f0757a2662b55298fc8",
+    "6a8c2f08ac85246d2d852e0f",
+    "6a8c2f09efd603213f13bde4",
+    "6a8c2f0857a2662b55298fde",
+    "6a8c2f0aac85246d2d852e25",
+    "6a8c2f0b57a2662b55298ff4",
+    "6a8c2f0b63124f3d8ea60d5c",
+    "6a8c2f0b63124f3d8ea60d5d",
+    "6a8c2f0c57a2662b55299007",
+    "6a8c2f0e57a2662b5529901d",
+    "6a8c2f0fac85246d2d852e3d",
+    "6a8c2f0f57a2662b55299036"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c3027ac85246d2d852f71",
+      "name": "Нежилое здание.pdf",
+      "size": 365940,
+      "sha256": "2673debfbdc1bf65dff169e3f3343d6c861a45d5ce1ee1a935fb65dcae3e1e8f"
+    },
+    {
+      "fileId": "6a8c302757a2662b55299142",
+      "name": "стр В.pdf",
+      "size": 288156,
+      "sha256": "728e19903d48bebdd732b9fd65cbb53bbeb4502a9db670e4d7b60057da600db5"
+    },
+    {
+      "fileId": "6a8c3027ac85246d2d852f72",
+      "name": "стр Е.pdf",
+      "size": 308299,
+      "sha256": "aaf9872574ee735c29b025aa85680b4528461bf4f4bf502a00264677e2d99857"
+    },
+    {
+      "fileId": "6a8c3027ac85246d2d852f7b",
+      "name": "стр. А.pdf",
+      "size": 274141,
+      "sha256": "06d45543361a66bb0d590d7e901064c6026d78fcb5978e7dd1d7e2c66e9e770e"
+    },
+    {
+      "fileId": "6a8c3027ac85246d2d852f73",
+      "name": "стр. Б.pdf",
+      "size": 284857,
+      "sha256": "83f1447852f05d169bdc9c159aaa76d33c55b6ab4f3bb62c4c7c050d614ee578"
+    },
+    {
+      "fileId": "6a8c3027ac85246d2d852f7a",
+      "name": "стр. Г.pdf",
+      "size": 273129,
+      "sha256": "5bd97b61de42d987e66a2201bf1da25e49141b050cfa45bab41981192ad69b28"
+    },
+    {
+      "fileId": "6a8c3028efd603213f13bf77",
+      "name": "стр. Д.pdf",
+      "size": 253478,
+      "sha256": "9e5868f9aa67b567a72a28a022b644214406b7bfea51b002c79aed0508a34bf7"
+    },
+    {
+      "fileId": "6a8c31a1efd603213f13c30a",
+      "name": "Земельный участок.pdf",
+      "size": 461218,
+      "sha256": "273234887e074013add6f68b451b31d2c12fefd29f7624125aa2320b6c731c89"
+    },
+    {
+      "fileId": "6a8c2f0157a2662b55298f60",
+      "name": "IMG_20230622_103053.jpg",
+      "size": 8501997,
+      "sha256": "5e8bd23c5ac45790cf3043227e7c6b89de5c82178c1f42b15795212563eb42db"
+    },
+    {
+      "fileId": "6a8c2eff57a2662b55298f3d",
+      "name": "IMG_20230622_103108.jpg",
+      "size": 8601745,
+      "sha256": "dedd0b9768f548420a2e530d95d9a71a11d553ae6c157b7a19d9b1697bdc0fbe"
+    },
+    {
+      "fileId": "6a8c2eff57a2662b55298f3c",
+      "name": "IMG_20230622_103523.jpg",
+      "size": 7802113,
+      "sha256": "726a00ffc17bfb2b086ee5aa96b45a9f5cb5970158621952955021d399f87cd5"
+    },
+    {
+      "fileId": "6a8c2efeac85246d2d852dbd",
+      "name": "IMG_20230622_103531.jpg",
+      "size": 6457537,
+      "sha256": "ef5ceb51c23dcc11c37613e53e92b4cb4dadefebf8c48082ee0423203253107b"
+    },
+    {
+      "fileId": "6a8c2efdefd603213f13bdce",
+      "name": "IMG_20230622_103553.jpg",
+      "size": 5247191,
+      "sha256": "9be0708ed7a6a3cc674b6751668fe39acbcb9b967d83cfad2468b50955a4064f"
+    },
+    {
+      "fileId": "6a8c2efdefd603213f13bdb7",
+      "name": "IMG_20230622_103601.jpg",
+      "size": 4849002,
+      "sha256": "9710d4c0e9348c6036bdf5a8ad16be87cb5877ca1c59e137146dad734c4b7951"
+    },
+    {
+      "fileId": "6a8c2f0163124f3d8ea60d17",
+      "name": "IMG_20230622_103606.jpg",
+      "size": 4488585,
+      "sha256": "44e8c4375120c41dc075d28f051a92b84e0060e70ca60ab143796f9e4d77dcf1"
+    },
+    {
+      "fileId": "6a8c2f0457a2662b55298f9f",
+      "name": "IMG_20230622_103650.jpg",
+      "size": 8196086,
+      "sha256": "eaccdb80b34f4751117e80190dec658e0cb4d081eacf3260335ef8e6965460b4"
+    },
+    {
+      "fileId": "6a8c2f0357a2662b55298f7d",
+      "name": "IMG_20230622_103706.jpg",
+      "size": 6972659,
+      "sha256": "e9e3bce8ea0a1ab22d26f826a252590226f873d7e49c9c027af0a0ebbdb9f044"
+    },
+    {
+      "fileId": "6a8c2f06ac85246d2d852df7",
+      "name": "IMG_20230622_103753.jpg",
+      "size": 7743392,
+      "sha256": "c2c1ae8696c86f38d768a70a7548022d08afe959277f298b0e1814df43463fd6"
+    },
+    {
+      "fileId": "6a8c2f04ac85246d2d852dd7",
+      "name": "IMG_20230622_104022.jpg",
+      "size": 5369061,
+      "sha256": "328951cedc8be40eb1b060b82a9855d4ea0fd4c3e03d5beb6947dc7c1d9daa88"
+    },
+    {
+      "fileId": "6a8c2f0457a2662b55298fb4",
+      "name": "IMG_20230622_104032.jpg",
+      "size": 4814976,
+      "sha256": "35994aac8451750280857fb225a5d1ed04b3939d90d14c95fd4cc4ae9dce891a"
+    },
+    {
+      "fileId": "6a8c2f0663124f3d8ea60d2c",
+      "name": "IMG_20230622_104037.jpg",
+      "size": 4716081,
+      "sha256": "f74e07d0c72d3c2877fb8d3c07a14aaf519854ddb6b5bf69594f856bbb21c6ba"
+    },
+    {
+      "fileId": "6a8c2f0757a2662b55298fc8",
+      "name": "IMG_20230622_104053.jpg",
+      "size": 4697553,
+      "sha256": "446c9beb81f7d8332d48375a5c82c99b8ace43bf25f0effb244d12ed91b8de4d"
+    },
+    {
+      "fileId": "6a8c2f08ac85246d2d852e0f",
+      "name": "IMG_20230622_104102.jpg",
+      "size": 4801402,
+      "sha256": "fbe695d62010466ca1425e2e2cbc0fae184d0d352576b4ee2e3d0d8cfde2029c"
+    },
+    {
+      "fileId": "6a8c2f09efd603213f13bde4",
+      "name": "IMG_20230622_104130.jpg",
+      "size": 5115164,
+      "sha256": "bf3fec52f830ef4946b2012b4a3790b1aabbb7d2aee889a9e1097567568cf5ca"
+    },
+    {
+      "fileId": "6a8c2f0857a2662b55298fde",
+      "name": "IMG_20230622_104134.jpg",
+      "size": 5157717,
+      "sha256": "a0860d47ed3b9d3aba6947ff43469109eb1a03c889276534d4c5995e5c77b3ef"
+    },
+    {
+      "fileId": "6a8c2f0aac85246d2d852e25",
+      "name": "IMG_20230622_104203.jpg",
+      "size": 4972554,
+      "sha256": "4c6c8fb702fc992860dbb770b43b7ce640ecaa793b40ea2668c752bfd5a8ba10"
+    },
+    {
+      "fileId": "6a8c2f0b57a2662b55298ff4",
+      "name": "IMG_20230622_104210.jpg",
+      "size": 5211593,
+      "sha256": "b9df2bc2db95cc7e2acf45cec7fff999895fcdc4e2704ea8795b0ccae915a7e6"
+    },
+    {
+      "fileId": "6a8c2f0b63124f3d8ea60d5c",
+      "name": "IMG_20230622_104254.jpg",
+      "size": 5477503,
+      "sha256": "e5078aa4e6add58126d72fb29dc271e2208e964d2900b0dde8372e0f6e22e6dc"
+    },
+    {
+      "fileId": "6a8c2f0b63124f3d8ea60d5d",
+      "name": "IMG_20230622_104313.jpg",
+      "size": 5334657,
+      "sha256": "29349002c7ce4d73031677b21422662c786d7d7abb149c1f9f7fa032c0d9f671"
+    },
+    {
+      "fileId": "6a8c2f0c57a2662b55299007",
+      "name": "IMG_20230622_104402.jpg",
+      "size": 4180580,
+      "sha256": "f6656104f64a1663aa0acc73587ff6254df98714c10622e9517b692a020431c1"
+    },
+    {
+      "fileId": "6a8c2f0e57a2662b5529901d",
+      "name": "IMG_20230622_104407.jpg",
+      "size": 4993147,
+      "sha256": "5229c9604148aab1d1e099d42a2a69cf78480f31ab6de7093ce359eb035fd47e"
+    },
+    {
+      "fileId": "6a8c2f0fac85246d2d852e3d",
+      "name": "IMG_20230622_104414.jpg",
+      "size": 4911498,
+      "sha256": "ce2c36f57b6d64d99afce5d6332ca0e83051767f6836662b6224192f8c710403"
+    },
+    {
+      "fileId": "6a8c2f0f57a2662b55299036",
+      "name": "IMG_20230622_104416.jpg",
+      "size": 5047866,
+      "sha256": "049d02fca9d5146d2dd87c56fb2d5928fb9a7f34efd721e43afed506c6e73abb"
+    }
+  ],
+  "attributes": [],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:29:39.792Z",
+  "lastSeenAt": "2026-08-25T13:29:39.792Z",
+  "contentHash": "828a15d2a24e7ad06f02efb1f1d549691f54d11226b309bf438c3b753ca7c1da"
+}22:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$37"}]]}]
+23:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"13 577 762,86 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"678 888,14 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"1 357 776,29 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 авг. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"29 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"33 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"6 окт. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"EETP"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000038210000000224_6","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+24:["$","span",null,{"children":["📎 ","IMG_20230622_103650.jpg"]}]
+25:["$","span",null,{"className":"size","children":"7.8 МБ"}]
+26:["$","a","6a8c2f0357a2662b55298f7d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0357a2662b55298f7d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_103706.jpg"]}],["$","span",null,{"className":"size","children":"6.6 МБ"}]]}]
+27:["$","a","6a8c2f06ac85246d2d852df7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f06ac85246d2d852df7","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_103753.jpg"]}],["$","span",null,{"className":"size","children":"7.4 МБ"}]]}]
+28:["$","a","6a8c2f04ac85246d2d852dd7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f04ac85246d2d852dd7","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104022.jpg"]}],["$","span",null,{"className":"size","children":"5.1 МБ"}]]}]
+29:["$","a","6a8c2f0457a2662b55298fb4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0457a2662b55298fb4","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104032.jpg"]}],["$","span",null,{"className":"size","children":"4.6 МБ"}]]}]
+2a:["$","a","6a8c2f0663124f3d8ea60d2c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0663124f3d8ea60d2c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104037.jpg"]}],["$","span",null,{"className":"size","children":"4.5 МБ"}]]}]
+2b:["$","a","6a8c2f0757a2662b55298fc8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0757a2662b55298fc8","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104053.jpg"]}],["$","span",null,{"className":"size","children":"4.5 МБ"}]]}]
+2c:["$","a","6a8c2f08ac85246d2d852e0f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f08ac85246d2d852e0f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104102.jpg"]}],["$","span",null,{"className":"size","children":"4.6 МБ"}]]}]
+2d:["$","a","6a8c2f09efd603213f13bde4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f09efd603213f13bde4","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104130.jpg"]}],["$","span",null,{"className":"size","children":"4.9 МБ"}]]}]
+2e:["$","a","6a8c2f0857a2662b55298fde",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0857a2662b55298fde","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104134.jpg"]}],["$","span",null,{"className":"size","children":"4.9 МБ"}]]}]
+2f:["$","a","6a8c2f0aac85246d2d852e25",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0aac85246d2d852e25","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104203.jpg"]}],["$","span",null,{"className":"size","children":"4.7 МБ"}]]}]
+30:["$","a","6a8c2f0b57a2662b55298ff4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0b57a2662b55298ff4","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104210.jpg"]}],["$","span",null,{"className":"size","children":"5.0 МБ"}]]}]
+31:["$","a","6a8c2f0b63124f3d8ea60d5c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0b63124f3d8ea60d5c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104254.jpg"]}],["$","span",null,{"className":"size","children":"5.2 МБ"}]]}]
+32:["$","a","6a8c2f0b63124f3d8ea60d5d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0b63124f3d8ea60d5d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104313.jpg"]}],["$","span",null,{"className":"size","children":"5.1 МБ"}]]}]
+33:["$","a","6a8c2f0c57a2662b55299007",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0c57a2662b55299007","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104402.jpg"]}],["$","span",null,{"className":"size","children":"4.0 МБ"}]]}]
+34:["$","a","6a8c2f0e57a2662b5529901d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0e57a2662b5529901d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104407.jpg"]}],["$","span",null,{"className":"size","children":"4.8 МБ"}]]}]
+35:["$","a","6a8c2f0fac85246d2d852e3d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0fac85246d2d852e3d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104414.jpg"]}],["$","span",null,{"className":"size","children":"4.7 МБ"}]]}]
+36:["$","a","6a8c2f0f57a2662b55299036",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c2f0f57a2662b55299036","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20230622_104416.jpg"]}],["$","span",null,{"className":"size","children":"4.8 МБ"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилые здания с земельным участком, расположенные по адресу: Российская Федерация, Красно — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

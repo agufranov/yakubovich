@@ -1,0 +1,156 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000086100000000588_9",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000086100000000588_9","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000086100000000588_9","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=13","children":"Мордовия"}]]]}],["$","h1",null,{"children":"4/6 доля в праве общей долевой собственности на земельный участок площадью 587+/-17 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Земли сельскохозяйственного назначения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c545763124f3d8ea6413e","alt":"4/6 доля в праве общей долевой собственности на земельный участок площадью 587+/-17 кв.м."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c545857a2662b5529cf14",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c545857a2662b5529cf14","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c545857a2662b5529cf14","alt":"","loading":"lazy"}]}],["$","a","6a8c5458e096f456f84c14cb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5458e096f456f84c14cb","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5458e096f456f84c14cb","alt":"","loading":"lazy"}]}],["$","a","6a8c5458efd603213f13fc76",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5458efd603213f13fc76","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5458efd603213f13fc76","alt":"","loading":"lazy"}]}],["$","a","6a8c5457efd603213f13fc72",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5457efd603213f13fc72","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5457efd603213f13fc72","alt":"","loading":"lazy"}]}],["$","a","6a8c545763124f3d8ea64142",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c545763124f3d8ea64142","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c545763124f3d8ea64142","alt":"","loading":"lazy"}]}],["$","a","6a8c545857a2662b5529cf18",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c545857a2662b5529cf18","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c545857a2662b5529cf18","alt":"","loading":"lazy"}]}],["$","a","6a8c545857a2662b5529cf1c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c545857a2662b5529cf1c","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c545857a2662b5529cf1c","alt":"","loading":"lazy"}]}],["$","a","6a8c5458efd603213f13fc7a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5458efd603213f13fc7a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5458efd603213f13fc7a","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"4/6 доля в праве общей долевой собственности на земельный участок площадью 587+/-17 кв.м., кад. № 13:23:1209002:78, категория земель: земли сельскохозяйственного назначения, виды разрешённого использования: для ведения садоводства. Доля в праве на земельный участок принадлежит должнику  Сепер М.А. Сведениями о фактическом состоянии объекта недвижимости организатор торгов не располагает. Техническая документация на объект недвижимости и его фотографии отсутствуют у организатора торгов."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":"$L11"}]]}],"$L12","$L13",false,"$L14"]}],"$L15"]}]]}]
+11:["$","tbody",null,{"children":[["$","tr","PermittedUse",{"children":[["$","td",null,{"children":"Основной вид разрешенного использования"}],["$","td",null,{"children":["Иной вид",""]}]]}],["$","tr","CadastralNumber",{"children":[["$","td",null,{"children":"Кадастровый номер земельного участка"}],["$","td",null,{"children":["13:23:1209002:78",""]}]]}],["$","tr","SquareZU",{"children":[["$","td",null,{"children":"Площадь земельного участка"}],["$","td",null,{"children":["587"," м^2"]}]]}],["$","tr","regNumberEGROKN",{"children":[["$","td",null,{"children":"Регистрационный номер ЕГРОКН"}],["$","td",null,{"children":["13:23:1209002:78-13/066/2021-3",""]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"респ. Мордовия установлено относительно ориентира, расположенного в границах участка. Почтовый адрес ориентира: Респ. Мордовия, г. Саранск, с.  Куликовка, в районе ул. Крупской, СНТ «Колос»."}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",10,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c512fefd603213f13f85b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c512fefd603213f13f85b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","постановление 9.pdf"]}],["$","span",null,{"className":"size","children":"235 КБ"}]]}],["$","a","6a8c545763124f3d8ea6413e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c545763124f3d8ea6413e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-1.jpg"]}],["$","span",null,{"className":"size","children":"469 КБ"}]]}],["$","a","6a8c545857a2662b5529cf14",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c545857a2662b5529cf14","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-2.jpg"]}],["$","span",null,{"className":"size","children":"587 КБ"}]]}],["$","a","6a8c5458e096f456f84c14cb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5458e096f456f84c14cb","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-3.jpg"]}],["$","span",null,{"className":"size","children":"524 КБ"}]]}],["$","a","6a8c5458efd603213f13fc76",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5458efd603213f13fc76","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-4.jpg"]}],["$","span",null,{"className":"size","children":"475 КБ"}]]}],["$","a","6a8c5457efd603213f13fc72",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5457efd603213f13fc72","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-5.jpg"]}],["$","span",null,{"className":"size","children":"389 КБ"}]]}],["$","a","6a8c545763124f3d8ea64142",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c545763124f3d8ea64142","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-6.jpg"]}],["$","span",null,{"className":"size","children":"484 КБ"}]]}],["$","a","6a8c545857a2662b5529cf18",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c545857a2662b5529cf18","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-7.jpg"]}],["$","span",null,{"className":"size","children":"464 КБ"}]]}],["$","a","6a8c545857a2662b5529cf1c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c545857a2662b5529cf1c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-8.jpg"]}],["$","span",null,{"className":"size","children":"480 КБ"}]]}],["$","a","6a8c5458efd603213f13fc7a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5458efd603213f13fc7a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-9.jpg"]}],["$","span",null,{"className":"size","children":"493 КБ"}]]}]]}]]}]
+16:T15f6,{
+  "id": "gis-torgi:22000086100000000588_9",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000086100000000588_9",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000086100000000588_9",
+  "title": "4/6 доля в праве общей долевой собственности на земельный участок площадью 587+/-17 кв.м.",
+  "description": "4/6 доля в праве общей долевой собственности на земельный участок площадью 587+/-17 кв.м., кад. № 13:23:1209002:78, категория земель: земли сельскохозяйственного назначения, виды разрешённого использования: для ведения садоводства. Доля в праве на земельный участок принадлежит должнику  Сепер М.А. Сведениями о фактическом состоянии объекта недвижимости организатор торгов не располагает. Техническая документация на объект недвижимости и его фотографии отсутствуют у организатора торгов.",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "land",
+  "categoryCode": "4",
+  "categoryName": "Земли сельскохозяйственного назначения",
+  "regionCode": "13",
+  "address": "респ. Мордовия установлено относительно ориентира, расположенного в границах участка. Почтовый адрес ориентира: Респ. Мордовия, г. Саранск, с.  Куликовка, в районе ул. Крупской, СНТ «Колос».",
+  "priceStart": "302000.00",
+  "priceStep": "1000",
+  "deposit": "45300",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T16:07:35.078Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-18T15:00:00Z",
+  "auctionAt": "2026-09-24T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8c545763124f3d8ea6413e",
+    "6a8c545857a2662b5529cf14",
+    "6a8c5458e096f456f84c14cb",
+    "6a8c5458efd603213f13fc76",
+    "6a8c5457efd603213f13fc72",
+    "6a8c545763124f3d8ea64142",
+    "6a8c545857a2662b5529cf18",
+    "6a8c545857a2662b5529cf1c",
+    "6a8c5458efd603213f13fc7a"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c512fefd603213f13f85b",
+      "name": "постановление 9.pdf",
+      "size": 240997,
+      "sha256": "d605b299e9771551d1c7722dc024702612780eca41c9f9acf16b1ec3e3e60911"
+    },
+    {
+      "fileId": "6a8c545763124f3d8ea6413e",
+      "name": "file-1.jpg",
+      "size": 480230,
+      "sha256": "a700d11dfb79791393b143db6e5ce5a36d724c2eab4e7617344f890bf92a9c32"
+    },
+    {
+      "fileId": "6a8c545857a2662b5529cf14",
+      "name": "file-2.jpg",
+      "size": 601396,
+      "sha256": "0d81938b4f8f42571d1eb037b4d47d33c5d4d906aa2ccc1fe1d9d77b05f1d8d6"
+    },
+    {
+      "fileId": "6a8c5458e096f456f84c14cb",
+      "name": "file-3.jpg",
+      "size": 536254,
+      "sha256": "a56742f703506c1823eef046f9b20690cf17a64500a9e5670ded3e089018e90b"
+    },
+    {
+      "fileId": "6a8c5458efd603213f13fc76",
+      "name": "file-4.jpg",
+      "size": 486233,
+      "sha256": "b1e2125e2dddb34a6c7630b991f8b40f7bde9ed0d64ef96f365b42219cb020dd"
+    },
+    {
+      "fileId": "6a8c5457efd603213f13fc72",
+      "name": "file-5.jpg",
+      "size": 398497,
+      "sha256": "f67b9d8fd5b5556fb44af2c06193a1a534465fdfeb4d5b73604d6582c873204a"
+    },
+    {
+      "fileId": "6a8c545763124f3d8ea64142",
+      "name": "file-6.jpg",
+      "size": 495849,
+      "sha256": "f6575119af59b70a80e54e06e9f5746fec94141b06685025f297a380cb139ef4"
+    },
+    {
+      "fileId": "6a8c545857a2662b5529cf18",
+      "name": "file-7.jpg",
+      "size": 475135,
+      "sha256": "6fdf11c1e582ed5abdac59f23523d97788c4100715288cf35627a579a0e38596"
+    },
+    {
+      "fileId": "6a8c545857a2662b5529cf1c",
+      "name": "file-8.jpg",
+      "size": 491787,
+      "sha256": "bc2885038858bce4e68d32281e5d618349fc919186e0535847b89beab4b663ed"
+    },
+    {
+      "fileId": "6a8c5458efd603213f13fc7a",
+      "name": "file-9.jpg",
+      "size": 505090,
+      "sha256": "610ff9f759ea7e4ec88532a7694d0944540d0a0c4d58a7e6b6db4096c615f2fa"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "PermittedUse",
+      "name": "Основной вид разрешенного использования",
+      "value": "Иной вид",
+      "source": "structured"
+    },
+    {
+      "key": "CadastralNumber",
+      "name": "Кадастровый номер земельного участка",
+      "value": "13:23:1209002:78",
+      "source": "structured"
+    },
+    {
+      "key": "SquareZU",
+      "name": "Площадь земельного участка",
+      "value": "587",
+      "unit": "м^2",
+      "source": "structured"
+    },
+    {
+      "key": "regNumberEGROKN",
+      "name": "Регистрационный номер ЕГРОКН",
+      "value": "13:23:1209002:78-13/066/2021-3",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:36:55.588Z",
+  "lastSeenAt": "2026-08-25T11:36:55.588Z",
+  "contentHash": "206c26997d4c68339958a3e37dd0f9f0582b82ea9b440e1f8f3fe7ca13a04515"
+}14:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$16"}]]}]
+15:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"302 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"1 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"45 300 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"18 сент. 2026 г., 18:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"22 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"24 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Мордовия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000086100000000588_9","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"4/6 доля в праве общей долевой собственности на земельный участок площадью 587+/-17 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

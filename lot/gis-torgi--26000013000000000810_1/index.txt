@@ -1,0 +1,109 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--26000013000000000810_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--26000013000000000810_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--26000013000000000810_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Tccf,{
+  "id": "gis-torgi:26000013000000000810_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "26000013000000000810_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/26000013000000000810_1",
+  "title": "Квартира пл. 39,0 кв.м. по адресу: г.Москва, ул.Плещеева, д.10, кв.98, к/н 77:02:0002014:1944",
+  "description": "Квартира пл. 39,0 кв.м. по адресу: г.Москва, ул.Плещеева, д.10, кв.98, к/н 77:02:0002014:1944",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "9",
+  "categoryName": "Жилые помещения",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Бибирево, ул. Плещеева, дом 10",
+  "priceStart": "11782700.00",
+  "priceStep": "58913.5",
+  "deposit": "1178270",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T12:00:45.908Z",
+  "biddStartAt": "2026-08-25T08:00:00Z",
+  "biddEndAt": "2026-09-25T08:00:00Z",
+  "auctionAt": "2026-09-28T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RAD",
+  "images": [
+    "6a8be6ac63124f3d8ea596d2"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8be71a57a2662b55291178",
+      "name": "Алт-55 Документы на Торги.pdf",
+      "size": 8401754,
+      "sha256": "cdc4cba1c10eea80ea60c85fe03bc5948245c3cdd7af173f9028c5122a620d33"
+    },
+    {
+      "fileId": "6a8be71663124f3d8ea5973b",
+      "name": "Алт-55 Поручение.pdf",
+      "size": 694877,
+      "sha256": "539f88218694734927f0952b79690b4c9be613aef80780de06d521d316729070"
+    },
+    {
+      "fileId": "6a8be6ac63124f3d8ea596d2",
+      "name": "Алт-55.png",
+      "size": 2149350,
+      "sha256": "661f0a688c437bc18fbe62256da56052df6c208b2ac6ef71622c92d9fb6eabc8"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "39",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "typeLivingQuarters",
+      "name": "Вид жилого помещения",
+      "value": "Квартира",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "77:02:0002014:1944",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "Арест. Запрет рег.действий.",
+      "source": "structured"
+    },
+    {
+      "key": "shareSizeRealty",
+      "name": "Размер доли (Доля в праве (доля в жилом помещении))",
+      "value": "100",
+      "unit": "%",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:45:28.612Z",
+  "lastSeenAt": "2026-08-25T11:45:28.612Z",
+  "contentHash": "cb76f6840ee2668d52bc095409e53c41156173f99a8bbf7f2b01f719a01b8bd2"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"Квартира пл. 39,0 кв.м. по адресу: г.Москва, ул.Плещеева, д.10, кв.98, к/н 77:02:0002014:1944"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Жилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8be6ac63124f3d8ea596d2","alt":"Квартира пл. 39,0 кв.м. по адресу: г.Москва, ул.Плещеева, д.10, кв.98, к/н 77:02:0002014:1944"}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Квартира пл. 39,0 кв.м. по адресу: г.Москва, ул.Плещеева, д.10, кв.98, к/н 77:02:0002014:1944"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["39"," м^2 общ. пл"]}]]}],["$","tr","typeLivingQuarters",{"children":[["$","td",null,{"children":"Вид жилого помещения"}],["$","td",null,{"children":["Квартира",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["77:02:0002014:1944",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["Арест. Запрет рег.действий.",""]}]]}],["$","tr","shareSizeRealty",{"children":[["$","td",null,{"children":"Размер доли (Доля в праве (доля в жилом помещении))"}],["$","td",null,{"children":["100"," %"]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Бибирево, ул. Плещеева, дом 10"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8be71a57a2662b55291178",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8be71a57a2662b55291178","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Алт-55 Документы на Торги.pdf"]}],["$","span",null,{"className":"size","children":"8.0 МБ"}]]}],["$","a","6a8be71663124f3d8ea5973b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8be71663124f3d8ea5973b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Алт-55 Поручение.pdf"]}],["$","span",null,{"className":"size","children":"679 КБ"}]]}],["$","a","6a8be6ac63124f3d8ea596d2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8be6ac63124f3d8ea596d2","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Алт-55.png"]}],["$","span",null,{"className":"size","children":"2.0 МБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"11 782 700 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"58 913,50 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"1 178 270 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 11:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"25 сент. 2026 г., 11:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"29 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"28 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RAD"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/26000013000000000810_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Квартира пл. 39,0 кв.м. по адресу: г.Москва, ул.Плещеева, д.10, кв.98, к/н 77:02:0002014:1 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

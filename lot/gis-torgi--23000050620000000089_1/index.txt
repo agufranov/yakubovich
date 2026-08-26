@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000050620000000089_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000050620000000089_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000050620000000089_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"(повт) Д-к Ганеев М.Б. А/м MITSUBISHI PAJERO SPORT 3.0, г/в 2010, г/н Р987КМ123, VIN MMCGYKH60BFZ03577. Обременение:арест, н/ц 1 126 162,45 руб., з-к 225 232,00 руб., ш/а 11 261,00 руб."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4fbf57a2662b5529c9b5","alt":"(повт) Д-к Ганеев М.Б. А/м MITSUBISHI PAJERO SPORT 3.0, г/в 2010, г/н Р987КМ123, VIN MMCGYKH60BFZ03577. Обременение:арест, н/ц 1 126 162,45 руб., з-к 225 232,00 руб., ш/а 11 261,00 руб."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c4fbe57a2662b5529c9b1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4fbe57a2662b5529c9b1","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4fbe57a2662b5529c9b1","alt":"","loading":"lazy"}]}],["$","a","6a8c4fbeefd603213f13f66d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4fbeefd603213f13f66d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4fbeefd603213f13f66d","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"(повт) Д-к Ганеев М.Б. А/м MITSUBISHI PAJERO SPORT 3.0, г/в 2010, г/н Р987КМ123, VIN MMCGYKH60BFZ03577. Обременение:арест, н/ц 1 126 162,45 руб., з-к 225 232,00 руб., ш/а 11 261,00 руб."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["Автомобиль",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2010",""]}]]}],["$","tr","regNumber",{"children":[["$","td",null,{"children":"Государственный регистрационный знак"}],["$","td",null,{"children":["Р987КМ123",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["MMCGYKH60BFZ03577",""]}]]}],["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["MITSUBISHI PAJERO SPORT 3.0",""]}]]}],["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["MITSUBISHI PAJERO SPORT 3.0",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Краснодарский"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c4fbf57a2662b5529c9b5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4fbf57a2662b5529c9b5","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_1.jpg"]}],["$","span",null,{"className":"size","children":"286 КБ"}]]}],["$","a","6a8c4fbe57a2662b5529c9b1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4fbe57a2662b5529c9b1","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_2.jpg"]}],["$","span",null,{"className":"size","children":"235 КБ"}]]}],["$","a","6a8c4fbeefd603213f13f66d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4fbeefd603213f13f66d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_3.jpg"]}],["$","span",null,{"className":"size","children":"207 КБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":["$L11","$L12"]}]]}],"$L13"]}]]}]
+11:["$","summary",null,{"children":"Служебные данные лота"}]
+14:Td74,{
+  "id": "gis-torgi:23000050620000000089_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000050620000000089_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000050620000000089_1",
+  "title": "(повт) Д-к Ганеев М.Б. А/м MITSUBISHI PAJERO SPORT 3.0, г/в 2010, г/н Р987КМ123, VIN MMCGYKH60BFZ03577. Обременение:арест, н/ц 1 126 162,45 руб., з-к 225 232,00 руб., ш/а 11 261,00 руб.",
+  "description": "(повт) Д-к Ганеев М.Б. А/м MITSUBISHI PAJERO SPORT 3.0, г/в 2010, г/н Р987КМ123, VIN MMCGYKH60BFZ03577. Обременение:арест, н/ц 1 126 162,45 руб., з-к 225 232,00 руб., ш/а 11 261,00 руб.",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "23",
+  "address": "край Краснодарский",
+  "priceStart": "1126162.45",
+  "priceStep": "11261",
+  "deposit": "225232",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T11:16:39.979Z",
+  "biddStartAt": "2026-08-26T07:00:00Z",
+  "biddEndAt": "2026-09-21T13:00:00Z",
+  "auctionAt": "2026-09-25T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_MMVB",
+  "images": [
+    "6a8c4fbf57a2662b5529c9b5",
+    "6a8c4fbe57a2662b5529c9b1",
+    "6a8c4fbeefd603213f13f66d"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c4fbf57a2662b5529c9b5",
+      "name": "фото_1.jpg",
+      "size": 292748,
+      "sha256": "696724824acc939d262ba7ad7b744fa6363162cd01ac594e9e1bbc6d98173387"
+    },
+    {
+      "fileId": "6a8c4fbe57a2662b5529c9b1",
+      "name": "фото_2.jpg",
+      "size": 241003,
+      "sha256": "11589b170a3948053d87afa4c6e49e72085687c4c251846e0b45005f343e63bd"
+    },
+    {
+      "fileId": "6a8c4fbeefd603213f13f66d",
+      "name": "фото_3.jpg",
+      "size": 211605,
+      "sha256": "2af118ffc3b97302169d5f7269c19d3bc8af489d2abe6d98e14b803359f4c2b6"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "Автомобиль",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2010",
+      "source": "structured"
+    },
+    {
+      "key": "regNumber",
+      "name": "Государственный регистрационный знак",
+      "value": "Р987КМ123",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "MMCGYKH60BFZ03577",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "MITSUBISHI PAJERO SPORT 3.0",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "MITSUBISHI PAJERO SPORT 3.0",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:24:08.221Z",
+  "lastSeenAt": "2026-08-25T11:24:08.221Z",
+  "contentHash": "8bafd7c713ad68620f913a4ed72fe64cb53cd685620a4bb2cba448cd84b3798b"
+}12:["$","pre",null,{"children":"$14"}]
+13:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 126 162,45 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"11 261 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"225 232 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"25 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"MMVB"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000050620000000089_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"(повт) Д-к Ганеев М.Б. А/м MITSUBISHI PAJERO SPORT 3.0, г/в 2010, г/н Р987КМ123, VIN MMCGY — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

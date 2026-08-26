@@ -1,0 +1,114 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000054780000002390_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000054780000002390_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000054780000002390_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"Нежилое помещение (помещение XXVII (ком. 66), Подвал № 1) пл.12кв.м по адресу: г.Москва, ул.Совхозная, д.41, к/н 77:04:0004011:13978"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a88099d57a2662b5527e3b6","alt":"Нежилое помещение (помещение XXVII (ком. 66), Подвал № 1) пл.12кв.м по адресу: г.Москва, ул.Совхозная, д.41, к/н 77:04:0004011:13978"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8809ac63124f3d8ea4a600",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8809ac63124f3d8ea4a600","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8809ac63124f3d8ea4a600","alt":"","loading":"lazy"}]}],["$","a","6a8809ac63124f3d8ea4a5fd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8809ac63124f3d8ea4a5fd","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8809ac63124f3d8ea4a5fd","alt":"","loading":"lazy"}]}],["$","a","6a8809acefd603213f125625",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8809acefd603213f125625","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8809acefd603213f125625","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое помещение (помещение XXVII (ком. 66), Подвал № 1) пл.12кв.м по адресу: г.Москва, ул.Совхозная, д.41, к/н 77:04:0004011:13978, должник (собственник) Лев Е.Ф. Фотографии имущества судебным приставом-исполнителем не предоставлены"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["12"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["77:04:0004011:13978",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Люблино, ул. Совхозная, дом 41"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8809cbac85246d2d83cf43",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8809cbac85246d2d83cf43","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Л2 26 19 Баб-30.pdf"]}],["$","span",null,{"className":"size","children":"468 КБ"}]]}],["$","a","6a8809ed57a2662b5527e46f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8809ed57a2662b5527e46f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Лев Ефим Феликсович ул.Совхозная Баб-30  тг.pdf"]}],["$","span",null,{"className":"size","children":"33.2 МБ"}]]}],["$","a","6a88099d57a2662b5527e3b6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a88099d57a2662b5527e3b6","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","логотип.jpg"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}],["$","a","6a8809ac63124f3d8ea4a600",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8809ac63124f3d8ea4a600","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Сов1.jpeg"]}],["$","span",null,{"className":"size","children":"23 КБ"}]]}],"$L11","$L12"]}]]}],false,"$L13"]}],"$L14"]}]]}]
+11:["$","a","6a8809ac63124f3d8ea4a5fd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8809ac63124f3d8ea4a5fd","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Сов2.jpeg"]}],["$","span",null,{"className":"size","children":"29 КБ"}]]}]
+12:["$","a","6a8809acefd603213f125625",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8809acefd603213f125625","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Сов3.jpeg"]}],["$","span",null,{"className":"size","children":"28 КБ"}]]}]
+15:Te46,{
+  "id": "gis-torgi:23000054780000002390_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000054780000002390_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000054780000002390_1",
+  "title": "Нежилое помещение (помещение XXVII (ком. 66), Подвал № 1) пл.12кв.м по адресу: г.Москва, ул.Совхозная, д.41, к/н 77:04:0004011:13978",
+  "description": "Нежилое помещение (помещение XXVII (ком. 66), Подвал № 1) пл.12кв.м по адресу: г.Москва, ул.Совхозная, д.41, к/н 77:04:0004011:13978, должник (собственник) Лев Е.Ф. Фотографии имущества судебным приставом-исполнителем не предоставлены",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Люблино, ул. Совхозная, дом 41",
+  "priceStart": "1002000.00",
+  "priceStep": "6000",
+  "deposit": "200000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T14:06:37.763Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-24T13:00:00Z",
+  "auctionAt": "2026-09-29T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RAD",
+  "images": [
+    "6a88099d57a2662b5527e3b6",
+    "6a8809ac63124f3d8ea4a600",
+    "6a8809ac63124f3d8ea4a5fd",
+    "6a8809acefd603213f125625"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8809cbac85246d2d83cf43",
+      "name": "Л2 26 19 Баб-30.pdf",
+      "size": 479187,
+      "sha256": "5204a0ebe8ff96537a5d8fc01db2b59c2fd08d43d5e0e557c4787022bd91da63"
+    },
+    {
+      "fileId": "6a8809ed57a2662b5527e46f",
+      "name": "Лев Ефим Феликсович ул.Совхозная Баб-30  тг.pdf",
+      "size": 34772015,
+      "sha256": "a995b4153ca5707bb40021a07e46a3b5b23bf85f577a1f3c303fe82ffe6aeab5"
+    },
+    {
+      "fileId": "6a88099d57a2662b5527e3b6",
+      "name": "логотип.jpg",
+      "size": 2433104,
+      "sha256": "cb3680a136b3a2c1dc768159200b5a5ce5f7ccb865480cdd31ddb91f687b81b8"
+    },
+    {
+      "fileId": "6a8809ac63124f3d8ea4a600",
+      "name": "Сов1.jpeg",
+      "size": 23076,
+      "sha256": "de1e99af0e49c6e707ef39cdf1dd2fdba93b71d1cbcdc05e715f7029a29dfbd5"
+    },
+    {
+      "fileId": "6a8809ac63124f3d8ea4a5fd",
+      "name": "Сов2.jpeg",
+      "size": 29493,
+      "sha256": "af50dd75cc045fab9e028a9cdcb7516796097b528616e274bd7cc137df069892"
+    },
+    {
+      "fileId": "6a8809acefd603213f125625",
+      "name": "Сов3.jpeg",
+      "size": 29069,
+      "sha256": "31b359ca46640f6cff657d393e423871519bf963fe5c50263239a3dea4ea150f"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "12",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "77:04:0004011:13978",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:40:07.658Z",
+  "lastSeenAt": "2026-08-25T11:40:07.658Z",
+  "contentHash": "93bc71480f173067496c42edf808de9856ea82584487e4e697882bb2bd666635"
+}13:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$15"}]]}]
+14:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 002 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"6 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"200 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"24 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"28 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RAD"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000054780000002390_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое помещение (помещение XXVII (ком. 66), Подвал № 1) пл.12кв.м по адресу: г.Москва, у — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

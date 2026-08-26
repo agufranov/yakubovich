@@ -1,0 +1,84 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000031410000002149_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000031410000002149_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000031410000002149_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:T9b1,{
+  "id": "gis-torgi:21000031410000002149_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000031410000002149_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000031410000002149_1",
+  "title": "Контейнер 5 тонн",
+  "description": "Контейнер 5 тонн, дата изготовления 01.11.1997 г.,  расположенный в районе дома по адресу: Приморский край, г. Артем, ул. Сахалинская, 52/1",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "other",
+  "categoryCode": "406",
+  "categoryName": "Иное",
+  "regionCode": "25",
+  "address": "край Приморский, г.о. Артемовский, г. Артем, ул. Сахалинская, дом 52/1",
+  "priceStart": "27000.00",
+  "priceStep": "1350",
+  "deposit": "2700",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T06:41:42.824Z",
+  "biddStartAt": "2026-08-25T23:00:00Z",
+  "biddEndAt": "2026-09-21T08:00:00Z",
+  "auctionAt": "2026-09-23T00:00:00Z",
+  "tzOffsetMin": 600,
+  "tzName": "МСК+7",
+  "etpCode": "ETP_EETP",
+  "images": [
+    "6a8d386457a2662b552a0d82",
+    "6a8d386557a2662b552a0d85"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d387de096f456f84c51ab",
+      "name": "контейнер 5 тонн сахалинская 52.1.docx",
+      "size": 32365,
+      "sha256": "1361407d9f07a7b51fc2eb04a454866afdf4bac0268ca39b8704b96779d10ade"
+    },
+    {
+      "fileId": "6a8d386457a2662b552a0d82",
+      "name": "конт.jpg",
+      "size": 351943,
+      "sha256": "bd52d17e9a086f6cfbde68d7d3edb632401c30e26efa346ae18de762dcef23cf"
+    },
+    {
+      "fileId": "6a8d386557a2662b552a0d85",
+      "name": "контей.jpg",
+      "size": 230245,
+      "sha256": "355d1b8bd44c717e0ed9984fc84e6c1235e4f0b3ad673412e95baf8cb49ce2e7"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:20:55.318Z",
+  "lastSeenAt": "2026-08-25T13:20:55.318Z",
+  "contentHash": "58371927526b8027e4d10f3bf0b6e2702ea6dc6516f9d77ef9ebb77d39edc5c9"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=25","children":"Приморский край"}]]]}],["$","h1",null,{"children":"Контейнер 5 тонн"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Иное"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d386457a2662b552a0d82","alt":"Контейнер 5 тонн"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d386557a2662b552a0d85",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d386557a2662b552a0d85","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d386557a2662b552a0d85","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Контейнер 5 тонн, дата изготовления 01.11.1997 г.,  расположенный в районе дома по адресу: Приморский край, г. Артем, ул. Сахалинская, 52/1"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Приморский, г.о. Артемовский, г. Артем, ул. Сахалинская, дом 52/1"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d387de096f456f84c51ab",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d387de096f456f84c51ab","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","контейнер 5 тонн сахалинская 52.1.docx"]}],["$","span",null,{"className":"size","children":"32 КБ"}]]}],["$","a","6a8d386457a2662b552a0d82",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d386457a2662b552a0d82","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","конт.jpg"]}],["$","span",null,{"className":"size","children":"344 КБ"}]]}],["$","a","6a8d386557a2662b552a0d85",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d386557a2662b552a0d85","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","контей.jpg"]}],["$","span",null,{"className":"size","children":"225 КБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"27 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"1 350 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"2 700 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 09:00 (МСК+7)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 18:00 (МСК+7)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"25 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"23 сент. 2026 г., 10:00 (МСК+7)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Приморский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"EETP"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000031410000002149_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Контейнер 5 тонн — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

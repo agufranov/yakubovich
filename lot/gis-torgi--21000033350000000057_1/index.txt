@@ -1,0 +1,150 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000033350000000057_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000033350000000057_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000033350000000057_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=54","children":"Новосибирская обл."}]]]}],["$","h1",null,{"children":"Объект движимого имущества"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Спецтехника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d339a57a2662b552a08af","alt":"Объект движимого имущества"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d339ae096f456f84c4d77",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d339ae096f456f84c4d77","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d339ae096f456f84c4d77","alt":"","loading":"lazy"}]}],["$","a","6a8d339a57a2662b552a08ad",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d339a57a2662b552a08ad","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d339a57a2662b552a08ad","alt":"","loading":"lazy"}]}],["$","a","6a8d339ae096f456f84c4d76",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d339ae096f456f84c4d76","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d339ae096f456f84c4d76","alt":"","loading":"lazy"}]}],["$","a","6a8d339a57a2662b552a08ae",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d339a57a2662b552a08ae","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d339a57a2662b552a08ae","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Объект движимого имущества - Транспортное средство (ТС); наименование и марка машины: Автогрейдер ДЗ-122Б-6; заводской номер машины (рамы): 1701923; двигатель №: СО 490241; цвет: желтый; вид движителя: колесный; год изготовления: 2012; собственник: рабочий поселок Горный Тогучинского района Новосибирской области; техническое состояние: удовлетворительное, на ходу"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","specEquipmentType",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["формирование и выравнивание земляного полотна, строительство и ремонт дорог, устройство дренажа, раб",""]}]]}],["$","tr","specEquipmentMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Автогрейдер ДЗ-122Б-6",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2012",""]}]]}],["$","tr","vinFactory",{"children":[["$","td",null,{"children":"VIN (заводской) номер"}],["$","td",null,{"children":["1701923",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Новосибирская, м.р-н Тогучинский, г.п. рабочий поселок Горный, рп. Горный, ул. Советская, дом 10"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",8,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d31a1efd603213f143580",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d31a1efd603213f143580","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Грейдер ПТС.pdf"]}],["$","span",null,{"className":"size","children":"8.3 МБ"}]]}],["$","a","6a8d31e257a2662b552a079e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d31e257a2662b552a079e","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18"]}]]}],false,"$L19"]}],"$L1a"]}]]}]
+11:["$","span",null,{"children":["📎 ","Скан ПА № 227 от 25.08.2026.pdf"]}]
+12:["$","span",null,{"className":"size","children":"2.8 МБ"}]
+13:["$","a","6a8d32fb63124f3d8ea678fc",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d32fb63124f3d8ea678fc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет  № 950-2026 (Грейдер).pdf"]}],["$","span",null,{"className":"size","children":"8.9 МБ"}]]}]
+14:["$","a","6a8d339a57a2662b552a08af",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d339a57a2662b552a08af","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260703_134139_653.jpg"]}],["$","span",null,{"className":"size","children":"583 КБ"}]]}]
+15:["$","a","6a8d339ae096f456f84c4d77",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d339ae096f456f84c4d77","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260703_134139_656.jpg"]}],["$","span",null,{"className":"size","children":"574 КБ"}]]}]
+16:["$","a","6a8d339a57a2662b552a08ad",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d339a57a2662b552a08ad","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260703_134139_668.jpg"]}],["$","span",null,{"className":"size","children":"395 КБ"}]]}]
+17:["$","a","6a8d339ae096f456f84c4d76",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d339ae096f456f84c4d76","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260703_134139_708.jpg"]}],["$","span",null,{"className":"size","children":"630 КБ"}]]}]
+18:["$","a","6a8d339a57a2662b552a08ae",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d339a57a2662b552a08ae","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260703_134139_730.jpg"]}],["$","span",null,{"className":"size","children":"589 КБ"}]]}]
+1b:T1333,{
+  "id": "gis-torgi:21000033350000000057_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000033350000000057_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000033350000000057_1",
+  "title": "Объект движимого имущества",
+  "description": "Объект движимого имущества - Транспортное средство (ТС); наименование и марка машины: Автогрейдер ДЗ-122Б-6; заводской номер машины (рамы): 1701923; двигатель №: СО 490241; цвет: желтый; вид движителя: колесный; год изготовления: 2012; собственник: рабочий поселок Горный Тогучинского района Новосибирской области; техническое состояние: удовлетворительное, на ходу",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Публичное предложение",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "101",
+  "categoryName": "Спецтехника",
+  "regionCode": "54",
+  "address": "обл. Новосибирская, м.р-н Тогучинский, г.п. рабочий поселок Горный, рп. Горный, ул. Советская, дом 10",
+  "priceStart": "1999000.00",
+  "priceStep": "49975",
+  "deposit": "199900",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T06:20:42.469Z",
+  "biddStartAt": "2026-08-25T17:00:00Z",
+  "biddEndAt": "2026-09-19T17:00:00Z",
+  "auctionAt": "2026-09-24T17:00:00Z",
+  "tzOffsetMin": 420,
+  "tzName": "МСК+4",
+  "etpCode": "ETP_EETP",
+  "images": [
+    "6a8d339a57a2662b552a08af",
+    "6a8d339ae096f456f84c4d77",
+    "6a8d339a57a2662b552a08ad",
+    "6a8d339ae096f456f84c4d76",
+    "6a8d339a57a2662b552a08ae"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d31a1efd603213f143580",
+      "name": "Грейдер ПТС.pdf",
+      "size": 8695238,
+      "sha256": "f8b2e487864d0d52f952ba25724a63cae91cdd49658cb3119481b6c7fcbb06fc"
+    },
+    {
+      "fileId": "6a8d31e257a2662b552a079e",
+      "name": "Скан ПА № 227 от 25.08.2026.pdf",
+      "size": 2894726,
+      "sha256": "953ee5e871527cdc3ceb96790779fd4804e1decdc9c043c496c3fbb336f40ae1"
+    },
+    {
+      "fileId": "6a8d32fb63124f3d8ea678fc",
+      "name": "Отчет  № 950-2026 (Грейдер).pdf",
+      "size": 9337046,
+      "sha256": "f6a81dec6b102e3517690cd75210c4baf862831a7ea34639153ce53b977b4163"
+    },
+    {
+      "fileId": "6a8d339a57a2662b552a08af",
+      "name": "IMG_20260703_134139_653.jpg",
+      "size": 596948,
+      "sha256": "2e02d48053abdac5b32f05ed86bcbca93801d2e982bad23a63b62b2e27639ac1"
+    },
+    {
+      "fileId": "6a8d339ae096f456f84c4d77",
+      "name": "IMG_20260703_134139_656.jpg",
+      "size": 587634,
+      "sha256": "694af68155a7aa5889fa3b61c2a74e12df08a4e6d35a7d9cb51a82a98e722f07"
+    },
+    {
+      "fileId": "6a8d339a57a2662b552a08ad",
+      "name": "IMG_20260703_134139_668.jpg",
+      "size": 404066,
+      "sha256": "e52d9f467d96642feb7851476e902c069ea431f6a0479e55a768b4aee175862e"
+    },
+    {
+      "fileId": "6a8d339ae096f456f84c4d76",
+      "name": "IMG_20260703_134139_708.jpg",
+      "size": 644836,
+      "sha256": "46d17df439bc84bedf978ced03e5217828bae46b469e199bb5ea15e8d7833a0f"
+    },
+    {
+      "fileId": "6a8d339a57a2662b552a08ae",
+      "name": "IMG_20260703_134139_730.jpg",
+      "size": 603049,
+      "sha256": "36424ceed7ba29483c186c6a6bfe80b2732ba1c76876d40d675381341f84075b"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "specEquipmentType",
+      "name": "Назначение",
+      "value": "формирование и выравнивание земляного полотна, строительство и ремонт дорог, устройство дренажа, раб",
+      "source": "structured"
+    },
+    {
+      "key": "specEquipmentMarka",
+      "name": "Марка",
+      "value": "Автогрейдер ДЗ-122Б-6",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2012",
+      "source": "structured"
+    },
+    {
+      "key": "vinFactory",
+      "name": "VIN (заводской) номер",
+      "value": "1701923",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:21:23.961Z",
+  "lastSeenAt": "2026-08-25T13:21:23.961Z",
+  "contentHash": "f450da89b18af1e3b079f142421beeabf4913f35249949563d153225ee7c248b"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 999 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"49 975 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"199 900 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 00:00 (МСК+4)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"20 сент. 2026 г., 00:00 (МСК+4)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"24 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 00:00 (МСК+4)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Новосибирская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"EETP"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000033350000000057_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Объект движимого имущества — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

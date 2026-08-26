@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000006750000000354_15",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000006750000000354_15","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000006750000000354_15","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Tdba,{
+  "id": "gis-torgi:21000006750000000354_15",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000006750000000354_15",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000006750000000354_15",
+  "title": "Лот № 15. Помещение, назначение – нежилое, 2 этаж, общая площадь 24,1 кв. м, кадастровый номер 29:22:011309:897, адрес объекта: Архангельская обл., городской округ \"Город Архангельск\", г. Архангельск, ул. Победы, д. 112, корп.1",
+  "description": "Характеристика объекта: нежилое помещение расположено в двухэтажном панельном нежилом здании, год постройки – 1977.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Публичное предложение",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "29",
+  "address": "обл. Архангельская, г.о. город Архангельск, г. Архангельск, ул. Победы, дом 112 к. 1",
+  "priceStart": "1166994.00",
+  "priceStep": "58349.7",
+  "deposit": "116699.4",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T12:48:56.8Z",
+  "biddStartAt": "2026-08-26T06:00:00Z",
+  "biddEndAt": "2026-09-28T06:00:00Z",
+  "auctionAt": "2026-09-30T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d8772e096f456f84cad99"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d8786efd603213f149d74",
+      "name": "Тех. план 24.1.pdf",
+      "size": 1114561,
+      "sha256": "4a35dd608f4594da399cfe4bcb5e2887eeb38d0353aa70e067fdd0493a44b39c"
+    },
+    {
+      "fileId": "6a8d87aee096f456f84cadfe",
+      "name": "15PROEKT DOG PUB 2026.doc",
+      "size": 64000,
+      "sha256": "41599a7feb0fffb41c5a1dbe2d3603d90f019ed534d934ddb9bde6540acb89e4"
+    },
+    {
+      "fileId": "6a8d8772e096f456f84cad99",
+      "name": "победы 112.jpg",
+      "size": 167145,
+      "sha256": "4c86de58bcb2ae5eb947825df489b44e471e8a65f391dbc81e3e240550dcfa1f"
+    },
+    {
+      "fileId": "6a8d8dcd63124f3d8ea6f150",
+      "name": "ON_DOGDOC_000efa4955f-6ba6-4e52-a1b5-9fba551ef389_0007084a91b-68e9-422e-bc3e-31550719f8c2_20260825_e6ade2ba-a79c-405c-ac5b-87f1cdc08c94_1_00_00_01.pdf",
+      "size": 63882,
+      "sha256": "f537066773e4df10b918652ac74efb550e876abe77c69a86bd4ce01ac0374a6d"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "1977",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "24.1",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "29:22:011309:897",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:11:20.808Z",
+  "lastSeenAt": "2026-08-25T13:11:20.808Z",
+  "contentHash": "046aab1728a1b0b583b2b7a1f2d42152f4ebb809004d5d84b2d1a3034b70b8f6"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=29","children":"Архангельская обл."}]]]}],["$","h1",null,{"children":"Лот № 15. Помещение, назначение – нежилое, 2 этаж, общая площадь 24,1 кв. м, кадастровый номер 29:22:011309:897, адрес объекта: Архангельская обл., городской округ \"Город Архангельск\", г. Архангельск, ул. Победы, д. 112, корп.1"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8772e096f456f84cad99","alt":"Лот № 15. Помещение, назначение – нежилое, 2 этаж, общая площадь 24,1 кв. м, кадастровый номер 29:22:011309:897, адрес объекта: Архангельская обл., городской округ \"Город Архангельск\", г. Архангельск, ул. Победы, д. 112, корп.1"}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Характеристика объекта: нежилое помещение расположено в двухэтажном панельном нежилом здании, год постройки – 1977."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["1977",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["24.1"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["29:22:011309:897",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Архангельская, г.о. город Архангельск, г. Архангельск, ул. Победы, дом 112 к. 1"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d8786efd603213f149d74",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8786efd603213f149d74","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Тех. план 24.1.pdf"]}],["$","span",null,{"className":"size","children":"1.1 МБ"}]]}],["$","a","6a8d87aee096f456f84cadfe",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d87aee096f456f84cadfe","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","15PROEKT DOG PUB 2026.doc"]}],["$","span",null,{"className":"size","children":"63 КБ"}]]}],["$","a","6a8d8772e096f456f84cad99",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8772e096f456f84cad99","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","победы 112.jpg"]}],["$","span",null,{"className":"size","children":"163 КБ"}]]}],["$","a","6a8d8dcd63124f3d8ea6f150",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8dcd63124f3d8ea6f150","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ON_DOGDOC_000efa4955f-6ba6-4e52-a1b5-9fba551ef389_0007084a91b-68e9-422e-bc3e-31550719f8c2_20260825_e6ade2ba-a79c-405c-ac5b-87f1cdc08c94_1_00_00_01.pdf"]}],["$","span",null,{"className":"size","children":"62 КБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 166 994 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"58 349,70 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"116 699,40 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"28 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"32 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"30 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Архангельская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000006750000000354_15","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Лот № 15. Помещение, назначение – нежилое, 2 этаж, общая площадь 24,1 кв. м, кадастровый н — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

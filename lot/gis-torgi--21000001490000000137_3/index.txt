@@ -1,0 +1,160 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000001490000000137_3",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000001490000000137_3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000001490000000137_3","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=36","children":"Воронежская обл."}]]]}],["$","h1",null,{"children":"Часть здания - магазин № 35. Нежилое."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Здания"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d718b63124f3d8ea6c944","alt":"Часть здания - магазин № 35. Нежилое."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d718aefd603213f147e72",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d718aefd603213f147e72","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d718aefd603213f147e72","alt":"","loading":"lazy"}]}],["$","a","6a8d718b57a2662b552a54b7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d718b57a2662b552a54b7","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d718b57a2662b552a54b7","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое помещение (помещение № 1)  Количество этажей - 1, общей площадью 43,4 кв.м., 1975 года. Кадастровый номер объекта - 36:01:0610003:54.  Особые отметки: часть здания - магазин № 35. Физическое состояние: «удовлетворительное». Назначение: нежилое. Наличие обременения: нет.  Объект расположен на земельном участке с кадастровым номером: 36:01:0720019:225, категория земель: земли населенных пунктов, разрешенное использование: магазины продовольственные и промтоварные, для иных видов использования, характерных для населенных пунктов. Общая площадь 485 кв.м., адрес (местонахождение) объекта: Воронежская область, р-н Аннинский, п. Прогресс, ул. Дорожная, д. 20."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["1975",""]}]]}],["$","tr","numberUndergroundFloors",{"children":[["$","td",null,{"children":"Количество подземных этажей"}],["$","td",null,{"children":["0",""]}]]}],["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["нет",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["43.4"," м^2 общ. пл"]}]]}],["$","tr","buildingWallMaterials",{"children":[["$","td",null,{"children":"Материалы наружных стен здания"}],["$","td",null,{"children":["кирпич",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["36:01:0610003:54",""]}]]}],["$","tr","purposeBuilding",{"children":[["$","td",null,{"children":"Назначение здания"}],["$","td",null,{"children":["нежилое",""]}]]}],["$","tr","numberFloors",{"children":[["$","td",null,{"children":"Количество этажей"}],["$","td",null,{"children":["1",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["нет",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл Воронежская, м.р-н Аннинский, с.п. Рубашевское, п Прогресс, ул Дорожная, дом 20"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d719563124f3d8ea6c951",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d719563124f3d8ea6c951","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17"]}]]}],false,"$L18"]}],"$L19"]}]]}]
+11:["$","span",null,{"children":["📎 ","Выписка из ЕГРН ЗУ  п Прогресс, ул Дорожная, д 20.pdf"]}]
+12:["$","span",null,{"className":"size","children":"297 КБ"}]
+13:["$","a","6a8d7195e096f456f84c9311",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d7195e096f456f84c9311","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН Помещение п. Прогресс, ул. Дорожная, д. 20, пом. 1.pdf"]}],["$","span",null,{"className":"size","children":"175 КБ"}]]}]
+14:["$","a","6a8d750fefd603213f148303",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d750fefd603213f148303","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","приложение № 5 к лоту 3 проект договор.docx"]}],["$","span",null,{"className":"size","children":"23 КБ"}]]}]
+15:["$","a","6a8d718b63124f3d8ea6c944",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d718b63124f3d8ea6c944","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Лот № 3 п. Прогресс (1).jpg"]}],["$","span",null,{"className":"size","children":"4.2 МБ"}]]}]
+16:["$","a","6a8d718aefd603213f147e72",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d718aefd603213f147e72","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Лот № 3 п. Прогресс (2).jpg"]}],["$","span",null,{"className":"size","children":"3.0 МБ"}]]}]
+17:["$","a","6a8d718b57a2662b552a54b7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d718b57a2662b552a54b7","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Лот № 3 п. Прогресс (3).jpg"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}]
+1a:T168a,{
+  "id": "gis-torgi:21000001490000000137_3",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000001490000000137_3",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000001490000000137_3",
+  "title": "Часть здания - магазин № 35. Нежилое.",
+  "description": "Нежилое помещение (помещение № 1)  Количество этажей - 1, общей площадью 43,4 кв.м., 1975 года. Кадастровый номер объекта - 36:01:0610003:54.  Особые отметки: часть здания - магазин № 35. Физическое состояние: «удовлетворительное». Назначение: нежилое. Наличие обременения: нет.  Объект расположен на земельном участке с кадастровым номером: 36:01:0720019:225, категория земель: земли населенных пунктов, разрешенное использование: магазины продовольственные и промтоварные, для иных видов использования, характерных для населенных пунктов. Общая площадь 485 кв.м., адрес (местонахождение) объекта: Воронежская область, р-н Аннинский, п. Прогресс, ул. Дорожная, д. 20.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "8",
+  "categoryName": "Здания",
+  "regionCode": "36",
+  "address": "обл Воронежская, м.р-н Аннинский, с.п. Рубашевское, п Прогресс, ул Дорожная, дом 20",
+  "priceStart": "94900.00",
+  "priceStep": "4745",
+  "deposit": "9490",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T10:52:38.46Z",
+  "biddStartAt": "2026-08-26T06:00:00Z",
+  "biddEndAt": "2026-09-21T20:59:00Z",
+  "auctionAt": "2026-09-25T06:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d718b63124f3d8ea6c944",
+    "6a8d718aefd603213f147e72",
+    "6a8d718b57a2662b552a54b7"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d719563124f3d8ea6c951",
+      "name": "Выписка из ЕГРН ЗУ  п Прогресс, ул Дорожная, д 20.pdf",
+      "size": 304510,
+      "sha256": "b453c4915daa9da2018738710f0fb669dc67702e99e4158cf9b1b8daf903488c"
+    },
+    {
+      "fileId": "6a8d7195e096f456f84c9311",
+      "name": "Выписка из ЕГРН Помещение п. Прогресс, ул. Дорожная, д. 20, пом. 1.pdf",
+      "size": 178965,
+      "sha256": "690e4b4f0aa5d0e0dc3c25fbe7c2e168c16aedffc42f679cedda1c88bc4fcd4a"
+    },
+    {
+      "fileId": "6a8d750fefd603213f148303",
+      "name": "приложение № 5 к лоту 3 проект договор.docx",
+      "size": 24021,
+      "sha256": "9d2077eae1fa608d8620a5bb014385a48130330ecc084eaebaa4a9ef7bd3b7d6"
+    },
+    {
+      "fileId": "6a8d718b63124f3d8ea6c944",
+      "name": "Лот № 3 п. Прогресс (1).jpg",
+      "size": 4432277,
+      "sha256": "9e87298eac98dd9b30a0fbb86bebabf3fd3ae05f2e69e40260201784aab611c4"
+    },
+    {
+      "fileId": "6a8d718aefd603213f147e72",
+      "name": "Лот № 3 п. Прогресс (2).jpg",
+      "size": 3111618,
+      "sha256": "b623ba0b3cb1c8b519d79524964f95a8be7282065fefb3e815546bcc7e091cd2"
+    },
+    {
+      "fileId": "6a8d718b57a2662b552a54b7",
+      "name": "Лот № 3 п. Прогресс (3).jpg",
+      "size": 2460158,
+      "sha256": "4537b5f12902e89347a7a8c5ab735e016650c269dbb21e88b938926faa29d14e"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "1975",
+      "source": "structured"
+    },
+    {
+      "key": "numberUndergroundFloors",
+      "name": "Количество подземных этажей",
+      "value": "0",
+      "source": "structured"
+    },
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "нет",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "43.4",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "buildingWallMaterials",
+      "name": "Материалы наружных стен здания",
+      "value": "кирпич",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "36:01:0610003:54",
+      "source": "structured"
+    },
+    {
+      "key": "purposeBuilding",
+      "name": "Назначение здания",
+      "value": "нежилое",
+      "source": "structured"
+    },
+    {
+      "key": "numberFloors",
+      "name": "Количество этажей",
+      "value": "1",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "нет",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:12:52.196Z",
+  "lastSeenAt": "2026-08-25T13:12:52.196Z",
+  "contentHash": "4ce272ef47cd127dcf20bb0eae5fb41192f93bba5459d60e1161b1536ed9bc82"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"94 900 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"4 745 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"9 490 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 23:59 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 09:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Воронежская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000001490000000137_3","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Часть здания - магазин № 35. Нежилое. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

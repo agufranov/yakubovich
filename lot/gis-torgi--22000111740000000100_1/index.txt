@@ -1,0 +1,125 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000111740000000100_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000111740000000100_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000111740000000100_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=58","children":"Пензенская обл."}]]]}],["$","h1",null,{"children":"Нежилое здание площадью 216,8 кв.м. с кадастровым номером 58:11:0220201:473 на земельном участке площадью 1845 кв.м. с кадастровым номером 58:11:0220201:447"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Здания"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4ff5efd603213f13f74b","alt":"Нежилое здание площадью 216,8 кв.м. с кадастровым номером 58:11:0220201:473 на земельном участке площадью 1845 кв.м. с кадастровым номером 58:11:0220201:447"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c500163124f3d8ea63c4a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c500163124f3d8ea63c4a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c500163124f3d8ea63c4a","alt":"","loading":"lazy"}]}],["$","a","6a8c500a63124f3d8ea63c51",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c500a63124f3d8ea63c51","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c500a63124f3d8ea63c51","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое здание площадью 216,8 кв.м. с кадастровым номером 58:11:0220201:473 расположенное на земельном участке площадью 1845 кв.м. с кадастровым номером 58:11:0220201:447  по адресу: Пензенская область, Камешкирский район, с. Большой Умыс, ул. Орлова, д. 11"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["216.8"," м^2 общ. пл"]}]]}],["$","tr","buildingWallMaterials",{"children":[["$","td",null,{"children":"Материалы наружных стен здания"}],["$","td",null,{"children":["смашанные",""]}]]}],["$","tr","cadastralValue",{"children":[["$","td",null,{"children":"Кадастровая стоимость"}],["$","td",null,{"children":["0",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["58:11:0220201:473",""]}]]}],["$","tr","numberFloors",{"children":[["$","td",null,{"children":"Количество этажей"}],["$","td",null,{"children":["1",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Пензенская, м.р-н Камешкирский, с.п. Большеумысский сельсовет, с. Большой Умыс, ул. Орлова, дом 11"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c501ee096f456f84c11c5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c501ee096f456f84c11c5","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","189 от 20.08.2026.pdf"]}],["$","span",null,{"className":"size","children":"748 КБ"}]]}],["$","a","6a8c5025efd603213f13f76a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5025efd603213f13f76a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","195 от 21.08.2026.pdf"]}],["$","span",null,{"className":"size","children":"1.1 МБ"}]]}],["$","a","6a8c4ff5efd603213f13f74b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4ff5efd603213f13f74b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG-6ec17b034978869c4746be3817f279ae-V.jpg"]}],["$","span",null,{"className":"size","children":"202 КБ"}]]}],"$L11","$L12"]}]]}],false,"$L13"]}],"$L14"]}]]}]
+11:["$","a","6a8c500163124f3d8ea63c4a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c500163124f3d8ea63c4a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG-2878262ebed046d1dc35832113c3a711-V.jpg"]}],["$","span",null,{"className":"size","children":"238 КБ"}]]}]
+12:["$","a","6a8c500a63124f3d8ea63c51",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c500a63124f3d8ea63c51","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG-eb848dce46eaf6e7c480a6ad631c06f3-V-2.jpg"]}],["$","span",null,{"className":"size","children":"213 КБ"}]]}]
+15:T102f,{
+  "id": "gis-torgi:22000111740000000100_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000111740000000100_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000111740000000100_1",
+  "title": "Нежилое здание площадью 216,8 кв.м. с кадастровым номером 58:11:0220201:473 на земельном участке площадью 1845 кв.м. с кадастровым номером 58:11:0220201:447",
+  "description": "Нежилое здание площадью 216,8 кв.м. с кадастровым номером 58:11:0220201:473 расположенное на земельном участке площадью 1845 кв.м. с кадастровым номером 58:11:0220201:447  по адресу: Пензенская область, Камешкирский район, с. Большой Умыс, ул. Орлова, д. 11",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Публичное предложение",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "8",
+  "categoryName": "Здания",
+  "regionCode": "58",
+  "address": "обл. Пензенская, м.р-н Камешкирский, с.п. Большеумысский сельсовет, с. Большой Умыс, ул. Орлова, дом 11",
+  "priceStart": "424000.00",
+  "priceStep": "21200",
+  "deposit": "42400",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T14:31:21.715Z",
+  "biddStartAt": "2026-08-25T05:00:00Z",
+  "biddEndAt": "2026-09-19T14:00:00Z",
+  "auctionAt": "2026-09-22T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8c4ff5efd603213f13f74b",
+    "6a8c500163124f3d8ea63c4a",
+    "6a8c500a63124f3d8ea63c51"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c501ee096f456f84c11c5",
+      "name": "189 от 20.08.2026.pdf",
+      "size": 766349,
+      "sha256": "d5d09ac3f36b4cf9eaaffc6f586fbec5a8e94d99a61bb759aedf20949866ab14"
+    },
+    {
+      "fileId": "6a8c5025efd603213f13f76a",
+      "name": "195 от 21.08.2026.pdf",
+      "size": 1110860,
+      "sha256": "854c81a08ae6dbe89349a3f85410ca6d5afac35742e7caf7e380ef1c72f6d9ac"
+    },
+    {
+      "fileId": "6a8c4ff5efd603213f13f74b",
+      "name": "IMG-6ec17b034978869c4746be3817f279ae-V.jpg",
+      "size": 206530,
+      "sha256": "bfd8d897a815cd0404f6376f5dc5c9b0061f1fa7d87d834e414cf439bb10371c"
+    },
+    {
+      "fileId": "6a8c500163124f3d8ea63c4a",
+      "name": "IMG-2878262ebed046d1dc35832113c3a711-V.jpg",
+      "size": 243764,
+      "sha256": "f2273e86bfbe67994de36f6f48ef9c07a0490fa26f00a3168fbb4b2056f90427"
+    },
+    {
+      "fileId": "6a8c500a63124f3d8ea63c51",
+      "name": "IMG-eb848dce46eaf6e7c480a6ad631c06f3-V-2.jpg",
+      "size": 218555,
+      "sha256": "f2d0d51455a03156168bbc199d62786798e69ce5d07db922e25ac3761cf0164b"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "216.8",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "buildingWallMaterials",
+      "name": "Материалы наружных стен здания",
+      "value": "смашанные",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralValue",
+      "name": "Кадастровая стоимость",
+      "value": "0",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "58:11:0220201:473",
+      "source": "structured"
+    },
+    {
+      "key": "numberFloors",
+      "name": "Количество этажей",
+      "value": "1",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:28:55.108Z",
+  "lastSeenAt": "2026-08-25T13:28:55.108Z",
+  "contentHash": "b9cb44ae38a5512d29d3849763cae3d9fd5e78cac62fd5d188ebdb77efa32e15"
+}13:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$15"}]]}]
+14:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"424 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"21 200 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"42 400 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 08:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"19 сент. 2026 г., 17:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"23 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"22 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Пензенская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000111740000000100_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое здание площадью 216,8 кв.м. с кадастровым номером 58:11:0220201:473 на земельном у — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

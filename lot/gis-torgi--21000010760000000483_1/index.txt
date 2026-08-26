@@ -1,0 +1,124 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000010760000000483_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000010760000000483_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000010760000000483_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:T1045,{
+  "id": "gis-torgi:21000010760000000483_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000010760000000483_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000010760000000483_1",
+  "title": "Нежилое здание",
+  "description": "Приватизации подлежит муниципальное имущество: нежилое здание  площадью 2165,5 кв. м (кадастровый номер 22:65:016219:389), расположенное по адресу: Российская Федерация, Алтайский край, г. Бийск,               ул. Льва Толстого, д. 146, являющееся объектом культурного наследия регионального значения «Пассаж Фирсова», 1907 г., находящийся в неудовлетворительном состоянии.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "competition",
+  "tradeKindRaw": "Электронный конкурс",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "8",
+  "categoryName": "Здания",
+  "regionCode": "22",
+  "address": "край Алтайский, г.о. город Бийск, г Бийск, ул Льва Толстого, дом 146",
+  "priceStart": "1.22",
+  "deposit": "3473568.82",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T08:19:59.025Z",
+  "biddStartAt": "2026-08-27T01:00:00Z",
+  "biddEndAt": "2026-09-25T09:00:00Z",
+  "tzOffsetMin": 420,
+  "tzName": "МСК+4",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8d4afae096f456f84c6873"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d4afae096f456f84c6873",
+      "name": "photo.jpg",
+      "size": 234671,
+      "sha256": "2a447e5f60dfc6273bee03b2046ffe7141b6db113065811d46333358528929f4"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "1907",
+      "source": "structured"
+    },
+    {
+      "key": "numberUndergroundFloors",
+      "name": "Количество подземных этажей",
+      "value": "1",
+      "source": "structured"
+    },
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "В соответствии с информационным сообщением о проведении конкурса.",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "2165.5",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "regNumberEGROKN",
+      "name": "Регистрационный номер ЕГРОКН",
+      "value": "221610464270005",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralValue",
+      "name": "Кадастровая стоимость",
+      "value": "17367844.12",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "22:65:016219:389",
+      "source": "structured"
+    },
+    {
+      "key": "purposeBuilding",
+      "name": "Назначение здания",
+      "value": "нежилое",
+      "source": "structured"
+    },
+    {
+      "key": "numberFloors",
+      "name": "Количество этажей",
+      "value": "2",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "В соответствии с информационным сообщением о проведении конкурса.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:17:30.702Z",
+  "lastSeenAt": "2026-08-25T13:17:30.702Z",
+  "contentHash": "7c4579a50027aa289b7d427345eee4ad6eb61a8ddc06e6b1cb724d70710f3799"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=22","children":"Алтайский край"}]]]}],["$","h1",null,{"children":"Нежилое здание"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Конкурс"}],["$","span",null,{"children":"Здания"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d4afae096f456f84c6873","alt":"Нежилое здание"}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Приватизации подлежит муниципальное имущество: нежилое здание  площадью 2165,5 кв. м (кадастровый номер 22:65:016219:389), расположенное по адресу: Российская Федерация, Алтайский край, г. Бийск,               ул. Льва Толстого, д. 146, являющееся объектом культурного наследия регионального значения «Пассаж Фирсова», 1907 г., находящийся в неудовлетворительном состоянии."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["1907",""]}]]}],["$","tr","numberUndergroundFloors",{"children":[["$","td",null,{"children":"Количество подземных этажей"}],["$","td",null,{"children":["1",""]}]]}],["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["В соответствии с информационным сообщением о проведении конкурса.",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["2165.5"," м^2 общ. пл"]}]]}],["$","tr","regNumberEGROKN",{"children":[["$","td",null,{"children":"Регистрационный номер ЕГРОКН"}],["$","td",null,{"children":["221610464270005",""]}]]}],["$","tr","cadastralValue",{"children":[["$","td",null,{"children":"Кадастровая стоимость"}],["$","td",null,{"children":["17367844.12",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["22:65:016219:389",""]}]]}],["$","tr","purposeBuilding",{"children":[["$","td",null,{"children":"Назначение здания"}],["$","td",null,{"children":["нежилое",""]}]]}],["$","tr","numberFloors",{"children":[["$","td",null,{"children":"Количество этажей"}],["$","td",null,{"children":["2",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["В соответствии с информационным сообщением о проведении конкурса.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Алтайский, г.о. город Бийск, г Бийск, ул Льва Толстого, дом 146"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",1,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d4afae096f456f84c6873",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d4afae096f456f84c6873","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo.jpg"]}],["$","span",null,{"className":"size","children":"229 КБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1,22 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"3 473 568,82 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 авг. 2026 г., 08:00 (МСК+4)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"25 сент. 2026 г., 16:00 (МСК+4)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"29 дней"}]],"$undefined"]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Алтайский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000010760000000483_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое здание — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

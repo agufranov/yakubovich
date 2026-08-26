@@ -1,0 +1,93 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000018600000002112_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000018600000002112_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000018600000002112_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Tbbd,{
+  "id": "gis-torgi:21000018600000002112_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000018600000002112_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000018600000002112_1",
+  "title": "Движимое военное имущество (кроме вооружения и боеприпасов): а) запасные части к автомобильной технике. Перечень имущества, подлежащего реализации указан в Приложении №1.",
+  "description": "Перечень имущества указан в прикрепленном файле \"Приложение 1\"",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "other",
+  "tradeKindRaw": "Продажа по минимально допустимой цене",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "104",
+  "categoryName": "Запчасти",
+  "regionCode": "52",
+  "address": "обл. Нижегородская, м.о. Богородский, с. Дуденево 607614, Нижегородская обл., Богородский р-он, с. Дуденево, строение в/ч 3671",
+  "priceStart": "3124.69",
+  "deposit": "624.94",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T12:37:13.886Z",
+  "biddStartAt": "2026-08-28T07:00:00Z",
+  "biddEndAt": "2026-11-02T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_GPB",
+  "images": [
+    "6a8d63c3e096f456f84c8280"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d63cbefd603213f14700f",
+      "name": "Приложение 1.xlsx",
+      "size": 9277,
+      "sha256": "302c018a660b1f8b829fb01accfbc4af4679e1a3ebb783bd2e0b1c2d6accc60e"
+    },
+    {
+      "fileId": "6a8d63c3e096f456f84c8280",
+      "name": "IMG_20260525_163150_351.jpg",
+      "size": 411365,
+      "sha256": "100c4f20b71942bfe093921a2ea0496864edfba4bf627c77c63039225a3ce47b"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "manufacturerSparePart",
+      "name": "Производитель",
+      "value": "н/д",
+      "source": "structured"
+    },
+    {
+      "key": "typeSparePart",
+      "name": "Тип запчасти",
+      "value": "запасные части и принадлежности к автомобильной техники",
+      "source": "structured"
+    },
+    {
+      "key": "conditionSparePart",
+      "name": "Состояние",
+      "value": "Категория 1",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:11:43.893Z",
+  "lastSeenAt": "2026-08-25T13:11:43.893Z",
+  "contentHash": "d5060a1e6477cf53b8c022e3c730bfdff85193b10f4c40ad50d6525aca825635"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=52","children":"Нижегородская обл."}]]]}],["$","h1",null,{"children":"Движимое военное имущество (кроме вооружения и боеприпасов): а) запасные части к автомобильной технике. Перечень имущества, подлежащего реализации указан в Приложении №1."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Торги"}],["$","span",null,{"children":"Запчасти"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d63c3e096f456f84c8280","alt":"Движимое военное имущество (кроме вооружения и боеприпасов): а) запасные части к автомобильной технике. Перечень имущества, подлежащего реализации указан в Приложении №1."}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Перечень имущества указан в прикрепленном файле \"Приложение 1\""}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","manufacturerSparePart",{"children":[["$","td",null,{"children":"Производитель"}],["$","td",null,{"children":["н/д",""]}]]}],["$","tr","typeSparePart",{"children":[["$","td",null,{"children":"Тип запчасти"}],["$","td",null,{"children":["запасные части и принадлежности к автомобильной техники",""]}]]}],["$","tr","conditionSparePart",{"children":[["$","td",null,{"children":"Состояние"}],["$","td",null,{"children":["Категория 1",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Нижегородская, м.о. Богородский, с. Дуденево 607614, Нижегородская обл., Богородский р-он, с. Дуденево, строение в/ч 3671"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d63cbefd603213f14700f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d63cbefd603213f14700f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Приложение 1.xlsx"]}],["$","span",null,{"className":"size","children":"9 КБ"}]]}],["$","a","6a8d63c3e096f456f84c8280",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d63c3e096f456f84c8280","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260525_163150_351.jpg"]}],["$","span",null,{"className":"size","children":"402 КБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"3 124,69 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"624,94 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"28 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"2 нояб. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"67 дней"}]],"$undefined"]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Нижегородская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"GPB"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000018600000002112_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Движимое военное имущество (кроме вооружения и боеприпасов): а) запасные части к автомобил — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

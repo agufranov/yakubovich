@@ -1,0 +1,165 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000001490000000138_2",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000001490000000138_2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000001490000000138_2","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=36","children":"Воронежская обл."}]]]}],["$","h1",null,{"children":"Здание МОУ Рубашевской основной общеобразовательной школы. Нежилое."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Здания"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d86f2efd603213f149ca3","alt":"Здание МОУ Рубашевской основной общеобразовательной школы. Нежилое."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d86f0e096f456f84cad5b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d86f0e096f456f84cad5b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d86f0e096f456f84cad5b","alt":"","loading":"lazy"}]}],["$","a","6a8d86f157a2662b552a71aa",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d86f157a2662b552a71aa","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d86f157a2662b552a71aa","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Площадь здания - 524,4 кв.м. Год постройки 1969. Количество этажей - 1, в том числе подземных – 0. кадастровый номер 36:01:0580006:134. Фундамент: ж/бетонные блоки. Стены: кирпичные. Перегородки: кирпичные. Перекрытия: деревянное отепленное. Крыша: шиферная по деревянным стропилам. Проемы оконные: двойные створные (окрашено). Проемы дверные: простые дощатые. Полы: дощатые. Плитка. Физическое состояние помещения: «хорошее». Наличие обременения: нет"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["1969",""]}]]}],["$","tr","numberUndergroundFloors",{"children":[["$","td",null,{"children":"Количество подземных этажей"}],["$","td",null,{"children":["0",""]}]]}],["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["нет",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["524.4"," м^2 общ. пл"]}]]}],["$","tr","buildingWallMaterials",{"children":[["$","td",null,{"children":"Материалы наружных стен здания"}],["$","td",null,{"children":["кирпичные",""]}]]}],["$","tr","regNumberEGROKN",{"children":[["$","td",null,{"children":"Регистрационный номер ЕГРОКН"}],["$","td",null,{"children":["36:01:0580006:134",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["36:01:0580006:134",""]}]]}],["$","tr","purposeBuilding",{"children":[["$","td",null,{"children":"Назначение здания"}],["$","td",null,{"children":["нежилое",""]}]]}],["$","tr","numberFloors",{"children":[["$","td",null,{"children":"Количество этажей"}],["$","td",null,{"children":["1",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["нет",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл Воронежская, м.р-н Аннинский, с.п. Рубашевское, п Рубашевка, ул Советская, дом 10"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d86f563124f3d8ea6e8a0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d86f563124f3d8ea6e8a0","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН Здание школы в п.Рубашевка.pdf"]}],"$L11"]}],"$L12","$L13","$L14","$L15","$L16"]}]]}],false,"$L17"]}],"$L18"]}]]}]
+11:["$","span",null,{"className":"size","children":"158 КБ"}]
+12:["$","a","6a8d86f5e096f456f84cad5f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d86f5e096f456f84cad5f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН ЗУ под зданием школы  в п Рубашевка.pdf"]}],["$","span",null,{"className":"size","children":"409 КБ"}]]}]
+13:["$","a","6a8d8703efd603213f149d0e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8703efd603213f149d0e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","приложение № 4 Лот 2 проект договора здание Рубашевской школы.docx"]}],["$","span",null,{"className":"size","children":"24 КБ"}]]}]
+14:["$","a","6a8d86f2efd603213f149ca3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d86f2efd603213f149ca3","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","лот № 2  (1).jpg"]}],["$","span",null,{"className":"size","children":"9.0 МБ"}]]}]
+15:["$","a","6a8d86f0e096f456f84cad5b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d86f0e096f456f84cad5b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","лот № 2  (2).jpg"]}],["$","span",null,{"className":"size","children":"3.8 МБ"}]]}]
+16:["$","a","6a8d86f157a2662b552a71aa",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d86f157a2662b552a71aa","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","лот № 2 (3).jpg"]}],["$","span",null,{"className":"size","children":"7.6 МБ"}]]}]
+19:T15f1,{
+  "id": "gis-torgi:21000001490000000138_2",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000001490000000138_2",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000001490000000138_2",
+  "title": "Здание МОУ Рубашевской основной общеобразовательной школы. Нежилое.",
+  "description": "Площадь здания - 524,4 кв.м. Год постройки 1969. Количество этажей - 1, в том числе подземных – 0. кадастровый номер 36:01:0580006:134. Фундамент: ж/бетонные блоки. Стены: кирпичные. Перегородки: кирпичные. Перекрытия: деревянное отепленное. Крыша: шиферная по деревянным стропилам. Проемы оконные: двойные створные (окрашено). Проемы дверные: простые дощатые. Полы: дощатые. Плитка. Физическое состояние помещения: «хорошее». Наличие обременения: нет",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "8",
+  "categoryName": "Здания",
+  "regionCode": "36",
+  "address": "обл Воронежская, м.р-н Аннинский, с.п. Рубашевское, п Рубашевка, ул Советская, дом 10",
+  "priceStart": "3214560.00",
+  "priceStep": "160728",
+  "deposit": "321456",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T12:15:02.344Z",
+  "biddStartAt": "2026-08-26T06:00:00Z",
+  "biddEndAt": "2026-09-21T20:59:00Z",
+  "auctionAt": "2026-09-25T06:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d86f2efd603213f149ca3",
+    "6a8d86f0e096f456f84cad5b",
+    "6a8d86f157a2662b552a71aa"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d86f563124f3d8ea6e8a0",
+      "name": "Выписка из ЕГРН Здание школы в п.Рубашевка.pdf",
+      "size": 161612,
+      "sha256": "c1ba36ab849f833b2f17435a9ca942ddbf7b3e38f107abee53c213178689a4b7"
+    },
+    {
+      "fileId": "6a8d86f5e096f456f84cad5f",
+      "name": "Выписка из ЕГРН ЗУ под зданием школы  в п Рубашевка.pdf",
+      "size": 419031,
+      "sha256": "9591ca426af28c36a9497e1b9d60eab6d36b1e207c9999edc029fc3d155482ec"
+    },
+    {
+      "fileId": "6a8d8703efd603213f149d0e",
+      "name": "приложение № 4 Лот 2 проект договора здание Рубашевской школы.docx",
+      "size": 24479,
+      "sha256": "46f4d93e5336cf36375e0a1ca4b6e8f2db52937e37054bf2a793e32c8b1d3b06"
+    },
+    {
+      "fileId": "6a8d86f2efd603213f149ca3",
+      "name": "лот № 2  (1).jpg",
+      "size": 9409980,
+      "sha256": "cc8f00a1f437bd7006f9ab6984179e8c186b81e72de5762a5997ef2ba5bfc9f2"
+    },
+    {
+      "fileId": "6a8d86f0e096f456f84cad5b",
+      "name": "лот № 2  (2).jpg",
+      "size": 3986887,
+      "sha256": "87210a28b959c8bf01e4287675655e2c97eb4b55c0ed0f07e433576ee288d443"
+    },
+    {
+      "fileId": "6a8d86f157a2662b552a71aa",
+      "name": "лот № 2 (3).jpg",
+      "size": 8019989,
+      "sha256": "81cdeb7284a6771c1363f2445e91330871934f005c9f543c4aee938908e6eb09"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "1969",
+      "source": "structured"
+    },
+    {
+      "key": "numberUndergroundFloors",
+      "name": "Количество подземных этажей",
+      "value": "0",
+      "source": "structured"
+    },
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "нет",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "524.4",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "buildingWallMaterials",
+      "name": "Материалы наружных стен здания",
+      "value": "кирпичные",
+      "source": "structured"
+    },
+    {
+      "key": "regNumberEGROKN",
+      "name": "Регистрационный номер ЕГРОКН",
+      "value": "36:01:0580006:134",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "36:01:0580006:134",
+      "source": "structured"
+    },
+    {
+      "key": "purposeBuilding",
+      "name": "Назначение здания",
+      "value": "нежилое",
+      "source": "structured"
+    },
+    {
+      "key": "numberFloors",
+      "name": "Количество этажей",
+      "value": "1",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "нет",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:12:19.927Z",
+  "lastSeenAt": "2026-08-25T13:12:19.927Z",
+  "contentHash": "884321d8f2b3029618d8da1b577632c0f5e6bc03d472652da5c2602ef5c2ba60"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"3 214 560 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"160 728 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"321 456 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 23:59 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 09:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Воронежская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000001490000000138_2","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Здание МОУ Рубашевской основной общеобразовательной школы. Нежилое. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

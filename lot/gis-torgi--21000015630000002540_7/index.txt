@@ -1,0 +1,95 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000015630000002540_7",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000015630000002540_7","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000015630000002540_7","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Tf45,{
+  "id": "gis-torgi:21000015630000002540_7",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000015630000002540_7",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000015630000002540_7",
+  "title": "Право аренды земельного участка (договор № 10 211 001 от 31.03.2000) общей площадью 10300 кв. м, кадастровый номер: 29:28:106053:8, категория земель - земли населенных пунктов, вид разрешенного использования - для автомобильной школы, адрес: Архангельская обл., г. Северодвинск, ул. Первомайская, д. 8",
+  "description": "Право аренды земельного участка (договор № 10 211 001 от 31.03.2000) общей площадью 10300 кв. м, кадастровый номер: 29:28:106053:8, категория земель - земли населенных пунктов, вид разрешенного использования - для автомобильной школы, адрес: Архангельская обл., г. Северодвинск, ул. Первомайская, д. 8 1 Штука (шт)",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "600",
+  "categoryName": "Права требования",
+  "regionCode": "29",
+  "address": "обл. Архангельская Архангельская обл., г. Северодвинск, ул. Первомайская, д. 8",
+  "priceStart": "25637000.00",
+  "priceStep": "256370",
+  "deposit": "3845550",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T06:34:24.285Z",
+  "biddStartAt": "2026-08-25T21:00:00Z",
+  "biddEndAt": "2026-09-22T20:59:00Z",
+  "auctionAt": "2026-09-25T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8d364857a2662b552a0b48"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d363f63124f3d8ea67c6e",
+      "name": "Лот 7 п.pdf",
+      "size": 1638655,
+      "sha256": "6dded830c47795d645baf45139f0f35937cd78bbf0e9a02bc3ab01d919c578ae"
+    },
+    {
+      "fileId": "6a8d3641efd603213f143a61",
+      "name": "Лот 7 ф.pdf",
+      "size": 6990061,
+      "sha256": "b5b4cc645e8e13f323ef587e1f9add27cf9d462f0169e5e1bc6677f56aca336f"
+    },
+    {
+      "fileId": "6a8d364857a2662b552a0b48",
+      "name": "Лот 7.jpg",
+      "size": 193723,
+      "sha256": "40b8e6ab2d64df38f53c9ccc5561c30508f6149c46ee4acfd5bb2a69befe32c5"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "Creditor",
+      "name": "Кредитор",
+      "value": "В пользу взыскателей",
+      "source": "structured"
+    },
+    {
+      "key": "InfoDebtor",
+      "name": "Сведения о должнике (наименование, почтовый адрес и местонахождения, ОГРН, ИНН)",
+      "value": "ПОУ \"Северодвинский УСТЦ РО ДОСААФ России по Архангельской области",
+      "source": "structured"
+    },
+    {
+      "key": "InfoPropertyLaw",
+      "name": "Сведения об имущественном праве",
+      "value": "Право аренды земельного участка (договор № 10 211 001 от 31.03.2000) общей площадью 10300 кв. м, кадастровый номер: 29:28:106053:8",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:28:19.234Z",
+  "lastSeenAt": "2026-08-25T11:28:19.234Z",
+  "contentHash": "beab487c1aeba43c6aaba2afddb5ee68c81114eba7052afbd58ba61a6475a655"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=29","children":"Архангельская обл."}]]]}],["$","h1",null,{"children":"Право аренды земельного участка (договор № 10 211 001 от 31.03.2000) общей площадью 10300 кв. м, кадастровый номер: 29:28:106053:8, категория земель - земли населенных пунктов, вид разрешенного использования - для автомобильной школы, адрес: Архангельская обл., г. Северодвинск, ул. Первомайская, д. 8"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Права требования"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d364857a2662b552a0b48","alt":"Право аренды земельного участка (договор № 10 211 001 от 31.03.2000) общей площадью 10300 кв. м, кадастровый номер: 29:28:106053:8, категория земель - земли населенных пунктов, вид разрешенного использования - для автомобильной школы, адрес: Архангельская обл., г. Северодвинск, ул. Первомайская, д. 8"}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Право аренды земельного участка (договор № 10 211 001 от 31.03.2000) общей площадью 10300 кв. м, кадастровый номер: 29:28:106053:8, категория земель - земли населенных пунктов, вид разрешенного использования - для автомобильной школы, адрес: Архангельская обл., г. Северодвинск, ул. Первомайская, д. 8 1 Штука (шт)"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","Creditor",{"children":[["$","td",null,{"children":"Кредитор"}],["$","td",null,{"children":["В пользу взыскателей",""]}]]}],["$","tr","InfoDebtor",{"children":[["$","td",null,{"children":"Сведения о должнике (наименование, почтовый адрес и местонахождения, ОГРН, ИНН)"}],["$","td",null,{"children":["ПОУ \"Северодвинский УСТЦ РО ДОСААФ России по Архангельской области",""]}]]}],["$","tr","InfoPropertyLaw",{"children":[["$","td",null,{"children":"Сведения об имущественном праве"}],["$","td",null,{"children":["Право аренды земельного участка (договор № 10 211 001 от 31.03.2000) общей площадью 10300 кв. м, кадастровый номер: 29:28:106053:8",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Архангельская Архангельская обл., г. Северодвинск, ул. Первомайская, д. 8"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d363f63124f3d8ea67c6e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d363f63124f3d8ea67c6e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Лот 7 п.pdf"]}],["$","span",null,{"className":"size","children":"1.6 МБ"}]]}],["$","a","6a8d3641efd603213f143a61",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d3641efd603213f143a61","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Лот 7 ф.pdf"]}],["$","span",null,{"className":"size","children":"6.7 МБ"}]]}],["$","a","6a8d364857a2662b552a0b48",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d364857a2662b552a0b48","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Лот 7.jpg"]}],["$","span",null,{"className":"size","children":"189 КБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"25 637 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"256 370 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"3 845 550 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 23:59 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"27 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Архангельская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000015630000002540_7","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Право аренды земельного участка (договор № 10 211 001 от 31.03.2000) общей площадью 10300  — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

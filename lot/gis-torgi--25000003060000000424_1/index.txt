@@ -1,0 +1,128 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--25000003060000000424_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--25000003060000000424_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--25000003060000000424_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=30","children":"Астраханская обл."}]]]}],["$","h1",null,{"children":"Легковой автомобиль  LADA 217030 LADA PRIORA"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6f17efd603213f147cae","alt":"Легковой автомобиль  LADA 217030 LADA PRIORA"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d6f1cefd603213f147cc8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f1cefd603213f147cc8","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6f1cefd603213f147cc8","alt":"","loading":"lazy"}]}],["$","a","6a8d6f1fefd603213f147ce1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f1fefd603213f147ce1","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6f1fefd603213f147ce1","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль   LADA 217030 LADA PRIORA, 2012 года выпуска, идентификационный  номер (VIN) ХТА217030СО382797"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["легковой автомобиль",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2012",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["ХТА217030СО382797",""]}]]}],["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["LADA",""]}]]}],["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["LADA 217030 LADA PRIORA",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Астраханская, м.о. Красноярский"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d6f3663124f3d8ea6c5dd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f3663124f3d8ea6c5dd","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","3 характеристика имущества лада приора.docx"]}],["$","span",null,{"className":"size","children":"16 КБ"}]]}],["$","a","6a8d6f44e096f456f84c906e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f44e096f456f84c906e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет 15352 лада приора с пп.pdf"]}],["$","span",null,{"className":"size","children":"5.8 МБ"}]]}],["$","a","6a8d6f17efd603213f147cae",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f17efd603213f147cae","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20250908_111410_682.jpg"]}],["$","span",null,{"className":"size","children":"5.1 МБ"}]]}],["$","a","6a8d6f1cefd603213f147cc8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f1cefd603213f147cc8","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20250908_111356_806.jpg"]}],["$","span",null,{"className":"size","children":"5.2 МБ"}]]}],["$","a","6a8d6f1fefd603213f147ce1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f1fefd603213f147ce1","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20250908_111401_479.jpg"]}],["$","span",null,{"className":"size","children":"5.6 МБ"}]]}]]}]]}],false,"$L11"]}],"$L12"]}]]}]
+13:Te37,{
+  "id": "gis-torgi:25000003060000000424_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "25000003060000000424_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/25000003060000000424_1",
+  "title": "Легковой автомобиль  LADA 217030 LADA PRIORA",
+  "description": "Легковой автомобиль   LADA 217030 LADA PRIORA, 2012 года выпуска, идентификационный  номер (VIN) ХТА217030СО382797",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "30",
+  "address": "обл. Астраханская, м.о. Красноярский",
+  "priceStart": "275000.00",
+  "priceStep": "13000",
+  "deposit": "27500",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T10:37:40.813Z",
+  "biddStartAt": "2026-08-26T05:00:00Z",
+  "biddEndAt": "2026-09-22T13:00:00Z",
+  "auctionAt": "2026-09-29T06:00:00Z",
+  "tzOffsetMin": 240,
+  "tzName": "МСК+1",
+  "etpCode": "ETP_GPB",
+  "images": [
+    "6a8d6f17efd603213f147cae",
+    "6a8d6f1cefd603213f147cc8",
+    "6a8d6f1fefd603213f147ce1"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d6f3663124f3d8ea6c5dd",
+      "name": "3 характеристика имущества лада приора.docx",
+      "size": 16256,
+      "sha256": "1375d40f6ffcdde52b875c9544c23cd5dd9278e308f5cb52fd1455942db72322"
+    },
+    {
+      "fileId": "6a8d6f44e096f456f84c906e",
+      "name": "Отчет 15352 лада приора с пп.pdf",
+      "size": 6077053,
+      "sha256": "c0d569270095ef31f01207001852acbb9f1c440dd6a111e88bba6af13c9dfc61"
+    },
+    {
+      "fileId": "6a8d6f17efd603213f147cae",
+      "name": "IMG_20250908_111410_682.jpg",
+      "size": 5333978,
+      "sha256": "48b3dafccd961941c981bea8d51c3fe44eb992e6c4e69ad9fe6daac934eb083c"
+    },
+    {
+      "fileId": "6a8d6f1cefd603213f147cc8",
+      "name": "IMG_20250908_111356_806.jpg",
+      "size": 5404700,
+      "sha256": "0a8509401a400e9c3bfe15811b0ec3f0721e3ebf04a4278906d3611d25faf649"
+    },
+    {
+      "fileId": "6a8d6f1fefd603213f147ce1",
+      "name": "IMG_20250908_111401_479.jpg",
+      "size": 5874443,
+      "sha256": "b9d74e6e033234e0c0615a4ab223b7f10d99bb3a90e21b26f3704e2351dc831c"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "легковой автомобиль",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2012",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "ХТА217030СО382797",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "LADA",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "LADA 217030 LADA PRIORA",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:12:58.259Z",
+  "lastSeenAt": "2026-08-25T13:12:58.259Z",
+  "contentHash": "d155238065274ecfafce36e3dac21f749bf02ad90128c131216cbc5552edc540"
+}11:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$13"}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"275 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"13 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"27 500 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 09:00 (МСК+1)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 17:00 (МСК+1)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 10:00 (МСК+1)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Астраханская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"GPB"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/25000003060000000424_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Легковой автомобиль  LADA 217030 LADA PRIORA — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

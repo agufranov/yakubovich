@@ -1,0 +1,243 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--24000004100000000096_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--24000004100000000096_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--24000004100000000096_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=10","children":"Карелия"}]]]}],["$","h1",null,{"children":"Нежилое здание с земельным участком. Республика Карелия, Беломорский муниципальный район, Беломорское городское поселение, город Беломорск, улица Водников, дом 29"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Торги"}],["$","span",null,{"children":"Земельный участок со зданием"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89e0efd603213f14a03d","alt":"Нежилое здание с земельным участком. Республика Карелия, Беломорский муниципальный район, Беломорское городское поселение, город Беломорск, улица Водников, дом 29"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d89e6efd603213f14a046",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89e6efd603213f14a046","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89e6efd603213f14a046","alt":"","loading":"lazy"}]}],["$","a","6a8d89eb57a2662b552a7676",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89eb57a2662b552a7676","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89eb57a2662b552a7676","alt":"","loading":"lazy"}]}],["$","a","6a8d89ebefd603213f14a049",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89ebefd603213f14a049","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89ebefd603213f14a049","alt":"","loading":"lazy"}]}],["$","a","6a8d89ec57a2662b552a767c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89ec57a2662b552a767c","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89ec57a2662b552a767c","alt":"","loading":"lazy"}]}],["$","a","6a8d89f357a2662b552a7680",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f357a2662b552a7680","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f357a2662b552a7680","alt":"","loading":"lazy"}]}],["$","a","6a8d89f3e096f456f84cafa6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f3e096f456f84cafa6","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f3e096f456f84cafa6","alt":"","loading":"lazy"}]}],["$","a","6a8d89f3e096f456f84cafa9",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f3e096f456f84cafa9","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f3e096f456f84cafa9","alt":"","loading":"lazy"}]}],["$","a","6a8d89f4efd603213f14a04f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a04f","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a04f","alt":"","loading":"lazy"}]}],["$","a","6a8d89f4efd603213f14a058",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a058","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a058","alt":"","loading":"lazy"}]}],["$","a","6a8d89f457a2662b552a7683",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f457a2662b552a7683","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f457a2662b552a7683","alt":"","loading":"lazy"}]}],["$","a","6a8d89f4efd603213f14a052",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a052","target":"_blank","rel":"noopener","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19"]}]]}],"$L1a",false,"$L1b","$L1c",false,"$L1d"]}],"$L1e"]}]]}]
+11:["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a052","alt":"","loading":"lazy"}]
+12:["$","a","6a8d89f4e096f456f84cafaf",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4e096f456f84cafaf","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4e096f456f84cafaf","alt":"","loading":"lazy"}]}]
+13:["$","a","6a8d89f4e096f456f84cafac",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4e096f456f84cafac","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4e096f456f84cafac","alt":"","loading":"lazy"}]}]
+14:["$","a","6a8d89f463124f3d8ea6ebee",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f463124f3d8ea6ebee","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f463124f3d8ea6ebee","alt":"","loading":"lazy"}]}]
+15:["$","a","6a8d89f4efd603213f14a057",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a057","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a057","alt":"","loading":"lazy"}]}]
+16:["$","a","6a8d89f463124f3d8ea6ebf1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f463124f3d8ea6ebf1","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f463124f3d8ea6ebf1","alt":"","loading":"lazy"}]}]
+17:["$","a","6a8d89f457a2662b552a7686",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f457a2662b552a7686","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f457a2662b552a7686","alt":"","loading":"lazy"}]}]
+18:["$","a","6a8d89f457a2662b552a7689",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f457a2662b552a7689","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f457a2662b552a7689","alt":"","loading":"lazy"}]}]
+19:["$","a","6a8d89f4efd603213f14a05b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a05b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a05b","alt":"","loading":"lazy"}]}]
+1a:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое здание с кадастровым номером 10:11:0000000:6902, общей площадью 581,7 кв.м., расположенное по адресу: Республика Карелия, р-н. Беломорский, г. Беломорск, ул. Водников, д. 29 (далее – Здание), а также земельный участок с кадастровым номером 10:11:0011403:61, площадью 730 кв.м, на котором расположено Здание."}]]}]
+1b:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"респ. Карелия, м.о. Беломорский, г. Беломорск, ул. Водников, дом 29"}]]}]
+1c:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",24,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d8a0863124f3d8ea6ebf9",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8a0863124f3d8ea6ebf9","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН здание.pdf"]}],["$","span",null,{"className":"size","children":"275 КБ"}]]}],["$","a","6a8d8a0857a2662b552a7690",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8a0857a2662b552a7690","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН земля.pdf"]}],["$","span",null,{"className":"size","children":"279 КБ"}]]}],["$","a","6a8d8a15efd603213f14a0b9",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8a15efd603213f14a0b9","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет об оценке_Беломорский район_Водников 29 _ЕОН (со штампом).pdf"]}],["$","span",null,{"className":"size","children":"9.8 МБ"}]]}],["$","a","6a8d89e0efd603213f14a03d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89e0efd603213f14a03d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-40.jpg"]}],["$","span",null,{"className":"size","children":"193 КБ"}]]}],["$","a","6a8d89e6efd603213f14a046",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89e6efd603213f14a046","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-41.jpg"]}],["$","span",null,{"className":"size","children":"203 КБ"}]]}],["$","a","6a8d89eb57a2662b552a7676",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89eb57a2662b552a7676","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-34.jpg"]}],["$","span",null,{"className":"size","children":"105 КБ"}]]}],["$","a","6a8d89ebefd603213f14a049",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89ebefd603213f14a049","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-35.jpg"]}],["$","span",null,{"className":"size","children":"93 КБ"}]]}],["$","a","6a8d89ec57a2662b552a767c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89ec57a2662b552a767c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-37.jpg"]}],["$","span",null,{"className":"size","children":"226 КБ"}]]}],["$","a","6a8d89f357a2662b552a7680",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f357a2662b552a7680","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-57-44.jpg"]}],["$","span",null,{"className":"size","children":"105 КБ"}]]}],["$","a","6a8d89f3e096f456f84cafa6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f3e096f456f84cafa6","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-15.jpg"]}],["$","span",null,{"className":"size","children":"55 КБ"}]]}],["$","a","6a8d89f3e096f456f84cafa9",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f3e096f456f84cafa9","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-20.jpg"]}],["$","span",null,{"className":"size","children":"109 КБ"}]]}],["$","a","6a8d89f4efd603213f14a04f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a04f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-21.jpg"]}],["$","span",null,{"className":"size","children":"53 КБ"}]]}],["$","a","6a8d89f4efd603213f14a058",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a058","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-22.jpg"]}],["$","span",null,{"className":"size","children":"97 КБ"}]]}],["$","a","6a8d89f457a2662b552a7683",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f457a2662b552a7683","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-24.jpg"]}],["$","span",null,{"className":"size","children":"84 КБ"}]]}],["$","a","6a8d89f4efd603213f14a052",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a052","target":"_blank","rel":"noopener","children":["$L1f","$L20"]}],"$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]]}]
+2a:T1f25,{
+  "id": "gis-torgi:24000004100000000096_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "24000004100000000096_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/24000004100000000096_1",
+  "title": "Нежилое здание с земельным участком. Республика Карелия, Беломорский муниципальный район, Беломорское городское поселение, город Беломорск, улица Водников, дом 29",
+  "description": "Нежилое здание с кадастровым номером 10:11:0000000:6902, общей площадью 581,7 кв.м., расположенное по адресу: Республика Карелия, р-н. Беломорский, г. Беломорск, ул. Водников, д. 29 (далее – Здание), а также земельный участок с кадастровым номером 10:11:0011403:61, площадью 730 кв.м, на котором расположено Здание.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "other",
+  "tradeKindRaw": "Продажа по минимально допустимой цене",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "903",
+  "categoryName": "Земельный участок со зданием",
+  "regionCode": "10",
+  "address": "респ. Карелия, м.о. Беломорский, г. Беломорск, ул. Водников, дом 29",
+  "priceStart": "128050.80",
+  "deposit": "25610.16",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T12:34:41.053Z",
+  "biddStartAt": "2026-08-25T21:00:00Z",
+  "biddEndAt": "2026-10-16T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d89e0efd603213f14a03d",
+    "6a8d89e6efd603213f14a046",
+    "6a8d89eb57a2662b552a7676",
+    "6a8d89ebefd603213f14a049",
+    "6a8d89ec57a2662b552a767c",
+    "6a8d89f357a2662b552a7680",
+    "6a8d89f3e096f456f84cafa6",
+    "6a8d89f3e096f456f84cafa9",
+    "6a8d89f4efd603213f14a04f",
+    "6a8d89f4efd603213f14a058",
+    "6a8d89f457a2662b552a7683",
+    "6a8d89f4efd603213f14a052",
+    "6a8d89f4e096f456f84cafaf",
+    "6a8d89f4e096f456f84cafac",
+    "6a8d89f463124f3d8ea6ebee",
+    "6a8d89f4efd603213f14a057",
+    "6a8d89f463124f3d8ea6ebf1",
+    "6a8d89f457a2662b552a7686",
+    "6a8d89f457a2662b552a7689",
+    "6a8d89f4efd603213f14a05b"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d8a0863124f3d8ea6ebf9",
+      "name": "Выписка из ЕГРН здание.pdf",
+      "size": 281540,
+      "sha256": "9403bdbe5a818d8f0286d4308bda2e4fd96f6f7ed6e03b031f11465c6778b3f1"
+    },
+    {
+      "fileId": "6a8d8a0857a2662b552a7690",
+      "name": "Выписка из ЕГРН земля.pdf",
+      "size": 285571,
+      "sha256": "4ea0ba6ff1d810620b6f14a332d0e3353eb15a2b6c23898f68bf3f9cc8b127cf"
+    },
+    {
+      "fileId": "6a8d8a15efd603213f14a0b9",
+      "name": "Отчет об оценке_Беломорский район_Водников 29 _ЕОН (со штампом).pdf",
+      "size": 10321847,
+      "sha256": "12f0a6982a2b4cfb7321899b8262e7809b60422a4a92b02121a5359734c20ce3"
+    },
+    {
+      "fileId": "6a8d89e0efd603213f14a03d",
+      "name": "photo_2025-07-24_16-59-40.jpg",
+      "size": 197995,
+      "sha256": "43a55f4f875b237766d9fe47a3d72d1616ff653841a938ac6f38bbb1b08e97ba"
+    },
+    {
+      "fileId": "6a8d89e6efd603213f14a046",
+      "name": "photo_2025-07-24_16-59-41.jpg",
+      "size": 207986,
+      "sha256": "a12931234bb4c0027ab6d2e51c6865b5bbee63de862c3ae5307a603124846ed9"
+    },
+    {
+      "fileId": "6a8d89eb57a2662b552a7676",
+      "name": "photo_2025-07-24_16-59-34.jpg",
+      "size": 107662,
+      "sha256": "2fa83a25feb3d934d6dfceff610422c68102b178d35703c24f53ebdd516d8c03"
+    },
+    {
+      "fileId": "6a8d89ebefd603213f14a049",
+      "name": "photo_2025-07-24_16-59-35.jpg",
+      "size": 95627,
+      "sha256": "f6c6b6a8db125e0be066730c6bceea5427fc6700bc487df81015a400d4e88a04"
+    },
+    {
+      "fileId": "6a8d89ec57a2662b552a767c",
+      "name": "photo_2025-07-24_16-59-37.jpg",
+      "size": 231444,
+      "sha256": "5d466ec8992c45bc2e5f06151f049beb8b5fbbfd0a12f5f4ed2bab504e8b0a2f"
+    },
+    {
+      "fileId": "6a8d89f357a2662b552a7680",
+      "name": "photo_2025-07-24_16-57-44.jpg",
+      "size": 107022,
+      "sha256": "97bce162cdbddaeb3ab3be8f435f2b7627953de7b374bbbd70346840aa2f39ea"
+    },
+    {
+      "fileId": "6a8d89f3e096f456f84cafa6",
+      "name": "photo_2025-07-24_16-59-15.jpg",
+      "size": 56822,
+      "sha256": "9a02d762f2d787b35d0d90b2f6a216311a8a76bf35fe522a931f891dac34afc5"
+    },
+    {
+      "fileId": "6a8d89f3e096f456f84cafa9",
+      "name": "photo_2025-07-24_16-59-20.jpg",
+      "size": 111377,
+      "sha256": "3326f12f299a242f0b84fdd6d5f55728b855363bfdac31249663697aaf7e8642"
+    },
+    {
+      "fileId": "6a8d89f4efd603213f14a04f",
+      "name": "photo_2025-07-24_16-59-21.jpg",
+      "size": 54028,
+      "sha256": "c798defab03558323487e6338dba44874339e04aa937d29f6a7a212974b4329b"
+    },
+    {
+      "fileId": "6a8d89f4efd603213f14a058",
+      "name": "photo_2025-07-24_16-59-22.jpg",
+      "size": 99010,
+      "sha256": "59d413a51bec6531fcf304152105aa832c34a84ecbfa262d04c5792ae98b7dec"
+    },
+    {
+      "fileId": "6a8d89f457a2662b552a7683",
+      "name": "photo_2025-07-24_16-59-24.jpg",
+      "size": 86492,
+      "sha256": "e6c845143d7ce3647154e71a48ce6c67f29fde07f5df8667da5bb01423265e56"
+    },
+    {
+      "fileId": "6a8d89f4efd603213f14a052",
+      "name": "photo_2025-07-24_16-59-26.jpg",
+      "size": 119945,
+      "sha256": "f95f9997872d6c826285397c1b017683c1f0c6a3d87e69d6d7c5773b7e2086ed"
+    },
+    {
+      "fileId": "6a8d89f4e096f456f84cafaf",
+      "name": "photo_2025-07-24_16-59-27.jpg",
+      "size": 139500,
+      "sha256": "faa7cd7fc7074fc790540ef33d48f1d75269a072a4a2b9db5b0d89ca162401f9"
+    },
+    {
+      "fileId": "6a8d89f4e096f456f84cafac",
+      "name": "photo_2025-07-24_16-59-28.jpg",
+      "size": 60940,
+      "sha256": "ae319e078c866c15cbaa8bcb0d67ab96a83a52e15cb2ab2fd50bc2bd28e19b90"
+    },
+    {
+      "fileId": "6a8d89f463124f3d8ea6ebee",
+      "name": "photo_2025-07-24_16-59-29.jpg",
+      "size": 77857,
+      "sha256": "0a6bd93aeb88ba480ce230f0464a0103b6cea22cdce7cc1cfade4f77e815bd50"
+    },
+    {
+      "fileId": "6a8d89f4efd603213f14a057",
+      "name": "photo_2025-07-24_16-59-30 (2).jpg",
+      "size": 63467,
+      "sha256": "08d60d737fe4df2d47e40e1ce2260a9f156e7c595b8775b65b18de461aab0c54"
+    },
+    {
+      "fileId": "6a8d89f463124f3d8ea6ebf1",
+      "name": "photo_2025-07-24_16-59-30.jpg",
+      "size": 153502,
+      "sha256": "c1df3f8fa213e2f416a65541d63e4ec604afa56f7ecba781f7088ab4f97ee351"
+    },
+    {
+      "fileId": "6a8d89f457a2662b552a7686",
+      "name": "photo_2025-07-24_16-59-31.jpg",
+      "size": 86117,
+      "sha256": "eec4bfd73a5a21c4be5af6997306f4d629ef6e531a2a43e8b1d3dd6a1557fb74"
+    },
+    {
+      "fileId": "6a8d89f457a2662b552a7689",
+      "name": "photo_2025-07-24_16-59-32.jpg",
+      "size": 71407,
+      "sha256": "4a98a205f4854ec72420fb907d8edaa858397c3c1e6185a3d75860c42c2992ba"
+    },
+    {
+      "fileId": "6a8d89f4efd603213f14a05b",
+      "name": "photo_2025-07-24_16-59-33.jpg",
+      "size": 101268,
+      "sha256": "7f90c2b69169344f10b7c2e98a731ae3090bad921f3e2e36e4f16dff0988afe1"
+    },
+    {
+      "fileId": "6a8d8a36efd603213f14a1a3",
+      "name": "IMG_9611.MOV",
+      "size": 47055569,
+      "sha256": "dc1831af1acd60b0443138d7a0bef434890a98df7b746d4908b2210da0900c18"
+    }
+  ],
+  "attributes": [],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:11:47.695Z",
+  "lastSeenAt": "2026-08-25T13:11:47.695Z",
+  "contentHash": "7ade86893054668a069dfddc1e6152b9922eeb872acbbb65abea2b0c9d721d1f"
+}1d:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$2a"}]]}]
+1e:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"128 050,80 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"25 610,16 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"16 окт. 2026 г., 11:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"50 дней"}]],"$undefined"]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Карелия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/24000004100000000096_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1f:["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-26.jpg"]}]
+20:["$","span",null,{"className":"size","children":"117 КБ"}]
+21:["$","a","6a8d89f4e096f456f84cafaf",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4e096f456f84cafaf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-27.jpg"]}],["$","span",null,{"className":"size","children":"136 КБ"}]]}]
+22:["$","a","6a8d89f4e096f456f84cafac",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4e096f456f84cafac","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-28.jpg"]}],["$","span",null,{"className":"size","children":"60 КБ"}]]}]
+23:["$","a","6a8d89f463124f3d8ea6ebee",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f463124f3d8ea6ebee","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-29.jpg"]}],["$","span",null,{"className":"size","children":"76 КБ"}]]}]
+24:["$","a","6a8d89f4efd603213f14a057",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a057","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-30 (2).jpg"]}],["$","span",null,{"className":"size","children":"62 КБ"}]]}]
+25:["$","a","6a8d89f463124f3d8ea6ebf1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f463124f3d8ea6ebf1","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-30.jpg"]}],["$","span",null,{"className":"size","children":"150 КБ"}]]}]
+26:["$","a","6a8d89f457a2662b552a7686",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f457a2662b552a7686","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-31.jpg"]}],["$","span",null,{"className":"size","children":"84 КБ"}]]}]
+27:["$","a","6a8d89f457a2662b552a7689",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f457a2662b552a7689","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-32.jpg"]}],["$","span",null,{"className":"size","children":"70 КБ"}]]}]
+28:["$","a","6a8d89f4efd603213f14a05b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d89f4efd603213f14a05b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-24_16-59-33.jpg"]}],["$","span",null,{"className":"size","children":"99 КБ"}]]}]
+29:["$","a","6a8d8a36efd603213f14a1a3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8a36efd603213f14a1a3","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_9611.MOV"]}],["$","span",null,{"className":"size","children":"44.9 МБ"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое здание с земельным участком. Республика Карелия, Беломорский муниципальный район,  — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

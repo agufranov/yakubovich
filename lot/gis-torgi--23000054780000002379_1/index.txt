@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000054780000002379_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000054780000002379_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000054780000002379_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"квартира пл.33,1кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Внуково, улица Аэростатная, дом 14, корпус 3, квартира 37, к/н 77:18:0170408:1949"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Жилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87ef4aefd603213f122c01","alt":"квартира пл.33,1кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Внуково, улица Аэростатная, дом 14, корпус 3, квартира 37, к/н 77:18:0170408:1949"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a87ef5863124f3d8ea48075",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ef5863124f3d8ea48075","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87ef5863124f3d8ea48075","alt":"","loading":"lazy"}]}],["$","a","6a87ef58efd603213f122c0c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ef58efd603213f122c0c","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87ef58efd603213f122c0c","alt":"","loading":"lazy"}]}],["$","a","6a87ef58efd603213f122c11",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ef58efd603213f122c11","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87ef58efd603213f122c11","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"квартира пл.33,1кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Внуково, улица Аэростатная, дом 14, корпус 3, квартира 37, к/н 77:18:0170408:1949, должник (собственник): Юнкина Ю.В. Фотографии имущества судебным приставом-исполнителем не предоставлены"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["33.1"," м^2 общ. пл"]}]]}],["$","tr","typeLivingQuarters",{"children":[["$","td",null,{"children":"Вид жилого помещения"}],["$","td",null,{"children":["квартира",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["77:18:0170408:1949",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Внуково, ул. Аэростатная, дом 14 к. 3, кв. 37"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a87ef65efd603213f122c15",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ef65efd603213f122c15","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Л2 26 20 НАО-52.pdf"]}],["$","span",null,{"className":"size","children":"499 КБ"}]]}],["$","a","6a88353dac85246d2d8408be",{"href":"https://torgi.gov.ru/new/file-store/v1/6a88353dac85246d2d8408be","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Юнкина Ю.В. Аэростатная гис.pdf"]}],["$","span",null,{"className":"size","children":"7.1 МБ"}]]}],["$","a","6a87ef4aefd603213f122c01",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ef4aefd603213f122c01","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15"]}]]}],false,"$L16"]}],"$L17"]}]]}]
+11:["$","span",null,{"children":["📎 ","логотип.jpg"]}]
+12:["$","span",null,{"className":"size","children":"2.3 МБ"}]
+13:["$","a","6a87ef5863124f3d8ea48075",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ef5863124f3d8ea48075","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Аэро1.jpeg"]}],["$","span",null,{"className":"size","children":"23 КБ"}]]}]
+14:["$","a","6a87ef58efd603213f122c0c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ef58efd603213f122c0c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Аэро2.jpeg"]}],["$","span",null,{"className":"size","children":"14 КБ"}]]}]
+15:["$","a","6a87ef58efd603213f122c11",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ef58efd603213f122c11","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Аэро3.jpeg"]}],["$","span",null,{"className":"size","children":"610 КБ"}]]}]
+18:Tfaf,{
+  "id": "gis-torgi:23000054780000002379_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000054780000002379_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000054780000002379_1",
+  "title": "квартира пл.33,1кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Внуково, улица Аэростатная, дом 14, корпус 3, квартира 37, к/н 77:18:0170408:1949",
+  "description": "квартира пл.33,1кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Внуково, улица Аэростатная, дом 14, корпус 3, квартира 37, к/н 77:18:0170408:1949, должник (собственник): Юнкина Ю.В. Фотографии имущества судебным приставом-исполнителем не предоставлены",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "9",
+  "categoryName": "Жилые помещения",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Внуково, ул. Аэростатная, дом 14 к. 3, кв. 37",
+  "priceStart": "5725000.00",
+  "priceStep": "29000",
+  "deposit": "250000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T13:46:39.068Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-03T13:00:00Z",
+  "auctionAt": "2026-09-08T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RAD",
+  "images": [
+    "6a87ef4aefd603213f122c01",
+    "6a87ef5863124f3d8ea48075",
+    "6a87ef58efd603213f122c0c",
+    "6a87ef58efd603213f122c11"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a87ef65efd603213f122c15",
+      "name": "Л2 26 20 НАО-52.pdf",
+      "size": 511311,
+      "sha256": "67542de6082431157e3486815dbd1cf4c30d3abcb903bea154cc0db5f7acec71"
+    },
+    {
+      "fileId": "6a88353dac85246d2d8408be",
+      "name": "Юнкина Ю.В. Аэростатная гис.pdf",
+      "size": 7465908,
+      "sha256": "6bdec510f2ce2703573ceade8845240cdd88e736774f7d1ee2c8fba7472d3bd3"
+    },
+    {
+      "fileId": "6a87ef4aefd603213f122c01",
+      "name": "логотип.jpg",
+      "size": 2433104,
+      "sha256": "cb3680a136b3a2c1dc768159200b5a5ce5f7ccb865480cdd31ddb91f687b81b8"
+    },
+    {
+      "fileId": "6a87ef5863124f3d8ea48075",
+      "name": "Аэро1.jpeg",
+      "size": 23828,
+      "sha256": "7fb09688b260af4dc77b5692b5f22f6b71c66f7fa320f2eb13a9e92c0efe842f"
+    },
+    {
+      "fileId": "6a87ef58efd603213f122c0c",
+      "name": "Аэро2.jpeg",
+      "size": 13873,
+      "sha256": "34193f8c813f82e41c16d4c3e4fc65623f64100b42878bce8c5e29f8ea435dda"
+    },
+    {
+      "fileId": "6a87ef58efd603213f122c11",
+      "name": "Аэро3.jpeg",
+      "size": 624604,
+      "sha256": "263074020fc24eff4844a1edc5163dcaa8e1112bff5de850f82fefc46f5aedba"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "33.1",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "typeLivingQuarters",
+      "name": "Вид жилого помещения",
+      "value": "квартира",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "77:18:0170408:1949",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:42:19.668Z",
+  "lastSeenAt": "2026-08-25T11:42:19.668Z",
+  "contentHash": "67e227f3765eb27d30a3d5edbac653d61e84f01a4d086b20fa56a9348e12082a"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"5 725 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"29 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"250 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"3 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"7 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"8 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RAD"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000054780000002379_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"квартира пл.33,1кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальн — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

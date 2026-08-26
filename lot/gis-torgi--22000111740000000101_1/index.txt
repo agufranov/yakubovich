@@ -1,0 +1,110 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000111740000000101_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000111740000000101_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000111740000000101_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=58","children":"Пензенская обл."}]]]}],["$","h1",null,{"children":"Нежилое здание площадью 1017 кв.м, с кадастровым номером 58:11:0070201:409 расположенное на земельном участке площадью 6886 кв.м, с кадастровым номером 58:11:0070201:300"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Здания"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4dd057a2662b5529c761","alt":"Нежилое здание площадью 1017 кв.м, с кадастровым номером 58:11:0070201:409 расположенное на земельном участке площадью 6886 кв.м, с кадастровым номером 58:11:0070201:300"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c4dda63124f3d8ea63948",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4dda63124f3d8ea63948","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4dda63124f3d8ea63948","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое  здание площадью 1017 кв.м. с кадастровым номером 58:11:0070201:409 расположенное на земельном участке площадью 6886 кв.м. с кадастровым номером 58:11:0070201:300 по адресу: Пензенская область, Камешкирский район, с. Дьячевка,    ул. Сосновская, д. 3А"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["1017"," м^2 общ. пл"]}]]}],["$","tr","buildingWallMaterials",{"children":[["$","td",null,{"children":"Материалы наружных стен здания"}],["$","td",null,{"children":["кирпич",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["58:11:0070201:409",""]}]]}],["$","tr","numberFloors",{"children":[["$","td",null,{"children":"Количество этажей"}],["$","td",null,{"children":["2",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Пензенская, м.р-н Камешкирский, с.п. Пестровский сельсовет, с. Дьячевка, ул. Сосновская, дом 3а"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c4e17e096f456f84c0ee0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4e17e096f456f84c0ee0","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","190 от 20.08.2026.pdf"]}],["$","span",null,{"className":"size","children":"772 КБ"}]]}],["$","a","6a8c4e1d63124f3d8ea6397b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4e1d63124f3d8ea6397b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","194 от 21.08.2026.pdf"]}],["$","span",null,{"className":"size","children":"1.0 МБ"}]]}],["$","a","6a8c4dd057a2662b5529c761",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4dd057a2662b5529c761","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG-96b33cc888d5441faab31d98361b5bfa-V.jpg"]}],["$","span",null,{"className":"size","children":"226 КБ"}]]}],["$","a","6a8c4dda63124f3d8ea63948",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4dda63124f3d8ea63948","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG-8b0c990dbe912a16a27f69ef467d7cf7-V.jpg"]}],["$","span",null,{"className":"size","children":"248 КБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],"$L11"]}]]}],"$L12"]}]]}]
+13:Tead,{
+  "id": "gis-torgi:22000111740000000101_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000111740000000101_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000111740000000101_1",
+  "title": "Нежилое здание площадью 1017 кв.м, с кадастровым номером 58:11:0070201:409 расположенное на земельном участке площадью 6886 кв.м, с кадастровым номером 58:11:0070201:300",
+  "description": "Нежилое  здание площадью 1017 кв.м. с кадастровым номером 58:11:0070201:409 расположенное на земельном участке площадью 6886 кв.м. с кадастровым номером 58:11:0070201:300 по адресу: Пензенская область, Камешкирский район, с. Дьячевка,    ул. Сосновская, д. 3А",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Публичное предложение",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "8",
+  "categoryName": "Здания",
+  "regionCode": "58",
+  "address": "обл. Пензенская, м.р-н Камешкирский, с.п. Пестровский сельсовет, с. Дьячевка, ул. Сосновская, дом 3а",
+  "priceStart": "1398000.00",
+  "priceStep": "69900",
+  "deposit": "139800",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T14:32:58.055Z",
+  "biddStartAt": "2026-08-25T05:00:00Z",
+  "biddEndAt": "2026-09-19T14:00:00Z",
+  "auctionAt": "2026-09-22T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8c4dd057a2662b5529c761",
+    "6a8c4dda63124f3d8ea63948"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c4e17e096f456f84c0ee0",
+      "name": "190 от 20.08.2026.pdf",
+      "size": 790661,
+      "sha256": "1b86799614b00f83c1c06b1ac730484f1e062627587b886aa7b4dea031e8583f"
+    },
+    {
+      "fileId": "6a8c4e1d63124f3d8ea6397b",
+      "name": "194 от 21.08.2026.pdf",
+      "size": 1092582,
+      "sha256": "5438447624f0e58923fae41b915b0f7a345a01b66670225f6d2bc82d0bf1c704"
+    },
+    {
+      "fileId": "6a8c4dd057a2662b5529c761",
+      "name": "IMG-96b33cc888d5441faab31d98361b5bfa-V.jpg",
+      "size": 231143,
+      "sha256": "b0e0de40fedf98f7fb99a73fc17e7e60feca3c726c899671811e8caac1b3829d"
+    },
+    {
+      "fileId": "6a8c4dda63124f3d8ea63948",
+      "name": "IMG-8b0c990dbe912a16a27f69ef467d7cf7-V.jpg",
+      "size": 254144,
+      "sha256": "5e9ef52e765d64ed4b0897a6c0ec16aa930bddfc5ff177b615b006ba3da7064f"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "1017",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "buildingWallMaterials",
+      "name": "Материалы наружных стен здания",
+      "value": "кирпич",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "58:11:0070201:409",
+      "source": "structured"
+    },
+    {
+      "key": "numberFloors",
+      "name": "Количество этажей",
+      "value": "2",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:28:51.886Z",
+  "lastSeenAt": "2026-08-25T13:28:51.886Z",
+  "contentHash": "adef1890fc69064e121be70f50b19ff659418615c4db09986ae2ac1948d9da3d"
+}11:["$","pre",null,{"children":"$13"}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 398 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"69 900 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"139 800 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 08:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"19 сент. 2026 г., 17:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"23 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"22 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Пензенская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000111740000000101_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое здание площадью 1017 кв.м, с кадастровым номером 58:11:0070201:409 расположенное н — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

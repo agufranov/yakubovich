@@ -1,0 +1,101 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000036400000000107_3",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000036400000000107_3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000036400000000107_3","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Td22,{
+  "id": "gis-torgi:22000036400000000107_3",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000036400000000107_3",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000036400000000107_3",
+  "title": "а/м LADA LARGUS FS045L, 2020 г.в., гос. №С638РТ152, VIN XTAFS045LM1326649, Номер кузова (прицепа) XTAFS045LM1326649, зарегистрировано ограничение",
+  "description": "а/м LADA LARGUS FS045L, 2020 г.в., гос. №С638РТ152, VIN XTAFS045LM1326649, Номер кузова (прицепа) XTAFS045LM1326649, зарегистрировано ограничение Место нахождения: Нижегородская обл. Должник ООО «ИНТЕГРАЛ НОВЫЕ ТЕХНОЛОГИИ» Реализуется на основании постановления СПИ СОСП ГМУ ФССП о снижении цены переданного на реализацию имущества на 15% б/н от 18.08.2026г и поручения ТУ Росимущества в Нижегородской области №461 от 02.06.2026. Начальная цена –  477 445,00руб., сумма задатка – 143 200,00 руб., шаг аукциона- 4 774,45 руб.",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "52",
+  "address": "обл. Нижегородская",
+  "priceStart": "477445.00",
+  "priceStep": "4774.45",
+  "deposit": "143200",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T11:12:30.412Z",
+  "biddStartAt": "2026-08-25T13:00:00Z",
+  "biddEndAt": "2026-09-25T20:59:00Z",
+  "auctionAt": "2026-09-29T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8d4dbd63124f3d8ea699c2"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d4dbd63124f3d8ea699c2",
+      "name": "нет фото.jpg",
+      "size": 5669,
+      "sha256": "1d9fd2708c23a01953aaa34d9a912b51d496012a57e299d407d64d7b5d6f9138"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "Легковой автомобиль",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2020",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "XTAFS045LM1326649",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "LADA LARGUS",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "LADA LARGUS",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:24:27.201Z",
+  "lastSeenAt": "2026-08-25T11:24:27.201Z",
+  "contentHash": "74f2871560bc88f8ae4c3926021a797aefd1c17b733b924deb29b7b00d97dd68"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=52","children":"Нижегородская обл."}]]]}],["$","h1",null,{"children":"а/м LADA LARGUS FS045L, 2020 г.в., гос. №С638РТ152, VIN XTAFS045LM1326649, Номер кузова (прицепа) XTAFS045LM1326649, зарегистрировано ограничение"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d4dbd63124f3d8ea699c2","alt":"а/м LADA LARGUS FS045L, 2020 г.в., гос. №С638РТ152, VIN XTAFS045LM1326649, Номер кузова (прицепа) XTAFS045LM1326649, зарегистрировано ограничение"}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"а/м LADA LARGUS FS045L, 2020 г.в., гос. №С638РТ152, VIN XTAFS045LM1326649, Номер кузова (прицепа) XTAFS045LM1326649, зарегистрировано ограничение Место нахождения: Нижегородская обл. Должник ООО «ИНТЕГРАЛ НОВЫЕ ТЕХНОЛОГИИ» Реализуется на основании постановления СПИ СОСП ГМУ ФССП о снижении цены переданного на реализацию имущества на 15% б/н от 18.08.2026г и поручения ТУ Росимущества в Нижегородской области №461 от 02.06.2026. Начальная цена –  477 445,00руб., сумма задатка – 143 200,00 руб., шаг аукциона- 4 774,45 руб."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["Легковой автомобиль",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2020",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["XTAFS045LM1326649",""]}]]}],["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["LADA LARGUS",""]}]]}],["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["LADA LARGUS",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Нижегородская"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",1,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d4dbd63124f3d8ea699c2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d4dbd63124f3d8ea699c2","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","нет фото.jpg"]}],["$","span",null,{"className":"size","children":"6 КБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"477 445 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"4 774,45 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"143 200 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"25 сент. 2026 г., 23:59 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"30 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Нижегородская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000036400000000107_3","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"а/м LADA LARGUS FS045L, 2020 г.в., гос. №С638РТ152, VIN XTAFS045LM1326649, Номер кузова (п — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

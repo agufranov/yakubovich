@@ -1,0 +1,121 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--26000011200000000004_3",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--26000011200000000004_3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--26000011200000000004_3","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Te75,{
+  "id": "gis-torgi:26000011200000000004_3",
+  "sourceCode": "gis-torgi",
+  "externalId": "26000011200000000004_3",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/26000011200000000004_3",
+  "title": "Нежилое здание склада общей площадью 1624,5 м2, расположенное по адресу: Россия, Красноярский край, г. Зеленогорск, ул. Майское шоссе, д. 19/1",
+  "description": "Здание склада, 24:59:0306001:736, Россия, Красноярский край, г. Зеленогорск, ул. Майское шоссе, д. 19/1.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "8",
+  "categoryName": "Здания",
+  "regionCode": "24",
+  "address": "край Красноярский, г.о. ЗАТО город Зеленогорск, г. Зеленогорск, ул. Майское шоссе, дом 19/1",
+  "priceStart": "7903305.00",
+  "priceStep": "395165.25",
+  "deposit": "790330.5",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T10:14:42.328Z",
+  "biddStartAt": "2026-08-26T02:00:00Z",
+  "biddEndAt": "2026-09-25T10:00:00Z",
+  "auctionAt": "2026-09-29T03:00:00Z",
+  "tzOffsetMin": 420,
+  "tzName": "МСК+4",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8bb558efd603213f132c6d",
+    "6a8bb55863124f3d8ea5734d"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c07bf57a2662b55294a73",
+      "name": "Проект договора Лот №3 .docx",
+      "size": 25432,
+      "sha256": "2a2a1c82de7b1544a30c151228ecd4f5dded4aa9797807426d01cd712c36f20a"
+    },
+    {
+      "fileId": "6a8bb558efd603213f132c6d",
+      "name": "20260525_171552.jpg",
+      "size": 1742758,
+      "sha256": "941535779b1d515c4ce7a8e2df97533f41969dd8ac9606ab4c7fa470aa237c59"
+    },
+    {
+      "fileId": "6a8bb55863124f3d8ea5734d",
+      "name": "20260525_171634.jpg",
+      "size": 1864577,
+      "sha256": "2ca121919f2b71dbe469549000011bf3dbb2561f301001fda42809a7113772a7"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "1973",
+      "source": "structured"
+    },
+    {
+      "key": "numberUndergroundFloors",
+      "name": "Количество подземных этажей",
+      "value": "0",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "1624.5",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "buildingWallMaterials",
+      "name": "Материалы наружных стен здания",
+      "value": "кирпичные",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "24:59:0306001:736",
+      "source": "structured"
+    },
+    {
+      "key": "purposeBuilding",
+      "name": "Назначение здания",
+      "value": "Склад",
+      "source": "structured"
+    },
+    {
+      "key": "numberFloors",
+      "name": "Количество этажей",
+      "value": "1",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:14:26.881Z",
+  "lastSeenAt": "2026-08-25T13:14:26.881Z",
+  "contentHash": "a7bcf9372ab852e3924ac36f6cf312aa9cb1414270a6652d860b64896dae7177"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=24","children":"Красноярский край"}]]]}],["$","h1",null,{"children":"Нежилое здание склада общей площадью 1624,5 м2, расположенное по адресу: Россия, Красноярский край, г. Зеленогорск, ул. Майское шоссе, д. 19/1"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Здания"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bb558efd603213f132c6d","alt":"Нежилое здание склада общей площадью 1624,5 м2, расположенное по адресу: Россия, Красноярский край, г. Зеленогорск, ул. Майское шоссе, д. 19/1"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8bb55863124f3d8ea5734d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bb55863124f3d8ea5734d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bb55863124f3d8ea5734d","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Здание склада, 24:59:0306001:736, Россия, Красноярский край, г. Зеленогорск, ул. Майское шоссе, д. 19/1."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["1973",""]}]]}],["$","tr","numberUndergroundFloors",{"children":[["$","td",null,{"children":"Количество подземных этажей"}],["$","td",null,{"children":["0",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["1624.5"," м^2 общ. пл"]}]]}],["$","tr","buildingWallMaterials",{"children":[["$","td",null,{"children":"Материалы наружных стен здания"}],["$","td",null,{"children":["кирпичные",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["24:59:0306001:736",""]}]]}],["$","tr","purposeBuilding",{"children":[["$","td",null,{"children":"Назначение здания"}],["$","td",null,{"children":["Склад",""]}]]}],["$","tr","numberFloors",{"children":[["$","td",null,{"children":"Количество этажей"}],["$","td",null,{"children":["1",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Красноярский, г.о. ЗАТО город Зеленогорск, г. Зеленогорск, ул. Майское шоссе, дом 19/1"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c07bf57a2662b55294a73",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c07bf57a2662b55294a73","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора Лот №3 .docx"]}],["$","span",null,{"className":"size","children":"25 КБ"}]]}],["$","a","6a8bb558efd603213f132c6d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bb558efd603213f132c6d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","20260525_171552.jpg"]}],["$","span",null,{"className":"size","children":"1.7 МБ"}]]}],["$","a","6a8bb55863124f3d8ea5734d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bb55863124f3d8ea5734d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","20260525_171634.jpg"]}],["$","span",null,{"className":"size","children":"1.8 МБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"7 903 305 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"395 165,25 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"790 330,50 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 09:00 (МСК+4)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"25 сент. 2026 г., 17:00 (МСК+4)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"29 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 10:00 (МСК+4)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Красноярский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/26000011200000000004_3","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое здание склада общей площадью 1624,5 м2, расположенное по адресу: Россия, Красноярс — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,116 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000054780000002393_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000054780000002393_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000054780000002393_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"нежилое помещение пл.10,4кв.м по адресу: Москва, Хорошевский, ш. Хорошёвское, д. 12, корп. 1, пом. Iа м/м 83, к/н 77:09:0005013:7909"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a88137257a2662b5527f384","alt":"нежилое помещение пл.10,4кв.м по адресу: Москва, Хорошевский, ш. Хорошёвское, д. 12, корп. 1, пом. Iа м/м 83, к/н 77:09:0005013:7909"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a88139eac85246d2d83dafd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a88139eac85246d2d83dafd","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a88139eac85246d2d83dafd","alt":"","loading":"lazy"}]}],["$","a","6a88139eac85246d2d83dafe",{"href":"https://torgi.gov.ru/new/file-store/v1/6a88139eac85246d2d83dafe","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a88139eac85246d2d83dafe","alt":"","loading":"lazy"}]}],["$","a","6a88139eac85246d2d83db01",{"href":"https://torgi.gov.ru/new/file-store/v1/6a88139eac85246d2d83db01","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a88139eac85246d2d83db01","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"нежилое помещение (Подвал № 0) пл.10,4кв.м по адресу: Москва, Хорошевский, ш. Хорошёвское, д. 12, корп. 1, пом. Iа м/м 83, к/н 77:09:0005013:7909 , ипотека АО «Альфа-Банк» (залог 1422833,34 руб. переходит покупателю). Должник (собственник) Качушкина А.А. Фотографии имущества судебным приставом-исполнителем не предоставлены"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["10.4"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["77:09:0005013:7909",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Хорошевский, ш. Хорошёвское, дом 12 к. 1 пом. Iа м/м 83"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8813ad63124f3d8ea4b417",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8813ad63124f3d8ea4b417","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Л2 26 18 Сав-31.pdf"]}],["$","span",null,{"className":"size","children":"472 КБ"}]]}],["$","a","6a8813bdac85246d2d83db49",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8813bdac85246d2d83db49","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Качушкина Анастасия Алексеевна Хорошевское ш. тг.pdf"]}],["$","span",null,{"className":"size","children":"8.3 МБ"}]]}],["$","a","6a88137257a2662b5527f384",{"href":"https://torgi.gov.ru/new/file-store/v1/6a88137257a2662b5527f384","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","логотип.jpg"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}],["$","a","6a88139eac85246d2d83dafd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a88139eac85246d2d83dafd","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14"]}]]}],false,"$L15"]}],"$L16"]}]]}]
+11:["$","span",null,{"children":["📎 ","Хор1.jpeg"]}]
+12:["$","span",null,{"className":"size","children":"15 КБ"}]
+13:["$","a","6a88139eac85246d2d83dafe",{"href":"https://torgi.gov.ru/new/file-store/v1/6a88139eac85246d2d83dafe","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Хор2.jpeg"]}],["$","span",null,{"className":"size","children":"26 КБ"}]]}]
+14:["$","a","6a88139eac85246d2d83db01",{"href":"https://torgi.gov.ru/new/file-store/v1/6a88139eac85246d2d83db01","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Хор3.jpeg"]}],["$","span",null,{"className":"size","children":"207 КБ"}]]}]
+17:Tf11,{
+  "id": "gis-torgi:23000054780000002393_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000054780000002393_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000054780000002393_1",
+  "title": "нежилое помещение пл.10,4кв.м по адресу: Москва, Хорошевский, ш. Хорошёвское, д. 12, корп. 1, пом. Iа м/м 83, к/н 77:09:0005013:7909",
+  "description": "нежилое помещение (Подвал № 0) пл.10,4кв.м по адресу: Москва, Хорошевский, ш. Хорошёвское, д. 12, корп. 1, пом. Iа м/м 83, к/н 77:09:0005013:7909 , ипотека АО «Альфа-Банк» (залог 1422833,34 руб. переходит покупателю). Должник (собственник) Качушкина А.А. Фотографии имущества судебным приставом-исполнителем не предоставлены",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Хорошевский, ш. Хорошёвское, дом 12 к. 1 пом. Iа м/м 83",
+  "priceStart": "944166.66",
+  "priceStep": "5000",
+  "deposit": "150000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T14:11:19.591Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-24T13:00:00Z",
+  "auctionAt": "2026-09-29T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RAD",
+  "images": [
+    "6a88137257a2662b5527f384",
+    "6a88139eac85246d2d83dafd",
+    "6a88139eac85246d2d83dafe",
+    "6a88139eac85246d2d83db01"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8813ad63124f3d8ea4b417",
+      "name": "Л2 26 18 Сав-31.pdf",
+      "size": 483457,
+      "sha256": "d03beb33f60038acea3a45a39615c1c406635f3e0b675112e3e1eb006463c3fa"
+    },
+    {
+      "fileId": "6a8813bdac85246d2d83db49",
+      "name": "Качушкина Анастасия Алексеевна Хорошевское ш. тг.pdf",
+      "size": 8737219,
+      "sha256": "d803b76014abcf1c3ba4ff519ba06f1ef0b4da372ff39a38d68ef5c15d2fd7f1"
+    },
+    {
+      "fileId": "6a88137257a2662b5527f384",
+      "name": "логотип.jpg",
+      "size": 2433104,
+      "sha256": "cb3680a136b3a2c1dc768159200b5a5ce5f7ccb865480cdd31ddb91f687b81b8"
+    },
+    {
+      "fileId": "6a88139eac85246d2d83dafd",
+      "name": "Хор1.jpeg",
+      "size": 15137,
+      "sha256": "3bf326c4a70e22ba20b0e1bd376177e093ecb514b346626c3ad873f6d1ea8260"
+    },
+    {
+      "fileId": "6a88139eac85246d2d83dafe",
+      "name": "Хор2.jpeg",
+      "size": 26904,
+      "sha256": "71c22de586557b4a3e0b6bcab40c80a4138fbbb5e83f89914e6559853c40cd29"
+    },
+    {
+      "fileId": "6a88139eac85246d2d83db01",
+      "name": "Хор3.jpeg",
+      "size": 212186,
+      "sha256": "93929d8130eef1f5bfde395a591ba2eb7cab60079e3ad2948c044d8ea7a0b81f"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "10.4",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "77:09:0005013:7909",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:39:51.196Z",
+  "lastSeenAt": "2026-08-25T11:39:51.196Z",
+  "contentHash": "4033fa6a756e58c23c7d3deb984a843c32caeb487a85d08b027d73717dcb1e05"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$17"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"944 166,66 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"5 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"150 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"24 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"28 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RAD"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000054780000002393_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"нежилое помещение пл.10,4кв.м по адресу: Москва, Хорошевский, ш. Хорошёвское, д. 12, корп. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

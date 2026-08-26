@@ -1,0 +1,144 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000086100000000588_5",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000086100000000588_5","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000086100000000588_5","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=13","children":"Мордовия"}]]]}],["$","h1",null,{"children":"Нежилое помещение (бокс гаража) общей площадью 15,2 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Гаражи и машиноместа"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c468563124f3d8ea62fee","alt":"Нежилое помещение (бокс гаража) общей площадью 15,2 кв.м."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c468563124f3d8ea62fef",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c468563124f3d8ea62fef","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c468563124f3d8ea62fef","alt":"","loading":"lazy"}]}],["$","a","6a8c4685efd603213f13e939",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4685efd603213f13e939","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4685efd603213f13e939","alt":"","loading":"lazy"}]}],["$","a","6a8c468557a2662b5529bcc9",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c468557a2662b5529bcc9","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c468557a2662b5529bcc9","alt":"","loading":"lazy"}]}],["$","a","6a8c4685efd603213f13e93a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4685efd603213f13e93a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4685efd603213f13e93a","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое помещение (бокс гаража) общей площадью 15,2 кв.м., кад. № 13:23:1001021:1066, принадлежащее должнику Сорокиной И.А. Земельный участок, расположенный под боксом гаража, находится в аренде по договору, заключенному между должником и Администрацией г. Саранска. Сведениями о размере задолженности по обязательным платежам  и взносам организатор торгов не располагает. Техническая документация и фотографии объекта недвижимости организатору торгов не предоставлялись."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["Сведения отсутствуют",""]}]]}],["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["Запрещение регистрации",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["15.2"," м^2 общ. пл"]}]]}],["$","tr","locationObjectRealty",{"children":[["$","td",null,{"children":"Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)"}],["$","td",null,{"children":["Этаж № 1",""]}]]}],["$","tr","cadastralValue",{"children":[["$","td",null,{"children":"Кадастровая стоимость"}],["$","td",null,{"children":["87241.03",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["13:23:1001021:1066",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["Запрещение регистрации",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"респ. Мордовия г. Саранск, ул. Пушкина, ПКГО «Восход-3», бокс гаража 14."}]]}],"$L11",false,"$L12"]}],"$L13"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c470f63124f3d8ea63089",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c470f63124f3d8ea63089","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","постановление 5.pdf"]}],["$","span",null,{"className":"size","children":"101 КБ"}]]}],["$","a","6a8c468563124f3d8ea62fee",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c468563124f3d8ea62fee","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-1.jpg"]}],["$","span",null,{"className":"size","children":"523 КБ"}]]}],["$","a","6a8c468563124f3d8ea62fef",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c468563124f3d8ea62fef","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-2.jpg"]}],["$","span",null,{"className":"size","children":"472 КБ"}]]}],["$","a","6a8c4685efd603213f13e939",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4685efd603213f13e939","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-3.jpg"]}],["$","span",null,{"className":"size","children":"489 КБ"}]]}],["$","a","6a8c468557a2662b5529bcc9",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c468557a2662b5529bcc9","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-4.jpg"]}],["$","span",null,{"className":"size","children":"505 КБ"}]]}],["$","a","6a8c4685efd603213f13e93a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4685efd603213f13e93a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-5.jpg"]}],["$","span",null,{"className":"size","children":"553 КБ"}]]}]]}]]}]
+14:T13da,{
+  "id": "gis-torgi:22000086100000000588_5",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000086100000000588_5",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000086100000000588_5",
+  "title": "Нежилое помещение (бокс гаража) общей площадью 15,2 кв.м.",
+  "description": "Нежилое помещение (бокс гаража) общей площадью 15,2 кв.м., кад. № 13:23:1001021:1066, принадлежащее должнику Сорокиной И.А. Земельный участок, расположенный под боксом гаража, находится в аренде по договору, заключенному между должником и Администрацией г. Саранска. Сведениями о размере задолженности по обязательным платежам  и взносам организатор торгов не располагает. Техническая документация и фотографии объекта недвижимости организатору торгов не предоставлялись.",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "10",
+  "categoryName": "Гаражи и машиноместа",
+  "regionCode": "13",
+  "address": "респ. Мордовия г. Саранск, ул. Пушкина, ПКГО «Восход-3», бокс гаража 14.",
+  "priceStart": "350200.00",
+  "priceStep": "1000",
+  "deposit": "52600",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T16:07:35.078Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-18T15:00:00Z",
+  "auctionAt": "2026-09-24T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8c468563124f3d8ea62fee",
+    "6a8c468563124f3d8ea62fef",
+    "6a8c4685efd603213f13e939",
+    "6a8c468557a2662b5529bcc9",
+    "6a8c4685efd603213f13e93a"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c470f63124f3d8ea63089",
+      "name": "постановление 5.pdf",
+      "size": 103474,
+      "sha256": "266bb2ca3b134c3532ea1262ac4d055c65f4b82d50bbfdf34956242076f68b77"
+    },
+    {
+      "fileId": "6a8c468563124f3d8ea62fee",
+      "name": "file-1.jpg",
+      "size": 535658,
+      "sha256": "c1ae41e8c68db16088bee09857b41666f4aebcc5fb5c3392596d226e942f5e59"
+    },
+    {
+      "fileId": "6a8c468563124f3d8ea62fef",
+      "name": "file-2.jpg",
+      "size": 483119,
+      "sha256": "bb18f706903a3375c4b748d4ba6ed182e440e9906ccd704a0b4c6a86d16d6350"
+    },
+    {
+      "fileId": "6a8c4685efd603213f13e939",
+      "name": "file-3.jpg",
+      "size": 500856,
+      "sha256": "7ce68aee2124f72f5beb90bfda07115b2d280960543f8c556560e52d977feb66"
+    },
+    {
+      "fileId": "6a8c468557a2662b5529bcc9",
+      "name": "file-4.jpg",
+      "size": 516669,
+      "sha256": "6c5a1f79f60a13aab1d9079c174a0f25b21f82a84333cf475ab4f03fb5ae22da"
+    },
+    {
+      "fileId": "6a8c4685efd603213f13e93a",
+      "name": "file-5.jpg",
+      "size": 566267,
+      "sha256": "c33c36b089990615b6df0f1d1cc7e21ace21739b3dd05c9e9e15ffb8b8b57f01"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "Сведения отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "Запрещение регистрации",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "15.2",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "locationObjectRealty",
+      "name": "Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)",
+      "value": "Этаж № 1",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralValue",
+      "name": "Кадастровая стоимость",
+      "value": "87241.03",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "13:23:1001021:1066",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "Запрещение регистрации",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:37:35.968Z",
+  "lastSeenAt": "2026-08-25T11:37:35.968Z",
+  "contentHash": "0deb54dcad2330befac5ca4feae72ba6ed3cfba9aec97066575963fcff20a204"
+}12:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$14"}]]}]
+13:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"350 200 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"1 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"52 600 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"18 сент. 2026 г., 18:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"22 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"24 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Мордовия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000086100000000588_5","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое помещение (бокс гаража) общей площадью 15,2 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--24000032040000000242_39",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--24000032040000000242_39","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--24000032040000000242_39","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Tfef,{
+  "id": "gis-torgi:24000032040000000242_39",
+  "sourceCode": "gis-torgi",
+  "externalId": "24000032040000000242_39",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/24000032040000000242_39",
+  "title": "Земельный участок площадью 1490 кв. м, кадастровый номер 43:30:390813:375, категория земель: земли населенных пунктов, вид разрешенного использования: для индивидуального жилищного строительства. Местонахождение: Кировская область, Слободской район, д. Суворовы",
+  "description": "(вторичные торги). Земельный участок площадью 1490 кв. м, кадастровый номер 43:30:390813:375, категория земель: земли населенных пунктов, вид разрешенного использования: для индивидуального жилищного строительства. Местонахождение: Кировская область, Слободской район, д. Суворовы. Вид права – собственность. Обременение – аресты, запрет, наложенный Останкинским ОСП ГУФССП России по г. Москве. Собственник – Бызов Д.Г. (уведомление № 1561 от 09.06.2026). Судебный пристав-исполнитель ОСП по Первомайскому району г. Кирова Сырчина О.А. (тел. +7 (8332) 48-97-97).",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "land",
+  "categoryCode": "301",
+  "categoryName": "Земли населенных пунктов",
+  "regionCode": "43",
+  "address": "обл Кировская Слободской район, д. Суворовы",
+  "priceStart": "1227570.00",
+  "priceStep": "12275.7",
+  "deposit": "184135.5",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T19:10:27.48Z",
+  "biddStartAt": "2026-08-24T19:30:00Z",
+  "biddEndAt": "2026-09-22T07:00:00Z",
+  "auctionAt": "2026-09-25T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_MMVB",
+  "images": [
+    "6a8c847ee096f456f84c2438"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c847c63124f3d8ea651da",
+      "name": "1561 Бызов Д.Г. снижение.pdf",
+      "size": 96637,
+      "sha256": "81a5998aeef37fc24e4718b412b709ddb21dc9d78f55dd0e69f7d5cd777058b3"
+    },
+    {
+      "fileId": "6a8c847ce096f456f84c2434",
+      "name": "1561 Бызов Д.Г..pdf",
+      "size": 127443,
+      "sha256": "18a3ac3462aba5ecab535809b76e5050b7d19baaf4800a0fbe0f0c6ad63eee12"
+    },
+    {
+      "fileId": "6a8c847ee096f456f84c2438",
+      "name": "1561 Бызов Д.Г..png",
+      "size": 273105,
+      "sha256": "2e2785fac6d18dbaf4ff2ca19a6fc6d7763374d5792dc29530c83eb81973471a"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "PermittedUse",
+      "name": "Основной вид разрешенного использования",
+      "value": "Для индивидуального жилищного строительства",
+      "source": "structured"
+    },
+    {
+      "key": "CadastralNumber",
+      "name": "Кадастровый номер земельного участка",
+      "value": "43:30:390813:375",
+      "source": "structured"
+    },
+    {
+      "key": "SquareZU",
+      "name": "Площадь земельного участка",
+      "value": "1490",
+      "unit": "м^2",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:33:50.123Z",
+  "lastSeenAt": "2026-08-25T11:33:50.123Z",
+  "contentHash": "438b6d10eabcc7420e906c5fbd9201b90509e57d9ca2ee4a807ff3616aaea9eb"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=43","children":"Кировская обл."}]]]}],["$","h1",null,{"children":"Земельный участок площадью 1490 кв. м, кадастровый номер 43:30:390813:375, категория земель: земли населенных пунктов, вид разрешенного использования: для индивидуального жилищного строительства. Местонахождение: Кировская область, Слободской район, д. Суворовы"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Земли населенных пунктов"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c847ee096f456f84c2438","alt":"Земельный участок площадью 1490 кв. м, кадастровый номер 43:30:390813:375, категория земель: земли населенных пунктов, вид разрешенного использования: для индивидуального жилищного строительства. Местонахождение: Кировская область, Слободской район, д. Суворовы"}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"(вторичные торги). Земельный участок площадью 1490 кв. м, кадастровый номер 43:30:390813:375, категория земель: земли населенных пунктов, вид разрешенного использования: для индивидуального жилищного строительства. Местонахождение: Кировская область, Слободской район, д. Суворовы. Вид права – собственность. Обременение – аресты, запрет, наложенный Останкинским ОСП ГУФССП России по г. Москве. Собственник – Бызов Д.Г. (уведомление № 1561 от 09.06.2026). Судебный пристав-исполнитель ОСП по Первомайскому району г. Кирова Сырчина О.А. (тел. +7 (8332) 48-97-97)."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","PermittedUse",{"children":[["$","td",null,{"children":"Основной вид разрешенного использования"}],["$","td",null,{"children":["Для индивидуального жилищного строительства",""]}]]}],["$","tr","CadastralNumber",{"children":[["$","td",null,{"children":"Кадастровый номер земельного участка"}],["$","td",null,{"children":["43:30:390813:375",""]}]]}],["$","tr","SquareZU",{"children":[["$","td",null,{"children":"Площадь земельного участка"}],["$","td",null,{"children":["1490"," м^2"]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл Кировская Слободской район, д. Суворовы"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c847c63124f3d8ea651da",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c847c63124f3d8ea651da","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1561 Бызов Д.Г. снижение.pdf"]}],["$","span",null,{"className":"size","children":"94 КБ"}]]}],["$","a","6a8c847ce096f456f84c2434",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c847ce096f456f84c2434","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1561 Бызов Д.Г..pdf"]}],["$","span",null,{"className":"size","children":"124 КБ"}]]}],["$","a","6a8c847ee096f456f84c2438",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c847ee096f456f84c2438","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1561 Бызов Д.Г..png"]}],["$","span",null,{"className":"size","children":"267 КБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 227 570 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"12 275,70 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"184 135,50 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"24 авг. 2026 г., 22:30 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Кировская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"MMVB"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/24000032040000000242_39","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок площадью 1490 кв. м, кадастровый номер 43:30:390813:375, категория земел — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

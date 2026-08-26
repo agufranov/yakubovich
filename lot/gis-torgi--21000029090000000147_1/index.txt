@@ -1,0 +1,114 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000029090000000147_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000029090000000147_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000029090000000147_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=03","children":"Бурятия"}]]]}],["$","h1",null,{"children":"Транспортное средство ВАЗ 21074"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Иной транспорт"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d327d63124f3d8ea6780b","alt":"Транспортное средство ВАЗ 21074"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d3284e096f456f84c4b12",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d3284e096f456f84c4b12","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d3284e096f456f84c4b12","alt":"","loading":"lazy"}]}],["$","a","6a8d329263124f3d8ea6785e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d329263124f3d8ea6785e","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d329263124f3d8ea6785e","alt":"","loading":"lazy"}]}],["$","a","6a8d329ce096f456f84c4b1f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d329ce096f456f84c4b1f","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d329ce096f456f84c4b1f","alt":"","loading":"lazy"}]}],["$","a","6a8d32a4efd603213f14361e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d32a4efd603213f14361e","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d32a4efd603213f14361e","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Транспортное средство ВАЗ 21074"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег"}],["$","td",null,{"children":["300000"," км"]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"респ. Бурятия, м.р-н Кабанский, с.п. Кабанское, с. Кабанск"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d32c763124f3d8ea678ae",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d32c763124f3d8ea678ae","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Информационное сообщение на сайт Администрации.doc"]}],["$","span",null,{"className":"size","children":"42 КБ"}]]}],["$","a","6a8d327d63124f3d8ea6780b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d327d63124f3d8ea6780b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260409_094516_165.jpg"]}],["$","span",null,{"className":"size","children":"145 КБ"}]]}],["$","a","6a8d3284e096f456f84c4b12",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d3284e096f456f84c4b12","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260409_094520_398.jpg"]}],["$","span",null,{"className":"size","children":"87 КБ"}]]}],["$","a","6a8d329263124f3d8ea6785e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d329263124f3d8ea6785e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260409_094520_220.jpg"]}],["$","span",null,{"className":"size","children":"382 КБ"}]]}],["$","a","6a8d329ce096f456f84c4b1f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d329ce096f456f84c4b1f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260427_145635_416.jpg"]}],["$","span",null,{"className":"size","children":"261 КБ"}]]}],"$L11"]}]]}],false,"$L12"]}],"$L13"]}]]}]
+11:["$","a","6a8d32a4efd603213f14361e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d32a4efd603213f14361e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260409_094520_222.jpg"]}],["$","span",null,{"className":"size","children":"397 КБ"}]]}]
+14:Tcba,{
+  "id": "gis-torgi:21000029090000000147_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000029090000000147_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000029090000000147_1",
+  "title": "Транспортное средство ВАЗ 21074",
+  "description": "Транспортное средство ВАЗ 21074",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Публичное предложение",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "110",
+  "categoryName": "Иной транспорт",
+  "regionCode": "03",
+  "address": "респ. Бурятия, м.р-н Кабанский, с.п. Кабанское, с. Кабанск",
+  "priceStart": "40983.61",
+  "priceStep": "2049.18",
+  "deposit": "4098.36",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T06:18:48.52Z",
+  "biddStartAt": "2026-08-25T16:01:00Z",
+  "biddEndAt": "2026-09-28T15:59:00Z",
+  "auctionAt": "2026-10-02T02:00:00Z",
+  "tzOffsetMin": 480,
+  "tzName": "МСК+5",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d327d63124f3d8ea6780b",
+    "6a8d3284e096f456f84c4b12",
+    "6a8d329263124f3d8ea6785e",
+    "6a8d329ce096f456f84c4b1f",
+    "6a8d32a4efd603213f14361e"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d32c763124f3d8ea678ae",
+      "name": "Информационное сообщение на сайт Администрации.doc",
+      "size": 42496,
+      "sha256": "b16124cc75a294e74e9742bf29dcefcf4eb9e489cb48d355eddafdec62f95af2"
+    },
+    {
+      "fileId": "6a8d327d63124f3d8ea6780b",
+      "name": "IMG_20260409_094516_165.jpg",
+      "size": 148401,
+      "sha256": "47c2ed4c988fc154afc99ad3f01c175ba59c77578ad28dc98b79fc8b10b0490b"
+    },
+    {
+      "fileId": "6a8d3284e096f456f84c4b12",
+      "name": "IMG_20260409_094520_398.jpg",
+      "size": 89366,
+      "sha256": "1973638eae82ccce2382c7ea0fa5c665c3b34675ea772a9278c0301f7f7cc328"
+    },
+    {
+      "fileId": "6a8d329263124f3d8ea6785e",
+      "name": "IMG_20260409_094520_220.jpg",
+      "size": 390902,
+      "sha256": "dec4f8b39f3b6a5e15627b839c92f31c84fe33ceb3cdc66091ccc39ec469a40f"
+    },
+    {
+      "fileId": "6a8d329ce096f456f84c4b1f",
+      "name": "IMG_20260427_145635_416.jpg",
+      "size": 267512,
+      "sha256": "8427405e485fe8ae8865e28a97c46ed2ea67fcb9c2410710479feb9cfb39d8cc"
+    },
+    {
+      "fileId": "6a8d32a4efd603213f14361e",
+      "name": "IMG_20260409_094520_222.jpg",
+      "size": 406702,
+      "sha256": "d28e6f2fa2d1efb8ef09084f0c94c7862b105e2f60fac0595d1ca9914c3a2e7c"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "mileage",
+      "name": "Пробег",
+      "value": "300000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:21:30.952Z",
+  "lastSeenAt": "2026-08-25T13:21:30.952Z",
+  "contentHash": "ee0c99b3156898155d3f2719536d67ed03757e3b06237d29b9f8323269d0adf6"
+}12:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$14"}]]}]
+13:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"40 983,61 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"2 049,18 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"4 098,36 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 00:01 (МСК+5)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"28 сент. 2026 г., 23:59 (МСК+5)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"32 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"2 окт. 2026 г., 10:00 (МСК+5)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Бурятия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000029090000000147_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Транспортное средство ВАЗ 21074 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

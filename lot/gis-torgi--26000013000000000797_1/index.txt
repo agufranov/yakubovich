@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--26000013000000000797_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--26000013000000000797_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--26000013000000000797_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Tc70,{
+  "id": "gis-torgi:26000013000000000797_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "26000013000000000797_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/26000013000000000797_1",
+  "title": "Нежилое помещение пл. 5,1 кв.м. по адресу: г.Москва, ул.Малая Остроумовская, д.1/10, пом.1/3П, к/н 77:03:0003009:5495",
+  "description": "Нежилое помещение пл. 5,1 кв.м. по адресу: г.Москва, ул.Малая Остроумовская, д.1/10, пом.1/3П, к/н 77:03:0003009:5495",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Сокольники, ул. Малая Остроумовская, дом 1/10",
+  "priceStart": "1265100.00",
+  "priceStep": "6325.5",
+  "deposit": "126510",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T11:36:41.283Z",
+  "biddStartAt": "2026-08-25T08:00:00Z",
+  "biddEndAt": "2026-09-25T08:00:00Z",
+  "auctionAt": "2026-09-28T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RAD",
+  "images": [
+    "6a8be05cefd603213f13465c"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8be05657a2662b55290a75",
+      "name": "Цар-98 Докум на Торги.pdf",
+      "size": 7138615,
+      "sha256": "4bb7e7521613d28f87fd8dd04315710c4ab348fc0c042feac7d2ad2e2f06e0a0"
+    },
+    {
+      "fileId": "6a8be052efd603213f1345fb",
+      "name": "Цар-98 Поручения.pdf",
+      "size": 735612,
+      "sha256": "78e03f8e0f9a15addaa56a0eeff837563bc1b0153e4035eb9f226d236e420b20"
+    },
+    {
+      "fileId": "6a8be05cefd603213f13465c",
+      "name": "Цар-98.png",
+      "size": 2814474,
+      "sha256": "7c41976cb0f035536d17e4b0bb6464c653d136040341c3c6db51697af5e6f5bd"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "5.1",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "77:03:0003009:5495",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "Арест. Запрет рег.действий.",
+      "source": "structured"
+    },
+    {
+      "key": "typeNolivingQuarters",
+      "name": "Назначение нежилого помещения",
+      "value": "нежилое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:47:23.208Z",
+  "lastSeenAt": "2026-08-25T11:47:23.208Z",
+  "contentHash": "61db645bcdef7d0635b270693fc8333bf55f1044e5a9e0d7f07297672279a764"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"Нежилое помещение пл. 5,1 кв.м. по адресу: г.Москва, ул.Малая Остроумовская, д.1/10, пом.1/3П, к/н 77:03:0003009:5495"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8be05cefd603213f13465c","alt":"Нежилое помещение пл. 5,1 кв.м. по адресу: г.Москва, ул.Малая Остроумовская, д.1/10, пом.1/3П, к/н 77:03:0003009:5495"}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое помещение пл. 5,1 кв.м. по адресу: г.Москва, ул.Малая Остроумовская, д.1/10, пом.1/3П, к/н 77:03:0003009:5495"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["5.1"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["77:03:0003009:5495",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["Арест. Запрет рег.действий.",""]}]]}],["$","tr","typeNolivingQuarters",{"children":[["$","td",null,{"children":"Назначение нежилого помещения"}],["$","td",null,{"children":["нежилое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Сокольники, ул. Малая Остроумовская, дом 1/10"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8be05657a2662b55290a75",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8be05657a2662b55290a75","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Цар-98 Докум на Торги.pdf"]}],["$","span",null,{"className":"size","children":"6.8 МБ"}]]}],["$","a","6a8be052efd603213f1345fb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8be052efd603213f1345fb","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Цар-98 Поручения.pdf"]}],["$","span",null,{"className":"size","children":"718 КБ"}]]}],["$","a","6a8be05cefd603213f13465c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8be05cefd603213f13465c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Цар-98.png"]}],["$","span",null,{"className":"size","children":"2.7 МБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 265 100 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"6 325,50 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"126 510 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 11:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"25 сент. 2026 г., 11:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"29 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"28 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RAD"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/26000013000000000797_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое помещение пл. 5,1 кв.м. по адресу: г.Москва, ул.Малая Остроумовская, д.1/10, пом.1 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,145 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000050620000000089_3",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000050620000000089_3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000050620000000089_3","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"(повт) Д-к ООО «Вектор» (Им-во д-ка не облаг. НДС) А/м LAND ROVER VELAR, г/в 2018, г/н У500УМ123, VIN SALYA2BN0KA790006. Обременение:арест, н/ц 2 793 440,00 руб., з-к 558 688,00 руб., ш/а 27 934,00 руб."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f9557a2662b5529c9a1","alt":"(повт) Д-к ООО «Вектор» (Им-во д-ка не облаг. НДС) А/м LAND ROVER VELAR, г/в 2018, г/н У500УМ123, VIN SALYA2BN0KA790006. Обременение:арест, н/ц 2 793 440,00 руб., з-к 558 688,00 руб., ш/а 27 934,00 руб."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c4f94e096f456f84c1141",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f94e096f456f84c1141","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f94e096f456f84c1141","alt":"","loading":"lazy"}]}],["$","a","6a8c4f9557a2662b5529c9a4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f9557a2662b5529c9a4","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f9557a2662b5529c9a4","alt":"","loading":"lazy"}]}],["$","a","6a8c4f95efd603213f13f662",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f95efd603213f13f662","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f95efd603213f13f662","alt":"","loading":"lazy"}]}],["$","a","6a8c4f94efd603213f13f65f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f94efd603213f13f65f","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f94efd603213f13f65f","alt":"","loading":"lazy"}]}],["$","a","6a8c4f9557a2662b5529c99d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f9557a2662b5529c99d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f9557a2662b5529c99d","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"(повт) Д-к ООО «Вектор» (Им-во д-ка не облаг. НДС) А/м LAND ROVER VELAR, г/в 2018, г/н У500УМ123, VIN SALYA2BN0KA790006. Обременение:арест, н/ц 2 793 440,00 руб., з-к 558 688,00 руб., ш/а 27 934,00 руб."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["Автомобиль",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2018",""]}]]}],["$","tr","regNumber",{"children":[["$","td",null,{"children":"Государственный регистрационный знак"}],["$","td",null,{"children":["У500УМ123",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["SALYA2BN0KA790006",""]}]]}],["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["LAND ROVER VELAR",""]}]]}],["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["LAND ROVER VELAR",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Краснодарский"}]]}],["$","section",null,{"className":"panel","children":["$L11","$L12"]}],false,"$L13"]}],"$L14"]}]]}]
+11:["$","h2",null,{"children":["Документы (",6,")"]}]
+12:["$","div",null,{"className":"files","children":[["$","a","6a8c4f9557a2662b5529c9a1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f9557a2662b5529c9a1","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_1.jpeg"]}],["$","span",null,{"className":"size","children":"325 КБ"}]]}],["$","a","6a8c4f94e096f456f84c1141",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f94e096f456f84c1141","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_2.jpeg"]}],["$","span",null,{"className":"size","children":"115 КБ"}]]}],["$","a","6a8c4f9557a2662b5529c9a4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f9557a2662b5529c9a4","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_3.jpeg"]}],["$","span",null,{"className":"size","children":"174 КБ"}]]}],["$","a","6a8c4f95efd603213f13f662",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f95efd603213f13f662","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_4.jpeg"]}],["$","span",null,{"className":"size","children":"164 КБ"}]]}],["$","a","6a8c4f94efd603213f13f65f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f94efd603213f13f65f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_5.jpeg"]}],["$","span",null,{"className":"size","children":"104 КБ"}]]}],["$","a","6a8c4f9557a2662b5529c99d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f9557a2662b5529c99d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_6.jpeg"]}],["$","span",null,{"className":"size","children":"193 КБ"}]]}]]}]
+15:T1054,{
+  "id": "gis-torgi:23000050620000000089_3",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000050620000000089_3",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000050620000000089_3",
+  "title": "(повт) Д-к ООО «Вектор» (Им-во д-ка не облаг. НДС) А/м LAND ROVER VELAR, г/в 2018, г/н У500УМ123, VIN SALYA2BN0KA790006. Обременение:арест, н/ц 2 793 440,00 руб., з-к 558 688,00 руб., ш/а 27 934,00 руб.",
+  "description": "(повт) Д-к ООО «Вектор» (Им-во д-ка не облаг. НДС) А/м LAND ROVER VELAR, г/в 2018, г/н У500УМ123, VIN SALYA2BN0KA790006. Обременение:арест, н/ц 2 793 440,00 руб., з-к 558 688,00 руб., ш/а 27 934,00 руб.",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "23",
+  "address": "край Краснодарский",
+  "priceStart": "2793440.00",
+  "priceStep": "27934",
+  "deposit": "558688",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T11:16:39.979Z",
+  "biddStartAt": "2026-08-26T07:00:00Z",
+  "biddEndAt": "2026-09-21T13:00:00Z",
+  "auctionAt": "2026-09-25T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_MMVB",
+  "images": [
+    "6a8c4f9557a2662b5529c9a1",
+    "6a8c4f94e096f456f84c1141",
+    "6a8c4f9557a2662b5529c9a4",
+    "6a8c4f95efd603213f13f662",
+    "6a8c4f94efd603213f13f65f",
+    "6a8c4f9557a2662b5529c99d"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c4f9557a2662b5529c9a1",
+      "name": "фото_1.jpeg",
+      "size": 332400,
+      "sha256": "66aae81cd765d6d543cf82d4bc9fd54e5142d2b26f04c163ef20df16798fae2d"
+    },
+    {
+      "fileId": "6a8c4f94e096f456f84c1141",
+      "name": "фото_2.jpeg",
+      "size": 117696,
+      "sha256": "d6cff48ce8120646c2850616b6315f24e131c3cea11c0c21674d2b98279ddbab"
+    },
+    {
+      "fileId": "6a8c4f9557a2662b5529c9a4",
+      "name": "фото_3.jpeg",
+      "size": 177720,
+      "sha256": "f113a5e13a71e0d05329d630318c02f66e633379b32042b4597e7015a8b17bc6"
+    },
+    {
+      "fileId": "6a8c4f95efd603213f13f662",
+      "name": "фото_4.jpeg",
+      "size": 167630,
+      "sha256": "657d5e7575c5c239cba769925fb4138377884214e5a71d8caac6b8da7e236006"
+    },
+    {
+      "fileId": "6a8c4f94efd603213f13f65f",
+      "name": "фото_5.jpeg",
+      "size": 106682,
+      "sha256": "2e29560a7a8faf23970c587adb6ca57155f6407e74b5601c403c4d3d84d7a753"
+    },
+    {
+      "fileId": "6a8c4f9557a2662b5529c99d",
+      "name": "фото_6.jpeg",
+      "size": 198022,
+      "sha256": "9b7200906c214f38e57877e8f4ac9a18b5b257c78c34460e67000551ecaf1c0b"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "Автомобиль",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2018",
+      "source": "structured"
+    },
+    {
+      "key": "regNumber",
+      "name": "Государственный регистрационный знак",
+      "value": "У500УМ123",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "SALYA2BN0KA790006",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "LAND ROVER VELAR",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "LAND ROVER VELAR",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:24:12.651Z",
+  "lastSeenAt": "2026-08-25T11:24:12.651Z",
+  "contentHash": "a8f4bfec35b9c47f7016d5dd64f5205dbc70e634e5dd7155b088cef7689be9e5"
+}13:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$15"}]]}]
+14:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"2 793 440 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"27 934 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"558 688 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"25 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"MMVB"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000050620000000089_3","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"(повт) Д-к ООО «Вектор» (Им-во д-ка не облаг. НДС) А/м LAND ROVER VELAR, г/в 2018, г/н У50 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

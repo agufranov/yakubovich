@@ -1,0 +1,141 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--24000004100000000099_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--24000004100000000099_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--24000004100000000099_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=10","children":"Карелия"}]]]}],["$","h1",null,{"children":"Нежилое здание, с кадастровым номером 10:11:0000000:1973, общей площадью 56,5 кв.м., расположенное по адресу: Республика Карелия, р-н. Беломорский, с. Сумский Посад, ул. Набережная, д. б/н (далее – Здание), а также земельный участок 10:11:0080110:672, площадью 314 кв.м., на котором расположено Здание."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Торги"}],["$","span",null,{"children":"Земельный участок со зданием"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d92ca63124f3d8ea6fbee","alt":"Нежилое здание, с кадастровым номером 10:11:0000000:1973, общей площадью 56,5 кв.м., расположенное по адресу: Республика Карелия, р-н. Беломорский, с. Сумский Посад, ул. Набережная, д. б/н (далее – Здание), а также земельный участок 10:11:0080110:672, площадью 314 кв.м., на котором расположено Здание."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d92ca57a2662b552a8776",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92ca57a2662b552a8776","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d92ca57a2662b552a8776","alt":"","loading":"lazy"}]}],["$","a","6a8d92ca57a2662b552a8777",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92ca57a2662b552a8777","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d92ca57a2662b552a8777","alt":"","loading":"lazy"}]}],["$","a","6a8d92d063124f3d8ea6fc2a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92d063124f3d8ea6fc2a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d92d063124f3d8ea6fc2a","alt":"","loading":"lazy"}]}],["$","a","6a8d92cf57a2662b552a87a0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92cf57a2662b552a87a0","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d92cf57a2662b552a87a0","alt":"","loading":"lazy"}]}],["$","a","6a8d92d0e096f456f84cbeab",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92d0e096f456f84cbeab","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d92d0e096f456f84cbeab","alt":"","loading":"lazy"}]}],["$","a","6a8d92cf57a2662b552a87b8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92cf57a2662b552a87b8","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d92cf57a2662b552a87b8","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое здание, с кадастровым номером 10:11:0000000:1973, общей площадью 56,5 кв.м., расположенное по адресу: Республика Карелия, р-н. Беломорский, с. Сумский Посад, ул. Набережная, д. б/н (далее – Здание), а также земельный участок 10:11:0080110:672, площадью 314 кв.м., на котором расположено Здание."}]]}],false,["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"респ. Карелия, м.о. Беломорский, с. Сумский Посад, ул. Набережная"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",11,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d92d657a2662b552a87bb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92d657a2662b552a87bb","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c"]}]]}],false,"$L1d"]}],"$L1e"]}]]}]
+11:["$","span",null,{"children":["📎 ","Выписка из ЕГРН здание.pdf"]}]
+12:["$","span",null,{"className":"size","children":"194 КБ"}]
+13:["$","a","6a8d92d6e096f456f84cbeae",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92d6e096f456f84cbeae","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН земельный участок.pdf"]}],["$","span",null,{"className":"size","children":"208 КБ"}]]}]
+14:["$","a","6a8d92e463124f3d8ea6fc69",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92e463124f3d8ea6fc69","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет об оценке_Беломорский район_Сумский Посад_ЕОН (со штампом).pdf"]}],["$","span",null,{"className":"size","children":"10.6 МБ"}]]}]
+15:["$","a","6a8d92e257a2662b552a87cc",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92e257a2662b552a87cc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","тех паспорт.zip"]}],["$","span",null,{"className":"size","children":"3.7 МБ"}]]}]
+16:["$","a","6a8d92ca63124f3d8ea6fbee",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92ca63124f3d8ea6fbee","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260602_140030.png"]}],["$","span",null,{"className":"size","children":"4.9 МБ"}]]}]
+17:["$","a","6a8d92ca57a2662b552a8776",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92ca57a2662b552a8776","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260602_140037.png"]}],["$","span",null,{"className":"size","children":"5.0 МБ"}]]}]
+18:["$","a","6a8d92ca57a2662b552a8777",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92ca57a2662b552a8777","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260602_140040.png"]}],["$","span",null,{"className":"size","children":"5.0 МБ"}]]}]
+19:["$","a","6a8d92d063124f3d8ea6fc2a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92d063124f3d8ea6fc2a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260602_140010.png"]}],["$","span",null,{"className":"size","children":"4.5 МБ"}]]}]
+1a:["$","a","6a8d92cf57a2662b552a87a0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92cf57a2662b552a87a0","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260602_140020.png"]}],["$","span",null,{"className":"size","children":"4.9 МБ"}]]}]
+1b:["$","a","6a8d92d0e096f456f84cbeab",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92d0e096f456f84cbeab","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260602_140023.png"]}],["$","span",null,{"className":"size","children":"5.1 МБ"}]]}]
+1c:["$","a","6a8d92cf57a2662b552a87b8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d92cf57a2662b552a87b8","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260602_140027.png"]}],["$","span",null,{"className":"size","children":"5.3 МБ"}]]}]
+1f:T13a1,{
+  "id": "gis-torgi:24000004100000000099_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "24000004100000000099_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/24000004100000000099_1",
+  "title": "Нежилое здание, с кадастровым номером 10:11:0000000:1973, общей площадью 56,5 кв.м., расположенное по адресу: Республика Карелия, р-н. Беломорский, с. Сумский Посад, ул. Набережная, д. б/н (далее – Здание), а также земельный участок 10:11:0080110:672, площадью 314 кв.м., на котором расположено Здание.",
+  "description": "Нежилое здание, с кадастровым номером 10:11:0000000:1973, общей площадью 56,5 кв.м., расположенное по адресу: Республика Карелия, р-н. Беломорский, с. Сумский Посад, ул. Набережная, д. б/н (далее – Здание), а также земельный участок 10:11:0080110:672, площадью 314 кв.м., на котором расположено Здание.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "other",
+  "tradeKindRaw": "Продажа по минимально допустимой цене",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "903",
+  "categoryName": "Земельный участок со зданием",
+  "regionCode": "10",
+  "address": "респ. Карелия, м.о. Беломорский, с. Сумский Посад, ул. Набережная",
+  "priceStart": "6743.45",
+  "deposit": "1348.69",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T13:07:35.06Z",
+  "biddStartAt": "2026-08-25T21:00:00Z",
+  "biddEndAt": "2026-10-16T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d92ca63124f3d8ea6fbee",
+    "6a8d92ca57a2662b552a8776",
+    "6a8d92ca57a2662b552a8777",
+    "6a8d92d063124f3d8ea6fc2a",
+    "6a8d92cf57a2662b552a87a0",
+    "6a8d92d0e096f456f84cbeab",
+    "6a8d92cf57a2662b552a87b8"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d92d657a2662b552a87bb",
+      "name": "Выписка из ЕГРН здание.pdf",
+      "size": 198777,
+      "sha256": "10ab488c632812c38da3d5112c45ba34d86a650bde0dafba42fa58f018e7265d"
+    },
+    {
+      "fileId": "6a8d92d6e096f456f84cbeae",
+      "name": "Выписка из ЕГРН земельный участок.pdf",
+      "size": 212864,
+      "sha256": "09db7c4212ddba96b642687025a30d295acaa7e1adf72bcd890b29e71be26baa"
+    },
+    {
+      "fileId": "6a8d92e463124f3d8ea6fc69",
+      "name": "Отчет об оценке_Беломорский район_Сумский Посад_ЕОН (со штампом).pdf",
+      "size": 11071627,
+      "sha256": "bec047e456a5530fb3c96a82d614c854867821fc72a893d2920a664cc8329977"
+    },
+    {
+      "fileId": "6a8d92e257a2662b552a87cc",
+      "name": "тех паспорт.zip",
+      "size": 3872858,
+      "sha256": "13b8bf8bd10786f2ff480dd23d1ca86c2e458ffa0db67f55862caa5caad5ef34"
+    },
+    {
+      "fileId": "6a8d92ca63124f3d8ea6fbee",
+      "name": "IMG_20260602_140030.png",
+      "size": 5100654,
+      "sha256": "a9faa2eeed9691e418443b46d9cc28bd795399fb40963584f8320d061b01ffa8"
+    },
+    {
+      "fileId": "6a8d92ca57a2662b552a8776",
+      "name": "IMG_20260602_140037.png",
+      "size": 5265925,
+      "sha256": "6eb3b8d83a28a50e104b9fd820f04de46ce3d0471f48d02813d18da7611a8224"
+    },
+    {
+      "fileId": "6a8d92ca57a2662b552a8777",
+      "name": "IMG_20260602_140040.png",
+      "size": 5255983,
+      "sha256": "ecef59ed04e996a2e674976814018cb01eb064c50b5547f73d55bc97aeab52eb"
+    },
+    {
+      "fileId": "6a8d92d063124f3d8ea6fc2a",
+      "name": "IMG_20260602_140010.png",
+      "size": 4677272,
+      "sha256": "2a6fa1a669b44e54fc29aa4f63497db96c33bfec4e2f5d53fe45808d65ba59d9"
+    },
+    {
+      "fileId": "6a8d92cf57a2662b552a87a0",
+      "name": "IMG_20260602_140020.png",
+      "size": 5095863,
+      "sha256": "ecab1ceba65ac3446b85bf01f77ed5f8f0e7157d7759a81368d4d4b0a30417e4"
+    },
+    {
+      "fileId": "6a8d92d0e096f456f84cbeab",
+      "name": "IMG_20260602_140023.png",
+      "size": 5370882,
+      "sha256": "38a84233ae6c91b31a95f758f17e393a42e353732836c3d7e26c1fa493e8b136"
+    },
+    {
+      "fileId": "6a8d92cf57a2662b552a87b8",
+      "name": "IMG_20260602_140027.png",
+      "size": 5506104,
+      "sha256": "9282268ebfb9294e0f4f277766325d9b67cbadaecc447eafaddc820b53aa0e5e"
+    }
+  ],
+  "attributes": [],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:11:05.239Z",
+  "lastSeenAt": "2026-08-25T13:11:05.239Z",
+  "contentHash": "37fd7fde943aa46ddd8ab11feae45168addd87aa20f658ffc2c171a1e0aa4611"
+}1d:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1f"}]]}]
+1e:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"6 743,45 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"1 348,69 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"16 окт. 2026 г., 11:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"50 дней"}]],"$undefined"]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Карелия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/24000004100000000099_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое здание, с кадастровым номером 10:11:0000000:1973, общей площадью 56,5 кв.м., распо — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

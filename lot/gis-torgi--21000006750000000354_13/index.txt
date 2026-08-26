@@ -1,0 +1,124 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000006750000000354_13",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000006750000000354_13","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000006750000000354_13","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=29","children":"Архангельская обл."}]]]}],["$","h1",null,{"children":"Лот № 13. Объект незавершенного строительства (проектируемое назначение – иное сооружение (наружные сети связи)), протяженность 292 м, степень готовности 90 процентов, кадастровый номер 29:00:000000:83, адрес объекта: Архангельская обл., г. Архангельск, Исакогорский территориальный округ, ул. Доковская"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Объекты незавершенного строительства"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d84a663124f3d8ea6e467","alt":"Лот № 13. Объект незавершенного строительства (проектируемое назначение – иное сооружение (наружные сети связи)), протяженность 292 м, степень готовности 90 процентов, кадастровый номер 29:00:000000:83, адрес объекта: Архангельская обл., г. Архангельск, Исакогорский территориальный округ, ул. Доковская"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d84b257a2662b552a6ede",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d84b257a2662b552a6ede","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d84b257a2662b552a6ede","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Характеристика объекта: степень готовности объекта незавершенного строительства –  90 процентов. Объект продается без земельного участка."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","PermittedUse",{"children":[["$","td",null,{"children":"Основной вид разрешенного использования"}],["$","td",null,{"children":["Малоэтажная многоквартирная жилая застройка",""]}]]}],["$","tr","limitParameters",{"children":[["$","td",null,{"children":"Предельные параметры застройки"}],["$","td",null,{"children":["Объект продается без земельного участка",""]}]]}],["$","tr","cadastralNumberZU",{"children":[["$","td",null,{"children":"Кадастровый номер земельного участка"}],["$","td",null,{"children":["29:22:080906",""]}]]}],["$","tr","cadastralNumberObj",{"children":[["$","td",null,{"children":"Кадастровый номер объекта"}],["$","td",null,{"children":["29:00:000000:83",""]}]]}],["$","tr","percCompletionObj",{"children":[["$","td",null,{"children":"Готовность объекта в %"}],["$","td",null,{"children":["90"," %"]}]]}],["$","tr","placeZU",{"children":[["$","td",null,{"children":"Местоположение земельного участка"}],["$","td",null,{"children":["Архангельская обл., г. Архангельск, Исакогорский территориальный округ, ул. Доковская",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Архангельская, г.о. город Архангельск, г. Архангельск, ул. Доковская"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d84ce57a2662b552a6ef0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d84ce57a2662b552a6ef0","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","13PROEKT DOG PUB 2026.doc"]}],["$","span",null,{"className":"size","children":"63 КБ"}]]}],["$","a","6a8d84a663124f3d8ea6e467",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d84a663124f3d8ea6e467","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","док фото.jpg"]}],["$","span",null,{"className":"size","children":"33 КБ"}]]}],"$L11","$L12"]}]]}],false,"$L13"]}],"$L14"]}]]}]
+11:["$","a","6a8d84b257a2662b552a6ede",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d84b257a2662b552a6ede","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","доков фото.jpg"]}],["$","span",null,{"className":"size","children":"45 КБ"}]]}]
+12:["$","a","6a8d8dcb63124f3d8ea6f14a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8dcb63124f3d8ea6f14a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ON_DOGDOC_0003c07d478-2e4e-4f27-8522-6ed07d03a768_0004103a288-abc6-4a43-81d4-22c3c560f298_20260825_b68d7c2a-1405-4ad9-8d8c-0f8cb1c83526_1_00_00_01.pdf"]}],["$","span",null,{"className":"size","children":"64 КБ"}]]}]
+15:T1220,{
+  "id": "gis-torgi:21000006750000000354_13",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000006750000000354_13",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000006750000000354_13",
+  "title": "Лот № 13. Объект незавершенного строительства (проектируемое назначение – иное сооружение (наружные сети связи)), протяженность 292 м, степень готовности 90 процентов, кадастровый номер 29:00:000000:83, адрес объекта: Архангельская обл., г. Архангельск, Исакогорский территориальный округ, ул. Доковская",
+  "description": "Характеристика объекта: степень готовности объекта незавершенного строительства –  90 процентов. Объект продается без земельного участка.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Публичное предложение",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "206",
+  "categoryName": "Объекты незавершенного строительства",
+  "regionCode": "29",
+  "address": "обл. Архангельская, г.о. город Архангельск, г. Архангельск, ул. Доковская",
+  "priceStart": "208554.30",
+  "priceStep": "10427.71",
+  "deposit": "20855.43",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T12:48:56.8Z",
+  "biddStartAt": "2026-08-26T06:00:00Z",
+  "biddEndAt": "2026-09-28T06:00:00Z",
+  "auctionAt": "2026-09-30T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d84a663124f3d8ea6e467",
+    "6a8d84b257a2662b552a6ede"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d84ce57a2662b552a6ef0",
+      "name": "13PROEKT DOG PUB 2026.doc",
+      "size": 64000,
+      "sha256": "53a21ac14eb7297ab150b9016902cfaedecde3d969e157844ede762df0e00284"
+    },
+    {
+      "fileId": "6a8d84a663124f3d8ea6e467",
+      "name": "док фото.jpg",
+      "size": 33837,
+      "sha256": "6125e29279d39844b95f9554f91a9e9d90d298a41b33d2217044dfb6e823809d"
+    },
+    {
+      "fileId": "6a8d84b257a2662b552a6ede",
+      "name": "доков фото.jpg",
+      "size": 46541,
+      "sha256": "771845563385b8da0625e031701221149baaae91514ae58c4812e89bc67825a9"
+    },
+    {
+      "fileId": "6a8d8dcb63124f3d8ea6f14a",
+      "name": "ON_DOGDOC_0003c07d478-2e4e-4f27-8522-6ed07d03a768_0004103a288-abc6-4a43-81d4-22c3c560f298_20260825_b68d7c2a-1405-4ad9-8d8c-0f8cb1c83526_1_00_00_01.pdf",
+      "size": 65288,
+      "sha256": "0b0c0901728f053dd436c4dd170f703aea83b9021e789dc3221af35921bdcc9c"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "PermittedUse",
+      "name": "Основной вид разрешенного использования",
+      "value": "Малоэтажная многоквартирная жилая застройка",
+      "source": "structured"
+    },
+    {
+      "key": "limitParameters",
+      "name": "Предельные параметры застройки",
+      "value": "Объект продается без земельного участка",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberZU",
+      "name": "Кадастровый номер земельного участка",
+      "value": "29:22:080906",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberObj",
+      "name": "Кадастровый номер объекта",
+      "value": "29:00:000000:83",
+      "source": "structured"
+    },
+    {
+      "key": "percCompletionObj",
+      "name": "Готовность объекта в %",
+      "value": "90",
+      "unit": "%",
+      "source": "structured"
+    },
+    {
+      "key": "placeZU",
+      "name": "Местоположение земельного участка",
+      "value": "Архангельская обл., г. Архангельск, Исакогорский территориальный округ, ул. Доковская",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:11:18.280Z",
+  "lastSeenAt": "2026-08-25T13:11:18.280Z",
+  "contentHash": "c64b255a714c44208817e00d1321e51857189d612095498b7fdefe1299ce2cc5"
+}13:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$15"}]]}]
+14:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"208 554,30 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"10 427,71 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"20 855,43 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"28 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"32 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"30 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Архангельская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000006750000000354_13","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Лот № 13. Объект незавершенного строительства (проектируемое назначение – иное сооружение  — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

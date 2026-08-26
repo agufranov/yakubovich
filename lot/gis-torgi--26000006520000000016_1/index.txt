@@ -1,0 +1,173 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--26000006520000000016_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--26000006520000000016_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--26000006520000000016_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=62","children":"Рязанская обл."}]]]}],["$","h1",null,{"children":"транспортное средство: легковой автомобиль VOLGA SIBER, идентификационный номер (VIN) Х96ERN6X0B0006550, год изготовления ТС - 2010, мощность двигателя – 142,8 л.с., цвет кузова – синий, г/н Е679ОС62."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bfb6463124f3d8ea5b8c0","alt":"транспортное средство: легковой автомобиль VOLGA SIBER, идентификационный номер (VIN) Х96ERN6X0B0006550, год изготовления ТС - 2010, мощность двигателя – 142,8 л.с., цвет кузова – синий, г/н Е679ОС62."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8bfb6a57a2662b552936d4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bfb6a57a2662b552936d4","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bfb6a57a2662b552936d4","alt":"","loading":"lazy"}]}],["$","a","6a8bfb6e63124f3d8ea5b8cb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bfb6e63124f3d8ea5b8cb","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bfb6e63124f3d8ea5b8cb","alt":"","loading":"lazy"}]}],["$","a","6a8bfb7363124f3d8ea5b8cf",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bfb7363124f3d8ea5b8cf","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bfb7363124f3d8ea5b8cf","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"транспортное средство: легковой автомобиль VOLGA SIBER, идентификационный номер (VIN) Х96ERN6X0B0006550, год изготовления ТС - 2010, мощность двигателя – 142,8 л.с., цвет кузова – синий, г/н Е679ОС62."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег"}],["$","td",null,{"children":["349197"," км"]}]]}],["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["легковой",""]}]]}],["$","tr","engineCapacity",{"children":[["$","td",null,{"children":"Объем двигателя"}],["$","td",null,{"children":["2429",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2010",""]}]]}],["$","tr","regNumber",{"children":[["$","td",null,{"children":"Государственный регистрационный знак"}],["$","td",null,{"children":["Е679ОС62",""]}]]}],["$","tr","enginePower",{"children":[["$","td",null,{"children":"Мощность двигателя"}],["$","td",null,{"children":["142,8",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["Х96ERN6X0B0006550",""]}]]}],["$","tr","environmentalClass",{"children":[["$","td",null,{"children":"Экологический класс"}],["$","td",null,{"children":["четвертый",""]}]]}],["$","tr","dateRegNumber",{"children":[["$","td",null,{"children":"Дата государственного регистрационного знака"}],["$","td",null,{"children":["2024-11-21",""]}]]}],["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["VOLGA SIBER",""]}]]}],["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["VOLGA SIBER",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Рязанская, м.о. Ухоловский, рп. Ухолово, ул. Ленина, дом 20"}]]}],"$L11",false,"$L12"]}],"$L13"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8bfba863124f3d8ea5b942",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bfba863124f3d8ea5b942","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ПТС.pdf"]}],["$","span",null,{"className":"size","children":"143 КБ"}]]}],["$","a","6a8d3fdb63124f3d8ea68782",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d3fdb63124f3d8ea68782","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Пост. №613 от 24.08.26 об услов.приват. Публичного Предложения.doc"]}],["$","span",null,{"className":"size","children":"43 КБ"}]]}],["$","a","6a8bfb6463124f3d8ea5b8c0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bfb6463124f3d8ea5b8c0","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Фото1.jpg"]}],["$","span",null,{"className":"size","children":"499 КБ"}]]}],["$","a","6a8bfb6a57a2662b552936d4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bfb6a57a2662b552936d4","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Фото 2.jpg"]}],["$","span",null,{"className":"size","children":"483 КБ"}]]}],["$","a","6a8bfb6e63124f3d8ea5b8cb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bfb6e63124f3d8ea5b8cb","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Фото 3.jpg"]}],["$","span",null,{"className":"size","children":"482 КБ"}]]}],["$","a","6a8bfb7363124f3d8ea5b8cf",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bfb7363124f3d8ea5b8cf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Фото 4.jpg"]}],["$","span",null,{"className":"size","children":"486 КБ"}]]}]]}]]}]
+14:T1474,{
+  "id": "gis-torgi:26000006520000000016_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "26000006520000000016_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/26000006520000000016_1",
+  "title": "транспортное средство: легковой автомобиль VOLGA SIBER, идентификационный номер (VIN) Х96ERN6X0B0006550, год изготовления ТС - 2010, мощность двигателя – 142,8 л.с., цвет кузова – синий, г/н Е679ОС62.",
+  "description": "транспортное средство: легковой автомобиль VOLGA SIBER, идентификационный номер (VIN) Х96ERN6X0B0006550, год изготовления ТС - 2010, мощность двигателя – 142,8 л.с., цвет кузова – синий, г/н Е679ОС62.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Публичное предложение",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "62",
+  "address": "обл. Рязанская, м.о. Ухоловский, рп. Ухолово, ул. Ленина, дом 20",
+  "priceStart": "178600.00",
+  "priceStep": "4465",
+  "deposit": "17860",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T09:25:49.047Z",
+  "biddStartAt": "2026-08-25T21:00:00Z",
+  "biddEndAt": "2026-09-20T20:59:00Z",
+  "auctionAt": "2026-09-24T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8bfb6463124f3d8ea5b8c0",
+    "6a8bfb6a57a2662b552936d4",
+    "6a8bfb6e63124f3d8ea5b8cb",
+    "6a8bfb7363124f3d8ea5b8cf"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8bfba863124f3d8ea5b942",
+      "name": "ПТС.pdf",
+      "size": 146741,
+      "sha256": "8a660b90b7062bdca49db137e3f262509ab7a2201e97a3182e4558e6a2385cdb"
+    },
+    {
+      "fileId": "6a8d3fdb63124f3d8ea68782",
+      "name": "Пост. №613 от 24.08.26 об услов.приват. Публичного Предложения.doc",
+      "size": 44032,
+      "sha256": "2ca2ac36b0bfc8e5b4994bc8aa4942c9c5ea36ec6344177c21341029c42e5157"
+    },
+    {
+      "fileId": "6a8bfb6463124f3d8ea5b8c0",
+      "name": "Фото1.jpg",
+      "size": 510775,
+      "sha256": "a4dc170789ba22a53e6e0e1d339efd3cde5fab6b73a626740e604065a7f578f9"
+    },
+    {
+      "fileId": "6a8bfb6a57a2662b552936d4",
+      "name": "Фото 2.jpg",
+      "size": 494654,
+      "sha256": "d6bf5238b465af32a0d7eae9a29c63ebfc8c077aec234d39194e2558a1721d24"
+    },
+    {
+      "fileId": "6a8bfb6e63124f3d8ea5b8cb",
+      "name": "Фото 3.jpg",
+      "size": 493318,
+      "sha256": "e01a5d13be9551b0ac64efa48788b10236169b96f69aa488cc9cbea0da473a15"
+    },
+    {
+      "fileId": "6a8bfb7363124f3d8ea5b8cf",
+      "name": "Фото 4.jpg",
+      "size": 498074,
+      "sha256": "46cb1e1f5519d6fcfadaf9ab75c072cec8a0b5c666c1a0157798769986b17365"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "mileage",
+      "name": "Пробег",
+      "value": "349197",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "легковой",
+      "source": "structured"
+    },
+    {
+      "key": "engineCapacity",
+      "name": "Объем двигателя",
+      "value": "2429",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2010",
+      "source": "structured"
+    },
+    {
+      "key": "regNumber",
+      "name": "Государственный регистрационный знак",
+      "value": "Е679ОС62",
+      "source": "structured"
+    },
+    {
+      "key": "enginePower",
+      "name": "Мощность двигателя",
+      "value": "142,8",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "Х96ERN6X0B0006550",
+      "source": "structured"
+    },
+    {
+      "key": "environmentalClass",
+      "name": "Экологический класс",
+      "value": "четвертый",
+      "source": "structured"
+    },
+    {
+      "key": "dateRegNumber",
+      "name": "Дата государственного регистрационного знака",
+      "value": "2024-11-21",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "VOLGA SIBER",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "VOLGA SIBER",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:16:11.692Z",
+  "lastSeenAt": "2026-08-25T13:16:11.692Z",
+  "contentHash": "e66d181694a7e25a08a4a462dc7f2ef8c1f9850c96f81e5d1a7612623427299a"
+}12:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$14"}]]}]
+13:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"178 600 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"4 465 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"17 860 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"20 сент. 2026 г., 23:59 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"25 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"24 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Рязанская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/26000006520000000016_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"транспортное средство: легковой автомобиль VOLGA SIBER, идентификационный номер (VIN) Х96E — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

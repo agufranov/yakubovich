@@ -1,0 +1,111 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000006750000000354_17",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000006750000000354_17","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000006750000000354_17","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=29","children":"Архангельская обл."}]]]}],["$","h1",null,{"children":"Лот № 17. Нежилое помещение, назначение – нежилое, подвал, общая площадь  87,3 кв. м, кадастровый номер 29:22:040620:783, адрес объекта: Архангельская обл.,  г. Архангельск, Октябрьский территориальный округ, ул. Воскресенская, д. 85"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8927e096f456f84caeeb","alt":"Лот № 17. Нежилое помещение, назначение – нежилое, подвал, общая площадь  87,3 кв. м, кадастровый номер 29:22:040620:783, адрес объекта: Архангельская обл.,  г. Архангельск, Октябрьский территориальный округ, ул. Воскресенская, д. 85"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d892be096f456f84caef1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d892be096f456f84caef1","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d892be096f456f84caef1","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Характеристика объекта: нежилое помещение расположено в пятиэтажном кирпичном жилом доме, год постройки – 1964. Ранее использовалось под мастерскую."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["1964",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["87.3"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["29:22:040620:783",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Архангельская, г.о. город Архангельск, г. Архангельск, ул. Воскресенская, дом 85"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d893763124f3d8ea6ea9d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d893763124f3d8ea6ea9d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","воскр 85 техпаспорт.pdf"]}],["$","span",null,{"className":"size","children":"1.1 МБ"}]]}],["$","a","6a8d895157a2662b552a7488",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d895157a2662b552a7488","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","17PROEKT DOG PUB 2026.doc"]}],["$","span",null,{"className":"size","children":"63 КБ"}]]}],["$","a","6a8d8927e096f456f84caeeb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8927e096f456f84caeeb","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","воскр 85 фото.jpg"]}],["$","span",null,{"className":"size","children":"107 КБ"}]]}],["$","a","6a8d892be096f456f84caef1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d892be096f456f84caef1","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","воскрес 85 фото.jpg"]}],["$","span",null,{"className":"size","children":"217 КБ"}]]}],["$","a","6a8d8dce63124f3d8ea6f156",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8dce63124f3d8ea6f156","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ON_DOGDOC_0007fdc9c1c-2012-45f5-9c36-d91d2425a308_000e1473fd6-6173-4723-ba1c-dffe156ca4f7_20260825_0047e564-44fc-4cb5-a783-4e91b0ea67fe_1_00_00_01.pdf"]}],"$L11"]}]]}]]}],false,"$L12"]}],"$L13"]}]]}]
+11:["$","span",null,{"className":"size","children":"62 КБ"}]
+14:Tf15,{
+  "id": "gis-torgi:21000006750000000354_17",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000006750000000354_17",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000006750000000354_17",
+  "title": "Лот № 17. Нежилое помещение, назначение – нежилое, подвал, общая площадь  87,3 кв. м, кадастровый номер 29:22:040620:783, адрес объекта: Архангельская обл.,  г. Архангельск, Октябрьский территориальный округ, ул. Воскресенская, д. 85",
+  "description": "Характеристика объекта: нежилое помещение расположено в пятиэтажном кирпичном жилом доме, год постройки – 1964. Ранее использовалось под мастерскую.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Публичное предложение",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "29",
+  "address": "обл. Архангельская, г.о. город Архангельск, г. Архангельск, ул. Воскресенская, дом 85",
+  "priceStart": "1733603.00",
+  "priceStep": "86680.15",
+  "deposit": "173360.3",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T12:48:56.8Z",
+  "biddStartAt": "2026-08-26T06:00:00Z",
+  "biddEndAt": "2026-09-28T06:00:00Z",
+  "auctionAt": "2026-09-30T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d8927e096f456f84caeeb",
+    "6a8d892be096f456f84caef1"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d893763124f3d8ea6ea9d",
+      "name": "воскр 85 техпаспорт.pdf",
+      "size": 1115051,
+      "sha256": "319cdff9c0e63de684d77368dfa4226c3c31db5b9517025a9aa4238ce13dd1ea"
+    },
+    {
+      "fileId": "6a8d895157a2662b552a7488",
+      "name": "17PROEKT DOG PUB 2026.doc",
+      "size": 64000,
+      "sha256": "ca621283dd874155618bb0e329202af6fe84223b6b5c338d954f5a33fc1d5b74"
+    },
+    {
+      "fileId": "6a8d8927e096f456f84caeeb",
+      "name": "воскр 85 фото.jpg",
+      "size": 109731,
+      "sha256": "3a044c4357cf7cd73d3d2f6f6a31a11c670b3b99557827587ed12f698fade237"
+    },
+    {
+      "fileId": "6a8d892be096f456f84caef1",
+      "name": "воскрес 85 фото.jpg",
+      "size": 222430,
+      "sha256": "934c5191a33484a765738854c405db5900bf65520e1ac3e1dbc5012b7fbd3714"
+    },
+    {
+      "fileId": "6a8d8dce63124f3d8ea6f156",
+      "name": "ON_DOGDOC_0007fdc9c1c-2012-45f5-9c36-d91d2425a308_000e1473fd6-6173-4723-ba1c-dffe156ca4f7_20260825_0047e564-44fc-4cb5-a783-4e91b0ea67fe_1_00_00_01.pdf",
+      "size": 63898,
+      "sha256": "71f9f7b5eb7eda0abe43444ab9e014d2e84eae47ba107777f24c651624c91aec"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "1964",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "87.3",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "29:22:040620:783",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:11:14.905Z",
+  "lastSeenAt": "2026-08-25T13:11:14.905Z",
+  "contentHash": "d547263514827acde706fc7cdee96473d013c91962f71455abf717e4498d3d3b"
+}12:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$14"}]]}]
+13:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 733 603 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"86 680,15 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"173 360,30 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"28 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"32 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"30 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Архангельская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000006750000000354_17","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Лот № 17. Нежилое помещение, назначение – нежилое, подвал, общая площадь  87,3 кв. м, када — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,172 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000013150000000349_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000013150000000349_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000013150000000349_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=59","children":"Пермский край"}]]]}],["$","h1",null,{"children":"Нежилое помещение площадью 874,6 кв.м"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6f0e63124f3d8ea6c5d5","alt":"Нежилое помещение площадью 874,6 кв.м"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d6f1157a2662b552a5178",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f1157a2662b552a5178","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6f1157a2662b552a5178","alt":"","loading":"lazy"}]}],["$","a","6a8d6f1ae096f456f84c904a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f1ae096f456f84c904a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6f1ae096f456f84c904a","alt":"","loading":"lazy"}]}],["$","a","6a8d6f23efd603213f147cf5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f23efd603213f147cf5","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6f23efd603213f147cf5","alt":"","loading":"lazy"}]}],["$","a","6a8d6f40efd603213f147d14",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f40efd603213f147d14","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6f40efd603213f147d14","alt":"","loading":"lazy"}]}],["$","a","6a8d6f4757a2662b552a5198",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f4757a2662b552a5198","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6f4757a2662b552a5198","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"нежилое помещение площадью 874,6 кв.м, расположенное по адресу: г. Соликамск, ул. 20-летия Победы, д. 10"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["1985",""]}]]}],["$","tr","cadastralNumberObjectRealty",{"children":[["$","td",null,{"children":"Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение"}],["$","td",null,{"children":["59:10:0404004:52",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["874.6"," м^2 общ. пл"]}]]}],["$","tr","locationObjectRealty",{"children":[["$","td",null,{"children":"Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)"}],["$","td",null,{"children":["часть 1  этажа и 2 этаж",""]}]]}],["$","tr","cadastralValue",{"children":[["$","td",null,{"children":"Кадастровая стоимость"}],["$","td",null,{"children":["10969338.15",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["59:10:0404004:67",""]}]]}],["$","tr","typeNolivingQuarters",{"children":[["$","td",null,{"children":"Назначение нежилого помещения"}],["$","td",null,{"children":["часть здания баклаборатории",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Пермский, м.о. Соликамский, г. Соликамск, ул. 20-летия Победы, дом 10"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",9,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d6f5763124f3d8ea6c5e6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f5763124f3d8ea6c5e6","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a"]}]]}],false,"$L1b"]}],"$L1c"]}]]}]
+11:["$","span",null,{"children":["📎 ","выписка 20лП10 874,6.pdf"]}]
+12:["$","span",null,{"className":"size","children":"136 КБ"}]
+13:["$","a","6a8d6f5c63124f3d8ea6c618",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f5c63124f3d8ea6c618","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","выписка ЗУ 20лП 10.pdf"]}],["$","span",null,{"className":"size","children":"1006 КБ"}]]}]
+14:["$","a","6a8d6f68efd603213f147d6b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f68efd603213f147d6b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Техпаспорт 874,6.pdf"]}],["$","span",null,{"className":"size","children":"5.5 МБ"}]]}]
+15:["$","a","6a8d6f0e63124f3d8ea6c5d5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f0e63124f3d8ea6c5d5","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20240926_105306.jpg"]}],["$","span",null,{"className":"size","children":"4.7 МБ"}]]}]
+16:["$","a","6a8d6f1157a2662b552a5178",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f1157a2662b552a5178","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20240926_110110.jpg"]}],["$","span",null,{"className":"size","children":"2.9 МБ"}]]}]
+17:["$","a","6a8d6f1ae096f456f84c904a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f1ae096f456f84c904a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20240926_105656.jpg"]}],["$","span",null,{"className":"size","children":"2.4 МБ"}]]}]
+18:["$","a","6a8d6f23efd603213f147cf5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f23efd603213f147cf5","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20240926_105347.jpg"]}],["$","span",null,{"className":"size","children":"4.4 МБ"}]]}]
+19:["$","a","6a8d6f40efd603213f147d14",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f40efd603213f147d14","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20240926_110601.jpg"]}],["$","span",null,{"className":"size","children":"5.5 МБ"}]]}]
+1a:["$","a","6a8d6f4757a2662b552a5198",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6f4757a2662b552a5198","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20240926_105335.jpg"]}],["$","span",null,{"className":"size","children":"4.1 МБ"}]]}]
+1d:T147b,{
+  "id": "gis-torgi:22000013150000000349_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000013150000000349_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000013150000000349_1",
+  "title": "Нежилое помещение площадью 874,6 кв.м",
+  "description": "нежилое помещение площадью 874,6 кв.м, расположенное по адресу: г. Соликамск, ул. 20-летия Победы, д. 10",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "59",
+  "address": "край Пермский, м.о. Соликамский, г. Соликамск, ул. 20-летия Победы, дом 10",
+  "priceStart": "5070000.00",
+  "priceStep": "253500",
+  "deposit": "507000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T10:42:55.151Z",
+  "biddStartAt": "2026-08-27T03:00:00Z",
+  "biddEndAt": "2026-09-23T18:00:00Z",
+  "auctionAt": "2026-09-29T04:30:00Z",
+  "tzOffsetMin": 300,
+  "tzName": "МСК+2",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d6f0e63124f3d8ea6c5d5",
+    "6a8d6f1157a2662b552a5178",
+    "6a8d6f1ae096f456f84c904a",
+    "6a8d6f23efd603213f147cf5",
+    "6a8d6f40efd603213f147d14",
+    "6a8d6f4757a2662b552a5198"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d6f5763124f3d8ea6c5e6",
+      "name": "выписка 20лП10 874,6.pdf",
+      "size": 139579,
+      "sha256": "c18db7e6ee75cc9f964ef62657a370f00f170cfc2c78508e34f182ea2afd587b"
+    },
+    {
+      "fileId": "6a8d6f5c63124f3d8ea6c618",
+      "name": "выписка ЗУ 20лП 10.pdf",
+      "size": 1029712,
+      "sha256": "09362321b8f2d259b52c298c363380ae0e07610ff81dc637c3e7cdacd30cc929"
+    },
+    {
+      "fileId": "6a8d6f68efd603213f147d6b",
+      "name": "Техпаспорт 874,6.pdf",
+      "size": 5802754,
+      "sha256": "913a8f920e834dbeaf6fd0b3267708fbe02019257ce4cb738d3c99d237405d21"
+    },
+    {
+      "fileId": "6a8d6f0e63124f3d8ea6c5d5",
+      "name": "IMG_20240926_105306.jpg",
+      "size": 4916895,
+      "sha256": "3124cab0571de67a08803b59e446403e76ab249cb6fe6bc69748dd9b23856339"
+    },
+    {
+      "fileId": "6a8d6f1157a2662b552a5178",
+      "name": "IMG_20240926_110110.jpg",
+      "size": 3045305,
+      "sha256": "1cfa94b5244b1d1d06f811a28f645ea5724ee254dfe77610f037ba9e6249a94d"
+    },
+    {
+      "fileId": "6a8d6f1ae096f456f84c904a",
+      "name": "IMG_20240926_105656.jpg",
+      "size": 2464819,
+      "sha256": "65898957a385865c0dace05ed647f1079df735b14ec780f176b8a900fc39966b"
+    },
+    {
+      "fileId": "6a8d6f23efd603213f147cf5",
+      "name": "IMG_20240926_105347.jpg",
+      "size": 4592844,
+      "sha256": "0297613997e99676759e7f1d48d4193e5782597d88bab0bc76f5093ca579c6d5"
+    },
+    {
+      "fileId": "6a8d6f40efd603213f147d14",
+      "name": "IMG_20240926_110601.jpg",
+      "size": 5792366,
+      "sha256": "4547db7f3e538d86da84295250644c3047959d119f6f46246c59b660e21a5668"
+    },
+    {
+      "fileId": "6a8d6f4757a2662b552a5198",
+      "name": "IMG_20240926_105335.jpg",
+      "size": 4324031,
+      "sha256": "f6bf903eeafdf1be712fb902ac2c624f5895d46326d71e416b84142c6915b2d1"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "1985",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberObjectRealty",
+      "name": "Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение",
+      "value": "59:10:0404004:52",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "874.6",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "locationObjectRealty",
+      "name": "Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)",
+      "value": "часть 1  этажа и 2 этаж",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralValue",
+      "name": "Кадастровая стоимость",
+      "value": "10969338.15",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "59:10:0404004:67",
+      "source": "structured"
+    },
+    {
+      "key": "typeNolivingQuarters",
+      "name": "Назначение нежилого помещения",
+      "value": "часть здания баклаборатории",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:12:57.153Z",
+  "lastSeenAt": "2026-08-25T13:12:57.153Z",
+  "contentHash": "c525d733d3a76b5411c5a3b3d4523d12b1b1ea6abcb5982330f15af6b58a312f"
+}1b:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1d"}]]}]
+1c:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"5 070 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"253 500 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"507 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 авг. 2026 г., 08:00 (МСК+2)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"23 сент. 2026 г., 23:00 (МСК+2)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"28 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 09:30 (МСК+2)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Пермский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000013150000000349_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое помещение площадью 874,6 кв.м — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

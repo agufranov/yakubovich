@@ -1,0 +1,149 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000029740000001222_4",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000029740000001222_4","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000029740000001222_4","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=41","children":"Камчатский край"}]]]}],["$","h1",null,{"children":"Автомобиль Toyota Rush, 2007 года выпуска, цвет - серый, государственный номер В866РМ41, номер кузова (прицепа) J210E0018678, номер двигателя 3SZ1905101, мощность двигателя - 109 л.с, объем двигателя - 1495 куб. см."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d07f157a2662b5529f416","alt":"Автомобиль Toyota Rush, 2007 года выпуска, цвет - серый, государственный номер В866РМ41, номер кузова (прицепа) J210E0018678, номер двигателя 3SZ1905101, мощность двигателя - 109 л.с, объем двигателя - 1495 куб. см."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d07f557a2662b5529f41a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d07f557a2662b5529f41a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d07f557a2662b5529f41a","alt":"","loading":"lazy"}]}],["$","a","6a8d07f3e096f456f84c35ae",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d07f3e096f456f84c35ae","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d07f3e096f456f84c35ae","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Автомобиль Toyota Rush, 2007 года выпуска, цвет - серый, государственный номер В866РМ41, номер кузова (прицепа) J210E0018678, номер двигателя 3SZ1905101, мощность двигателя - 109 л.с, объем двигателя - 1495 куб. см."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["Легковой универсал",""]}]]}],["$","tr","engineCapacity",{"children":[["$","td",null,{"children":"Объем двигателя"}],["$","td",null,{"children":["1495",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2007",""]}]]}],["$","tr","regNumber",{"children":[["$","td",null,{"children":"Государственный регистрационный знак"}],["$","td",null,{"children":["В866РМ41",""]}]]}],["$","tr","enginePower",{"children":[["$","td",null,{"children":"Мощность двигателя"}],["$","td",null,{"children":["109",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["J210E0018678",""]}]]}],["$","tr","dateRegNumber",{"children":[["$","td",null,{"children":"Дата государственного регистрационного знака"}],["$","td",null,{"children":["2025-07-05",""]}]]}],["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Toyota",""]}]]}],["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Rush",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Камчатский, г.о. Петропавловск-Камчатский, г. Петропавловск-Камчатский, ул. Звездная, дом 1"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d0813efd603213f142074",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d0813efd603213f142074","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Постановление о передаче имущества на торги.pdf"]}],["$","span",null,{"className":"size","children":"6.6 МБ"}]]}],"$L11","$L12","$L13"]}]]}],false,"$L14"]}],"$L15"]}]]}]
+11:["$","a","6a8d07f157a2662b5529f416",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d07f157a2662b5529f416","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1.jpeg"]}],["$","span",null,{"className":"size","children":"267 КБ"}]]}]
+12:["$","a","6a8d07f557a2662b5529f41a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d07f557a2662b5529f41a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","2.jpeg"]}],["$","span",null,{"className":"size","children":"346 КБ"}]]}]
+13:["$","a","6a8d07f3e096f456f84c35ae",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d07f3e096f456f84c35ae","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","3.jpeg"]}],["$","span",null,{"className":"size","children":"315 КБ"}]]}]
+16:T117e,{
+  "id": "gis-torgi:21000029740000001222_4",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000029740000001222_4",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000029740000001222_4",
+  "title": "Автомобиль Toyota Rush, 2007 года выпуска, цвет - серый, государственный номер В866РМ41, номер кузова (прицепа) J210E0018678, номер двигателя 3SZ1905101, мощность двигателя - 109 л.с, объем двигателя - 1495 куб. см.",
+  "description": "Автомобиль Toyota Rush, 2007 года выпуска, цвет - серый, государственный номер В866РМ41, номер кузова (прицепа) J210E0018678, номер двигателя 3SZ1905101, мощность двигателя - 109 л.с, объем двигателя - 1495 куб. см.",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "41",
+  "address": "край Камчатский, г.о. Петропавловск-Камчатский, г. Петропавловск-Камчатский, ул. Звездная, дом 1",
+  "priceStart": "778700.00",
+  "priceStep": "15000",
+  "deposit": "120000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T03:26:36.421Z",
+  "biddStartAt": "2026-08-27T22:00:00Z",
+  "biddEndAt": "2026-09-24T22:00:00Z",
+  "auctionAt": "2026-09-29T22:00:00Z",
+  "tzOffsetMin": 720,
+  "tzName": "МСК+9",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8d07f157a2662b5529f416",
+    "6a8d07f557a2662b5529f41a",
+    "6a8d07f3e096f456f84c35ae"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d0813efd603213f142074",
+      "name": "Постановление о передаче имущества на торги.pdf",
+      "size": 6915769,
+      "sha256": "fb25c596e4842c7fb4230f38edc32e553387ce6eec7abd71804ea08c0501a610"
+    },
+    {
+      "fileId": "6a8d07f157a2662b5529f416",
+      "name": "1.jpeg",
+      "size": 273416,
+      "sha256": "2284b5ceae689ca33d2bca3e5f1d5755e3a17c15585cf28143e22159f1117d02"
+    },
+    {
+      "fileId": "6a8d07f557a2662b5529f41a",
+      "name": "2.jpeg",
+      "size": 354163,
+      "sha256": "c99def92397537645e374a8fda03e5cb243df40fd2afa1ad2a1ecfc64f8903e9"
+    },
+    {
+      "fileId": "6a8d07f3e096f456f84c35ae",
+      "name": "3.jpeg",
+      "size": 322572,
+      "sha256": "a40efd659d95809b64f85c0d3556fc5e6c952f26005d5b9fe592bd0c77aca75c"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "Легковой универсал",
+      "source": "structured"
+    },
+    {
+      "key": "engineCapacity",
+      "name": "Объем двигателя",
+      "value": "1495",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2007",
+      "source": "structured"
+    },
+    {
+      "key": "regNumber",
+      "name": "Государственный регистрационный знак",
+      "value": "В866РМ41",
+      "source": "structured"
+    },
+    {
+      "key": "enginePower",
+      "name": "Мощность двигателя",
+      "value": "109",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "J210E0018678",
+      "source": "structured"
+    },
+    {
+      "key": "dateRegNumber",
+      "name": "Дата государственного регистрационного знака",
+      "value": "2025-07-05",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "Toyota",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "Rush",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:29:50.969Z",
+  "lastSeenAt": "2026-08-25T11:29:50.969Z",
+  "contentHash": "43930be7a531713e5579edd2ddf1a1534d2381c729a249817ea0616202d7a043"
+}14:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$16"}]]}]
+15:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"778 700 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"15 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"120 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"28 авг. 2026 г., 10:00 (МСК+9)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"25 сент. 2026 г., 10:00 (МСК+9)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"29 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"30 сент. 2026 г., 10:00 (МСК+9)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Камчатский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000029740000001222_4","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Автомобиль Toyota Rush, 2007 года выпуска, цвет - серый, государственный номер В866РМ41, н — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

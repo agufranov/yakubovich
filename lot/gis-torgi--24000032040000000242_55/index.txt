@@ -1,0 +1,114 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--24000032040000000242_55",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--24000032040000000242_55","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--24000032040000000242_55","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Tf96,{
+  "id": "gis-torgi:24000032040000000242_55",
+  "sourceCode": "gis-torgi",
+  "externalId": "24000032040000000242_55",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/24000032040000000242_55",
+  "title": "Сооружение производственное, насосная станция, площадью 6 кв.м., глубина 83 м., кадастровый номер 43:03:460601:290, расположенное по адресу: Кировская область, г. Б. Холуница, ул. Механизаторов, д. 2",
+  "description": "(вторичные торги).  Сооружение производственное, насосная станция, площадью 6 кв.м., глубина 83 м., кадастровый номер 43:03:460601:290, расположенное по адресу: Кировская область, г. Б. Холуница, ул. Механизаторов, д. 2. Вид права – собственность. Обременение – аресты. Собственник – Солодилова Д.Л. (уведомление № 1636 от 15.06.2026).",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "47",
+  "categoryName": "Сооружения",
+  "regionCode": "43",
+  "address": "обл Кировская г. Б. Холуница, ул. Механизаторов, д. 2",
+  "priceStart": "48407.50",
+  "priceStep": "484.08",
+  "deposit": "7261.13",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T19:10:27.48Z",
+  "biddStartAt": "2026-08-24T19:30:00Z",
+  "biddEndAt": "2026-09-22T07:00:00Z",
+  "auctionAt": "2026-09-25T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_MMVB",
+  "images": [
+    "6a8c8b45e096f456f84c2524"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c8b42e096f456f84c251f",
+      "name": "1636 Солодилова Д.Л. снижение.pdf",
+      "size": 63516,
+      "sha256": "7c5c4ff7d12463efc3635c090934bad1ae230548f0391c042dfccdadc037317f"
+    },
+    {
+      "fileId": "6a8c8b42efd603213f14104d",
+      "name": "1636 Солодилова Д.Л..pdf",
+      "size": 109357,
+      "sha256": "5469f655695ebd9eae687ea2445aea77f82c9a1140f844673fcc48abc9c8f6ff"
+    },
+    {
+      "fileId": "6a8c8b45e096f456f84c2524",
+      "name": "1636 Солодилова Д.Л..png",
+      "size": 568014,
+      "sha256": "deb1f319c30790a40e9ca13eff26f30e0dd915a428a0b02f82b56935079c7f10"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "аресты",
+      "source": "structured"
+    },
+    {
+      "key": "typeConstructions",
+      "name": "Назначение сооружения",
+      "value": "насосная станция",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "6",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "43:03:460601:290",
+      "source": "structured"
+    },
+    {
+      "key": "numberFloors",
+      "name": "Количество этажей",
+      "value": "1",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "аресты",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:34:00.487Z",
+  "lastSeenAt": "2026-08-25T11:34:00.487Z",
+  "contentHash": "236dd0c808301d8290d89d2ee45b06c34e75d613f247c576ae709e157089e040"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=43","children":"Кировская обл."}]]]}],["$","h1",null,{"children":"Сооружение производственное, насосная станция, площадью 6 кв.м., глубина 83 м., кадастровый номер 43:03:460601:290, расположенное по адресу: Кировская область, г. Б. Холуница, ул. Механизаторов, д. 2"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Сооружения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c8b45e096f456f84c2524","alt":"Сооружение производственное, насосная станция, площадью 6 кв.м., глубина 83 м., кадастровый номер 43:03:460601:290, расположенное по адресу: Кировская область, г. Б. Холуница, ул. Механизаторов, д. 2"}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"(вторичные торги).  Сооружение производственное, насосная станция, площадью 6 кв.м., глубина 83 м., кадастровый номер 43:03:460601:290, расположенное по адресу: Кировская область, г. Б. Холуница, ул. Механизаторов, д. 2. Вид права – собственность. Обременение – аресты. Собственник – Солодилова Д.Л. (уведомление № 1636 от 15.06.2026)."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["аресты",""]}]]}],["$","tr","typeConstructions",{"children":[["$","td",null,{"children":"Назначение сооружения"}],["$","td",null,{"children":["насосная станция",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["6"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["43:03:460601:290",""]}]]}],["$","tr","numberFloors",{"children":[["$","td",null,{"children":"Количество этажей"}],["$","td",null,{"children":["1",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["аресты",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл Кировская г. Б. Холуница, ул. Механизаторов, д. 2"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c8b42e096f456f84c251f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c8b42e096f456f84c251f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1636 Солодилова Д.Л. снижение.pdf"]}],["$","span",null,{"className":"size","children":"62 КБ"}]]}],["$","a","6a8c8b42efd603213f14104d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c8b42efd603213f14104d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1636 Солодилова Д.Л..pdf"]}],["$","span",null,{"className":"size","children":"107 КБ"}]]}],["$","a","6a8c8b45e096f456f84c2524",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c8b45e096f456f84c2524","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1636 Солодилова Д.Л..png"]}],["$","span",null,{"className":"size","children":"555 КБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"48 407,50 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"484,08 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"7 261,13 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"24 авг. 2026 г., 22:30 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Кировская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"MMVB"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/24000032040000000242_55","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Сооружение производственное, насосная станция, площадью 6 кв.м., глубина 83 м., кадастровы — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

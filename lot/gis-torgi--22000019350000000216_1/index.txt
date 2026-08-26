@@ -1,0 +1,144 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000019350000000216_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000019350000000216_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000019350000000216_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=59","children":"Пермский край"}]]]}],["$","h1",null,{"children":"Лот № 1. Автоцистерна ЗИЛ-131 АН,  гос. номер  Н657РР/159"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Спецтехника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d50f957a2662b552a26e2","alt":"Лот № 1. Автоцистерна ЗИЛ-131 АН,  гос. номер  Н657РР/159"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d50f7e096f456f84c6e6b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d50f7e096f456f84c6e6b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d50f7e096f456f84c6e6b","alt":"","loading":"lazy"}]}],["$","a","6a8d50f8e096f456f84c6e75",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d50f8e096f456f84c6e75","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d50f8e096f456f84c6e75","alt":"","loading":"lazy"}]}],["$","a","6a8d50f857a2662b552a26d8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d50f857a2662b552a26d8","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d50f857a2662b552a26d8","alt":"","loading":"lazy"}]}],["$","a","6a8d50f8e096f456f84c6e80",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d50f8e096f456f84c6e80","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d50f8e096f456f84c6e80","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Идентификационный № (VIN): ХТZ00131НN0951122 Марка, модель ТС: ЗИЛ-131 АН Наименование (тип ТС): специальный пожарный автомобиль  Категория ТС: С, Год изготовления ТС: 1992 Модель, номер двигателя: 131-897780 Шасси (рама) №: N0951122 Кузов (прицеп) №: АЦ-40 Цвет кузова (кабины): КРАСНЫЙ (КРАСНЫЙ) Мощность двигателя, л.с.: 132.0 кВт/180.0 л.с.  Рабочий объем двигателя, куб.см.: 7000  Тип двигателя: БЕНЗИНОВЫЙ  Разрешенная максимальная масса, кг: 10185 Масса без нагрузки, кг: 6135 Организация - изготовитель ТС (страна): ЗИЛ Государственный регистрационный знак Н657РР/159 пробег 22338 км По результатам оценки установлено, что автомобиль морально устарел, находится в технически неисправном состоянии, к эксплуатации не пригоден (требуется капитальный ремонт)."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","specEquipmentType",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Автоцистерна ЗИЛ-131 АН",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег"}],["$","td",null,{"children":["22338"," км"]}]]}],["$","tr","specEquipmentMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["ЗИЛ-131 АН",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["1992",""]}]]}],["$","tr","specEquipmentModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["131-897780",""]}]]}],["$","tr","vinFactory",{"children":[["$","td",null,{"children":"VIN (заводской) номер"}],["$","td",null,{"children":["ХТZ00131НN0951122",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Пермский, м.о. Осинский, г. Оса"}]]}],"$L11",false,"$L12"]}],"$L13"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d51c9efd603213f145927",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d51c9efd603213f145927","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Р № 136 - измен.в план приватиз.docx"]}],["$","span",null,{"className":"size","children":"55 КБ"}]]}],["$","a","6a8d50f957a2662b552a26e2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d50f957a2662b552a26e2","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20251106_131935.jpg"]}],["$","span",null,{"className":"size","children":"2.0 МБ"}]]}],["$","a","6a8d50f7e096f456f84c6e6b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d50f7e096f456f84c6e6b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20251106_131950.jpg"]}],["$","span",null,{"className":"size","children":"2.0 МБ"}]]}],["$","a","6a8d50f8e096f456f84c6e75",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d50f8e096f456f84c6e75","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20251106_132003.jpg"]}],["$","span",null,{"className":"size","children":"1.9 МБ"}]]}],["$","a","6a8d50f857a2662b552a26d8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d50f857a2662b552a26d8","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20251106_132039.jpg"]}],["$","span",null,{"className":"size","children":"1.9 МБ"}]]}],["$","a","6a8d50f8e096f456f84c6e80",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d50f8e096f456f84c6e80","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20251106_132047.jpg"]}],["$","span",null,{"className":"size","children":"2.0 МБ"}]]}]]}]]}]
+14:T143e,{
+  "id": "gis-torgi:22000019350000000216_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000019350000000216_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000019350000000216_1",
+  "title": "Лот № 1. Автоцистерна ЗИЛ-131 АН,  гос. номер  Н657РР/159",
+  "description": "Идентификационный № (VIN): ХТZ00131НN0951122 Марка, модель ТС: ЗИЛ-131 АН Наименование (тип ТС): специальный пожарный автомобиль  Категория ТС: С, Год изготовления ТС: 1992 Модель, номер двигателя: 131-897780 Шасси (рама) №: N0951122 Кузов (прицеп) №: АЦ-40 Цвет кузова (кабины): КРАСНЫЙ (КРАСНЫЙ) Мощность двигателя, л.с.: 132.0 кВт/180.0 л.с.  Рабочий объем двигателя, куб.см.: 7000  Тип двигателя: БЕНЗИНОВЫЙ  Разрешенная максимальная масса, кг: 10185 Масса без нагрузки, кг: 6135 Организация - изготовитель ТС (страна): ЗИЛ Государственный регистрационный знак Н657РР/159 пробег 22338 км По результатам оценки установлено, что автомобиль морально устарел, находится в технически неисправном состоянии, к эксплуатации не пригоден (требуется капитальный ремонт).",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "101",
+  "categoryName": "Спецтехника",
+  "regionCode": "59",
+  "address": "край Пермский, м.о. Осинский, г. Оса",
+  "priceStart": "114000.00",
+  "priceStep": "5700",
+  "deposit": "11400",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T09:21:12.434Z",
+  "biddStartAt": "2026-08-26T03:00:00Z",
+  "biddEndAt": "2026-09-30T12:00:00Z",
+  "auctionAt": "2026-10-02T06:00:00Z",
+  "tzOffsetMin": 300,
+  "tzName": "МСК+2",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d50f957a2662b552a26e2",
+    "6a8d50f7e096f456f84c6e6b",
+    "6a8d50f8e096f456f84c6e75",
+    "6a8d50f857a2662b552a26d8",
+    "6a8d50f8e096f456f84c6e80"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d51c9efd603213f145927",
+      "name": "Р № 136 - измен.в план приватиз.docx",
+      "size": 56092,
+      "sha256": "4d8c5e1c7cc47fd619a18255c3acd26369299a383bb8f45f34219d1302bfa1a4"
+    },
+    {
+      "fileId": "6a8d50f957a2662b552a26e2",
+      "name": "IMG_20251106_131935.jpg",
+      "size": 2047682,
+      "sha256": "e09be67a94676fb1daa6a4f808bb67536867f81551175213f01bff64e15c8993"
+    },
+    {
+      "fileId": "6a8d50f7e096f456f84c6e6b",
+      "name": "IMG_20251106_131950.jpg",
+      "size": 2140585,
+      "sha256": "0b7017ee48db486303f611083d1bcd6fb364a8db2eedbb36afb0b972ccdeb738"
+    },
+    {
+      "fileId": "6a8d50f8e096f456f84c6e75",
+      "name": "IMG_20251106_132003.jpg",
+      "size": 1981742,
+      "sha256": "fa206045888a0fb0c838ddcefc967f65c758450449d9d925dad00e89d99c45eb"
+    },
+    {
+      "fileId": "6a8d50f857a2662b552a26d8",
+      "name": "IMG_20251106_132039.jpg",
+      "size": 2014106,
+      "sha256": "f09267c51251d1b219988057d142070613ac20bb0ab6315b4c1c9224f8d56a05"
+    },
+    {
+      "fileId": "6a8d50f8e096f456f84c6e80",
+      "name": "IMG_20251106_132047.jpg",
+      "size": 2103095,
+      "sha256": "a922dea699dcf09e92869c5c1a8eed362675a44865b4a1bf454b41352d27898a"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "specEquipmentType",
+      "name": "Назначение",
+      "value": "Автоцистерна ЗИЛ-131 АН",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег",
+      "value": "22338",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "specEquipmentMarka",
+      "name": "Марка",
+      "value": "ЗИЛ-131 АН",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "1992",
+      "source": "structured"
+    },
+    {
+      "key": "specEquipmentModel",
+      "name": "Модель",
+      "value": "131-897780",
+      "source": "structured"
+    },
+    {
+      "key": "vinFactory",
+      "name": "VIN (заводской) номер",
+      "value": "ХТZ00131НN0951122",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:16:40.236Z",
+  "lastSeenAt": "2026-08-25T13:16:40.236Z",
+  "contentHash": "b5988a9c0e6c233bdddd8fe0e9bec0d7b88e549a969d0c917ba6ddfe1e365a56"
+}12:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$14"}]]}]
+13:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"114 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"5 700 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"11 400 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 08:00 (МСК+2)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"30 сент. 2026 г., 17:00 (МСК+2)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"34 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"2 окт. 2026 г., 11:00 (МСК+2)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Пермский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000019350000000216_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Лот № 1. Автоцистерна ЗИЛ-131 АН,  гос. номер  Н657РР/159 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

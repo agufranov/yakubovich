@@ -1,0 +1,156 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--26000013000000000781_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--26000013000000000781_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--26000013000000000781_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"АМТС Ford Galaxy, 2007 г.в., VIN WF0MXXGBWM7Y27480"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a89f52bac85246d2d846f9a","alt":"АМТС Ford Galaxy, 2007 г.в., VIN WF0MXXGBWM7Y27480"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a89f52bac85246d2d846f96",{"href":"https://torgi.gov.ru/new/file-store/v1/6a89f52bac85246d2d846f96","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a89f52bac85246d2d846f96","alt":"","loading":"lazy"}]}],["$","a","6a89f52befd603213f12f36c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a89f52befd603213f12f36c","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a89f52befd603213f12f36c","alt":"","loading":"lazy"}]}],["$","a","6a89f52c57a2662b5528a188",{"href":"https://torgi.gov.ru/new/file-store/v1/6a89f52c57a2662b5528a188","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a89f52c57a2662b5528a188","alt":"","loading":"lazy"}]}],["$","a","6a89f52b57a2662b5528a184",{"href":"https://torgi.gov.ru/new/file-store/v1/6a89f52b57a2662b5528a184","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a89f52b57a2662b5528a184","alt":"","loading":"lazy"}]}],["$","a","6a89f52cac85246d2d846f9e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a89f52cac85246d2d846f9e","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a89f52cac85246d2d846f9e","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"АМТС Ford Galaxy, 2007 г.в., VIN WF0MXXGBWM7Y27480"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["Легковой автомобиль",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2007",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["WF0MXXGBWM7Y27480",""]}]]}],["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Ford",""]}]]}],["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Galaxy",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Дмитровский, ул. Вагоноремонтная вл.4А"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",8,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a89f55063124f3d8ea53b2f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a89f55063124f3d8ea53b2f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Цао 1-13 Документы_на Торги.pdf"]}],["$","span",null,{"className":"size","children":"4.3 МБ"}]]}],["$","a","6a89f54757a2662b5528a18d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a89f54757a2662b5528a18d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Цао 1-13 поручение.pdf"]}],["$","span",null,{"className":"size","children":"523 КБ"}]]}],["$","a","6a89f52bac85246d2d846f9a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a89f52bac85246d2d846f9a","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17"]}]]}],false,"$L18"]}],"$L19"]}]]}]
+11:["$","span",null,{"children":["📎 ","IMG_4720.jpg"]}]
+12:["$","span",null,{"className":"size","children":"308 КБ"}]
+13:["$","a","6a89f52bac85246d2d846f96",{"href":"https://torgi.gov.ru/new/file-store/v1/6a89f52bac85246d2d846f96","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_4721.jpg"]}],["$","span",null,{"className":"size","children":"285 КБ"}]]}]
+14:["$","a","6a89f52befd603213f12f36c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a89f52befd603213f12f36c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_4722.jpg"]}],["$","span",null,{"className":"size","children":"314 КБ"}]]}]
+15:["$","a","6a89f52c57a2662b5528a188",{"href":"https://torgi.gov.ru/new/file-store/v1/6a89f52c57a2662b5528a188","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_4723.jpg"]}],["$","span",null,{"className":"size","children":"368 КБ"}]]}]
+16:["$","a","6a89f52b57a2662b5528a184",{"href":"https://torgi.gov.ru/new/file-store/v1/6a89f52b57a2662b5528a184","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_4724.jpg"]}],["$","span",null,{"className":"size","children":"271 КБ"}]]}]
+17:["$","a","6a89f52cac85246d2d846f9e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a89f52cac85246d2d846f9e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_4725.jpg"]}],["$","span",null,{"className":"size","children":"323 КБ"}]]}]
+1a:T1003,{
+  "id": "gis-torgi:26000013000000000781_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "26000013000000000781_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/26000013000000000781_1",
+  "title": "АМТС Ford Galaxy, 2007 г.в., VIN WF0MXXGBWM7Y27480",
+  "description": "АМТС Ford Galaxy, 2007 г.в., VIN WF0MXXGBWM7Y27480",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Дмитровский, ул. Вагоноремонтная вл.4А",
+  "priceStart": "535075.00",
+  "priceStep": "2675.38",
+  "deposit": "53507.5",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T11:07:20.287Z",
+  "biddStartAt": "2026-08-25T08:00:00Z",
+  "biddEndAt": "2026-09-22T08:00:00Z",
+  "auctionAt": "2026-09-24T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RAD",
+  "images": [
+    "6a89f52bac85246d2d846f9a",
+    "6a89f52bac85246d2d846f96",
+    "6a89f52befd603213f12f36c",
+    "6a89f52c57a2662b5528a188",
+    "6a89f52b57a2662b5528a184",
+    "6a89f52cac85246d2d846f9e"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a89f55063124f3d8ea53b2f",
+      "name": "Цао 1-13 Документы_на Торги.pdf",
+      "size": 4497460,
+      "sha256": "46393840a22bbc994ce1ee3239790abc9c2f396b1279d496f99d601146c06b7c"
+    },
+    {
+      "fileId": "6a89f54757a2662b5528a18d",
+      "name": "Цао 1-13 поручение.pdf",
+      "size": 535592,
+      "sha256": "7635e6b776c1bf0a7c3c02d58df593f14397061ae1838606c2676a0e4ce879a2"
+    },
+    {
+      "fileId": "6a89f52bac85246d2d846f9a",
+      "name": "IMG_4720.jpg",
+      "size": 315874,
+      "sha256": "35581f0c90da4c10f1a0ce9c0a505a73a6062342d25a5082e6137c327f91a87a"
+    },
+    {
+      "fileId": "6a89f52bac85246d2d846f96",
+      "name": "IMG_4721.jpg",
+      "size": 291442,
+      "sha256": "8dd1deb4397f57cd9f8b42e9ab928468df6a48b98d1a37cd19667a08192a37d9"
+    },
+    {
+      "fileId": "6a89f52befd603213f12f36c",
+      "name": "IMG_4722.jpg",
+      "size": 321223,
+      "sha256": "5bd1d7210ccb7c24c374d1b080e4b3bbcef8128a9d26164d4ecdd62fe33dd5a3"
+    },
+    {
+      "fileId": "6a89f52c57a2662b5528a188",
+      "name": "IMG_4723.jpg",
+      "size": 376622,
+      "sha256": "3f637b8e433378c1068e17f399a210dfed4aaba5383643a1af3498193a352765"
+    },
+    {
+      "fileId": "6a89f52b57a2662b5528a184",
+      "name": "IMG_4724.jpg",
+      "size": 277075,
+      "sha256": "5493f6232b43adbecc8ed4138a0d870c0cb8f21df80da18e4a6cac3e35ff8349"
+    },
+    {
+      "fileId": "6a89f52cac85246d2d846f9e",
+      "name": "IMG_4725.jpg",
+      "size": 330398,
+      "sha256": "b3be5b243e6c04ef2c3dfbe6b5021626a366ce0a6fd8ff7175e83d0d04700852"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "Легковой автомобиль",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2007",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "WF0MXXGBWM7Y27480",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "Ford",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "Galaxy",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:49:35.558Z",
+  "lastSeenAt": "2026-08-25T11:49:35.558Z",
+  "contentHash": "8548733a1389daee0a2d303cfe827f0e466945e9ebc522138391dd3f2e44d002"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"535 075 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"2 675,38 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"53 507,50 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 11:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 11:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"24 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RAD"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/26000013000000000781_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"АМТС Ford Galaxy, 2007 г.в., VIN WF0MXXGBWM7Y27480 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

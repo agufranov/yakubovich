@@ -1,0 +1,142 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000050620000000088_10",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000050620000000088_10","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000050620000000088_10","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"(повт) Д-к Елдашева В.В. Квартира пл. 34,5 кв.м, КН 23:43:0106012:24931, адрес: г.Краснодар, ул.им.Ивана Беличенко, д.89,кв.683. Обременение: залог, арест, н/ц 3 121 200,00 руб., з-к 31 212,00 руб., ш/а 31 212,00 руб."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Жилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d670f57a2662b552a47eb","alt":"(повт) Д-к Елдашева В.В. Квартира пл. 34,5 кв.м, КН 23:43:0106012:24931, адрес: г.Краснодар, ул.им.Ивана Беличенко, д.89,кв.683. Обременение: залог, арест, н/ц 3 121 200,00 руб., з-к 31 212,00 руб., ш/а 31 212,00 руб."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d670fefd603213f14737b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d670fefd603213f14737b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d670fefd603213f14737b","alt":"","loading":"lazy"}]}],["$","a","6a8d670f63124f3d8ea6bd30",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d670f63124f3d8ea6bd30","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d670f63124f3d8ea6bd30","alt":"","loading":"lazy"}]}],["$","a","6a8d670e57a2662b552a47e7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d670e57a2662b552a47e7","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d670e57a2662b552a47e7","alt":"","loading":"lazy"}]}],["$","a","6a8d670f63124f3d8ea6bd28",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d670f63124f3d8ea6bd28","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d670f63124f3d8ea6bd28","alt":"","loading":"lazy"}]}],["$","a","6a8d670fefd603213f14737c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d670fefd603213f14737c","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d670fefd603213f14737c","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"(повт) Д-к Елдашева В.В. Квартира пл. 34,5 кв.м, КН 23:43:0106012:24931, адрес: г.Краснодар, ул.им.Ивана Беличенко, д.89,кв.683. Обременение: залог, арест, н/ц 3 121 200,00 руб., з-к 31 212,00 руб., ш/а 31 212,00 руб."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["Обременение: залог, арест",""]}]]}],["$","tr","cadastralNumberObjectRealty",{"children":[["$","td",null,{"children":"Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение"}],["$","td",null,{"children":["23:43:0106012:24931",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["34.5"," м^2 общ. пл"]}]]}],["$","tr","typeLivingQuarters",{"children":[["$","td",null,{"children":"Вид жилого помещения"}],["$","td",null,{"children":["Квартира",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["23:43:0106012:24931",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":["$L11","$L12"]}]]}]}]]}],"$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}]
+12:["$","td",null,{"children":["Обременение: залог, арест",""]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Краснодарский"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d670f57a2662b552a47eb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d670f57a2662b552a47eb","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1.jpg"]}],["$","span",null,{"className":"size","children":"386 КБ"}]]}],["$","a","6a8d670fefd603213f14737b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d670fefd603213f14737b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","2.jpg"]}],["$","span",null,{"className":"size","children":"390 КБ"}]]}],["$","a","6a8d670f63124f3d8ea6bd30",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d670f63124f3d8ea6bd30","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","3.jpg"]}],["$","span",null,{"className":"size","children":"705 КБ"}]]}],["$","a","6a8d670e57a2662b552a47e7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d670e57a2662b552a47e7","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","4.jpg"]}],["$","span",null,{"className":"size","children":"439 КБ"}]]}],["$","a","6a8d670f63124f3d8ea6bd28",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d670f63124f3d8ea6bd28","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","5.jpg"]}],["$","span",null,{"className":"size","children":"328 КБ"}]]}],["$","a","6a8d670fefd603213f14737c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d670fefd603213f14737c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","6.jpg"]}],["$","span",null,{"className":"size","children":"47 КБ"}]]}]]}]]}]
+17:T119d,{
+  "id": "gis-torgi:23000050620000000088_10",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000050620000000088_10",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000050620000000088_10",
+  "title": "(повт) Д-к Елдашева В.В. Квартира пл. 34,5 кв.м, КН 23:43:0106012:24931, адрес: г.Краснодар, ул.им.Ивана Беличенко, д.89,кв.683. Обременение: залог, арест, н/ц 3 121 200,00 руб., з-к 31 212,00 руб., ш/а 31 212,00 руб.",
+  "description": "(повт) Д-к Елдашева В.В. Квартира пл. 34,5 кв.м, КН 23:43:0106012:24931, адрес: г.Краснодар, ул.им.Ивана Беличенко, д.89,кв.683. Обременение: залог, арест, н/ц 3 121 200,00 руб., з-к 31 212,00 руб., ш/а 31 212,00 руб.",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "9",
+  "categoryName": "Жилые помещения",
+  "regionCode": "23",
+  "address": "край Краснодарский",
+  "priceStart": "3121200.00",
+  "priceStep": "31212",
+  "deposit": "31212",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T10:32:51.539Z",
+  "biddStartAt": "2026-08-26T07:00:00Z",
+  "biddEndAt": "2026-09-07T13:00:00Z",
+  "auctionAt": "2026-09-11T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_MMVB",
+  "images": [
+    "6a8d670f57a2662b552a47eb",
+    "6a8d670fefd603213f14737b",
+    "6a8d670f63124f3d8ea6bd30",
+    "6a8d670e57a2662b552a47e7",
+    "6a8d670f63124f3d8ea6bd28",
+    "6a8d670fefd603213f14737c"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d670f57a2662b552a47eb",
+      "name": "1.jpg",
+      "size": 395753,
+      "sha256": "1d33279835bc7ead0a8eb7d7a70266a7d2fe5cb59f183fa48885c9587e266a52"
+    },
+    {
+      "fileId": "6a8d670fefd603213f14737b",
+      "name": "2.jpg",
+      "size": 399161,
+      "sha256": "a774b0ec073d636439d0c68b9072f4771644a8108939587eb9b295728c556959"
+    },
+    {
+      "fileId": "6a8d670f63124f3d8ea6bd30",
+      "name": "3.jpg",
+      "size": 721781,
+      "sha256": "3a3584b7b0a01049d4d37e120007b6eb8d22363c3c571515cea1944e9b1d4e43"
+    },
+    {
+      "fileId": "6a8d670e57a2662b552a47e7",
+      "name": "4.jpg",
+      "size": 449230,
+      "sha256": "0b381cd0636d209e73cfe04c7a91ce215b0b8ec17e418ac5ff5c96644de57bae"
+    },
+    {
+      "fileId": "6a8d670f63124f3d8ea6bd28",
+      "name": "5.jpg",
+      "size": 335889,
+      "sha256": "467227edf29cd55463684e0ee200ddbdd44e83413d06b5a653bec3cbc93c71a8"
+    },
+    {
+      "fileId": "6a8d670fefd603213f14737c",
+      "name": "6.jpg",
+      "size": 48500,
+      "sha256": "a1a31251e78541cb831b35ca7b3bb4660be19156233a3275e4d17a51905418bf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "Обременение: залог, арест",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberObjectRealty",
+      "name": "Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение",
+      "value": "23:43:0106012:24931",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "34.5",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "typeLivingQuarters",
+      "name": "Вид жилого помещения",
+      "value": "Квартира",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "23:43:0106012:24931",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "Обременение: залог, арест",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:24:39.161Z",
+  "lastSeenAt": "2026-08-25T11:24:39.161Z",
+  "contentHash": "f3a495f9241791fbb3bcd2f66f234cd2f6ec51e139be8ce7bdf1375e9796dcbc"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$17"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"3 121 200 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"31 212 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"31 212 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"7 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"11 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"11 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"MMVB"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000050620000000088_10","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"(повт) Д-к Елдашева В.В. Квартира пл. 34,5 кв.м, КН 23:43:0106012:24931, адрес: г.Краснода — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

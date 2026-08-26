@@ -1,0 +1,145 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000018600000002117_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000018600000002117_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000018600000002117_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=43","children":"Кировская обл."}]]]}],["$","h1",null,{"children":"Движимое военное имущество (кроме вооружения и боеприпасов): а) запасные части к автомобильной технике. Перечень имущества, подлежащего реализации указан в Приложении №1."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Торги"}],["$","span",null,{"children":"Запчасти"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d693857a2662b552a4a49","alt":"Движимое военное имущество (кроме вооружения и боеприпасов): а) запасные части к автомобильной технике. Перечень имущества, подлежащего реализации указан в Приложении №1."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d6938e096f456f84c8778",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6938e096f456f84c8778","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6938e096f456f84c8778","alt":"","loading":"lazy"}]}],["$","a","6a8d6938e096f456f84c8770",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6938e096f456f84c8770","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6938e096f456f84c8770","alt":"","loading":"lazy"}]}],["$","a","6a8d6938e096f456f84c8779",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6938e096f456f84c8779","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6938e096f456f84c8779","alt":"","loading":"lazy"}]}],["$","a","6a8d693863124f3d8ea6bf6d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d693863124f3d8ea6bf6d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d693863124f3d8ea6bf6d","alt":"","loading":"lazy"}]}],["$","a","6a8d6939e096f456f84c877d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6939e096f456f84c877d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6939e096f456f84c877d","alt":"","loading":"lazy"}]}],["$","a","6a8d693957a2662b552a4a4d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d693957a2662b552a4a4d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d693957a2662b552a4a4d","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Перечень имущества указан в прикрепленном файле \"Приложение 1\""}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","manufacturerSparePart",{"children":[["$","td",null,{"children":"Производитель"}],["$","td",null,{"children":["н/д",""]}]]}],["$","tr","typeSparePart",{"children":[["$","td",null,{"children":"Тип запчасти"}],["$","td",null,{"children":["запасные части и принадлежности к автомобильной техники",""]}]]}],["$","tr","conditionSparePart",{"children":[["$","td",null,{"children":"Состояние"}],["$","td",null,{"children":["Категория 1",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Кировская, г.о. город Киров, г. Киров, ул. Луганская, дом 57"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",8,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d693e63124f3d8ea6bf76",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d693e63124f3d8ea6bf76","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19"]}]]}],false,"$L1a"]}],"$L1b"]}]]}]
+11:["$","span",null,{"children":["📎 ","Приложение 1.xlsx"]}]
+12:["$","span",null,{"className":"size","children":"10 КБ"}]
+13:["$","a","6a8d693857a2662b552a4a49",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d693857a2662b552a4a49","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260522_200747_042.jpg"]}],["$","span",null,{"className":"size","children":"479 КБ"}]]}]
+14:["$","a","6a8d6938e096f456f84c8778",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6938e096f456f84c8778","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260522_200752_705.jpg"]}],["$","span",null,{"className":"size","children":"495 КБ"}]]}]
+15:["$","a","6a8d6938e096f456f84c8770",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6938e096f456f84c8770","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260522_200752_743.jpg"]}],["$","span",null,{"className":"size","children":"434 КБ"}]]}]
+16:["$","a","6a8d6938e096f456f84c8779",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6938e096f456f84c8779","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260522_200752_804.jpg"]}],["$","span",null,{"className":"size","children":"550 КБ"}]]}]
+17:["$","a","6a8d693863124f3d8ea6bf6d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d693863124f3d8ea6bf6d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260522_200752_814.jpg"]}],["$","span",null,{"className":"size","children":"544 КБ"}]]}]
+18:["$","a","6a8d6939e096f456f84c877d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6939e096f456f84c877d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260522_200804_072.jpg"]}],["$","span",null,{"className":"size","children":"408 КБ"}]]}]
+19:["$","a","6a8d693957a2662b552a4a4d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d693957a2662b552a4a4d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260522_200819_925.jpg"]}],["$","span",null,{"className":"size","children":"458 КБ"}]]}]
+1c:T10f2,{
+  "id": "gis-torgi:21000018600000002117_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000018600000002117_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000018600000002117_1",
+  "title": "Движимое военное имущество (кроме вооружения и боеприпасов): а) запасные части к автомобильной технике. Перечень имущества, подлежащего реализации указан в Приложении №1.",
+  "description": "Перечень имущества указан в прикрепленном файле \"Приложение 1\"",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "other",
+  "tradeKindRaw": "Продажа по минимально допустимой цене",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "104",
+  "categoryName": "Запчасти",
+  "regionCode": "43",
+  "address": "обл. Кировская, г.о. город Киров, г. Киров, ул. Луганская, дом 57",
+  "priceStart": "12696.19",
+  "deposit": "2539.24",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T12:39:17.299Z",
+  "biddStartAt": "2026-08-28T07:00:00Z",
+  "biddEndAt": "2026-11-02T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_GPB",
+  "images": [
+    "6a8d693857a2662b552a4a49",
+    "6a8d6938e096f456f84c8778",
+    "6a8d6938e096f456f84c8770",
+    "6a8d6938e096f456f84c8779",
+    "6a8d693863124f3d8ea6bf6d",
+    "6a8d6939e096f456f84c877d",
+    "6a8d693957a2662b552a4a4d"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d693e63124f3d8ea6bf76",
+      "name": "Приложение 1.xlsx",
+      "size": 10405,
+      "sha256": "0ebbac90b727c14be3476e3d24627f6ee4bb4a523aa4b4dbc9178d838e30e991"
+    },
+    {
+      "fileId": "6a8d693857a2662b552a4a49",
+      "name": "IMG_20260522_200747_042.jpg",
+      "size": 490954,
+      "sha256": "5fbcc6216ff2405239d054438afde0824fa8b3cc64fd18ff70e1cafce9714a43"
+    },
+    {
+      "fileId": "6a8d6938e096f456f84c8778",
+      "name": "IMG_20260522_200752_705.jpg",
+      "size": 507381,
+      "sha256": "824e0bb2749bc9a65f31c20a0cfd4bb12c79b12ba9be45bda11aa7a64e49feeb"
+    },
+    {
+      "fileId": "6a8d6938e096f456f84c8770",
+      "name": "IMG_20260522_200752_743.jpg",
+      "size": 444050,
+      "sha256": "04413fa87876a70517241266fd95399552649fcae2b1634cf20c59c6496f5d3c"
+    },
+    {
+      "fileId": "6a8d6938e096f456f84c8779",
+      "name": "IMG_20260522_200752_804.jpg",
+      "size": 563351,
+      "sha256": "6fb6ec6aaa8993a59c9b7b575d8c9ab9159f3d654fa1008b977518a263707b8e"
+    },
+    {
+      "fileId": "6a8d693863124f3d8ea6bf6d",
+      "name": "IMG_20260522_200752_814.jpg",
+      "size": 556678,
+      "sha256": "5bce380c11254393b467a877ecdb5aaa06c943162a00299bf758dc4f79d2c2a6"
+    },
+    {
+      "fileId": "6a8d6939e096f456f84c877d",
+      "name": "IMG_20260522_200804_072.jpg",
+      "size": 418131,
+      "sha256": "722c10db1c5dd312c285a6fa93debf14923f491076c6be31d04261ab3a2b1434"
+    },
+    {
+      "fileId": "6a8d693957a2662b552a4a4d",
+      "name": "IMG_20260522_200819_925.jpg",
+      "size": 469008,
+      "sha256": "0281a7dda0555dc377c780d8a9e5e1ac2cf874765421d45d69cc1077c6348656"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "manufacturerSparePart",
+      "name": "Производитель",
+      "value": "н/д",
+      "source": "structured"
+    },
+    {
+      "key": "typeSparePart",
+      "name": "Тип запчасти",
+      "value": "запасные части и принадлежности к автомобильной техники",
+      "source": "structured"
+    },
+    {
+      "key": "conditionSparePart",
+      "name": "Состояние",
+      "value": "Категория 1",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:11:35.125Z",
+  "lastSeenAt": "2026-08-25T13:11:35.125Z",
+  "contentHash": "1444cb926912587d9f5b21b5705377ebbe8b39df7e990891bdaabc49793de4ad"
+}1a:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1c"}]]}]
+1b:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"12 696,19 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"2 539,24 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"28 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"2 нояб. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"67 дней"}]],"$undefined"]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Кировская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"GPB"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000018600000002117_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Движимое военное имущество (кроме вооружения и боеприпасов): а) запасные части к автомобил — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

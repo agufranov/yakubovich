@@ -1,0 +1,148 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--24000032040000000242_17",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--24000032040000000242_17","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--24000032040000000242_17","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=43","children":"Кировская обл."}]]]}],["$","h1",null,{"children":"Легковой автомобиль Peugeot 206, 2008 г.в., г/н С058СМ43, VIN VF32BKFWA72788149"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c7c6057a2662b5529e121","alt":"Легковой автомобиль Peugeot 206, 2008 г.в., г/н С058СМ43, VIN VF32BKFWA72788149"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c7c60e096f456f84c22fd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c7c60e096f456f84c22fd","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c7c60e096f456f84c22fd","alt":"","loading":"lazy"}]}],["$","a","6a8c7c60e096f456f84c2301",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c7c60e096f456f84c2301","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c7c60e096f456f84c2301","alt":"","loading":"lazy"}]}],["$","a","6a8c7c6063124f3d8ea65092",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c7c6063124f3d8ea65092","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c7c6063124f3d8ea65092","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"(вторичные торги).  Легковой автомобиль Peugeot 206, 2008 г.в., г/н С058СМ43, VIN VF32BKFWA72788149. Местонахождение: Кировская область, Советский район, г. Советск, ул. Изергина, д. 13. Имеются сколы лакокрасочного покрытия слева на заднем крыле, скол бампера спереди с пассажирской стороны. Вид права – собственность. Обременение – аресты, залог в пользу АО «ТБанк». Обращение взыскания в пользу третьего лица, не являющегося залогодержателем. Остаток задолженности по обязательству, обеспеченному залогом, по состоянию на 27.01.2026 составляет 96 666,98 руб. Собственник – Муржинова С.А. (уведомление № 1519 от 05.06.2026). Судебный пристав-исполнитель ОСП по Советскому, Лебяжскому и Верхошижемскому районам Шумилова Е.С. (тел. +7 (8332) 48-97-97)."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["Легковой",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2008",""]}]]}],["$","tr","regNumber",{"children":[["$","td",null,{"children":"Государственный регистрационный знак"}],["$","td",null,{"children":["С058СМ43",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["VF32BKFWA72788149",""]}]]}],["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Peugeot",""]}]]}],["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["206",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл Кировская Советский район, г. Советск, ул. Изергина, д. 13"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c7c5663124f3d8ea6508e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c7c5663124f3d8ea6508e","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17"]}]]}],false,"$L18"]}],"$L19"]}]]}]
+11:["$","span",null,{"children":["📎 ","1519 Муржинова С.А. снижение.pdf"]}]
+12:["$","span",null,{"className":"size","children":"128 КБ"}]
+13:["$","a","6a8c7c5663124f3d8ea6508b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c7c5663124f3d8ea6508b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1519 Муржинова С.А..pdf"]}],["$","span",null,{"className":"size","children":"92 КБ"}]]}]
+14:["$","a","6a8c7c6057a2662b5529e121",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c7c6057a2662b5529e121","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260416_153407_446.jpg"]}],["$","span",null,{"className":"size","children":"548 КБ"}]]}]
+15:["$","a","6a8c7c60e096f456f84c22fd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c7c60e096f456f84c22fd","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260416_153407_449.jpg"]}],["$","span",null,{"className":"size","children":"610 КБ"}]]}]
+16:["$","a","6a8c7c60e096f456f84c2301",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c7c60e096f456f84c2301","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260416_153407_453.jpg"]}],["$","span",null,{"className":"size","children":"490 КБ"}]]}]
+17:["$","a","6a8c7c6063124f3d8ea65092",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c7c6063124f3d8ea65092","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","СОВЕТСК_Муржинова.jpg"]}],["$","span",null,{"className":"size","children":"510 КБ"}]]}]
+1a:T1408,{
+  "id": "gis-torgi:24000032040000000242_17",
+  "sourceCode": "gis-torgi",
+  "externalId": "24000032040000000242_17",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/24000032040000000242_17",
+  "title": "Легковой автомобиль Peugeot 206, 2008 г.в., г/н С058СМ43, VIN VF32BKFWA72788149",
+  "description": "(вторичные торги).  Легковой автомобиль Peugeot 206, 2008 г.в., г/н С058СМ43, VIN VF32BKFWA72788149. Местонахождение: Кировская область, Советский район, г. Советск, ул. Изергина, д. 13. Имеются сколы лакокрасочного покрытия слева на заднем крыле, скол бампера спереди с пассажирской стороны. Вид права – собственность. Обременение – аресты, залог в пользу АО «ТБанк». Обращение взыскания в пользу третьего лица, не являющегося залогодержателем. Остаток задолженности по обязательству, обеспеченному залогом, по состоянию на 27.01.2026 составляет 96 666,98 руб. Собственник – Муржинова С.А. (уведомление № 1519 от 05.06.2026). Судебный пристав-исполнитель ОСП по Советскому, Лебяжскому и Верхошижемскому районам Шумилова Е.С. (тел. +7 (8332) 48-97-97).",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "43",
+  "address": "обл Кировская Советский район, г. Советск, ул. Изергина, д. 13",
+  "priceStart": "102283.07",
+  "priceStep": "1022.83",
+  "deposit": "15342.46",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T19:10:27.48Z",
+  "biddStartAt": "2026-08-24T19:30:00Z",
+  "biddEndAt": "2026-09-22T07:00:00Z",
+  "auctionAt": "2026-09-25T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_MMVB",
+  "images": [
+    "6a8c7c6057a2662b5529e121",
+    "6a8c7c60e096f456f84c22fd",
+    "6a8c7c60e096f456f84c2301",
+    "6a8c7c6063124f3d8ea65092"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c7c5663124f3d8ea6508e",
+      "name": "1519 Муржинова С.А. снижение.pdf",
+      "size": 131270,
+      "sha256": "0e075cba8cbd506adefa791b8074ba676d03546cc013eaca70e014029cd30726"
+    },
+    {
+      "fileId": "6a8c7c5663124f3d8ea6508b",
+      "name": "1519 Муржинова С.А..pdf",
+      "size": 94046,
+      "sha256": "1588baa8fc688556b03b8a0f42cc37648b318918b3c7731c7b532cbeca17a753"
+    },
+    {
+      "fileId": "6a8c7c6057a2662b5529e121",
+      "name": "IMG_20260416_153407_446.jpg",
+      "size": 560815,
+      "sha256": "04d3e6c3b44c292c1cc835ab594417d248956ceb01aec2e0e94a160ad1670d98"
+    },
+    {
+      "fileId": "6a8c7c60e096f456f84c22fd",
+      "name": "IMG_20260416_153407_449.jpg",
+      "size": 624923,
+      "sha256": "be98349b2610bad25c5bd2bb82f53a0a2606f26592f90ecb239099bdf0e57a42"
+    },
+    {
+      "fileId": "6a8c7c60e096f456f84c2301",
+      "name": "IMG_20260416_153407_453.jpg",
+      "size": 501682,
+      "sha256": "10ee83ed132c1e65145bbd727d3e88faa9670b1949dd496785de34df25b9461b"
+    },
+    {
+      "fileId": "6a8c7c6063124f3d8ea65092",
+      "name": "СОВЕТСК_Муржинова.jpg",
+      "size": 522020,
+      "sha256": "3cf85e70ebc28a1679b7a1451f2f2b2e3a58fc592cc1d780de5161e79ded0688"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "Легковой",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2008",
+      "source": "structured"
+    },
+    {
+      "key": "regNumber",
+      "name": "Государственный регистрационный знак",
+      "value": "С058СМ43",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "VF32BKFWA72788149",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "Peugeot",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "206",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:32:26.437Z",
+  "lastSeenAt": "2026-08-25T11:32:26.437Z",
+  "contentHash": "107646ae7a08f6b06218512474cc8bf35481358e022d5d445d4344953c96c083"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"102 283,07 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"1 022,83 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"15 342,46 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"24 авг. 2026 г., 22:30 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Кировская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"MMVB"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/24000032040000000242_17","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Легковой автомобиль Peugeot 206, 2008 г.в., г/н С058СМ43, VIN VF32BKFWA72788149 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

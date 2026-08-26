@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000013150000000350_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000013150000000350_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000013150000000350_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Ta5a,{
+  "id": "gis-torgi:22000013150000000350_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000013150000000350_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000013150000000350_1",
+  "title": "Нежилое здание гаража площадью 23,6 кв.м с земельным участком площадью 27 кв.м",
+  "description": "Нежилое здание гаража площадью 23,6 кв.м, расположенное по адресу: г. Соликамск, территория гск Ю-1, ряд(ы) 14-й, гараж 40, кадастровый номер 59:10:0406006:1571, с земельным участком площадью 27 кв.м, кадастровый номер 59:10:0406006:1610",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "903",
+  "categoryName": "Земельный участок со зданием",
+  "regionCode": "59",
+  "address": "край Пермский, м.о. Соликамский, г. Соликамск, тер. ГСК Ю-1 ряд(ы) 14-й, гараж 40",
+  "priceStart": "199000.00",
+  "priceStep": "9950",
+  "deposit": "19900",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T11:02:51.6Z",
+  "biddStartAt": "2026-08-27T03:00:00Z",
+  "biddEndAt": "2026-09-23T18:00:00Z",
+  "auctionAt": "2026-09-29T04:00:00Z",
+  "tzOffsetMin": 300,
+  "tzName": "МСК+2",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d74fa57a2662b552a58f2"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d74feefd603213f1482f3",
+      "name": "выписка гараж Ю-1 р.14, м.40.pdf",
+      "size": 250385,
+      "sha256": "51a535c81583da6cc1223914cdcb761cd427b8dc9c2229c557e1c558bc6c4a9f"
+    },
+    {
+      "fileId": "6a8d750157a2662b552a5900",
+      "name": "выписка ЗУ Ю-1, р.1, м.40.pdf",
+      "size": 553169,
+      "sha256": "d83976cab9f1e5430c06b1cffc81cc987016b6bc339e1ddc311a52b89b3fa348"
+    },
+    {
+      "fileId": "6a8d74fa57a2662b552a58f2",
+      "name": "IMG_20250925_151754_HDR.jpg",
+      "size": 7646666,
+      "sha256": "e7ac78e2354489454b72a417def81270f6a23e5d26320803cc9e88d02bfbc0fe"
+    }
+  ],
+  "attributes": [],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:12:43.563Z",
+  "lastSeenAt": "2026-08-25T13:12:43.563Z",
+  "contentHash": "54e92bd5fac27c3aeb439af29da2280208350b74feee6950371c38e30a32f31b"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=59","children":"Пермский край"}]]]}],["$","h1",null,{"children":"Нежилое здание гаража площадью 23,6 кв.м с земельным участком площадью 27 кв.м"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Земельный участок со зданием"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d74fa57a2662b552a58f2","alt":"Нежилое здание гаража площадью 23,6 кв.м с земельным участком площадью 27 кв.м"}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое здание гаража площадью 23,6 кв.м, расположенное по адресу: г. Соликамск, территория гск Ю-1, ряд(ы) 14-й, гараж 40, кадастровый номер 59:10:0406006:1571, с земельным участком площадью 27 кв.м, кадастровый номер 59:10:0406006:1610"}]]}],false,["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Пермский, м.о. Соликамский, г. Соликамск, тер. ГСК Ю-1 ряд(ы) 14-й, гараж 40"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d74feefd603213f1482f3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d74feefd603213f1482f3","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","выписка гараж Ю-1 р.14, м.40.pdf"]}],["$","span",null,{"className":"size","children":"245 КБ"}]]}],["$","a","6a8d750157a2662b552a5900",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d750157a2662b552a5900","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","выписка ЗУ Ю-1, р.1, м.40.pdf"]}],["$","span",null,{"className":"size","children":"540 КБ"}]]}],["$","a","6a8d74fa57a2662b552a58f2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d74fa57a2662b552a58f2","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20250925_151754_HDR.jpg"]}],["$","span",null,{"className":"size","children":"7.3 МБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"199 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"9 950 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"19 900 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 авг. 2026 г., 08:00 (МСК+2)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"23 сент. 2026 г., 23:00 (МСК+2)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"28 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 09:00 (МСК+2)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Пермский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000013150000000350_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое здание гаража площадью 23,6 кв.м с земельным участком площадью 27 кв.м — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

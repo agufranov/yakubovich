@@ -1,0 +1,124 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000054780000002395_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000054780000002395_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000054780000002395_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"нежилое здание пл.150,6кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Лосиноостровский, улица Стартовая, владение 18А, строение 2, к/н 77:02:0012002:1045"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Здания"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a881a4e57a2662b5527fcf3","alt":"нежилое здание пл.150,6кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Лосиноостровский, улица Стартовая, владение 18А, строение 2, к/н 77:02:0012002:1045"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a881a5aac85246d2d83e2b4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a881a5aac85246d2d83e2b4","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a881a5aac85246d2d83e2b4","alt":"","loading":"lazy"}]}],["$","a","6a881a5a57a2662b5527fd1d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a881a5a57a2662b5527fd1d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a881a5a57a2662b5527fd1d","alt":"","loading":"lazy"}]}],["$","a","6a881a5b63124f3d8ea4bb01",{"href":"https://torgi.gov.ru/new/file-store/v1/6a881a5b63124f3d8ea4bb01","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a881a5b63124f3d8ea4bb01","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"нежилое здание пл.150,6кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Лосиноостровский, улица Стартовая, владение 18А, строение 2, к/н 77:02:0012002:1045 (объект расположен в границах земельных участков: к/н 77:02:0012002:60, земельно-правовыми отношениями не обременен, к/н 77:02:0012002:95 (в аренде у третьих лиц до 2055г.) и улично-дорожной сети к/н 77:02:0012002:71), должник (собственник) ООО Фирма «Плакучая ива». Фотографии имущества судебным приставом-исполнителем не предоставлены"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["150.6"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["77:02:0012002:1045",""]}]]}],["$","tr","numberFloors",{"children":[["$","td",null,{"children":"Количество этажей"}],["$","td",null,{"children":["-",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Лосиноостровский, ул. Стартовая, дом 18А стр. 2"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a881a6befd603213f126c4e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a881a6befd603213f126c4e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Л2 26 18 581-ГМУ(СОСП№2).pdf"]}],["$","span",null,{"className":"size","children":"509 КБ"}]]}],["$","a","6a881a88efd603213f126ca3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a881a88efd603213f126ca3","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16"]}]]}],false,"$L17"]}],"$L18"]}]]}]
+11:["$","span",null,{"children":["📎 ","581-ПЛАКУЧАЯ ИВА тг.pdf"]}]
+12:["$","span",null,{"className":"size","children":"16.0 МБ"}]
+13:["$","a","6a881a4e57a2662b5527fcf3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a881a4e57a2662b5527fcf3","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","логотип.jpg"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}]
+14:["$","a","6a881a5aac85246d2d83e2b4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a881a5aac85246d2d83e2b4","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Старт1.jpeg"]}],["$","span",null,{"className":"size","children":"167 КБ"}]]}]
+15:["$","a","6a881a5a57a2662b5527fd1d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a881a5a57a2662b5527fd1d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Старт2.jpeg"]}],["$","span",null,{"className":"size","children":"24 КБ"}]]}]
+16:["$","a","6a881a5b63124f3d8ea4bb01",{"href":"https://torgi.gov.ru/new/file-store/v1/6a881a5b63124f3d8ea4bb01","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Старт3.jpeg"]}],["$","span",null,{"className":"size","children":"180 КБ"}]]}]
+19:T1122,{
+  "id": "gis-torgi:23000054780000002395_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000054780000002395_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000054780000002395_1",
+  "title": "нежилое здание пл.150,6кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Лосиноостровский, улица Стартовая, владение 18А, строение 2, к/н 77:02:0012002:1045",
+  "description": "нежилое здание пл.150,6кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Лосиноостровский, улица Стартовая, владение 18А, строение 2, к/н 77:02:0012002:1045 (объект расположен в границах земельных участков: к/н 77:02:0012002:60, земельно-правовыми отношениями не обременен, к/н 77:02:0012002:95 (в аренде у третьих лиц до 2055г.) и улично-дорожной сети к/н 77:02:0012002:71), должник (собственник) ООО Фирма «Плакучая ива». Фотографии имущества судебным приставом-исполнителем не предоставлены",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "8",
+  "categoryName": "Здания",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Лосиноостровский, ул. Стартовая, дом 18А стр. 2",
+  "priceStart": "49148000.00",
+  "priceStep": "250000",
+  "deposit": "7500000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T14:13:50.585Z",
+  "biddStartAt": "2026-08-25T12:00:00Z",
+  "biddEndAt": "2026-09-25T13:00:00Z",
+  "auctionAt": "2026-09-30T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RAD",
+  "images": [
+    "6a881a4e57a2662b5527fcf3",
+    "6a881a5aac85246d2d83e2b4",
+    "6a881a5a57a2662b5527fd1d",
+    "6a881a5b63124f3d8ea4bb01"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a881a6befd603213f126c4e",
+      "name": "Л2 26 18 581-ГМУ(СОСП№2).pdf",
+      "size": 521412,
+      "sha256": "6ca50ef4a68529c3f480ed1a15d2cebcb57f0dd9429d5073f073afb3b1e89672"
+    },
+    {
+      "fileId": "6a881a88efd603213f126ca3",
+      "name": "581-ПЛАКУЧАЯ ИВА тг.pdf",
+      "size": 16823138,
+      "sha256": "c3f4c71c59ba158f47c34964cc4db4f94be1ddaa9d4090bb818d04ad64887b82"
+    },
+    {
+      "fileId": "6a881a4e57a2662b5527fcf3",
+      "name": "логотип.jpg",
+      "size": 2433104,
+      "sha256": "cb3680a136b3a2c1dc768159200b5a5ce5f7ccb865480cdd31ddb91f687b81b8"
+    },
+    {
+      "fileId": "6a881a5aac85246d2d83e2b4",
+      "name": "Старт1.jpeg",
+      "size": 171143,
+      "sha256": "c4018e5811400ea1e392967242687162fbd651017c569b01dfd63a3378a73558"
+    },
+    {
+      "fileId": "6a881a5a57a2662b5527fd1d",
+      "name": "Старт2.jpeg",
+      "size": 24479,
+      "sha256": "f02327c0ea5da01e643de2ed8f4062b1bfe41a73163202f533bcb2191895cb42"
+    },
+    {
+      "fileId": "6a881a5b63124f3d8ea4bb01",
+      "name": "Старт3.jpeg",
+      "size": 183840,
+      "sha256": "05e8683485e06a83a5d856d63bd0fe2e2dd37a8a47845fb135a2adc5c20505ca"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "150.6",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "77:02:0012002:1045",
+      "source": "structured"
+    },
+    {
+      "key": "numberFloors",
+      "name": "Количество этажей",
+      "value": "-",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:39:30.701Z",
+  "lastSeenAt": "2026-08-25T11:39:30.701Z",
+  "contentHash": "84527feb09b8b3c49a25f2a59f067e30af14193cbeb72c94118de653c965b243"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"49 148 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"250 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"7 500 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 15:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"25 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"29 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"30 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RAD"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000054780000002395_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"нежилое здание пл.150,6кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниц — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

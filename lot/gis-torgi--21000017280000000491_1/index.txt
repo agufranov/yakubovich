@@ -1,0 +1,146 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000017280000000491_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000017280000000491_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000017280000000491_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Объекты недвижимости с кадастровыми номерами: 23:16:0701001:1383, РНФИ П11240059984; 23:16:0701001:519, РНФИ П12240012632 по адресу: Краснодарский край, р-н. Курганинский, п. Светлая Заря, ул. Центральная, д. 63"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Здания"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c693b57a2662b5529d8d8","alt":"Объекты недвижимости с кадастровыми номерами: 23:16:0701001:1383, РНФИ П11240059984; 23:16:0701001:519, РНФИ П12240012632 по адресу: Краснодарский край, р-н. Курганинский, п. Светлая Заря, ул. Центральная, д. 63"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c694257a2662b5529d8e6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c694257a2662b5529d8e6","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c694257a2662b5529d8e6","alt":"","loading":"lazy"}]}],["$","a","6a8c694263124f3d8ea64b6f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c694263124f3d8ea64b6f","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c694263124f3d8ea64b6f","alt":"","loading":"lazy"}]}],["$","a","6a8c694357a2662b5529d8f8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c694357a2662b5529d8f8","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c694357a2662b5529d8f8","alt":"","loading":"lazy"}]}],["$","a","6a8c694363124f3d8ea64b7f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c694363124f3d8ea64b7f","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c694363124f3d8ea64b7f","alt":"","loading":"lazy"}]}],["$","a","6a8c6942efd603213f14058b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c6942efd603213f14058b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c6942efd603213f14058b","alt":"","loading":"lazy"}]}],["$","a","6a8c6942efd603213f140598",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c6942efd603213f140598","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c6942efd603213f140598","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Объекты недвижимости с кадастровыми номерами: 23:16:0701001:1383, РНФИ П11240059984; 23:16:0701001:519, РНФИ П12240012632 по адресу: Краснодарский край, р-н. Курганинский, п. Светлая Заря, ул. Центральная, д. 63"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","numberUndergroundFloors",{"children":[["$","td",null,{"children":"Количество подземных этажей"}],["$","td",null,{"children":["0",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["332.4"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["23:16:0701001:519 | 23:16:0701001:1383",""]}]]}],["$","tr","numberFloors",{"children":[["$","td",null,{"children":"Количество этажей"}],["$","td",null,{"children":["1",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Краснодарский, м.р-н Курганинский, с.п. Безводное, х. Светлая Заря"}]]}],"$L11",false,"$L12"]}],"$L13"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",9,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c694857a2662b5529d8fc",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c694857a2662b5529d8fc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка ЕГРН. 23160701001519 (1).pdf"]}],["$","span",null,{"className":"size","children":"427 КБ"}]]}],["$","a","6a8c6948efd603213f14059d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c6948efd603213f14059d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка ЕГРН. 231607010011383 (1).pdf"]}],["$","span",null,{"className":"size","children":"735 КБ"}]]}],["$","a","6a8c693b57a2662b5529d8d8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c693b57a2662b5529d8d8","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_2420.jpg"]}],["$","span",null,{"className":"size","children":"4.9 МБ"}]]}],["$","a","6a8c694257a2662b5529d8e6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c694257a2662b5529d8e6","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_2424.jpg"]}],["$","span",null,{"className":"size","children":"2.2 МБ"}]]}],["$","a","6a8c694263124f3d8ea64b6f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c694263124f3d8ea64b6f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_2426.jpg"]}],["$","span",null,{"className":"size","children":"3.0 МБ"}]]}],["$","a","6a8c694357a2662b5529d8f8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c694357a2662b5529d8f8","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_2425.jpg"]}],["$","span",null,{"className":"size","children":"3.7 МБ"}]]}],["$","a","6a8c694363124f3d8ea64b7f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c694363124f3d8ea64b7f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_2423.jpg"]}],["$","span",null,{"className":"size","children":"3.3 МБ"}]]}],["$","a","6a8c6942efd603213f14058b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c6942efd603213f14058b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_2421.jpg"]}],["$","span",null,{"className":"size","children":"3.4 МБ"}]]}],["$","a","6a8c6942efd603213f140598",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c6942efd603213f140598","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_2422.jpg"]}],["$","span",null,{"className":"size","children":"2.6 МБ"}]]}]]}]]}]
+14:T12ab,{
+  "id": "gis-torgi:21000017280000000491_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000017280000000491_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000017280000000491_1",
+  "title": "Объекты недвижимости с кадастровыми номерами: 23:16:0701001:1383, РНФИ П11240059984; 23:16:0701001:519, РНФИ П12240012632 по адресу: Краснодарский край, р-н. Курганинский, п. Светлая Заря, ул. Центральная, д. 63",
+  "description": "Объекты недвижимости с кадастровыми номерами: 23:16:0701001:1383, РНФИ П11240059984; 23:16:0701001:519, РНФИ П12240012632 по адресу: Краснодарский край, р-н. Курганинский, п. Светлая Заря, ул. Центральная, д. 63",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "8",
+  "categoryName": "Здания",
+  "regionCode": "23",
+  "address": "край Краснодарский, м.р-н Курганинский, с.п. Безводное, х. Светлая Заря",
+  "priceStart": "2874316.67",
+  "priceStep": "143715.83",
+  "deposit": "287431.7",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T15:56:35.779Z",
+  "biddStartAt": "2026-08-24T17:00:00Z",
+  "biddEndAt": "2026-09-21T17:00:00Z",
+  "auctionAt": "2026-10-01T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_EETP",
+  "images": [
+    "6a8c693b57a2662b5529d8d8",
+    "6a8c694257a2662b5529d8e6",
+    "6a8c694263124f3d8ea64b6f",
+    "6a8c694357a2662b5529d8f8",
+    "6a8c694363124f3d8ea64b7f",
+    "6a8c6942efd603213f14058b",
+    "6a8c6942efd603213f140598"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c694857a2662b5529d8fc",
+      "name": "Выписка ЕГРН. 23160701001519 (1).pdf",
+      "size": 436820,
+      "sha256": "62a6f7b0fb3f88b6c5fcefa5ef7ff91565aaac3f6475a5e8646f5fd64c7e1f29"
+    },
+    {
+      "fileId": "6a8c6948efd603213f14059d",
+      "name": "Выписка ЕГРН. 231607010011383 (1).pdf",
+      "size": 752146,
+      "sha256": "4ecbf919aada927bdefcf4d1e51914443b2e4e6d6748f6ce664e85634a160f67"
+    },
+    {
+      "fileId": "6a8c693b57a2662b5529d8d8",
+      "name": "IMG_2420.jpg",
+      "size": 5158346,
+      "sha256": "61e70b978d239af2f578fa4ad178a463190e59b53c526ca81e81d4dbafc049c9"
+    },
+    {
+      "fileId": "6a8c694257a2662b5529d8e6",
+      "name": "IMG_2424.jpg",
+      "size": 2320468,
+      "sha256": "060bf645868f537e9145423ae8d3d2bfec5d473485d26edc84e7d0cd4ee8655e"
+    },
+    {
+      "fileId": "6a8c694263124f3d8ea64b6f",
+      "name": "IMG_2426.jpg",
+      "size": 3197156,
+      "sha256": "6aeebd99b160c32eab4eefe1b69d828564399ee65acfbb04b4bb33e407f6671a"
+    },
+    {
+      "fileId": "6a8c694357a2662b5529d8f8",
+      "name": "IMG_2425.jpg",
+      "size": 3926924,
+      "sha256": "1ed47c0bcb3de188bba1260f86b365080b6ebbd6ebeaa83220ba7fac9b8331cd"
+    },
+    {
+      "fileId": "6a8c694363124f3d8ea64b7f",
+      "name": "IMG_2423.jpg",
+      "size": 3505828,
+      "sha256": "69f3f8e33d8b05ef89d3324f3490399e5227b1ccdaed80e3a4ded72e3c0ea563"
+    },
+    {
+      "fileId": "6a8c6942efd603213f14058b",
+      "name": "IMG_2421.jpg",
+      "size": 3594942,
+      "sha256": "3fbcd987db5a22316481ff21027c89907f1aa4f85cc4427483f82faae672edf9"
+    },
+    {
+      "fileId": "6a8c6942efd603213f140598",
+      "name": "IMG_2422.jpg",
+      "size": 2690348,
+      "sha256": "df629d021265679ef2b49ad0dbb51a2b7c1e34ec46901f34a26bcec545522cba"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "numberUndergroundFloors",
+      "name": "Количество подземных этажей",
+      "value": "0",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "332.4",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "23:16:0701001:519 | 23:16:0701001:1383",
+      "source": "structured"
+    },
+    {
+      "key": "numberFloors",
+      "name": "Количество этажей",
+      "value": "1",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:28:26.340Z",
+  "lastSeenAt": "2026-08-25T13:28:26.340Z",
+  "contentHash": "e65dbc3cd663af6c68379b745bcfb6f734044a2de41edb14cf673fb4adfe4c2a"
+}12:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$14"}]]}]
+13:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"2 874 316,67 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"143 715,83 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"287 431,70 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"24 авг. 2026 г., 20:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 20:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"1 окт. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"EETP"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000017280000000491_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Объекты недвижимости с кадастровыми номерами: 23:16:0701001:1383, РНФИ П11240059984; 23:16 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

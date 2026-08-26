@@ -1,0 +1,128 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--25000003060000000422_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--25000003060000000422_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--25000003060000000422_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=30","children":"Астраханская обл."}]]]}],["$","h1",null,{"children":"Легковой автомобиль  ГАЗ 3110"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d48aee096f456f84c653e","alt":"Легковой автомобиль  ГАЗ 3110"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d48b2efd603213f144e10",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48b2efd603213f144e10","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d48b2efd603213f144e10","alt":"","loading":"lazy"}]}],["$","a","6a8d48b6efd603213f144e2d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48b6efd603213f144e2d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d48b6efd603213f144e2d","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль  ГАЗ 3110, 2003 года выпуска, идентификационный  номер (VIN) XTH31100041197878"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["легковой автомобиль",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2003",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["XTH31100041197878",""]}]]}],["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["ГАЗ",""]}]]}],["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["3110",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Астраханская, м.о. Красноярский"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d48efe096f456f84c6595",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48efe096f456f84c6595","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","3 характеристика имущества ГАЗ 3110.docx"]}],["$","span",null,{"className":"size","children":"16 КБ"}]]}],["$","a","6a8d48fb63124f3d8ea69388",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48fb63124f3d8ea69388","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет 15354 газ 3110 с пп.pdf"]}],["$","span",null,{"className":"size","children":"2.9 МБ"}]]}],["$","a","6a8d48aee096f456f84c653e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48aee096f456f84c653e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20250908_110336_438.jpg"]}],["$","span",null,{"className":"size","children":"5.8 МБ"}]]}],["$","a","6a8d48b2efd603213f144e10",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48b2efd603213f144e10","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20250908_110354_505.jpg"]}],["$","span",null,{"className":"size","children":"5.3 МБ"}]]}],["$","a","6a8d48b6efd603213f144e2d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48b6efd603213f144e2d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20250908_110342_187.jpg"]}],["$","span",null,{"className":"size","children":"6.6 МБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],"$L11"]}]]}],"$L12"]}]]}]
+13:Tdec,{
+  "id": "gis-torgi:25000003060000000422_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "25000003060000000422_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/25000003060000000422_1",
+  "title": "Легковой автомобиль  ГАЗ 3110",
+  "description": "Легковой автомобиль  ГАЗ 3110, 2003 года выпуска, идентификационный  номер (VIN) XTH31100041197878",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "30",
+  "address": "обл. Астраханская, м.о. Красноярский",
+  "priceStart": "20000.00",
+  "priceStep": "1000",
+  "deposit": "2000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T07:55:34.445Z",
+  "biddStartAt": "2026-08-26T05:00:00Z",
+  "biddEndAt": "2026-09-22T13:00:00Z",
+  "auctionAt": "2026-09-29T06:00:00Z",
+  "tzOffsetMin": 240,
+  "tzName": "МСК+1",
+  "etpCode": "ETP_GPB",
+  "images": [
+    "6a8d48aee096f456f84c653e",
+    "6a8d48b2efd603213f144e10",
+    "6a8d48b6efd603213f144e2d"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d48efe096f456f84c6595",
+      "name": "3 характеристика имущества ГАЗ 3110.docx",
+      "size": 16145,
+      "sha256": "f502681e94e1384a11b2f28e08d82d30b4e6b094c5dff09554a0fbd426899259"
+    },
+    {
+      "fileId": "6a8d48fb63124f3d8ea69388",
+      "name": "Отчет 15354 газ 3110 с пп.pdf",
+      "size": 3075974,
+      "sha256": "55ae80a04945989a719d653f05649c265cafc88632637ff16783e648261a52d5"
+    },
+    {
+      "fileId": "6a8d48aee096f456f84c653e",
+      "name": "IMG_20250908_110336_438.jpg",
+      "size": 6074154,
+      "sha256": "65a134cd6e7ba850371a676950d85ee86ba0648d1b9e54cc1908d99767acfc1e"
+    },
+    {
+      "fileId": "6a8d48b2efd603213f144e10",
+      "name": "IMG_20250908_110354_505.jpg",
+      "size": 5510487,
+      "sha256": "b0fabc00d333e9fd83385b63a558480d8cbec067d12cda71c66f8392a175dec0"
+    },
+    {
+      "fileId": "6a8d48b6efd603213f144e2d",
+      "name": "IMG_20250908_110342_187.jpg",
+      "size": 6930210,
+      "sha256": "7dbd78ae01ba3ca286c11d52a8b674da3216aa136cdea4d43e76a1337260dcdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "легковой автомобиль",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2003",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "XTH31100041197878",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "ГАЗ",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "3110",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:17:58.985Z",
+  "lastSeenAt": "2026-08-25T13:17:58.985Z",
+  "contentHash": "0d1d6ac244230f97dab01925fbd86216690ebc8d500e19f18ff1d81d92129e4f"
+}11:["$","pre",null,{"children":"$13"}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"20 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"1 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"2 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 09:00 (МСК+1)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 17:00 (МСК+1)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 10:00 (МСК+1)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Астраханская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"GPB"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/25000003060000000422_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Легковой автомобиль  ГАЗ 3110 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

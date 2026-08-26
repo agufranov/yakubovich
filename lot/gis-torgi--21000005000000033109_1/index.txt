@@ -1,0 +1,172 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000005000000033109_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000005000000033109_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000005000000033109_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"Продажа транспортного средства Спецтехника ГАЗ 384064 (VIN) Z8X384064E0002202"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Спецтехника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f62efd603213f13f5eb","alt":"Продажа транспортного средства Спецтехника ГАЗ 384064 (VIN) Z8X384064E0002202"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c4f6463124f3d8ea63b13",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f6463124f3d8ea63b13","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f6463124f3d8ea63b13","alt":"","loading":"lazy"}]}],["$","a","6a8c4f66efd603213f13f600",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f66efd603213f13f600","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f66efd603213f13f600","alt":"","loading":"lazy"}]}],["$","a","6a8c4f68efd603213f13f615",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f68efd603213f13f615","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f68efd603213f13f615","alt":"","loading":"lazy"}]}],["$","a","6a8c4f6b63124f3d8ea63b4a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f6b63124f3d8ea63b4a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f6b63124f3d8ea63b4a","alt":"","loading":"lazy"}]}],["$","a","6a8c4f7163124f3d8ea63b65",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f7163124f3d8ea63b65","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f7163124f3d8ea63b65","alt":"","loading":"lazy"}]}],["$","a","6a8c4f7363124f3d8ea63b7b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f7363124f3d8ea63b7b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f7363124f3d8ea63b7b","alt":"","loading":"lazy"}]}],["$","a","6a8c4f75efd603213f13f64b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f75efd603213f13f64b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f75efd603213f13f64b","alt":"","loading":"lazy"}]}],["$","a","6a8c4f75efd603213f13f64e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f75efd603213f13f64e","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f75efd603213f13f64e","alt":"","loading":"lazy"}]}],["$","a","6a8c4f77e096f456f84c1130",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f77e096f456f84c1130","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4f77e096f456f84c1130","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Продажа транспортного средства Спецтехника ГАЗ 384064 (VIN) Z8X384064E0002202"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег"}],["$","td",null,{"children":["541622"," км"]}]]}],["$","tr","specEquipmentMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["ГАЗ",""]}]]}],["$","tr","specEquipmentModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["384064",""]}]]}],["$","tr","vinFactory",{"children":["$L11","$L12"]}],"$L13","$L14"]}]}]]}],"$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","td",null,{"children":"VIN (заводской) номер"}]
+12:["$","td",null,{"children":["Z8X384064E0002202",""]}]
+13:["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2014",""]}]]}]
+14:["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",10,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c4f62efd603213f13f5eb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f62efd603213f13f5eb","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16999788.Транспортное средство.Общий вид транспорта с левого бока (угловой ракурс спереди).jpg"]}],["$","span",null,{"className":"size","children":"4.8 МБ"}]]}],["$","a","6a8c4f6463124f3d8ea63b13",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f6463124f3d8ea63b13","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16999788.Транспортное средство.Общий вид транспорта с левого бока (прямой ракурс).jpg"]}],["$","span",null,{"className":"size","children":"4.8 МБ"}]]}],["$","a","6a8c4f66efd603213f13f600",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f66efd603213f13f600","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16999788.Транспортное средство.Общий вид транспорта с левого бока (угловой ракурс сзади).jpg"]}],["$","span",null,{"className":"size","children":"4.5 МБ"}]]}],["$","a","6a8c4f68efd603213f13f615",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f68efd603213f13f615","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16999788.Транспортное средство.Общий вид транспорта сзади (прямой ракурс).jpg"]}],["$","span",null,{"className":"size","children":"4.6 МБ"}]]}],["$","a","6a8c4f6b63124f3d8ea63b4a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f6b63124f3d8ea63b4a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16999788.Транспортное средство.Общий вид транспорта с правого бока (угловой ракурс сзади).jpg"]}],["$","span",null,{"className":"size","children":"4.7 МБ"}]]}],["$","a","6a8c4f7163124f3d8ea63b65",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f7163124f3d8ea63b65","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16999788.Транспортное средство.Общий вид транспорта с правого бока (прямой ракурс).jpg"]}],["$","span",null,{"className":"size","children":"5.2 МБ"}]]}],["$","a","6a8c4f7363124f3d8ea63b7b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f7363124f3d8ea63b7b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16999788.Транспортное средство.Общий вид транспорта с правого бока (угловой ракурс спереди).jpg"]}],["$","span",null,{"className":"size","children":"4.9 МБ"}]]}],["$","a","6a8c4f75efd603213f13f64b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f75efd603213f13f64b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16999788.Транспортное средство.Общий вид транспорта спереди (прямой ракурс).jpg"]}],["$","span",null,{"className":"size","children":"5.1 МБ"}]]}],["$","a","6a8c4f75efd603213f13f64e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f75efd603213f13f64e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16999788.Транспортное средство.Подкапотное пространство.jpg"]}],["$","span",null,{"className":"size","children":"212 КБ"}]]}],["$","a","6a8c4f77e096f456f84c1130",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4f77e096f456f84c1130","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16999788.Транспортное средство.Вид салона со стороны водителя.jpg"]}],["$","span",null,{"className":"size","children":"2.8 МБ"}]]}]]}]]}]
+19:T1760,{
+  "id": "gis-torgi:21000005000000033109_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000005000000033109_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000005000000033109_1",
+  "title": "Продажа транспортного средства Спецтехника ГАЗ 384064 (VIN) Z8X384064E0002202",
+  "description": "Продажа транспортного средства Спецтехника ГАЗ 384064 (VIN) Z8X384064E0002202",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "vehicle",
+  "categoryCode": "101",
+  "categoryName": "Спецтехника",
+  "regionCode": "77",
+  "address": "г. Москва",
+  "priceStart": "51124.00",
+  "priceStep": "2556.2",
+  "deposit": "25562",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T14:09:24.602Z",
+  "biddStartAt": "2026-08-24T17:00:00Z",
+  "biddEndAt": "2026-09-24T12:00:00Z",
+  "auctionAt": "2026-10-06T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_EETP",
+  "images": [
+    "6a8c4f62efd603213f13f5eb",
+    "6a8c4f6463124f3d8ea63b13",
+    "6a8c4f66efd603213f13f600",
+    "6a8c4f68efd603213f13f615",
+    "6a8c4f6b63124f3d8ea63b4a",
+    "6a8c4f7163124f3d8ea63b65",
+    "6a8c4f7363124f3d8ea63b7b",
+    "6a8c4f75efd603213f13f64b",
+    "6a8c4f75efd603213f13f64e",
+    "6a8c4f77e096f456f84c1130"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c4f62efd603213f13f5eb",
+      "name": "ГП16999788.Транспортное средство.Общий вид транспорта с левого бока (угловой ракурс спереди).jpg",
+      "size": 5046949,
+      "sha256": "1cf712d0aa0f66238f627ede8cf3df9132caa772a5febcbcb46a1471765f69e6"
+    },
+    {
+      "fileId": "6a8c4f6463124f3d8ea63b13",
+      "name": "ГП16999788.Транспортное средство.Общий вид транспорта с левого бока (прямой ракурс).jpg",
+      "size": 5064425,
+      "sha256": "74067265b1ad439c53cb1cfd045feb2c7339e8857ac40d32176ab338b3665392"
+    },
+    {
+      "fileId": "6a8c4f66efd603213f13f600",
+      "name": "ГП16999788.Транспортное средство.Общий вид транспорта с левого бока (угловой ракурс сзади).jpg",
+      "size": 4760731,
+      "sha256": "e2a71ad84ba3ff90e65baec901fda074471d069b34c4f8410fd6d5583bc47e58"
+    },
+    {
+      "fileId": "6a8c4f68efd603213f13f615",
+      "name": "ГП16999788.Транспортное средство.Общий вид транспорта сзади (прямой ракурс).jpg",
+      "size": 4805727,
+      "sha256": "2b5eaf9ffc96d0211ba87f21a4549b06b1d8185a62e41f046d1933bf5e0e96da"
+    },
+    {
+      "fileId": "6a8c4f6b63124f3d8ea63b4a",
+      "name": "ГП16999788.Транспортное средство.Общий вид транспорта с правого бока (угловой ракурс сзади).jpg",
+      "size": 4949455,
+      "sha256": "6c09b8b54362a018b675a76a7bdb220d0f144ec83fd9683c1a19676eaabbcb11"
+    },
+    {
+      "fileId": "6a8c4f7163124f3d8ea63b65",
+      "name": "ГП16999788.Транспортное средство.Общий вид транспорта с правого бока (прямой ракурс).jpg",
+      "size": 5489679,
+      "sha256": "2d0c470dafb6534bd5207f0ecf0911ba033ab89cc0fd4be2b6c4657cd3bf6e0c"
+    },
+    {
+      "fileId": "6a8c4f7363124f3d8ea63b7b",
+      "name": "ГП16999788.Транспортное средство.Общий вид транспорта с правого бока (угловой ракурс спереди).jpg",
+      "size": 5115106,
+      "sha256": "acc7de759f93331880566c7bee06b2207dcd928576825344325d9e9bb7e9577f"
+    },
+    {
+      "fileId": "6a8c4f75efd603213f13f64b",
+      "name": "ГП16999788.Транспортное средство.Общий вид транспорта спереди (прямой ракурс).jpg",
+      "size": 5305649,
+      "sha256": "994bd9a90d6b26ebe0b1ea308ebeac193b19c22e33e9c0a76e672f1fc12ce20b"
+    },
+    {
+      "fileId": "6a8c4f75efd603213f13f64e",
+      "name": "ГП16999788.Транспортное средство.Подкапотное пространство.jpg",
+      "size": 216964,
+      "sha256": "4c0ce53439352167092032360f46614aff98458eddf41a6963454f76f7bf8557"
+    },
+    {
+      "fileId": "6a8c4f77e096f456f84c1130",
+      "name": "ГП16999788.Транспортное средство.Вид салона со стороны водителя.jpg",
+      "size": 2963286,
+      "sha256": "0ff8fb7b30b94d5e02739dc3b24fdffefde0616858ed8be11ae02dd2962f5fe2"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "mileage",
+      "name": "Пробег",
+      "value": "541622",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "specEquipmentMarka",
+      "name": "Марка",
+      "value": "ГАЗ",
+      "source": "structured"
+    },
+    {
+      "key": "specEquipmentModel",
+      "name": "Модель",
+      "value": "384064",
+      "source": "structured"
+    },
+    {
+      "key": "vinFactory",
+      "name": "VIN (заводской) номер",
+      "value": "Z8X384064E0002202",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2014",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:30:07.932Z",
+  "lastSeenAt": "2026-08-25T13:30:07.932Z",
+  "contentHash": "ba63dee54516ca831977926d69074afcf2dbacba06a44b7e9007c87808b88689"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"51 124 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"2 556,20 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"25 562 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"24 авг. 2026 г., 20:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"24 сент. 2026 г., 15:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"28 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"6 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"EETP"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000005000000033109_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Продажа транспортного средства Спецтехника ГАЗ 384064 (VIN) Z8X384064E0002202 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

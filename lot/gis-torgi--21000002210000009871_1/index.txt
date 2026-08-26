@@ -1,0 +1,174 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000002210000009871_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000002210000009871_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000002210000009871_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=76","children":"Ярославская обл."}]]]}],["$","h1",null,{"children":"Имущество, находящееся в муниципальной собственности Переславль-Залесского муниципального округа Ярославской области, расположенное по адресу: Ярославская область, муниципальный округ Переславль-Залесский, село Бектышево, улица Центральная, дом 20, с земельным участком"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Имущественные комплексы"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d5c6f57a2662b552a3642","alt":"Имущество, находящееся в муниципальной собственности Переславль-Залесского муниципального округа Ярославской области, расположенное по адресу: Ярославская область, муниципальный округ Переславль-Залесский, село Бектышево, улица Центральная, дом 20, с земельным участком"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d5c70e096f456f84c7a1c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c70e096f456f84c7a1c","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d5c70e096f456f84c7a1c","alt":"","loading":"lazy"}]}],["$","a","6a8d5c7257a2662b552a365a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c7257a2662b552a365a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d5c7257a2662b552a365a","alt":"","loading":"lazy"}]}],["$","a","6a8d5c6f57a2662b552a3638",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c6f57a2662b552a3638","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d5c6f57a2662b552a3638","alt":"","loading":"lazy"}]}],["$","a","6a8d5c8157a2662b552a3667",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c8157a2662b552a3667","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d5c8157a2662b552a3667","alt":"","loading":"lazy"}]}],["$","a","6a8d5c6e57a2662b552a3631",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c6e57a2662b552a3631","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d5c6e57a2662b552a3631","alt":"","loading":"lazy"}]}],["$","a","6a8d5c81e096f456f84c7a4c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c81e096f456f84c7a4c","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d5c81e096f456f84c7a4c","alt":"","loading":"lazy"}]}],["$","a","6a8d5c70e096f456f84c7a1b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c70e096f456f84c7a1b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d5c70e096f456f84c7a1b","alt":"","loading":"lazy"}]}],["$","a","6a8d5c71e096f456f84c7a23",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c71e096f456f84c7a23","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d5c71e096f456f84c7a23","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Имущество, находящееся в муниципальной собственности Переславль-Залесского муниципального округа Ярославской области, расположенное по адресу: Ярославская область, муниципальный округ Переславль-Залесский, село Бектышево, улица Центральная, дом 20, с земельным участком, в составе: Нежилое здание, 1-этажное, площадь 430,0 кв. м, местоположение: Ярославская область, муниципальный округ Переславль-Залесский, село Бектышево, улица Центральная, дом 20, кадастровый номер: 76:11:161001:472; Земельный участок, площадь 3546 кв. м, категория земель: земли населенных пунктов, разрешенное использование «культурное развитие», адрес: Ярославская область,   м.о. Переславль-Залесский,   с. Бектышево, ул. Центральная, д. 20, кадастровый номер: 76:11:161001:474"}]]}],"$L11","$L12","$L13",false,"$L14"]}],"$L15"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["1877",""]}]]}],["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["Не зарегистрировано. Особые условия использования земельного участка указаны в инф. сообщении.",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["430"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumbersRealty",{"children":[["$","td",null,{"children":"Кадастровые номера"}],["$","td",null,{"children":["76:11:161001:472 | 76:11:161001:474",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["Обременения, ограничения имущества: не зарегистрировано. Особые условия использования земельного участка указаны в информационном сообщении.",""]}]]}]]}]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Ярославская, м.о. Переславль-Залесский, с. Бектышево, ул. Центральная, дом 20"}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",12,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d5c8663124f3d8ea6ae6f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c8663124f3d8ea6ae6f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","выписка ЕГРН здание.pdf"]}],["$","span",null,{"className":"size","children":"324 КБ"}]]}],["$","a","6a8d5c8663124f3d8ea6ae74",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c8663124f3d8ea6ae74","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","выписка ЕГРН земельный участок.pdf"]}],["$","span",null,{"className":"size","children":"551 КБ"}]]}],["$","a","6a8d5cba57a2662b552a36c7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5cba57a2662b552a36c7","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","24.08.2026_ПОС.03-3000_26.pdf"]}],["$","span",null,{"className":"size","children":"436 КБ"}]]}],["$","a","6a8d5c6f57a2662b552a3642",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c6f57a2662b552a3642","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1.jpg"]}],["$","span",null,{"className":"size","children":"1.9 МБ"}]]}],["$","a","6a8d5c70e096f456f84c7a1c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c70e096f456f84c7a1c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","2.jpg"]}],["$","span",null,{"className":"size","children":"2.4 МБ"}]]}],["$","a","6a8d5c7257a2662b552a365a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c7257a2662b552a365a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","3.jpg"]}],["$","span",null,{"className":"size","children":"5.2 МБ"}]]}],["$","a","6a8d5c6f57a2662b552a3638",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c6f57a2662b552a3638","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","4.png"]}],["$","span",null,{"className":"size","children":"1020 КБ"}]]}],["$","a","6a8d5c8157a2662b552a3667",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c8157a2662b552a3667","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","5.png"]}],["$","span",null,{"className":"size","children":"980 КБ"}]]}],["$","a","6a8d5c6e57a2662b552a3631",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c6e57a2662b552a3631","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","6.png"]}],["$","span",null,{"className":"size","children":"383 КБ"}]]}],["$","a","6a8d5c81e096f456f84c7a4c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c81e096f456f84c7a4c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","7.png"]}],["$","span",null,{"className":"size","children":"562 КБ"}]]}],["$","a","6a8d5c70e096f456f84c7a1b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c70e096f456f84c7a1b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","8.png"]}],["$","span",null,{"className":"size","children":"573 КБ"}]]}],["$","a","6a8d5c71e096f456f84c7a23",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d5c71e096f456f84c7a23","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","9. ПКК.png"]}],["$","span",null,{"className":"size","children":"1.2 МБ"}]]}]]}]]}]
+16:T1c67,{
+  "id": "gis-torgi:21000002210000009871_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000002210000009871_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000002210000009871_1",
+  "title": "Имущество, находящееся в муниципальной собственности Переславль-Залесского муниципального округа Ярославской области, расположенное по адресу: Ярославская область, муниципальный округ Переславль-Залесский, село Бектышево, улица Центральная, дом 20, с земельным участком",
+  "description": "Имущество, находящееся в муниципальной собственности Переславль-Залесского муниципального округа Ярославской области, расположенное по адресу: Ярославская область, муниципальный округ Переславль-Залесский, село Бектышево, улица Центральная, дом 20, с земельным участком, в составе: Нежилое здание, 1-этажное, площадь 430,0 кв. м, местоположение: Ярославская область, муниципальный округ Переславль-Залесский, село Бектышево, улица Центральная, дом 20, кадастровый номер: 76:11:161001:472; Земельный участок, площадь 3546 кв. м, категория земель: земли населенных пунктов, разрешенное использование «культурное развитие», адрес: Ярославская область,   м.о. Переславль-Залесский,   с. Бектышево, ул. Центральная, д. 20, кадастровый номер: 76:11:161001:474",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Публичное предложение",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "land",
+  "categoryCode": "202",
+  "categoryName": "Имущественные комплексы",
+  "regionCode": "76",
+  "address": "обл. Ярославская, м.о. Переславль-Залесский, с. Бектышево, ул. Центральная, дом 20",
+  "priceStart": "2759740.00",
+  "priceStep": "137987",
+  "deposit": "275974",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T09:40:52.683Z",
+  "biddStartAt": "2026-08-25T14:00:00Z",
+  "biddEndAt": "2026-09-30T14:00:00Z",
+  "auctionAt": "2026-10-05T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RAD",
+  "images": [
+    "6a8d5c6f57a2662b552a3642",
+    "6a8d5c70e096f456f84c7a1c",
+    "6a8d5c7257a2662b552a365a",
+    "6a8d5c6f57a2662b552a3638",
+    "6a8d5c8157a2662b552a3667",
+    "6a8d5c6e57a2662b552a3631",
+    "6a8d5c81e096f456f84c7a4c",
+    "6a8d5c70e096f456f84c7a1b",
+    "6a8d5c71e096f456f84c7a23"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d5c8663124f3d8ea6ae6f",
+      "name": "выписка ЕГРН здание.pdf",
+      "size": 332053,
+      "sha256": "d9de87e1f3d1785e2ab799bbe172268165a242deaa86ecb86ed5269371d817e5"
+    },
+    {
+      "fileId": "6a8d5c8663124f3d8ea6ae74",
+      "name": "выписка ЕГРН земельный участок.pdf",
+      "size": 564526,
+      "sha256": "edd1953c2d95b62e128dab0affb13c298cca8ed461c03c96150245d71a1ed9f3"
+    },
+    {
+      "fileId": "6a8d5cba57a2662b552a36c7",
+      "name": "24.08.2026_ПОС.03-3000_26.pdf",
+      "size": 446225,
+      "sha256": "31b1721940683ca2dc5b79b18e2bc688055efa4022f8dcae91dbf30d39316930"
+    },
+    {
+      "fileId": "6a8d5c6f57a2662b552a3642",
+      "name": "1.jpg",
+      "size": 2021187,
+      "sha256": "ebcf3703acc394aa113e2f26454bbd4279bae7f8b5aba51ec29e2cab137d2d22"
+    },
+    {
+      "fileId": "6a8d5c70e096f456f84c7a1c",
+      "name": "2.jpg",
+      "size": 2524981,
+      "sha256": "168d9c0d5f84a240379360515a20389c3d217c89f121956191e3a9e4b94710b0"
+    },
+    {
+      "fileId": "6a8d5c7257a2662b552a365a",
+      "name": "3.jpg",
+      "size": 5493241,
+      "sha256": "ccc9a6389377c8b610a4eba5cd5308ebc3edd9426331033bd177c9f5449b3151"
+    },
+    {
+      "fileId": "6a8d5c6f57a2662b552a3638",
+      "name": "4.png",
+      "size": 1044979,
+      "sha256": "04b82d78226f6b37831e9ed1613bc93ad3f9b50ce957c3bfca77c4d8f681b40b"
+    },
+    {
+      "fileId": "6a8d5c8157a2662b552a3667",
+      "name": "5.png",
+      "size": 1003128,
+      "sha256": "a31afd0ec6f268dbd44633330d259299e8ecb0a54b4a4e355dcacdbd9f613306"
+    },
+    {
+      "fileId": "6a8d5c6e57a2662b552a3631",
+      "name": "6.png",
+      "size": 392203,
+      "sha256": "f7658bbb71fe1c7e89d7a7bf9de8216afa8ad083b6967fc06f15337029220c9d"
+    },
+    {
+      "fileId": "6a8d5c81e096f456f84c7a4c",
+      "name": "7.png",
+      "size": 575794,
+      "sha256": "87a15dd4ea699f13470bf3efc5e65ee7e2e03de4a0fc37f6beca15f45d83b753"
+    },
+    {
+      "fileId": "6a8d5c70e096f456f84c7a1b",
+      "name": "8.png",
+      "size": 586721,
+      "sha256": "cab2901652835c0096007d98a2c9eaaf292532d55f3b142f469f44ff6ae01c8a"
+    },
+    {
+      "fileId": "6a8d5c71e096f456f84c7a23",
+      "name": "9. ПКК.png",
+      "size": 1222281,
+      "sha256": "2f80e7d144390a3d0a26dba25783bf90184d3267c41b8f26d2c29796c856a542"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "1877",
+      "source": "structured"
+    },
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "Не зарегистрировано. Особые условия использования земельного участка указаны в инф. сообщении.",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "430",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumbersRealty",
+      "name": "Кадастровые номера",
+      "value": "76:11:161001:472 | 76:11:161001:474",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "Обременения, ограничения имущества: не зарегистрировано. Особые условия использования земельного участка указаны в информационном сообщении.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:15:56.984Z",
+  "lastSeenAt": "2026-08-25T13:15:56.984Z",
+  "contentHash": "64b69203549fc54350e45f6441ede8c53518decd62a743c3e280fd67a9ef19fb"
+}14:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$16"}]]}]
+15:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"2 759 740 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"137 987 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"275 974 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 17:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"30 сент. 2026 г., 17:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"34 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"5 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Ярославская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RAD"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000002210000009871_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Имущество, находящееся в муниципальной собственности Переславль-Залесского муниципального  — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,153 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--26000001430000000020_3",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--26000001430000000020_3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--26000001430000000020_3","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=24","children":"Красноярский край"}]]]}],["$","h1",null,{"children":"Транспортное средство"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c025f63124f3d8ea5c74a","alt":"Транспортное средство"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c025fefd603213f137d20",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c025fefd603213f137d20","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c025fefd603213f137d20","alt":"","loading":"lazy"}]}],["$","a","6a8c027157a2662b552941b6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c027157a2662b552941b6","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c027157a2662b552941b6","alt":"","loading":"lazy"}]}],["$","a","6a8cef1757a2662b5529ee66",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cef1757a2662b5529ee66","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8cef1757a2662b5529ee66","alt":"","loading":"lazy"}]}],["$","a","6a8cef3563124f3d8ea65cbf",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cef3563124f3d8ea65cbf","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8cef3563124f3d8ea65cbf","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"ГАЗ – 31105, идентификационный номер Х9631105061348179, год изготовления 2006, модель, № двигателя 2. 4L - DOHC*149610706, цвет буран, кузов (кабина, прицеп) № 31105060126245, государственный регистрационный знак В037ТА 24"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["Легковой",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2006",""]}]]}],["$","tr","regNumber",{"children":[["$","td",null,{"children":"Государственный регистрационный знак"}],["$","td",null,{"children":["В037ТА 24",""]}]]}],["$","tr","enginePower",{"children":[["$","td",null,{"children":"Мощность двигателя"}],["$","td",null,{"children":["101 кВт",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["Х9631105061348179",""]}]]}],["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["ГАЗ-31105",""]}]]}],["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["ГАЗ-31105",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Красноярский, м.о. Боготольский, с. Боготол, ул. Целинная, дом 17"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8cf7e8efd603213f141cb5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cf7e8efd603213f141cb5","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет4159-11 от 06.07.2026.pdf"]}],["$","span",null,{"className":"size","children":"3.0 МБ"}]]}],["$","a","6a8c025f63124f3d8ea5c74a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c025f63124f3d8ea5c74a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","2abe32ca-498c-4c41-984c-ba71898febc7.jpg"]}],"$L11"]}],"$L12","$L13","$L14","$L15"]}]]}],false,"$L16"]}],"$L17"]}]]}]
+11:["$","span",null,{"className":"size","children":"760 КБ"}]
+12:["$","a","6a8c025fefd603213f137d20",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c025fefd603213f137d20","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","3be05af0-b6b6-4c89-8c7f-d663ebd49676.jpg"]}],["$","span",null,{"className":"size","children":"551 КБ"}]]}]
+13:["$","a","6a8c027157a2662b552941b6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c027157a2662b552941b6","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","64ce32eb-21ce-47f9-9e4a-91743c9f3267.jpg"]}],["$","span",null,{"className":"size","children":"663 КБ"}]]}]
+14:["$","a","6a8cef1757a2662b5529ee66",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cef1757a2662b5529ee66","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","9da43fd3-1ffc-49a8-8bfd-cdb0f604bd99.jpg"]}],["$","span",null,{"className":"size","children":"347 КБ"}]]}]
+15:["$","a","6a8cef3563124f3d8ea65cbf",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cef3563124f3d8ea65cbf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","7a1c1e53-4ba2-48de-af99-87574ab9b98d.jpg"]}],["$","span",null,{"className":"size","children":"597 КБ"}]]}]
+18:T114f,{
+  "id": "gis-torgi:26000001430000000020_3",
+  "sourceCode": "gis-torgi",
+  "externalId": "26000001430000000020_3",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/26000001430000000020_3",
+  "title": "Транспортное средство",
+  "description": "ГАЗ – 31105, идентификационный номер Х9631105061348179, год изготовления 2006, модель, № двигателя 2. 4L - DOHC*149610706, цвет буран, кузов (кабина, прицеп) № 31105060126245, государственный регистрационный знак В037ТА 24",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "24",
+  "address": "край Красноярский, м.о. Боготольский, с. Боготол, ул. Целинная, дом 17",
+  "priceStart": "74600.00",
+  "priceStep": "3730",
+  "deposit": "7460",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T04:39:03.496Z",
+  "biddStartAt": "2026-08-26T01:00:00Z",
+  "biddEndAt": "2026-09-21T05:00:00Z",
+  "auctionAt": "2026-09-29T07:00:00Z",
+  "tzOffsetMin": 420,
+  "tzName": "МСК+4",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8c025f63124f3d8ea5c74a",
+    "6a8c025fefd603213f137d20",
+    "6a8c027157a2662b552941b6",
+    "6a8cef1757a2662b5529ee66",
+    "6a8cef3563124f3d8ea65cbf"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8cf7e8efd603213f141cb5",
+      "name": "Отчет4159-11 от 06.07.2026.pdf",
+      "size": 3173641,
+      "sha256": "1e2917684d731accd6f7ab24c09d8ae04854c734995aa3bace37143b9717a07a"
+    },
+    {
+      "fileId": "6a8c025f63124f3d8ea5c74a",
+      "name": "2abe32ca-498c-4c41-984c-ba71898febc7.jpg",
+      "size": 777991,
+      "sha256": "f9b677ec103d628de0171aea0091451ed0eed227d2a9acd32f66f31e725dd5c7"
+    },
+    {
+      "fileId": "6a8c025fefd603213f137d20",
+      "name": "3be05af0-b6b6-4c89-8c7f-d663ebd49676.jpg",
+      "size": 563900,
+      "sha256": "4eaaacce959fc189563abbc0d4bbad68ff2d3e5dad3d9f6d1e4c57de6079b42d"
+    },
+    {
+      "fileId": "6a8c027157a2662b552941b6",
+      "name": "64ce32eb-21ce-47f9-9e4a-91743c9f3267.jpg",
+      "size": 678912,
+      "sha256": "986418ec211632942f861f968669b848fa5ffc533f78318d5eeb503eb7a878cd"
+    },
+    {
+      "fileId": "6a8cef1757a2662b5529ee66",
+      "name": "9da43fd3-1ffc-49a8-8bfd-cdb0f604bd99.jpg",
+      "size": 355136,
+      "sha256": "68331d56a80125942752df455251e88417195db070c3a3d9dac26ed921a86c4e"
+    },
+    {
+      "fileId": "6a8cef3563124f3d8ea65cbf",
+      "name": "7a1c1e53-4ba2-48de-af99-87574ab9b98d.jpg",
+      "size": 611704,
+      "sha256": "edf19bccd42ea5d2354b1b94e72c1d3b26db4ec63d67e842a492a277bdb99de0"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "Легковой",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2006",
+      "source": "structured"
+    },
+    {
+      "key": "regNumber",
+      "name": "Государственный регистрационный знак",
+      "value": "В037ТА 24",
+      "source": "structured"
+    },
+    {
+      "key": "enginePower",
+      "name": "Мощность двигателя",
+      "value": "101 кВт",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "Х9631105061348179",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "ГАЗ-31105",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "ГАЗ-31105",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:23:36.297Z",
+  "lastSeenAt": "2026-08-25T13:23:36.297Z",
+  "contentHash": "a6d4e9ac62cac462770fb31941fd12ac170037af26484bd1dc99fe7f081ced85"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"74 600 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"3 730 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"7 460 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 08:00 (МСК+4)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 12:00 (МСК+4)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"25 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 14:00 (МСК+4)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Красноярский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/26000001430000000020_3","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Транспортное средство — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

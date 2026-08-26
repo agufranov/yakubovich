@@ -1,0 +1,158 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000086100000000588_14",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000086100000000588_14","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000086100000000588_14","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=13","children":"Мордовия"}]]]}],["$","h1",null,{"children":"Нежилое здание (котельная) общей площадью 842,2 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Здания"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c62f063124f3d8ea649a7","alt":"Нежилое здание (котельная) общей площадью 842,2 кв.м."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c62f057a2662b5529d691",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c62f057a2662b5529d691","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c62f057a2662b5529d691","alt":"","loading":"lazy"}]}],["$","a","6a8c62f0efd603213f1403c8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c62f0efd603213f1403c8","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c62f0efd603213f1403c8","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое здание (котельная) общей площадью 842,2 кв.м., 3-х этажное, кад. № 13:12:0136001:161, принадлежит должнику ОАО «Ковылкинский завод строительных материалов», ИНН 1323121621. Сведения о правах на земельный участок, расположенный под здпнием, отсутствуют у организатора торгов. Сведениями о фактическом состоянии объекта недвижимости организатор торгов не располагает. Техническая документация на объект недвижимости и его фотографии отсутствуют у организатора торгов"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["1961",""]}]]}],["$","tr","numberUndergroundFloors",{"children":[["$","td",null,{"children":"Количество подземных этажей"}],["$","td",null,{"children":["0",""]}]]}],["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["Запрещение регистрации",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["842.2"," м^2 общ. пл"]}]]}],["$","tr","buildingWallMaterials",{"children":[["$","td",null,{"children":"Материалы наружных стен здания"}],["$","td",null,{"children":["Кирпичные",""]}]]}],["$","tr","regNumberEGROKN",{"children":[["$","td",null,{"children":"Регистрационный номер ЕГРОКН"}],["$","td",null,{"children":["13:12:4:2001:1058.1",""]}]]}],["$","tr","cadastralValue",{"children":[["$","td",null,{"children":"Кадастровая стоимость"}],["$","td",null,{"children":["1183330.91",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["13:12:0136001:161",""]}]]}],["$","tr","purposeBuilding",{"children":[["$","td",null,{"children":"Назначение здания"}],["$","td",null,{"children":["Котельная",""]}]]}],["$","tr","numberFloors",{"children":[["$","td",null,{"children":"Количество этажей"}],["$","td",null,{"children":["3",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["Запрещение регистрации",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"респ. Мордовия Ковылкинский р-н, п. Силикатный"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c62fe63124f3d8ea649aa",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c62fe63124f3d8ea649aa","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15"]}]]}],false,"$L16"]}],"$L17"]}]]}]
+11:["$","span",null,{"children":["📎 ","постановление 14.pdf"]}]
+12:["$","span",null,{"className":"size","children":"146 КБ"}]
+13:["$","a","6a8c62f063124f3d8ea649a7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c62f063124f3d8ea649a7","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-1.jpg"]}],["$","span",null,{"className":"size","children":"460 КБ"}]]}]
+14:["$","a","6a8c62f057a2662b5529d691",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c62f057a2662b5529d691","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-2.jpg"]}],["$","span",null,{"className":"size","children":"463 КБ"}]]}]
+15:["$","a","6a8c62f0efd603213f1403c8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c62f0efd603213f1403c8","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-3.jpg"]}],["$","span",null,{"className":"size","children":"451 КБ"}]]}]
+18:T13e9,{
+  "id": "gis-torgi:22000086100000000588_14",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000086100000000588_14",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000086100000000588_14",
+  "title": "Нежилое здание (котельная) общей площадью 842,2 кв.м.",
+  "description": "Нежилое здание (котельная) общей площадью 842,2 кв.м., 3-х этажное, кад. № 13:12:0136001:161, принадлежит должнику ОАО «Ковылкинский завод строительных материалов», ИНН 1323121621. Сведения о правах на земельный участок, расположенный под здпнием, отсутствуют у организатора торгов. Сведениями о фактическом состоянии объекта недвижимости организатор торгов не располагает. Техническая документация на объект недвижимости и его фотографии отсутствуют у организатора торгов",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "8",
+  "categoryName": "Здания",
+  "regionCode": "13",
+  "address": "респ. Мордовия Ковылкинский р-н, п. Силикатный",
+  "priceStart": "8660520.00",
+  "priceStep": "1000",
+  "deposit": "1299100",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T16:07:35.078Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-18T15:00:00Z",
+  "auctionAt": "2026-09-24T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8c62f063124f3d8ea649a7",
+    "6a8c62f057a2662b5529d691",
+    "6a8c62f0efd603213f1403c8"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c62fe63124f3d8ea649aa",
+      "name": "постановление 14.pdf",
+      "size": 149764,
+      "sha256": "98588d79baf0f2046acbe0adcf26b18c9b7300d5b48120f7b3a20d30b93e1efc"
+    },
+    {
+      "fileId": "6a8c62f063124f3d8ea649a7",
+      "name": "file-1.jpg",
+      "size": 471001,
+      "sha256": "0d7536bef64843ca4e8817e025367abb0b01216ecc9d0b43a2dbba7283581154"
+    },
+    {
+      "fileId": "6a8c62f057a2662b5529d691",
+      "name": "file-2.jpg",
+      "size": 473653,
+      "sha256": "4b39cd1adca1383f94381e8881dac626b378738370c04ce8b396a95515a7e50e"
+    },
+    {
+      "fileId": "6a8c62f0efd603213f1403c8",
+      "name": "file-3.jpg",
+      "size": 461729,
+      "sha256": "fcbb6de287e3a87abce03c02adcdca0884ba6a0ff9da3bfa372330045053383f"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "1961",
+      "source": "structured"
+    },
+    {
+      "key": "numberUndergroundFloors",
+      "name": "Количество подземных этажей",
+      "value": "0",
+      "source": "structured"
+    },
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "Запрещение регистрации",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "842.2",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "buildingWallMaterials",
+      "name": "Материалы наружных стен здания",
+      "value": "Кирпичные",
+      "source": "structured"
+    },
+    {
+      "key": "regNumberEGROKN",
+      "name": "Регистрационный номер ЕГРОКН",
+      "value": "13:12:4:2001:1058.1",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralValue",
+      "name": "Кадастровая стоимость",
+      "value": "1183330.91",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "13:12:0136001:161",
+      "source": "structured"
+    },
+    {
+      "key": "purposeBuilding",
+      "name": "Назначение здания",
+      "value": "Котельная",
+      "source": "structured"
+    },
+    {
+      "key": "numberFloors",
+      "name": "Количество этажей",
+      "value": "3",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "Запрещение регистрации",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:37:35.160Z",
+  "lastSeenAt": "2026-08-25T11:37:35.160Z",
+  "contentHash": "9613b345db48477215ded769e6a65ee723e460d9f56d6986e2def3c36dcb9bc9"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"8 660 520 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"1 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"1 299 100 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"18 сент. 2026 г., 18:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"22 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"24 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Мордовия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000086100000000588_14","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое здание (котельная) общей площадью 842,2 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

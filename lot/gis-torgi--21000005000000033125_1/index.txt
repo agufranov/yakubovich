@@ -1,0 +1,204 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000005000000033125_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000005000000033125_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000005000000033125_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"Продажа имущества, находящегося в собственности города Москвы, нежилое помещение по адресу: г. Москва, пр-д Береговой, д. 1А, площадью 244 кв. м. (этаж №1 ) кадастровый номер: 77:07:0002003:13160"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71d26364c95e91bee87d","alt":"Продажа имущества, находящегося в собственности города Москвы, нежилое помещение по адресу: г. Москва, пр-д Береговой, д. 1А, площадью 244 кв. м. (этаж №1 ) кадастровый номер: 77:07:0002003:13160"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a3e71d31a4ecd21781c84a2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71d31a4ecd21781c84a2","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71d31a4ecd21781c84a2","alt":"","loading":"lazy"}]}],["$","a","6a3e71d41a4ecd21781c84af",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71d41a4ecd21781c84af","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71d41a4ecd21781c84af","alt":"","loading":"lazy"}]}],["$","a","6a3e71d53f740c2f9fa6ad56",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71d53f740c2f9fa6ad56","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71d53f740c2f9fa6ad56","alt":"","loading":"lazy"}]}],["$","a","6a3e71d7e98b615edcafdf43",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71d7e98b615edcafdf43","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71d7e98b615edcafdf43","alt":"","loading":"lazy"}]}],["$","a","6a3e71d86364c95e91bee897",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71d86364c95e91bee897","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71d86364c95e91bee897","alt":"","loading":"lazy"}]}],["$","a","6a3e71d9e98b615edcafdf46",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71d9e98b615edcafdf46","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71d9e98b615edcafdf46","alt":"","loading":"lazy"}]}],["$","a","6a3e71da6364c95e91bee8a4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71da6364c95e91bee8a4","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71da6364c95e91bee8a4","alt":"","loading":"lazy"}]}],["$","a","6a3e71db6364c95e91bee8ac",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71db6364c95e91bee8ac","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71db6364c95e91bee8ac","alt":"","loading":"lazy"}]}],["$","a","6a3e71dd1a4ecd21781c84bc",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71dd1a4ecd21781c84bc","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71dd1a4ecd21781c84bc","alt":"","loading":"lazy"}]}],["$","a","6a3e71dd6364c95e91bee8b5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71dd6364c95e91bee8b5","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71dd6364c95e91bee8b5","alt":"","loading":"lazy"}]}],["$","a","6a3e71de3f740c2f9fa6ad68",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71de3f740c2f9fa6ad68","target":"_blank","rel":"noopener","children":"$L11"}],"$L12","$L13","$L14","$L15"]}]]}],"$L16","$L17","$L18","$L19",false,"$L1a"]}],"$L1b"]}]]}]
+11:["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71de3f740c2f9fa6ad68","alt":"","loading":"lazy"}]
+12:["$","a","6a3e71dfe98b615edcafdf4f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71dfe98b615edcafdf4f","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71dfe98b615edcafdf4f","alt":"","loading":"lazy"}]}]
+13:["$","a","6a3e71e03f740c2f9fa6ad70",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71e03f740c2f9fa6ad70","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71e03f740c2f9fa6ad70","alt":"","loading":"lazy"}]}]
+14:["$","a","6a3e71e11a4ecd21781c84c8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71e11a4ecd21781c84c8","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71e11a4ecd21781c84c8","alt":"","loading":"lazy"}]}]
+15:["$","a","6a3e71e23f740c2f9fa6ad78",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71e23f740c2f9fa6ad78","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a3e71e23f740c2f9fa6ad78","alt":"","loading":"lazy"}]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Продажа имущества, находящегося в собственности города Москвы, нежилое помещение по адресу: г. Москва, пр-д Береговой, д. 1А,\nплощадью 244 кв. м. (этаж №1 ) кадастровый номер: 77:07:0002003:13160"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeNolivingQuarters",{"children":[["$","td",null,{"children":"Назначение нежилого помещения"}],["$","td",null,{"children":["Свободное",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["244"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["77:07:0002003:13160",""]}]]}]]}]}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Филевский парк, пр-д Береговой, дом 1А"}]]}]
+19:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",16,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a3e71d26364c95e91bee87d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71d26364c95e91bee87d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Общий фасад здания.jpg"]}],["$","span",null,{"className":"size","children":"2.7 МБ"}]]}],["$","a","6a3e71d31a4ecd21781c84a2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71d31a4ecd21781c84a2","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Фасад здания с выделенными окнами реализуемого объекта.jpg"]}],["$","span",null,{"className":"size","children":"805 КБ"}]]}],["$","a","6a3e71d41a4ecd21781c84af",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71d41a4ecd21781c84af","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Фасад здания с выделенными окнами реализуемого объекта_2.jpg"]}],["$","span",null,{"className":"size","children":"855 КБ"}]]}],["$","a","6a3e71d53f740c2f9fa6ad56",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71d53f740c2f9fa6ad56","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Фасад здания с выделенными окнами реализуемого объекта_3.jpg"]}],["$","span",null,{"className":"size","children":"792 КБ"}]]}],["$","a","6a3e71d7e98b615edcafdf43",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71d7e98b615edcafdf43","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Входная группа объекта.jpg"]}],["$","span",null,{"className":"size","children":"2.7 МБ"}]]}],["$","a","6a3e71d86364c95e91bee897",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71d86364c95e91bee897","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Входная группа объекта_2.jpg"]}],["$","span",null,{"className":"size","children":"3.3 МБ"}]]}],["$","a","6a3e71d9e98b615edcafdf46",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71d9e98b615edcafdf46","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.План этажа (поэтажный) с указанием границ реализуемого объекта.jpg"]}],["$","span",null,{"className":"size","children":"129 КБ"}]]}],["$","a","6a3e71da6364c95e91bee8a4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71da6364c95e91bee8a4","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта .jpg"]}],["$","span",null,{"className":"size","children":"1.8 МБ"}]]}],["$","a","6a3e71db6364c95e91bee8ac",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71db6364c95e91bee8ac","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _2.jpg"]}],["$","span",null,{"className":"size","children":"1.4 МБ"}]]}],["$","a","6a3e71dd1a4ecd21781c84bc",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71dd1a4ecd21781c84bc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _3.jpg"]}],["$","span",null,{"className":"size","children":"2.7 МБ"}]]}],["$","a","6a3e71dd6364c95e91bee8b5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71dd6364c95e91bee8b5","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _4.jpg"]}],["$","span",null,{"className":"size","children":"1.5 МБ"}]]}],["$","a","6a3e71de3f740c2f9fa6ad68",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71de3f740c2f9fa6ad68","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _5.jpg"]}],"$L1c"]}],"$L1d","$L1e","$L1f","$L20"]}]]}]
+21:T212f,{
+  "id": "gis-torgi:21000005000000033125_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000005000000033125_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000005000000033125_1",
+  "title": "Продажа имущества, находящегося в собственности города Москвы, нежилое помещение по адресу: г. Москва, пр-д Береговой, д. 1А, площадью 244 кв. м. (этаж №1 ) кадастровый номер: 77:07:0002003:13160",
+  "description": "Продажа имущества, находящегося в собственности города Москвы, нежилое помещение по адресу: г. Москва, пр-д Береговой, д. 1А,\nплощадью 244 кв. м. (этаж №1 ) кадастровый номер: 77:07:0002003:13160",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Филевский парк, пр-д Береговой, дом 1А",
+  "priceStart": "141976000.00",
+  "priceStep": "1419760",
+  "deposit": "28395200",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T11:43:07.183Z",
+  "biddStartAt": "2026-08-25T17:00:00Z",
+  "biddEndAt": "2026-10-15T12:00:00Z",
+  "auctionAt": "2026-10-27T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_EETP",
+  "images": [
+    "6a3e71d26364c95e91bee87d",
+    "6a3e71d31a4ecd21781c84a2",
+    "6a3e71d41a4ecd21781c84af",
+    "6a3e71d53f740c2f9fa6ad56",
+    "6a3e71d7e98b615edcafdf43",
+    "6a3e71d86364c95e91bee897",
+    "6a3e71d9e98b615edcafdf46",
+    "6a3e71da6364c95e91bee8a4",
+    "6a3e71db6364c95e91bee8ac",
+    "6a3e71dd1a4ecd21781c84bc",
+    "6a3e71dd6364c95e91bee8b5",
+    "6a3e71de3f740c2f9fa6ad68",
+    "6a3e71dfe98b615edcafdf4f",
+    "6a3e71e03f740c2f9fa6ad70",
+    "6a3e71e11a4ecd21781c84c8",
+    "6a3e71e23f740c2f9fa6ad78"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a3e71d26364c95e91bee87d",
+      "name": "ГП16997473.Нежилое помещение.Общий фасад здания.jpg",
+      "size": 2780466,
+      "sha256": "42b73d331579e5ccef23a049e3807bc77454c21191c3ded5a3d95d9cbacc9c59"
+    },
+    {
+      "fileId": "6a3e71d31a4ecd21781c84a2",
+      "name": "ГП16997473.Нежилое помещение.Фасад здания с выделенными окнами реализуемого объекта.jpg",
+      "size": 824515,
+      "sha256": "0cb491e90bb85c08ab9fe7140696496f2d2f1ed18f242224ab7dcdbf70e47d50"
+    },
+    {
+      "fileId": "6a3e71d41a4ecd21781c84af",
+      "name": "ГП16997473.Нежилое помещение.Фасад здания с выделенными окнами реализуемого объекта_2.jpg",
+      "size": 875017,
+      "sha256": "bf89b7e290799d1b8996028eef2ab4076016ac65c900b228555b740d578e11ad"
+    },
+    {
+      "fileId": "6a3e71d53f740c2f9fa6ad56",
+      "name": "ГП16997473.Нежилое помещение.Фасад здания с выделенными окнами реализуемого объекта_3.jpg",
+      "size": 811420,
+      "sha256": "d13974751c5d57efad4c975bf9c1f7760de09f04fd40edf8737ff3e57c85530a"
+    },
+    {
+      "fileId": "6a3e71d7e98b615edcafdf43",
+      "name": "ГП16997473.Нежилое помещение.Входная группа объекта.jpg",
+      "size": 2872750,
+      "sha256": "18c8c626e5555b916c9ccfe3d72d3454ffc1b87c39a8d2c80000dfb4f0d86859"
+    },
+    {
+      "fileId": "6a3e71d86364c95e91bee897",
+      "name": "ГП16997473.Нежилое помещение.Входная группа объекта_2.jpg",
+      "size": 3511389,
+      "sha256": "ffd8046b640890fdcbf0b8b7e13b7b3365c3647b85540e06418b8c79d65dc7ad"
+    },
+    {
+      "fileId": "6a3e71d9e98b615edcafdf46",
+      "name": "ГП16997473.Нежилое помещение.План этажа (поэтажный) с указанием границ реализуемого объекта.jpg",
+      "size": 131842,
+      "sha256": "094323dfa2b4f15ee9133f0c7bf8eddc07024cd64c6c73fe2ae45b63908ba55c"
+    },
+    {
+      "fileId": "6a3e71da6364c95e91bee8a4",
+      "name": "ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта .jpg",
+      "size": 1868495,
+      "sha256": "2ad51245077e9d7b54083c834b23fd34380c8acab7ab2a09306ea4d59ba89e43"
+    },
+    {
+      "fileId": "6a3e71db6364c95e91bee8ac",
+      "name": "ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _2.jpg",
+      "size": 1496449,
+      "sha256": "dcaad34506f04d5741778e5bd1289f3c0d842d386d65d85cb3987186a15ce8ce"
+    },
+    {
+      "fileId": "6a3e71dd1a4ecd21781c84bc",
+      "name": "ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _3.jpg",
+      "size": 2803497,
+      "sha256": "0c4a9ebbdfff5930e2aeb35d2d19517fb2837d7b9cb877d6e410dee062f1715c"
+    },
+    {
+      "fileId": "6a3e71dd6364c95e91bee8b5",
+      "name": "ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _4.jpg",
+      "size": 1611176,
+      "sha256": "7fedd4c3388f800a33464b56c94560f1894433601a6c9776869fcdf58222b36d"
+    },
+    {
+      "fileId": "6a3e71de3f740c2f9fa6ad68",
+      "name": "ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _5.jpg",
+      "size": 1775670,
+      "sha256": "fedb4500ce7cb182cceb0da253e15b55e0a520b7a60facaad49d16574334d66b"
+    },
+    {
+      "fileId": "6a3e71dfe98b615edcafdf4f",
+      "name": "ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _6.jpg",
+      "size": 1674471,
+      "sha256": "3bf324f47069300882d44b35c1d5ce56f462d551d935314fa43736cafe74ed62"
+    },
+    {
+      "fileId": "6a3e71e03f740c2f9fa6ad70",
+      "name": "ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _7.jpg",
+      "size": 1405980,
+      "sha256": "5453be7333584322e8fb1fb22a308d7ceddf0c21adacf2a6c5e9c10ef44dc5fa"
+    },
+    {
+      "fileId": "6a3e71e11a4ecd21781c84c8",
+      "name": "ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _8.jpg",
+      "size": 1383656,
+      "sha256": "34a60b8f84ce52d287dbaf430b530f45b0420d839dc5b3076313eabd4a38b10f"
+    },
+    {
+      "fileId": "6a3e71e23f740c2f9fa6ad78",
+      "name": "ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _9.jpg",
+      "size": 1390544,
+      "sha256": "ce56952dec16f9d4cb1a29e2c38b7eb1aa385fdb415a83c3e4de6b69dd6772b8"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeNolivingQuarters",
+      "name": "Назначение нежилого помещения",
+      "value": "Свободное",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "244",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "77:07:0002003:13160",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:12:29.250Z",
+  "lastSeenAt": "2026-08-25T13:12:29.250Z",
+  "contentHash": "60820df4489ae686ecf04843676e396caa4ef2cd9d5dc57e03e807fb851e0076"
+}1a:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$21"}]]}]
+1b:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"141 976 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"1 419 760 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"28 395 200 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 20:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"15 окт. 2026 г., 15:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"49 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"27 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"EETP"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000005000000033125_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1c:["$","span",null,{"className":"size","children":"1.7 МБ"}]
+1d:["$","a","6a3e71dfe98b615edcafdf4f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71dfe98b615edcafdf4f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _6.jpg"]}],["$","span",null,{"className":"size","children":"1.6 МБ"}]]}]
+1e:["$","a","6a3e71e03f740c2f9fa6ad70",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71e03f740c2f9fa6ad70","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _7.jpg"]}],["$","span",null,{"className":"size","children":"1.3 МБ"}]]}]
+1f:["$","a","6a3e71e11a4ecd21781c84c8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71e11a4ecd21781c84c8","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _8.jpg"]}],["$","span",null,{"className":"size","children":"1.3 МБ"}]]}]
+20:["$","a","6a3e71e23f740c2f9fa6ad78",{"href":"https://torgi.gov.ru/new/file-store/v1/6a3e71e23f740c2f9fa6ad78","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16997473.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _9.jpg"]}],["$","span",null,{"className":"size","children":"1.3 МБ"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Продажа имущества, находящегося в собственности города Москвы, нежилое помещение по адресу — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

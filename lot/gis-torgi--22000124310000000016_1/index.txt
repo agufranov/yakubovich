@@ -1,0 +1,156 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000124310000000016_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000124310000000016_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000124310000000016_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:T10c9,{
+  "id": "gis-torgi:22000124310000000016_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000124310000000016_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000124310000000016_1",
+  "title": "автомобиль Mercedes-Benz S350 4Matic, год изготовления 2007, идентификационный номер (VIN) WDD2211871A161738",
+  "description": "Mercedes-Benz S350 4Matic, год изготовления 2007, идентификационный номер (VIN) WDD2211871A161738",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "77",
+  "address": "г Москва, вн.тер.г. муниципальный округ Филимонковский, г. Московский, ул Москвитина",
+  "priceStart": "1732000.00",
+  "priceStep": "17320",
+  "deposit": "173200",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T04:57:43.53Z",
+  "biddStartAt": "2026-08-25T05:00:00Z",
+  "biddEndAt": "2026-09-20T11:59:00Z",
+  "auctionAt": "2026-09-22T07:00:00Z",
+  "tzOffsetMin": 720,
+  "tzName": "МСК+9",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d1bbf57a2662b5529fc04"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d1bce63124f3d8ea66c86",
+      "name": "01_Информационное сообщение.doc",
+      "size": 119296,
+      "sha256": "1693f58e3c9ce64408c79bbc9326f731b6fcf3c86c8c63cad63817ff48d5f952"
+    },
+    {
+      "fileId": "6a8d1bbf57a2662b5529fc04",
+      "name": "Мерс 350.png",
+      "size": 1727406,
+      "sha256": "2fcddebf96555ca6194a34766c8e37af5ce0d0fa547c2a1bd27a42558beec3c4"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "mileage",
+      "name": "Пробег",
+      "value": "113436",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "автомобиль",
+      "source": "structured"
+    },
+    {
+      "key": "engineCapacity",
+      "name": "Объем двигателя",
+      "value": "3,5",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2007",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "автомат",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "полный",
+      "source": "structured"
+    },
+    {
+      "key": "regNumber",
+      "name": "Государственный регистрационный знак",
+      "value": "А005АА87",
+      "source": "structured"
+    },
+    {
+      "key": "enginePower",
+      "name": "Мощность двигателя",
+      "value": "272",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "WDD2211871A161738",
+      "source": "structured"
+    },
+    {
+      "key": "environmentalClass",
+      "name": "Экологический класс",
+      "value": "4",
+      "source": "structured"
+    },
+    {
+      "key": "dateRegNumber",
+      "name": "Дата государственного регистрационного знака",
+      "value": "2017-01-25",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "Mercedes-Benz",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "Mercedes-Benz S350 4Matic",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:23:07.889Z",
+  "lastSeenAt": "2026-08-25T13:23:07.889Z",
+  "contentHash": "aaac70d2eda57c3230ecb5a2f9b3b2af4b8d27b0f0cd5bf88e832cff467e9f20"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"автомобиль Mercedes-Benz S350 4Matic, год изготовления 2007, идентификационный номер (VIN) WDD2211871A161738"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d1bbf57a2662b5529fc04","alt":"автомобиль Mercedes-Benz S350 4Matic, год изготовления 2007, идентификационный номер (VIN) WDD2211871A161738"}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Mercedes-Benz S350 4Matic, год изготовления 2007, идентификационный номер (VIN) WDD2211871A161738"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег"}],["$","td",null,{"children":["113436"," км"]}]]}],["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["автомобиль",""]}]]}],["$","tr","engineCapacity",{"children":[["$","td",null,{"children":"Объем двигателя"}],["$","td",null,{"children":["3,5",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2007",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["автомат",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["полный",""]}]]}],["$","tr","regNumber",{"children":[["$","td",null,{"children":"Государственный регистрационный знак"}],["$","td",null,{"children":["А005АА87",""]}]]}],["$","tr","enginePower",{"children":[["$","td",null,{"children":"Мощность двигателя"}],["$","td",null,{"children":["272",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["WDD2211871A161738",""]}]]}],["$","tr","environmentalClass",{"children":[["$","td",null,{"children":"Экологический класс"}],["$","td",null,{"children":["4",""]}]]}],["$","tr","dateRegNumber",{"children":[["$","td",null,{"children":"Дата государственного регистрационного знака"}],["$","td",null,{"children":["2017-01-25",""]}]]}],["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Mercedes-Benz",""]}]]}],["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Mercedes-Benz S350 4Matic",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г Москва, вн.тер.г. муниципальный округ Филимонковский, г. Московский, ул Москвитина"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d1bce63124f3d8ea66c86",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1bce63124f3d8ea66c86","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","01_Информационное сообщение.doc"]}],["$","span",null,{"className":"size","children":"117 КБ"}]]}],["$","a","6a8d1bbf57a2662b5529fc04",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1bbf57a2662b5529fc04","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Мерс 350.png"]}],["$","span",null,{"className":"size","children":"1.6 МБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 732 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"17 320 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"173 200 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 17:00 (МСК+9)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"20 сент. 2026 г., 23:59 (МСК+9)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"24 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"22 сент. 2026 г., 19:00 (МСК+9)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000124310000000016_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"автомобиль Mercedes-Benz S350 4Matic, год изготовления 2007, идентификационный номер (VIN) — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

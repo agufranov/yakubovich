@@ -1,0 +1,170 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000012550000000990_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000012550000000990_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000012550000000990_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=76","children":"Ярославская обл."}]]]}],["$","h1",null,{"children":"конкурс в электронной форме открытый по составу участников по продаже недвижимого имущества, расположенного  по адресу: г. Ярославль, ул. Большая Норская, д. 2."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Конкурс"}],["$","span",null,{"children":"Здания"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d2ca663124f3d8ea673ee","alt":"конкурс в электронной форме открытый по составу участников по продаже недвижимого имущества, расположенного  по адресу: г. Ярославль, ул. Большая Норская, д. 2."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d2ca663124f3d8ea673f5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d2ca663124f3d8ea673f5","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d2ca663124f3d8ea673f5","alt":"","loading":"lazy"}]}],["$","a","6a8d2ca657a2662b552a04d6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d2ca657a2662b552a04d6","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d2ca657a2662b552a04d6","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"здание, расположенное по адресу: г. Ярославль, ул. Большая Норская, д. 2, назначение: нежилое, вид разрешенного использования: объект административного назначения, количество этажей – 2, в том числе подземных этажей – 0, общая площадь 567,9 кв. м,  инв. № 13816, существующие ограничения (обременения) права: объект культурного наследия регионального значения «Ансамбль конного двора Норской мануфактуры: выездная конюшня», 1915 г., включенный в единый государственный реестр объектов культурного наследия (памятников истории и культуры) народов Российской Федерации, находящийся в неудовлетворительном состоянии. См. Постановление,  Информационное сообщение (извещение)"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","numberUndergroundFloors",{"children":[["$","td",null,{"children":"Количество подземных этажей"}],["$","td",null,{"children":["0",""]}]]}],["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["См. Постановление,  Информационное сообщение (извещение)",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["567.9"," м^2 общ. пл"]}]]}],["$","tr","regNumberEGROKN",{"children":[["$","td",null,{"children":"Регистрационный номер ЕГРОКН"}],["$","td",null,{"children":["762411421390035",""]}]]}],["$","tr","cadastralValue",{"children":[["$","td",null,{"children":"Кадастровая стоимость"}],["$","td",null,{"children":["14676160.19",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["76:23:011503:66",""]}]]}],["$","tr","numberFloors",{"children":[["$","td",null,{"children":"Количество этажей"}],["$","td",null,{"children":["2",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["См. Постановление,  Информационное сообщение (извещение)",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл Ярославская, г.о. город Ярославль, г Ярославль, ул Большая Норская, дом 2"}]]}],"$L11",false,"$L12"]}],"$L13"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",10,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d2cb0efd603213f143263",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d2cb0efd603213f143263","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Информационное сообщение на 01.10.2026.Б.Норская,2.doc"]}],["$","span",null,{"className":"size","children":"318 КБ"}]]}],["$","a","6a8d2cb957a2662b552a04e3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d2cb957a2662b552a04e3","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","733-ot-18.08-portal.doc"]}],["$","span",null,{"className":"size","children":"2.7 МБ"}]]}],["$","a","6a8d2cc557a2662b552a04fd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d2cc557a2662b552a04fd","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Б. Норская, 2-конюшня-2026 (2).pdf"]}],["$","span",null,{"className":"size","children":"3.7 МБ"}]]}],["$","a","6a8d2cc5efd603213f14327e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d2cc5efd603213f14327e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Охранное обяз-во, Паспорт ОКН.pdf"]}],["$","span",null,{"className":"size","children":"4.6 МБ"}]]}],["$","a","6a8d2cc257a2662b552a04ec",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d2cc257a2662b552a04ec","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Приказ в неудовл.состоянии.pdf"]}],["$","span",null,{"className":"size","children":"214 КБ"}]]}],["$","a","6a8d2cd863124f3d8ea6741c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d2cd863124f3d8ea6741c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка здание от 25.02.2026.pdf"]}],["$","span",null,{"className":"size","children":"2.2 МБ"}]]}],["$","a","6a8d2cdfe096f456f84c465c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d2cdfe096f456f84c465c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Норская, 2 земля_соб-ть города Ярославля.pdf"]}],["$","span",null,{"className":"size","children":"255 КБ"}]]}],["$","a","6a8d2ca663124f3d8ea673ee",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d2ca663124f3d8ea673ee","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG20260527153549.jpg"]}],["$","span",null,{"className":"size","children":"910 КБ"}]]}],["$","a","6a8d2ca663124f3d8ea673f5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d2ca663124f3d8ea673f5","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG20260527153718.jpg"]}],["$","span",null,{"className":"size","children":"1.0 МБ"}]]}],["$","a","6a8d2ca657a2662b552a04d6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d2ca657a2662b552a04d6","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG20260527153738.jpg"]}],["$","span",null,{"className":"size","children":"932 КБ"}]]}]]}]]}]
+14:T1a86,{
+  "id": "gis-torgi:21000012550000000990_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000012550000000990_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000012550000000990_1",
+  "title": "конкурс в электронной форме открытый по составу участников по продаже недвижимого имущества, расположенного  по адресу: г. Ярославль, ул. Большая Норская, д. 2.",
+  "description": "здание, расположенное по адресу: г. Ярославль, ул. Большая Норская, д. 2, назначение: нежилое, вид разрешенного использования: объект административного назначения, количество этажей – 2, в том числе подземных этажей – 0, общая площадь 567,9 кв. м,  инв. № 13816, существующие ограничения (обременения) права: объект культурного наследия регионального значения «Ансамбль конного двора Норской мануфактуры: выездная конюшня», 1915 г., включенный в единый государственный реестр объектов культурного наследия (памятников истории и культуры) народов Российской Федерации, находящийся в неудовлетворительном состоянии. См. Постановление,  Информационное сообщение (извещение)",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "competition",
+  "tradeKindRaw": "Электронный конкурс",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "8",
+  "categoryName": "Здания",
+  "regionCode": "76",
+  "address": "обл Ярославская, г.о. город Ярославль, г Ярославль, ул Большая Норская, дом 2",
+  "priceStart": "1.00",
+  "deposit": "2935232.03",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T05:55:11.11Z",
+  "biddStartAt": "2026-08-27T06:00:00Z",
+  "biddEndAt": "2026-09-28T12:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d2ca663124f3d8ea673ee",
+    "6a8d2ca663124f3d8ea673f5",
+    "6a8d2ca657a2662b552a04d6"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d2cb0efd603213f143263",
+      "name": "Информационное сообщение на 01.10.2026.Б.Норская,2.doc",
+      "size": 325120,
+      "sha256": "242d3c15aac50657689c5111ef9fd7869da4b06058e2a1d2ec556a9b136910c4"
+    },
+    {
+      "fileId": "6a8d2cb957a2662b552a04e3",
+      "name": "733-ot-18.08-portal.doc",
+      "size": 2805760,
+      "sha256": "b7859f357dcaa380c19224e445c343f75f59d18309fe41c6106851467b124b3d"
+    },
+    {
+      "fileId": "6a8d2cc557a2662b552a04fd",
+      "name": "Б. Норская, 2-конюшня-2026 (2).pdf",
+      "size": 3839960,
+      "sha256": "97148ba11d6e2eea6e9159bc92d055b602a42008ec26d99531d5854914474ada"
+    },
+    {
+      "fileId": "6a8d2cc5efd603213f14327e",
+      "name": "Охранное обяз-во, Паспорт ОКН.pdf",
+      "size": 4860205,
+      "sha256": "f2ca969a9477da297d0331f612aa7181a443b18c24425c9f2a2e50200ea0661d"
+    },
+    {
+      "fileId": "6a8d2cc257a2662b552a04ec",
+      "name": "Приказ в неудовл.состоянии.pdf",
+      "size": 218969,
+      "sha256": "1f8733ed9d07154155bf07c88645db784553e68bd616278e1790eaa516bd2d8f"
+    },
+    {
+      "fileId": "6a8d2cd863124f3d8ea6741c",
+      "name": "Выписка здание от 25.02.2026.pdf",
+      "size": 2305624,
+      "sha256": "b1ee2af13b0639ce032f678475e75b8ae12e52c037f0ec2cee0528d239b578c4"
+    },
+    {
+      "fileId": "6a8d2cdfe096f456f84c465c",
+      "name": "Норская, 2 земля_соб-ть города Ярославля.pdf",
+      "size": 261003,
+      "sha256": "d7f6e0e148c9237d568692e5944ba556fb3290aa0e1e222285644bab1d686d51"
+    },
+    {
+      "fileId": "6a8d2ca663124f3d8ea673ee",
+      "name": "IMG20260527153549.jpg",
+      "size": 931864,
+      "sha256": "fe97e451d4a77ec5092a733dc359ae6a0e522efae3cdfe9eca9d8feb5b5c2dc9"
+    },
+    {
+      "fileId": "6a8d2ca663124f3d8ea673f5",
+      "name": "IMG20260527153718.jpg",
+      "size": 1092193,
+      "sha256": "aef95f2da25f79dd8d892dda027bfce14c0ea656f338b42a8a929413c216c267"
+    },
+    {
+      "fileId": "6a8d2ca657a2662b552a04d6",
+      "name": "IMG20260527153738.jpg",
+      "size": 954170,
+      "sha256": "8fb4325f4b2980865a7f35afa69f0a9b8f6332056c2b2d72bfddcb040bc9f6b3"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "numberUndergroundFloors",
+      "name": "Количество подземных этажей",
+      "value": "0",
+      "source": "structured"
+    },
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "См. Постановление,  Информационное сообщение (извещение)",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "567.9",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "regNumberEGROKN",
+      "name": "Регистрационный номер ЕГРОКН",
+      "value": "762411421390035",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralValue",
+      "name": "Кадастровая стоимость",
+      "value": "14676160.19",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "76:23:011503:66",
+      "source": "structured"
+    },
+    {
+      "key": "numberFloors",
+      "name": "Количество этажей",
+      "value": "2",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "См. Постановление,  Информационное сообщение (извещение)",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:22:10.635Z",
+  "lastSeenAt": "2026-08-25T13:22:10.635Z",
+  "contentHash": "962edcfa6d1e0d6826f603d1f0b157dfb64c7a49ba6f30908616aa2f2af5d694"
+}12:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$14"}]]}]
+13:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"2 935 232,03 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"28 сент. 2026 г., 15:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"32 дня"}]],"$undefined"]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Ярославская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000012550000000990_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"конкурс в электронной форме открытый по составу участников по продаже недвижимого имуществ — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

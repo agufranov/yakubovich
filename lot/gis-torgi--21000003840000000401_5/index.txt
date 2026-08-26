@@ -1,0 +1,156 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000003840000000401_5",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000003840000000401_5","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000003840000000401_5","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=48","children":"Липецкая обл."}]]]}],["$","h1",null,{"children":"ВАЗ 21074, 2008 года выпуска, идентификационный номер (VIN) ХТА 21074082707976, номер двигателя 21067 9015819, номер кузова ХТА 21074082707976, цвет кузова вишневый"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a894c54ac85246d2d845ac2","alt":"ВАЗ 21074, 2008 года выпуска, идентификационный номер (VIN) ХТА 21074082707976, номер двигателя 21067 9015819, номер кузова ХТА 21074082707976, цвет кузова вишневый"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a894c5463124f3d8ea52285",{"href":"https://torgi.gov.ru/new/file-store/v1/6a894c5463124f3d8ea52285","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a894c5463124f3d8ea52285","alt":"","loading":"lazy"}]}],["$","a","6a894c54ac85246d2d845abf",{"href":"https://torgi.gov.ru/new/file-store/v1/6a894c54ac85246d2d845abf","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a894c54ac85246d2d845abf","alt":"","loading":"lazy"}]}],["$","a","6a894c54efd603213f12db57",{"href":"https://torgi.gov.ru/new/file-store/v1/6a894c54efd603213f12db57","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a894c54efd603213f12db57","alt":"","loading":"lazy"}]}],["$","a","6a894c54efd603213f12db54",{"href":"https://torgi.gov.ru/new/file-store/v1/6a894c54efd603213f12db54","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a894c54efd603213f12db54","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"ВАЗ 21074, 2008 года выпуска, идентификационный номер (VIN) ХТА 21074082707976, номер двигателя 21067 9015819, номер кузова ХТА 21074082707976, цвет кузова вишневый"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["легковой автомобиль",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2008",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["ХТА 21074082707976",""]}]]}],["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["ВАЗ",""]}]]}],["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["21074",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Годные остатки",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Липецкая, м.о. Данковский, с. Воскресенское"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",8,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a894c5eac85246d2d845acd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a894c5eac85246d2d845acd","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","11 Отчет 2969-26 Автомобиль срав рын.pdf"]}],["$","span",null,{"className":"size","children":"2.0 МБ"}]]}],["$","a","6a894c6357a2662b552878b4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a894c6357a2662b552878b4","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18"]}]]}],false,"$L19"]}],"$L1a"]}]]}]
+11:["$","span",null,{"children":["📎 ","Приложение 1 лот 5.docx"]}]
+12:["$","span",null,{"className":"size","children":"25 КБ"}]
+13:["$","a","6a894c6aefd603213f12db5c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a894c6aefd603213f12db5c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Приложение 3 лот 5.doc"]}],["$","span",null,{"className":"size","children":"67 КБ"}]]}]
+14:["$","a","6a894c54ac85246d2d845ac2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a894c54ac85246d2d845ac2","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1.png"]}],["$","span",null,{"className":"size","children":"157 КБ"}]]}]
+15:["$","a","6a894c5463124f3d8ea52285",{"href":"https://torgi.gov.ru/new/file-store/v1/6a894c5463124f3d8ea52285","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","2.png"]}],["$","span",null,{"className":"size","children":"169 КБ"}]]}]
+16:["$","a","6a894c54ac85246d2d845abf",{"href":"https://torgi.gov.ru/new/file-store/v1/6a894c54ac85246d2d845abf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","3.png"]}],["$","span",null,{"className":"size","children":"157 КБ"}]]}]
+17:["$","a","6a894c54efd603213f12db57",{"href":"https://torgi.gov.ru/new/file-store/v1/6a894c54efd603213f12db57","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","4.png"]}],["$","span",null,{"className":"size","children":"168 КБ"}]]}]
+18:["$","a","6a894c54efd603213f12db54",{"href":"https://torgi.gov.ru/new/file-store/v1/6a894c54efd603213f12db54","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","5.png"]}],["$","span",null,{"className":"size","children":"128 КБ"}]]}]
+1b:T117f,{
+  "id": "gis-torgi:21000003840000000401_5",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000003840000000401_5",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000003840000000401_5",
+  "title": "ВАЗ 21074, 2008 года выпуска, идентификационный номер (VIN) ХТА 21074082707976, номер двигателя 21067 9015819, номер кузова ХТА 21074082707976, цвет кузова вишневый",
+  "description": "ВАЗ 21074, 2008 года выпуска, идентификационный номер (VIN) ХТА 21074082707976, номер двигателя 21067 9015819, номер кузова ХТА 21074082707976, цвет кузова вишневый",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Публичное предложение",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "48",
+  "address": "обл. Липецкая, м.о. Данковский, с. Воскресенское",
+  "priceStart": "46000.00",
+  "priceStep": "2300",
+  "deposit": "4600",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T09:41:54.513Z",
+  "biddStartAt": "2026-08-26T05:00:00Z",
+  "biddEndAt": "2026-09-22T07:00:00Z",
+  "auctionAt": "2026-09-24T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_EETP",
+  "images": [
+    "6a894c54ac85246d2d845ac2",
+    "6a894c5463124f3d8ea52285",
+    "6a894c54ac85246d2d845abf",
+    "6a894c54efd603213f12db57",
+    "6a894c54efd603213f12db54"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a894c5eac85246d2d845acd",
+      "name": "11 Отчет 2969-26 Автомобиль срав рын.pdf",
+      "size": 2126187,
+      "sha256": "6333fe40990ba96daf41c82886a1c9729d773e9538b8914f53cbd45e87ecd746"
+    },
+    {
+      "fileId": "6a894c6357a2662b552878b4",
+      "name": "Приложение 1 лот 5.docx",
+      "size": 26080,
+      "sha256": "9f677d08d8152d404f77dcc4c0d8180b75fd7088c83d784d6f626600bd5cb9dc"
+    },
+    {
+      "fileId": "6a894c6aefd603213f12db5c",
+      "name": "Приложение 3 лот 5.doc",
+      "size": 68608,
+      "sha256": "b9a652591de27b02da78020394997ab69353af4b12117de02f63055885e4dc51"
+    },
+    {
+      "fileId": "6a894c54ac85246d2d845ac2",
+      "name": "1.png",
+      "size": 160590,
+      "sha256": "089617eb701521f6f978a18cba49734a2eb4c7e687821f084eecc6a22a340ae3"
+    },
+    {
+      "fileId": "6a894c5463124f3d8ea52285",
+      "name": "2.png",
+      "size": 173318,
+      "sha256": "3bf67add869a033b197d0acb1c4c17878c8252683c7e799cc87c9f67ee43ad8e"
+    },
+    {
+      "fileId": "6a894c54ac85246d2d845abf",
+      "name": "3.png",
+      "size": 160960,
+      "sha256": "90359975d2791948f7809b6ec8f6de33204ebf166d8ff7a4c43a7148d5b2e714"
+    },
+    {
+      "fileId": "6a894c54efd603213f12db57",
+      "name": "4.png",
+      "size": 172483,
+      "sha256": "1ae4cb07355a5d998da062ed0141d420674dd982fb5bbe1fb692680b288596eb"
+    },
+    {
+      "fileId": "6a894c54efd603213f12db54",
+      "name": "5.png",
+      "size": 131462,
+      "sha256": "58334201db77b53056916510590101f4f39bf9b0c8a6b2f32c66e11e5a9dd363"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "легковой автомобиль",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2008",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "ХТА 21074082707976",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "ВАЗ",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "21074",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Годные остатки",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:15:42.675Z",
+  "lastSeenAt": "2026-08-25T13:15:42.675Z",
+  "contentHash": "2ec85bef46a2a162db758bdfe9b5e8ede8fcdcedcbecf954b52e93733b292ac0"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"46 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"2 300 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"4 600 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 08:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"24 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Липецкая обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"EETP"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000003840000000401_5","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"ВАЗ 21074, 2008 года выпуска, идентификационный номер (VIN) ХТА 21074082707976, номер двиг — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

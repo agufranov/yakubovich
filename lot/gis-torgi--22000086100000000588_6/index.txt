@@ -1,0 +1,107 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000086100000000588_6",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000086100000000588_6","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000086100000000588_6","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Tcdd,{
+  "id": "gis-torgi:22000086100000000588_6",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000086100000000588_6",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000086100000000588_6",
+  "title": "Самоходная машина: мини-трактор KIOTI CK22H, 2013 г/в",
+  "description": "Самоходная машина: мини-трактор KIOTI CK22H, 2013 г/в, заводской № S3500023 , мощность двигателя 22 л.с.,  цвет кузова красный, принадлежит должнику АО «ЭЛЕКТРООПОРА-Р», ИНН 1328902403. Регистрационные документы не изымались у должника. Машина и ключи от неё организатору торгов не передавались. Техническое состояние машины организатору торгов не известно.",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "vehicle",
+  "categoryCode": "101",
+  "categoryName": "Спецтехника",
+  "regionCode": "13",
+  "address": "респ. Мордовия г. Саранск, ул. Московская, участок № 7.",
+  "priceStart": "1775100.00",
+  "priceStep": "1000",
+  "deposit": "218500",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T16:07:35.078Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-18T15:00:00Z",
+  "auctionAt": "2026-09-24T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8c496063124f3d8ea63300"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c4968e096f456f84c0816",
+      "name": "постановление 6.pdf",
+      "size": 161428,
+      "sha256": "f36fab53b498264335c90cd5a07f216b63cc6f0e94e2bdb9dc559d7dee70314d"
+    },
+    {
+      "fileId": "6a8c496063124f3d8ea63300",
+      "name": "file-1.jpg",
+      "size": 436343,
+      "sha256": "617155d99887354f136520229470f5063716a5402bc7f4fa8c0c1bfadeb325d0"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "specEquipmentType",
+      "name": "Назначение",
+      "value": "Трактор",
+      "source": "structured"
+    },
+    {
+      "key": "specEquipmentMarka",
+      "name": "Марка",
+      "value": "KIOTI",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2013",
+      "source": "structured"
+    },
+    {
+      "key": "specEquipmentModel",
+      "name": "Модель",
+      "value": "KIOTI CK22H",
+      "source": "structured"
+    },
+    {
+      "key": "vinFactory",
+      "name": "VIN (заводской) номер",
+      "value": "S3500023",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:36:39.273Z",
+  "lastSeenAt": "2026-08-25T11:36:39.273Z",
+  "contentHash": "422865ee6ddcf5374b93e1dc0db48ddfdf818d1d1bcc287964cf0125a8ff0105"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=13","children":"Мордовия"}]]]}],["$","h1",null,{"children":"Самоходная машина: мини-трактор KIOTI CK22H, 2013 г/в"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Спецтехника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c496063124f3d8ea63300","alt":"Самоходная машина: мини-трактор KIOTI CK22H, 2013 г/в"}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Самоходная машина: мини-трактор KIOTI CK22H, 2013 г/в, заводской № S3500023 , мощность двигателя 22 л.с.,  цвет кузова красный, принадлежит должнику АО «ЭЛЕКТРООПОРА-Р», ИНН 1328902403. Регистрационные документы не изымались у должника. Машина и ключи от неё организатору торгов не передавались. Техническое состояние машины организатору торгов не известно."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","specEquipmentType",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Трактор",""]}]]}],["$","tr","specEquipmentMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["KIOTI",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2013",""]}]]}],["$","tr","specEquipmentModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["KIOTI CK22H",""]}]]}],["$","tr","vinFactory",{"children":[["$","td",null,{"children":"VIN (заводской) номер"}],["$","td",null,{"children":["S3500023",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"респ. Мордовия г. Саранск, ул. Московская, участок № 7."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c4968e096f456f84c0816",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4968e096f456f84c0816","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","постановление 6.pdf"]}],["$","span",null,{"className":"size","children":"158 КБ"}]]}],["$","a","6a8c496063124f3d8ea63300",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c496063124f3d8ea63300","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-1.jpg"]}],["$","span",null,{"className":"size","children":"426 КБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 775 100 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"1 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"218 500 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"18 сент. 2026 г., 18:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"22 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"24 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Мордовия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000086100000000588_6","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Самоходная машина: мини-трактор KIOTI CK22H, 2013 г/в — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

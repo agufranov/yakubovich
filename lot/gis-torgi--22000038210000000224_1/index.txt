@@ -1,0 +1,120 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000038210000000224_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000038210000000224_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000038210000000224_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Нежилые помещения литер под/А № 1, 2, 3 общая площадь  92,1 кв. м, Российская Федерация, Краснодарский край, г. Краснодар, Западный округ, ул. Красная, д. 87. Кадастровый номер: 23:43:0207032:228, назначение: нежилое."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e563124f3d8ea5a6ca","alt":"Нежилые помещения литер под/А № 1, 2, 3 общая площадь  92,1 кв. м, Российская Федерация, Краснодарский край, г. Краснодар, Западный округ, ул. Красная, д. 87. Кадастровый номер: 23:43:0207032:228, назначение: нежилое."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8bf2e5efd603213f135e63",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e5efd603213f135e63","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e5efd603213f135e63","alt":"","loading":"lazy"}]}],["$","a","6a8bf2e563124f3d8ea5a6cd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e563124f3d8ea5a6cd","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e563124f3d8ea5a6cd","alt":"","loading":"lazy"}]}],["$","a","6a8bf2e563124f3d8ea5a6d0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e563124f3d8ea5a6d0","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e563124f3d8ea5a6d0","alt":"","loading":"lazy"}]}],["$","a","6a8bf2e5efd603213f135e5e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e5efd603213f135e5e","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e5efd603213f135e5e","alt":"","loading":"lazy"}]}],["$","a","6a8bf2e5ac85246d2d84d2f5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e5ac85246d2d84d2f5","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e5ac85246d2d84d2f5","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Лот № 1 – нежилые помещения литер под/А № 1, 2, 3 общая площадь  92,1 кв. м, Российская Федерация, Краснодарский край, г. Краснодар, Западный округ, ул. Красная, д. 87. Кадастровый номер: 23:43:0207032:228, назначение: нежилое."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["92.1"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["23:43:0207032:228",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Краснодарский, г.о. город Краснодар, г. Краснодар, ул. Красная, дом 87"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8bf2e563124f3d8ea5a6ca",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e563124f3d8ea5a6ca","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","11.jpg"]}],["$","span",null,{"className":"size","children":"122 КБ"}]]}],["$","a","6a8bf2e5efd603213f135e63",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e5efd603213f135e63","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16"]}]]}],false,"$L17"]}],"$L18"]}]]}]
+11:["$","span",null,{"children":["📎 ","22.jpg"]}]
+12:["$","span",null,{"className":"size","children":"645 КБ"}]
+13:["$","a","6a8bf2e563124f3d8ea5a6cd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e563124f3d8ea5a6cd","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","33.jpg"]}],["$","span",null,{"className":"size","children":"203 КБ"}]]}]
+14:["$","a","6a8bf2e563124f3d8ea5a6d0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e563124f3d8ea5a6d0","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","44.jpg"]}],["$","span",null,{"className":"size","children":"153 КБ"}]]}]
+15:["$","a","6a8bf2e5efd603213f135e5e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e5efd603213f135e5e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","55.jpg"]}],["$","span",null,{"className":"size","children":"139 КБ"}]]}]
+16:["$","a","6a8bf2e5ac85246d2d84d2f5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bf2e5ac85246d2d84d2f5","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","66.jpg"]}],["$","span",null,{"className":"size","children":"428 КБ"}]]}]
+19:Tee8,{
+  "id": "gis-torgi:22000038210000000224_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000038210000000224_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000038210000000224_1",
+  "title": "Нежилые помещения литер под/А № 1, 2, 3 общая площадь  92,1 кв. м, Российская Федерация, Краснодарский край, г. Краснодар, Западный округ, ул. Красная, д. 87. Кадастровый номер: 23:43:0207032:228, назначение: нежилое.",
+  "description": "Лот № 1 – нежилые помещения литер под/А № 1, 2, 3 общая площадь  92,1 кв. м, Российская Федерация, Краснодарский край, г. Краснодар, Западный округ, ул. Красная, д. 87. Кадастровый номер: 23:43:0207032:228, назначение: нежилое.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "23",
+  "address": "край Краснодарский, г.о. город Краснодар, г. Краснодар, ул. Красная, дом 87",
+  "priceStart": "4080398.00",
+  "priceStep": "204019.9",
+  "deposit": "408039.8",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T14:23:28.724Z",
+  "biddStartAt": "2026-08-27T09:00:00Z",
+  "biddEndAt": "2026-09-29T07:00:00Z",
+  "auctionAt": "2026-10-06T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_EETP",
+  "images": [
+    "6a8bf2e563124f3d8ea5a6ca",
+    "6a8bf2e5efd603213f135e63",
+    "6a8bf2e563124f3d8ea5a6cd",
+    "6a8bf2e563124f3d8ea5a6d0",
+    "6a8bf2e5efd603213f135e5e",
+    "6a8bf2e5ac85246d2d84d2f5"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8bf2e563124f3d8ea5a6ca",
+      "name": "11.jpg",
+      "size": 125027,
+      "sha256": "9a0b23b0364fb2a17c739b6534938272cea74abada45712c8a1c8c21a095bfb6"
+    },
+    {
+      "fileId": "6a8bf2e5efd603213f135e63",
+      "name": "22.jpg",
+      "size": 660540,
+      "sha256": "99377f5d297750cdd42f38615f1fe3b928470cbc34a442b4495a8623ba9d63a6"
+    },
+    {
+      "fileId": "6a8bf2e563124f3d8ea5a6cd",
+      "name": "33.jpg",
+      "size": 207558,
+      "sha256": "9c6990539dcccf7ce372ff0a77e5747a9482f67133723c95589a3feb323fd6fa"
+    },
+    {
+      "fileId": "6a8bf2e563124f3d8ea5a6d0",
+      "name": "44.jpg",
+      "size": 157095,
+      "sha256": "dfcd80c907c9b464eecc4761bbb675d53bf2aa468c75afc1fdc88ccacf268e0c"
+    },
+    {
+      "fileId": "6a8bf2e5efd603213f135e5e",
+      "name": "55.jpg",
+      "size": 142147,
+      "sha256": "0e67f330496366e0bc38f2211b744ded293ceadb3b5615c7bb4814eb4f8895e7"
+    },
+    {
+      "fileId": "6a8bf2e5ac85246d2d84d2f5",
+      "name": "66.jpg",
+      "size": 438332,
+      "sha256": "318da34233b7981d95f0d76f458e7c8f5f91f146306e3a8780843fec9695c742"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "92.1",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "23:43:0207032:228",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:29:20.446Z",
+  "lastSeenAt": "2026-08-25T13:29:20.446Z",
+  "contentHash": "82d3726c84d35a1888bccc23cb7a8aef634eb266ee6dcedac37825f655092968"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"4 080 398 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"204 019,90 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"408 039,80 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 авг. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"29 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"33 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"6 окт. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"EETP"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000038210000000224_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилые помещения литер под/А № 1, 2, 3 общая площадь  92,1 кв. м, Российская Федерация, К — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,84 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000050620000000089_2",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000050620000000089_2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000050620000000089_2","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Tad0,{
+  "id": "gis-torgi:23000050620000000089_2",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000050620000000089_2",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000050620000000089_2",
+  "title": "(повт) Д-к Шацкая Е.Г. З/у 374+/–7 кв.м, КН 23:29:0304046:962, адрес: КК, ст. Тбилисская, ул. им.Гордиенко И.П., з/у 29. Обременение:арест, н/ц 400 236,10 руб., з-к 80 047,00 руб., ш/а 4 002,00 руб.",
+  "description": "(повт) Д-к Шацкая Е.Г. З/у 374+/–7 кв.м, КН 23:29:0304046:962, адрес: КК, ст. Тбилисская, ул. им.Гордиенко И.П., з/у 29. Обременение:арест, н/ц 400 236,10 руб., з-к 80 047,00 руб., ш/а 4 002,00 руб.",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "land",
+  "categoryCode": "301",
+  "categoryName": "Земли населенных пунктов",
+  "regionCode": "23",
+  "address": "край Краснодарский , ст. Тбилисская, ул. им. Гордиенко И.П., з/у 29",
+  "priceStart": "400236.10",
+  "priceStep": "4002",
+  "deposit": "80047",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T11:16:39.979Z",
+  "biddStartAt": "2026-08-26T07:00:00Z",
+  "biddEndAt": "2026-09-21T13:00:00Z",
+  "auctionAt": "2026-09-25T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_MMVB",
+  "images": [
+    "6a8c4c3fe096f456f84c0cec"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c4c3fe096f456f84c0cec",
+      "name": "Торги недвижимое имущество.jpeg",
+      "size": 35349,
+      "sha256": "1d160ce2c9bce9ebdb5aa3518c6ab35a09fe7477c9012c6c2538b1a2db37e2df"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "PermittedUse",
+      "name": "Основной вид разрешенного использования",
+      "value": "Жилая застройка",
+      "source": "structured"
+    },
+    {
+      "key": "CadastralNumber",
+      "name": "Кадастровый номер земельного участка",
+      "value": "23:29:0304046:962",
+      "source": "structured"
+    },
+    {
+      "key": "SquareZU",
+      "name": "Площадь земельного участка",
+      "value": "374",
+      "unit": "м^2",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:24:04.484Z",
+  "lastSeenAt": "2026-08-25T11:24:04.484Z",
+  "contentHash": "39cfd58ba40047340441aca3df69e2b179293c2ff8d815e4c44a74c72ea07903"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"(повт) Д-к Шацкая Е.Г. З/у 374+/–7 кв.м, КН 23:29:0304046:962, адрес: КК, ст. Тбилисская, ул. им.Гордиенко И.П., з/у 29. Обременение:арест, н/ц 400 236,10 руб., з-к 80 047,00 руб., ш/а 4 002,00 руб."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Земли населенных пунктов"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c4c3fe096f456f84c0cec","alt":"(повт) Д-к Шацкая Е.Г. З/у 374+/–7 кв.м, КН 23:29:0304046:962, адрес: КК, ст. Тбилисская, ул. им.Гордиенко И.П., з/у 29. Обременение:арест, н/ц 400 236,10 руб., з-к 80 047,00 руб., ш/а 4 002,00 руб."}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"(повт) Д-к Шацкая Е.Г. З/у 374+/–7 кв.м, КН 23:29:0304046:962, адрес: КК, ст. Тбилисская, ул. им.Гордиенко И.П., з/у 29. Обременение:арест, н/ц 400 236,10 руб., з-к 80 047,00 руб., ш/а 4 002,00 руб."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","PermittedUse",{"children":[["$","td",null,{"children":"Основной вид разрешенного использования"}],["$","td",null,{"children":["Жилая застройка",""]}]]}],["$","tr","CadastralNumber",{"children":[["$","td",null,{"children":"Кадастровый номер земельного участка"}],["$","td",null,{"children":["23:29:0304046:962",""]}]]}],["$","tr","SquareZU",{"children":[["$","td",null,{"children":"Площадь земельного участка"}],["$","td",null,{"children":["374"," м^2"]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Краснодарский , ст. Тбилисская, ул. им. Гордиенко И.П., з/у 29"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",1,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c4c3fe096f456f84c0cec",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4c3fe096f456f84c0cec","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Торги недвижимое имущество.jpeg"]}],["$","span",null,{"className":"size","children":"35 КБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"400 236,10 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"4 002 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"80 047 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"25 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"MMVB"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000050620000000089_2","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"(повт) Д-к Шацкая Е.Г. З/у 374+/–7 кв.м, КН 23:29:0304046:962, адрес: КК, ст. Тбилисская,  — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,138 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000054780000002372_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000054780000002372_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000054780000002372_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"1/2 доля в праве общей долевой собственности на квартиру пл.53,1кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Академический, улица Дмитрия Ульянова, дом 28, квартира 57, к/н 77:06:0004001:7774"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Жилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a870616efd603213f11ecc6","alt":"1/2 доля в праве общей долевой собственности на квартиру пл.53,1кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Академический, улица Дмитрия Ульянова, дом 28, квартира 57, к/н 77:06:0004001:7774"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8840acac85246d2d841b6d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8840acac85246d2d841b6d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8840acac85246d2d841b6d","alt":"","loading":"lazy"}]}],["$","a","6a8840ac57a2662b55282d08",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8840ac57a2662b55282d08","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8840ac57a2662b55282d08","alt":"","loading":"lazy"}]}],["$","a","6a8840ac57a2662b55282d0b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8840ac57a2662b55282d0b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8840ac57a2662b55282d0b","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"1/2 доля в праве общей долевой собственности на квартиру пл.53,1кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Академический, улица Дмитрия Ульянова, дом 28, квартира 57, к/н 77:06:0004001:7774, должник (собственник) Михеева О.А. Фотографии имущества судебным приставом-исполнителем не предоставлены"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["53.1"," м^2 общ. пл"]}]]}],["$","tr","typeLivingQuarters",{"children":[["$","td",null,{"children":"Вид жилого помещения"}],["$","td",null,{"children":["доля в квартире",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["77:06:0004001:7774",""]}]]}],["$","tr","shareSizeRealty",{"children":[["$","td",null,{"children":"Размер доли (Доля в праве (доля в жилом помещении))"}],["$","td",null,{"children":["50"," %"]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Академический, ул. Дмитрия Ульянова, дом 28, кв. 57"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",7,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8706cdefd603213f11ed7f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8706cdefd603213f11ed7f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Л2 26 12 Гаг-67.pdf"]}],["$","span",null,{"className":"size","children":"518 КБ"}]]}],["$","a","6a8706e357a2662b5527780a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8706e357a2662b5527780a","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17"]}]]}],false,"$L18"]}],"$L19"]}]]}]
+11:["$","span",null,{"children":["📎 ","Михеева О.А. Дмитрия Ульянова доля (гис).pdf"]}]
+12:["$","span",null,{"className":"size","children":"8.4 МБ"}]
+13:["$","a","6a8706e163124f3d8ea43ef5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8706e163124f3d8ea43ef5","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Михеева О.А. Дмитрия Ульянова доля ЕГРН (гис).pdf"]}],["$","span",null,{"className":"size","children":"3.8 МБ"}]]}]
+14:["$","a","6a870616efd603213f11ecc6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a870616efd603213f11ecc6","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","логотип.jpg"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}]
+15:["$","a","6a8840acac85246d2d841b6d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8840acac85246d2d841b6d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Уль3.jpg"]}],["$","span",null,{"className":"size","children":"90 КБ"}]]}]
+16:["$","a","6a8840ac57a2662b55282d08",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8840ac57a2662b55282d08","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Уль1.jpeg"]}],["$","span",null,{"className":"size","children":"34 КБ"}]]}]
+17:["$","a","6a8840ac57a2662b55282d0b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8840ac57a2662b55282d0b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Уль2.jpg"]}],["$","span",null,{"className":"size","children":"78 КБ"}]]}]
+1a:T1273,{
+  "id": "gis-torgi:23000054780000002372_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000054780000002372_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000054780000002372_1",
+  "title": "1/2 доля в праве общей долевой собственности на квартиру пл.53,1кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Академический, улица Дмитрия Ульянова, дом 28, квартира 57, к/н 77:06:0004001:7774",
+  "description": "1/2 доля в праве общей долевой собственности на квартиру пл.53,1кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Академический, улица Дмитрия Ульянова, дом 28, квартира 57, к/н 77:06:0004001:7774, должник (собственник) Михеева О.А. Фотографии имущества судебным приставом-исполнителем не предоставлены",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "9",
+  "categoryName": "Жилые помещения",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Академический, ул. Дмитрия Ульянова, дом 28, кв. 57",
+  "priceStart": "7504000.00",
+  "priceStep": "38000",
+  "deposit": "1200000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T13:34:20.101Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-24T13:00:00Z",
+  "auctionAt": "2026-09-29T08:30:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a870616efd603213f11ecc6",
+    "6a8840acac85246d2d841b6d",
+    "6a8840ac57a2662b55282d08",
+    "6a8840ac57a2662b55282d0b"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8706cdefd603213f11ed7f",
+      "name": "Л2 26 12 Гаг-67.pdf",
+      "size": 530754,
+      "sha256": "9000af0a5fa88a6d86f3416afb5b1b5eb6d09e119467c86f2b73801d4881f1eb"
+    },
+    {
+      "fileId": "6a8706e357a2662b5527780a",
+      "name": "Михеева О.А. Дмитрия Ульянова доля (гис).pdf",
+      "size": 8767652,
+      "sha256": "eabff38af824ee280975681dd506d8c29dff3c3d4dffe02fd58497b954613f68"
+    },
+    {
+      "fileId": "6a8706e163124f3d8ea43ef5",
+      "name": "Михеева О.А. Дмитрия Ульянова доля ЕГРН (гис).pdf",
+      "size": 3956034,
+      "sha256": "c01979c1258e2695a384bd05e158e98747948db242fcc377128c1f7f16a188e0"
+    },
+    {
+      "fileId": "6a870616efd603213f11ecc6",
+      "name": "логотип.jpg",
+      "size": 2433104,
+      "sha256": "cb3680a136b3a2c1dc768159200b5a5ce5f7ccb865480cdd31ddb91f687b81b8"
+    },
+    {
+      "fileId": "6a8840acac85246d2d841b6d",
+      "name": "Уль3.jpg",
+      "size": 91748,
+      "sha256": "82a234e043f51e537411332229b0d0a231f9db8855b585ba3185f938a86b574e"
+    },
+    {
+      "fileId": "6a8840ac57a2662b55282d08",
+      "name": "Уль1.jpeg",
+      "size": 35275,
+      "sha256": "d3e3ef5bd9acfb6cf2c2f2a1efa50efaeff619f9e53d1badeee5199ef31f26b6"
+    },
+    {
+      "fileId": "6a8840ac57a2662b55282d0b",
+      "name": "Уль2.jpg",
+      "size": 80195,
+      "sha256": "d8a10af7e3f74e4002023239306ecd1cfeb5260e8038bc7acfc0eb87549ab1af"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "53.1",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "typeLivingQuarters",
+      "name": "Вид жилого помещения",
+      "value": "доля в квартире",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "77:06:0004001:7774",
+      "source": "structured"
+    },
+    {
+      "key": "shareSizeRealty",
+      "name": "Размер доли (Доля в праве (доля в жилом помещении))",
+      "value": "50",
+      "unit": "%",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:43:13.312Z",
+  "lastSeenAt": "2026-08-25T11:43:13.312Z",
+  "contentHash": "ec2a1d4da792f75a9e368cfc3475ae85016bd9a6ffdf2c5991834ecd50c6709a"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"7 504 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"38 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"1 200 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"24 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"28 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 11:30 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000054780000002372_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"1/2 доля в праве общей долевой собственности на квартиру пл.53,1кв.м по адресу: Российская — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

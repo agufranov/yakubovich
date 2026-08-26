@@ -1,0 +1,131 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000054780000002369_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000054780000002369_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000054780000002369_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"1/5 доля в праве общей долевой собственности на  квартиру пл.37,9кв.м. по адресу: Российская Федерация, г. Москва, вн.тер.г. муниципальный округ Северный, шоссе Челобитьевское, дом 12, корпус 3, квартира 129, к/н 77:02:0025017:2841"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Жилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a86fed2ac85246d2d836be6","alt":"1/5 доля в праве общей долевой собственности на  квартиру пл.37,9кв.м. по адресу: Российская Федерация, г. Москва, вн.тер.г. муниципальный округ Северный, шоссе Челобитьевское, дом 12, корпус 3, квартира 129, к/н 77:02:0025017:2841"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a883fed57a2662b55282c5b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a883fed57a2662b55282c5b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a883fed57a2662b55282c5b","alt":"","loading":"lazy"}]}],["$","a","6a883fedefd603213f12a782",{"href":"https://torgi.gov.ru/new/file-store/v1/6a883fedefd603213f12a782","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a883fedefd603213f12a782","alt":"","loading":"lazy"}]}],["$","a","6a883fed57a2662b55282c5e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a883fed57a2662b55282c5e","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a883fed57a2662b55282c5e","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"1/5 доля в праве общей долевой собственности на  квартиру пл.37,9кв.м. по адресу: Российская Федерация, г. Москва, вн.тер.г. муниципальный округ Северный, шоссе Челобитьевское, дом 12, корпус 3, квартира 129, к/н 77:02:0025017:2841, должник (собственник) Насирова И.Х.К. Фотографии имущества судебным приставом-исполнителем не предоставлены"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["37.9"," м^2 общ. пл"]}]]}],["$","tr","typeLivingQuarters",{"children":[["$","td",null,{"children":"Вид жилого помещения"}],["$","td",null,{"children":["доля в квартире",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["77:02:0025017:2841",""]}]]}],["$","tr","shareSizeRealty",{"children":[["$","td",null,{"children":"Размер доли (Доля в праве (доля в жилом помещении))"}],["$","td",null,{"children":["20"," %"]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Северный, ш. Челобитьевское, дом 12 к. 3, кв. 129"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a86fef0ac85246d2d836c02",{"href":"https://torgi.gov.ru/new/file-store/v1/6a86fef0ac85246d2d836c02","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Л2 26 12 Алт-24.pdf"]}],["$","span",null,{"className":"size","children":"476 КБ"}]]}],["$","a","6a86ff04efd603213f11e396",{"href":"https://torgi.gov.ru/new/file-store/v1/6a86ff04efd603213f11e396","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16"]}]]}],false,"$L17"]}],"$L18"]}]]}]
+11:["$","span",null,{"children":["📎 ","Насирова Ирада Хафиз Кызы Челобитьевское ш. доля тг.pdf"]}]
+12:["$","span",null,{"className":"size","children":"8.5 МБ"}]
+13:["$","a","6a86fed2ac85246d2d836be6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a86fed2ac85246d2d836be6","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","логотип.jpg"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}]
+14:["$","a","6a883fed57a2662b55282c5b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a883fed57a2662b55282c5b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Челоб1.jpeg"]}],["$","span",null,{"className":"size","children":"33 КБ"}]]}]
+15:["$","a","6a883fedefd603213f12a782",{"href":"https://torgi.gov.ru/new/file-store/v1/6a883fedefd603213f12a782","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Челоб2.jpg"]}],["$","span",null,{"className":"size","children":"45 КБ"}]]}]
+16:["$","a","6a883fed57a2662b55282c5e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a883fed57a2662b55282c5e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Челоб3.jpg"]}],["$","span",null,{"className":"size","children":"42 КБ"}]]}]
+19:T1187,{
+  "id": "gis-torgi:23000054780000002369_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000054780000002369_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000054780000002369_1",
+  "title": "1/5 доля в праве общей долевой собственности на  квартиру пл.37,9кв.м. по адресу: Российская Федерация, г. Москва, вн.тер.г. муниципальный округ Северный, шоссе Челобитьевское, дом 12, корпус 3, квартира 129, к/н 77:02:0025017:2841",
+  "description": "1/5 доля в праве общей долевой собственности на  квартиру пл.37,9кв.м. по адресу: Российская Федерация, г. Москва, вн.тер.г. муниципальный округ Северный, шоссе Челобитьевское, дом 12, корпус 3, квартира 129, к/н 77:02:0025017:2841, должник (собственник) Насирова И.Х.К. Фотографии имущества судебным приставом-исполнителем не предоставлены",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "9",
+  "categoryName": "Жилые помещения",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Северный, ш. Челобитьевское, дом 12 к. 3, кв. 129",
+  "priceStart": "1913000.00",
+  "priceStep": "10000",
+  "deposit": "300000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T13:25:56.521Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-24T13:00:00Z",
+  "auctionAt": "2026-09-29T06:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a86fed2ac85246d2d836be6",
+    "6a883fed57a2662b55282c5b",
+    "6a883fedefd603213f12a782",
+    "6a883fed57a2662b55282c5e"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a86fef0ac85246d2d836c02",
+      "name": "Л2 26 12 Алт-24.pdf",
+      "size": 487560,
+      "sha256": "272e9c7fd9fd3d25062cc725c8c8709df5256d9795f9bb3538c635c13aafc9dd"
+    },
+    {
+      "fileId": "6a86ff04efd603213f11e396",
+      "name": "Насирова Ирада Хафиз Кызы Челобитьевское ш. доля тг.pdf",
+      "size": 8862727,
+      "sha256": "ce109c126d16bcd224307b317572dec8f6d89d01628def8dad1da68fc74a512f"
+    },
+    {
+      "fileId": "6a86fed2ac85246d2d836be6",
+      "name": "логотип.jpg",
+      "size": 2433104,
+      "sha256": "cb3680a136b3a2c1dc768159200b5a5ce5f7ccb865480cdd31ddb91f687b81b8"
+    },
+    {
+      "fileId": "6a883fed57a2662b55282c5b",
+      "name": "Челоб1.jpeg",
+      "size": 33645,
+      "sha256": "0e98c4f7b5760ed3a9b7bc18ada1deb3327b17bfc7c5f6fb2b65583dfeaf74b4"
+    },
+    {
+      "fileId": "6a883fedefd603213f12a782",
+      "name": "Челоб2.jpg",
+      "size": 46385,
+      "sha256": "967c82e228cd6209b4d6ea8baec0ffc074eaf6066b4206a67706457631e4e421"
+    },
+    {
+      "fileId": "6a883fed57a2662b55282c5e",
+      "name": "Челоб3.jpg",
+      "size": 43050,
+      "sha256": "9252ded9168c341d3bd978642f64f6054d76d0a334148bf7998885fcae88c90f"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "37.9",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "typeLivingQuarters",
+      "name": "Вид жилого помещения",
+      "value": "доля в квартире",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "77:02:0025017:2841",
+      "source": "structured"
+    },
+    {
+      "key": "shareSizeRealty",
+      "name": "Размер доли (Доля в праве (доля в жилом помещении))",
+      "value": "20",
+      "unit": "%",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:43:30.295Z",
+  "lastSeenAt": "2026-08-25T11:43:30.295Z",
+  "contentHash": "2d0c75e2728297bb1c2bc7ac1bd0dd5c7ab8d1382981b836b5e243d9af3be3b1"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 913 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"10 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"300 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"24 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"28 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 09:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000054780000002369_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"1/5 доля в праве общей долевой собственности на  квартиру пл.37,9кв.м. по адресу: Российск — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

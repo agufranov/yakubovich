@@ -1,0 +1,151 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000025320000000214_2",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000025320000000214_2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000025320000000214_2","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=59","children":"Пермский край"}]]]}],["$","h1",null,{"children":"Погрузчик строительный пневмоколесный фронтальный одноковшовый"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Спецтехника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d1f1957a2662b5529fd96","alt":"Погрузчик строительный пневмоколесный фронтальный одноковшовый"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d1f1957a2662b5529fd97",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1f1957a2662b5529fd97","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d1f1957a2662b5529fd97","alt":"","loading":"lazy"}]}],["$","a","6a8d1f19e096f456f84c3ede",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1f19e096f456f84c3ede","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d1f19e096f456f84c3ede","alt":"","loading":"lazy"}]}],["$","a","6a8d1f19e096f456f84c3ed9",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1f19e096f456f84c3ed9","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d1f19e096f456f84c3ed9","alt":"","loading":"lazy"}]}],["$","a","6a8d1f19e096f456f84c3eda",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1f19e096f456f84c3eda","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d1f19e096f456f84c3eda","alt":"","loading":"lazy"}]}],["$","a","6a8d1f19efd603213f142b50",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1f19efd603213f142b50","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d1f19efd603213f142b50","alt":"","loading":"lazy"}]}],["$","a","6a8d1f1963124f3d8ea66db0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1f1963124f3d8ea66db0","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d1f1963124f3d8ea66db0","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Погрузчик строительный пневмоколесный фронтальный одноковшовый, год выпуска 2023, паспорт транспортного средства (серия, номер) 364301000392505 от 27.01.2023, идентификационный номер (VIN) 1200225, марка ТС ЧЕТРА МКСМ 1200М, модель двигателя Д-243S2-1673, № двигателя 197707, № шасси отсутствует, № кузова 0962/0225, инвентарный номер 11085209020267"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","specEquipmentType",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Погрузчик строительный пневмоколесный фронтальный одноковшовый",""]}]]}],["$","tr","specEquipmentMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["ЧЕТРА МКСМ 1200М",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2023",""]}]]}],["$","tr","specEquipmentModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["ЧЕТРА МКСМ 1200М",""]}]]}],["$","tr","vinFactory",{"children":[["$","td",null,{"children":"VIN (заводской) номер"}],["$","td",null,{"children":["1200225",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Пермский, м.о. Очерский, г. Очер"}]]}],"$L11",false,"$L12"]}],"$L13"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",8,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d201463124f3d8ea66deb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d201463124f3d8ea66deb","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Акт осмотра трактора.pdf"]}],["$","span",null,{"className":"size","children":"567 КБ"}]]}],["$","a","6a8d1f1957a2662b5529fd96",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1f1957a2662b5529fd96","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Погрузчик.jpg"]}],["$","span",null,{"className":"size","children":"192 КБ"}]]}],["$","a","6a8d1f1957a2662b5529fd97",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1f1957a2662b5529fd97","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Погрузчик1.jpg"]}],["$","span",null,{"className":"size","children":"163 КБ"}]]}],["$","a","6a8d1f19e096f456f84c3ede",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1f19e096f456f84c3ede","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Погрузчик2.jpg"]}],["$","span",null,{"className":"size","children":"307 КБ"}]]}],["$","a","6a8d1f19e096f456f84c3ed9",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1f19e096f456f84c3ed9","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Погрузчик3.jpg"]}],["$","span",null,{"className":"size","children":"201 КБ"}]]}],["$","a","6a8d1f19e096f456f84c3eda",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1f19e096f456f84c3eda","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Погрузчик4.jpg"]}],["$","span",null,{"className":"size","children":"250 КБ"}]]}],["$","a","6a8d1f19efd603213f142b50",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1f19efd603213f142b50","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Погрузчик5.jpg"]}],["$","span",null,{"className":"size","children":"300 КБ"}]]}],["$","a","6a8d1f1963124f3d8ea66db0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d1f1963124f3d8ea66db0","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Погрузчик6.jpg"]}],["$","span",null,{"className":"size","children":"314 КБ"}]]}]]}]]}]
+14:T131b,{
+  "id": "gis-torgi:21000025320000000214_2",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000025320000000214_2",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000025320000000214_2",
+  "title": "Погрузчик строительный пневмоколесный фронтальный одноковшовый",
+  "description": "Погрузчик строительный пневмоколесный фронтальный одноковшовый, год выпуска 2023, паспорт транспортного средства (серия, номер) 364301000392505 от 27.01.2023, идентификационный номер (VIN) 1200225, марка ТС ЧЕТРА МКСМ 1200М, модель двигателя Д-243S2-1673, № двигателя 197707, № шасси отсутствует, № кузова 0962/0225, инвентарный номер 11085209020267",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Публичное предложение",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "101",
+  "categoryName": "Спецтехника",
+  "regionCode": "59",
+  "address": "край Пермский, м.о. Очерский, г. Очер",
+  "priceStart": "4065040.00",
+  "priceStep": "203252",
+  "deposit": "406504",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T04:53:07.407Z",
+  "biddStartAt": "2026-08-25T19:00:00Z",
+  "biddEndAt": "2026-09-24T03:00:00Z",
+  "auctionAt": "2026-09-25T04:00:00Z",
+  "tzOffsetMin": 300,
+  "tzName": "МСК+2",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d1f1957a2662b5529fd96",
+    "6a8d1f1957a2662b5529fd97",
+    "6a8d1f19e096f456f84c3ede",
+    "6a8d1f19e096f456f84c3ed9",
+    "6a8d1f19e096f456f84c3eda",
+    "6a8d1f19efd603213f142b50",
+    "6a8d1f1963124f3d8ea66db0"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d201463124f3d8ea66deb",
+      "name": "Акт осмотра трактора.pdf",
+      "size": 580338,
+      "sha256": "a86e1bbfb0c7365acd9aea496dd317433f3a6a27c0dd1391011810a9651ddd1a"
+    },
+    {
+      "fileId": "6a8d1f1957a2662b5529fd96",
+      "name": "Погрузчик.jpg",
+      "size": 196594,
+      "sha256": "881c7229f85eaab8dec83284a21b79cf4f2d79a3fff85be462726459bde3b615"
+    },
+    {
+      "fileId": "6a8d1f1957a2662b5529fd97",
+      "name": "Погрузчик1.jpg",
+      "size": 166442,
+      "sha256": "ac41d686418ab4ca21ef13a01f335a2ede29e78528bc4906bbea85231e52d9e4"
+    },
+    {
+      "fileId": "6a8d1f19e096f456f84c3ede",
+      "name": "Погрузчик2.jpg",
+      "size": 314569,
+      "sha256": "f7d6f3ccb56db118874edcb01f94c06a11bbf3645e42000f24f58597ef847c72"
+    },
+    {
+      "fileId": "6a8d1f19e096f456f84c3ed9",
+      "name": "Погрузчик3.jpg",
+      "size": 205476,
+      "sha256": "0073caa241fec88faad97f9cce634737b4ebbf54bdd2f07b5f8fe73e5f176e57"
+    },
+    {
+      "fileId": "6a8d1f19e096f456f84c3eda",
+      "name": "Погрузчик4.jpg",
+      "size": 256014,
+      "sha256": "bf9a6f4fa1cc8f5c91dc3d1d0cba04f25f9279fbc7946dfbebf8820ba2ea9a29"
+    },
+    {
+      "fileId": "6a8d1f19efd603213f142b50",
+      "name": "Погрузчик5.jpg",
+      "size": 307397,
+      "sha256": "0263896d8569c2e9e5f56b62a3c656e41e11f9c391730c53931f9368842ca941"
+    },
+    {
+      "fileId": "6a8d1f1963124f3d8ea66db0",
+      "name": "Погрузчик6.jpg",
+      "size": 321340,
+      "sha256": "0eb69c042681ccd056ac29fa3d5d42043a67155fb40ec0a4a4246af975acc153"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "specEquipmentType",
+      "name": "Назначение",
+      "value": "Погрузчик строительный пневмоколесный фронтальный одноковшовый",
+      "source": "structured"
+    },
+    {
+      "key": "specEquipmentMarka",
+      "name": "Марка",
+      "value": "ЧЕТРА МКСМ 1200М",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2023",
+      "source": "structured"
+    },
+    {
+      "key": "specEquipmentModel",
+      "name": "Модель",
+      "value": "ЧЕТРА МКСМ 1200М",
+      "source": "structured"
+    },
+    {
+      "key": "vinFactory",
+      "name": "VIN (заводской) номер",
+      "value": "1200225",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:23:25.690Z",
+  "lastSeenAt": "2026-08-25T13:23:25.690Z",
+  "contentHash": "6d8f66a0e7b3c7553da8fe5c12435f6c99457d8c0457a63252c73604816fbf91"
+}12:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$14"}]]}]
+13:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"4 065 040 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"203 252 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"406 504 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 00:00 (МСК+2)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"24 сент. 2026 г., 08:00 (МСК+2)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"28 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 09:00 (МСК+2)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Пермский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000025320000000214_2","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Погрузчик строительный пневмоколесный фронтальный одноковшовый — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

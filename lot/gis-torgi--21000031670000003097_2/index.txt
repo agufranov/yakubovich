@@ -1,0 +1,91 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000031670000003097_2",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000031670000003097_2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000031670000003097_2","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=75","children":"Забайкальский край"}]]]}],["$","h1",null,{"children":"Древесина, которая получена при использовании лесов, расположенных на землях лесного фонда, в соответствии со статьями 43 - 46 Лесного кодекса Российской Федерации в соответствии с постановлением Правительства Российской Федерации от 23.07.2009 № 604"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Торги"}],["$","span",null,{"children":"Древесина"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8cf320e096f456f84c2fa2","alt":"Древесина, которая получена при использовании лесов, расположенных на землях лесного фонда, в соответствии со статьями 43 - 46 Лесного кодекса Российской Федерации в соответствии с постановлением Правительства Российской Федерации от 23.07.2009 № 604"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8cf320e096f456f84c2fa5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cf320e096f456f84c2fa5","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8cf320e096f456f84c2fa5","alt":"","loading":"lazy"}]}],["$","a","6a8cf325e096f456f84c2faa",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cf325e096f456f84c2faa","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8cf325e096f456f84c2faa","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"береза (02.20.12.164) – средняя 102 куб.м., мелкая 78 куб.м., дровяная 539 куб., лиственница (02.20.11.183) – крупная 19 куб.м., средняя 663 куб.м., мелкая 216 куб.м., дровяная 1068 куб., сосна (02.20.11.181) – крупная 4 куб.м., средняя 221 куб.м., мелкая 93 куб.м., дровяная 574 куб., Всего: 3577 куб. м."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","quantityWood",{"children":[["$","td",null,{"children":"Количество и породный состав древесины"}],["$","td",null,{"children":["береза (02.20.12.164) – средняя 102 куб.м., мелкая 78 куб.м., дровяная 539 куб.,\nлиственница (02.20.11.183) – крупная 19 куб.м., средняя 663 куб.м., мелкая 216 куб.м., дровяная 1068 куб.,\nсосна (02.20.11.181) – крупная 4 куб.м., средняя 221 куб.м., мелкая 93 куб.м., дровяная 574 куб.,\nВсего: 3577 куб. м.",""]}]]}],["$","tr","CadnumberForestArea",{"children":[["$","td",null,{"children":"Кадастровый номер лесного участка"}],["$","td",null,{"children":["75:10:680101:341",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Забайкальский Красночикойское лесничество, Гутайское участковое лесничество   Кв.170 ч.в.12,3, кв.192 ч.в. 6,20, кв.194 ч.в.1 Кадастровый номер (номер учетной записи в государственном лесном реестре) 75:10:680101:341, 75:10:680101:344 (№ 24-102 от 06.09.2024 г.)."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8cf320e096f456f84c2fa2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cf320e096f456f84c2fa2","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","image2.jpg"]}],["$","span",null,{"className":"size","children":"145 КБ"}]]}],["$","a","6a8cf320e096f456f84c2fa5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cf320e096f456f84c2fa5","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13"]}]]}],false,"$L14"]}],"$L15"]}]]}]
+11:["$","span",null,{"children":["📎 ","image1.jpg"]}]
+12:["$","span",null,{"className":"size","children":"138 КБ"}]
+13:["$","a","6a8cf325e096f456f84c2faa",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cf325e096f456f84c2faa","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото.jpg"]}],["$","span",null,{"className":"size","children":"583 КБ"}]]}]
+16:Tfc3,{
+  "id": "gis-torgi:21000031670000003097_2",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000031670000003097_2",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000031670000003097_2",
+  "title": "Древесина, которая получена при использовании лесов, расположенных на землях лесного фонда, в соответствии со статьями 43 - 46 Лесного кодекса Российской Федерации в соответствии с постановлением Правительства Российской Федерации от 23.07.2009 № 604",
+  "description": "береза (02.20.12.164) – средняя 102 куб.м., мелкая 78 куб.м., дровяная 539 куб., лиственница (02.20.11.183) – крупная 19 куб.м., средняя 663 куб.м., мелкая 216 куб.м., дровяная 1068 куб., сосна (02.20.11.181) – крупная 4 куб.м., средняя 221 куб.м., мелкая 93 куб.м., дровяная 574 куб., Всего: 3577 куб. м.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "other",
+  "tradeKindRaw": "Сообщение о предоставлении (реализации)",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "other",
+  "categoryCode": "405",
+  "categoryName": "Древесина",
+  "regionCode": "75",
+  "address": "край Забайкальский Красночикойское лесничество, Гутайское участковое лесничество   Кв.170 ч.в.12,3, кв.192 ч.в. 6,20, кв.194 ч.в.1 Кадастровый номер (номер учетной записи в государственном лесном реестре) 75:10:680101:341, 75:10:680101:344 (№ 24-102 от 06.09.2024 г.).",
+  "priceStart": "273029.80",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T01:46:34.754Z",
+  "biddStartAt": "2026-08-26T00:00:00Z",
+  "biddEndAt": "2026-09-08T08:00:00Z",
+  "tzOffsetMin": 540,
+  "tzName": "МСК+6",
+  "images": [
+    "6a8cf320e096f456f84c2fa2",
+    "6a8cf320e096f456f84c2fa5",
+    "6a8cf325e096f456f84c2faa"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8cf320e096f456f84c2fa2",
+      "name": "image2.jpg",
+      "size": 148909,
+      "sha256": "d08f589b99e395dbd07f1a52ac84fb970a1926588a46b51466265049a529e0ac"
+    },
+    {
+      "fileId": "6a8cf320e096f456f84c2fa5",
+      "name": "image1.jpg",
+      "size": 140931,
+      "sha256": "2215f60a78b130b4a424dc8f28dd1dc576ca3f7c80a19f5df17834d0287fdc7b"
+    },
+    {
+      "fileId": "6a8cf325e096f456f84c2faa",
+      "name": "фото.jpg",
+      "size": 596888,
+      "sha256": "83b235acf614a4007e5949ebe82f96467689b823571d367614a0817c1ab5718d"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "quantityWood",
+      "name": "Количество и породный состав древесины",
+      "value": "береза (02.20.12.164) – средняя 102 куб.м., мелкая 78 куб.м., дровяная 539 куб.,\nлиственница (02.20.11.183) – крупная 19 куб.м., средняя 663 куб.м., мелкая 216 куб.м., дровяная 1068 куб.,\nсосна (02.20.11.181) – крупная 4 куб.м., средняя 221 куб.м., мелкая 93 куб.м., дровяная 574 куб.,\nВсего: 3577 куб. м.",
+      "source": "structured"
+    },
+    {
+      "key": "CadnumberForestArea",
+      "name": "Кадастровый номер лесного участка",
+      "value": "75:10:680101:341",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:26:31.772Z",
+  "lastSeenAt": "2026-08-25T13:26:31.772Z",
+  "contentHash": "02ac8348ca1b41a68797551573b7c0782165f19e45a14ddee1ae31063fff7eba"
+}14:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$16"}]]}]
+15:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"273 029,80 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined","$undefined"]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 09:00 (МСК+6)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"8 сент. 2026 г., 17:00 (МСК+6)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"12 дней"}]],"$undefined"]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Забайкальский край"}]],"$undefined"]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000031670000003097_2","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Древесина, которая получена при использовании лесов, расположенных на землях лесного фонда — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,206 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000016080000003952_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000016080000003952_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000016080000003952_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=18","children":"Удмуртия"}]]]}],["$","h1",null,{"children":"Нежилое помещение общей площадью 137,9 кв.м., с кадастровым номером 18:17:108004:215, по адресу: Удмуртская Республика, Можгинский район, с. Черемушки, ул. Макаренко, д. 1, пом. 78,79,80,81."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d72cc63124f3d8ea6cab2","alt":"Нежилое помещение общей площадью 137,9 кв.м., с кадастровым номером 18:17:108004:215, по адресу: Удмуртская Республика, Можгинский район, с. Черемушки, ул. Макаренко, д. 1, пом. 78,79,80,81."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d72cd63124f3d8ea6cabd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72cd63124f3d8ea6cabd","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d72cd63124f3d8ea6cabd","alt":"","loading":"lazy"}]}],["$","a","6a8d72cde096f456f84c946a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72cde096f456f84c946a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d72cde096f456f84c946a","alt":"","loading":"lazy"}]}],["$","a","6a8d72ce63124f3d8ea6cac8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72ce63124f3d8ea6cac8","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d72ce63124f3d8ea6cac8","alt":"","loading":"lazy"}]}],["$","a","6a8d72ce63124f3d8ea6cad3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72ce63124f3d8ea6cad3","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d72ce63124f3d8ea6cad3","alt":"","loading":"lazy"}]}],["$","a","6a8d72ce57a2662b552a56af",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72ce57a2662b552a56af","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d72ce57a2662b552a56af","alt":"","loading":"lazy"}]}],["$","a","6a8d72cf63124f3d8ea6cae0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72cf63124f3d8ea6cae0","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d72cf63124f3d8ea6cae0","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое помещение общей площадью 137,9 кв.м., с кадастровым номером 18:17:108004:215, по адресу: Удмуртская Республика, Можгинский район, с. Черемушки, ул. Макаренко, д. 1, пом. 78,79,80,81."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["Обременения и ограничения не зарегистрированы",""]}]]}],["$","tr","cadastralNumberObjectRealty",{"children":[["$","td",null,{"children":"Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение"}],["$","td",null,{"children":["18:17:108004:206",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["137.9"," м^2 общ. пл"]}]]}],["$","tr","locationObjectRealty",{"children":[["$","td",null,{"children":"Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)"}],"$L11"]}],"$L12","$L13","$L14","$L15"]}]}]]}],"$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","td",null,{"children":["Этаж № 1",""]}]
+12:["$","tr","cadastralValue",{"children":[["$","td",null,{"children":"Кадастровая стоимость"}],["$","td",null,{"children":["1237615.27",""]}]]}]
+13:["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["18:17:108004:215",""]}]]}]
+14:["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["Обременения и ограничения не зарегистрированы",""]}]]}]
+15:["$","tr","typeNolivingQuarters",{"children":[["$","td",null,{"children":"Назначение нежилого помещения"}],["$","td",null,{"children":["Нежилое",""]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"респ. Удмуртская, м.о. Можгинский район, с. Черемушки, ул. Макаренко, дом 1 , пом. 78,79,80,81."}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",14,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d72d7efd603213f147fb8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72d7efd603213f147fb8","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Тех паспорт Магазин СИЗО-3.pdf"]}],["$","span",null,{"className":"size","children":"1.9 МБ"}]]}],["$","a","6a8d72d6efd603213f147fae",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72d6efd603213f147fae","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","П13180000700_stamped.pdf"]}],["$","span",null,{"className":"size","children":"112 КБ"}]]}],["$","a","6a8d72d6e096f456f84c9470",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72d6e096f456f84c9470","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","МЧС.pdf"]}],["$","span",null,{"className":"size","children":"77 КБ"}]]}],["$","a","6a8d72de57a2662b552a56ef",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72de57a2662b552a56ef","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Акт №О-18-20652_24 18.12.2024 09.02.pdf"]}],["$","span",null,{"className":"size","children":"13.3 МБ"}]]}],["$","a","6a8d72d757a2662b552a56b7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72d757a2662b552a56b7","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Агентство.pdf"]}],["$","span",null,{"className":"size","children":"653 КБ"}]]}],["$","a","6a8d72d657a2662b552a56b2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72d657a2662b552a56b2","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ЕГРН 215.pdf"]}],["$","span",null,{"className":"size","children":"137 КБ"}]]}],["$","a","6a8d72dfefd603213f147fbd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72dfefd603213f147fbd","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","РУП, Черемушки, Макаренко 1, МАГАЗИН_(файл отображения).pdf"]}],["$","span",null,{"className":"size","children":"513 КБ"}]]}],["$","a","6a8d72cc63124f3d8ea6cab2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72cc63124f3d8ea6cab2","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","20240917_155818.jpg"]}],["$","span",null,{"className":"size","children":"2.0 МБ"}]]}],["$","a","6a8d72cd63124f3d8ea6cabd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72cd63124f3d8ea6cabd","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","20240917_155811.jpg"]}],["$","span",null,{"className":"size","children":"2.2 МБ"}]]}],["$","a","6a8d72cde096f456f84c946a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72cde096f456f84c946a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","20240917_155805.jpg"]}],["$","span",null,{"className":"size","children":"1.6 МБ"}]]}],["$","a","6a8d72ce63124f3d8ea6cac8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72ce63124f3d8ea6cac8","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","20240917_155744.jpg"]}],["$","span",null,{"className":"size","children":"2.0 МБ"}]]}],["$","a","6a8d72ce63124f3d8ea6cad3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72ce63124f3d8ea6cad3","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","20240917_155715.jpg"]}],["$","span",null,{"className":"size","children":"2.2 МБ"}]]}],["$","a","6a8d72ce57a2662b552a56af",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72ce57a2662b552a56af","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","20240917_155548.jpg"]}],["$","span",null,{"className":"size","children":"3.3 МБ"}]]}],["$","a","6a8d72cf63124f3d8ea6cae0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d72cf63124f3d8ea6cae0","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","20240917_155522.jpg"]}],["$","span",null,{"className":"size","children":"2.6 МБ"}]]}]]}]]}]
+1a:T1bb0,{
+  "id": "gis-torgi:21000016080000003952_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000016080000003952_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000016080000003952_1",
+  "title": "Нежилое помещение общей площадью 137,9 кв.м., с кадастровым номером 18:17:108004:215, по адресу: Удмуртская Республика, Можгинский район, с. Черемушки, ул. Макаренко, д. 1, пом. 78,79,80,81.",
+  "description": "Нежилое помещение общей площадью 137,9 кв.м., с кадастровым номером 18:17:108004:215, по адресу: Удмуртская Республика, Можгинский район, с. Черемушки, ул. Макаренко, д. 1, пом. 78,79,80,81.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Публичное предложение",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "18",
+  "address": "респ. Удмуртская, м.о. Можгинский район, с. Черемушки, ул. Макаренко, дом 1 , пом. 78,79,80,81.",
+  "priceStart": "1391000.00",
+  "priceStep": "10000",
+  "deposit": "139100",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T10:52:34.72Z",
+  "biddStartAt": "2026-08-26T15:00:00Z",
+  "biddEndAt": "2026-09-22T15:00:00Z",
+  "auctionAt": "2026-09-25T07:00:00Z",
+  "tzOffsetMin": 240,
+  "tzName": "МСК+1",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8d72cc63124f3d8ea6cab2",
+    "6a8d72cd63124f3d8ea6cabd",
+    "6a8d72cde096f456f84c946a",
+    "6a8d72ce63124f3d8ea6cac8",
+    "6a8d72ce63124f3d8ea6cad3",
+    "6a8d72ce57a2662b552a56af",
+    "6a8d72cf63124f3d8ea6cae0"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d72d7efd603213f147fb8",
+      "name": "Тех паспорт Магазин СИЗО-3.pdf",
+      "size": 2014903,
+      "sha256": "a128d6f68682f831474ff31e02da6dfc55b6177e26aae75d3275c78cf6203913"
+    },
+    {
+      "fileId": "6a8d72d6efd603213f147fae",
+      "name": "П13180000700_stamped.pdf",
+      "size": 115130,
+      "sha256": "a36ca6021c4154f55f08800920702c575b259c87a573ee0416b7148e5faa2a79"
+    },
+    {
+      "fileId": "6a8d72d6e096f456f84c9470",
+      "name": "МЧС.pdf",
+      "size": 79230,
+      "sha256": "9a4295ab6ab14cb2419a4acbad00b10b39813c03df474ec141deea1a189e4478"
+    },
+    {
+      "fileId": "6a8d72de57a2662b552a56ef",
+      "name": "Акт №О-18-20652_24 18.12.2024 09.02.pdf",
+      "size": 13979513,
+      "sha256": "a268bc1f65e3dbbad6e872a01a4d3862ba7e2a8411708fe763649b8ce35f4f7c"
+    },
+    {
+      "fileId": "6a8d72d757a2662b552a56b7",
+      "name": "Агентство.pdf",
+      "size": 668670,
+      "sha256": "16ad22cb621a5381814e101f9a52717da17c0b2214ff590a3b3d214deaff297e"
+    },
+    {
+      "fileId": "6a8d72d657a2662b552a56b2",
+      "name": "ЕГРН 215.pdf",
+      "size": 139871,
+      "sha256": "58bf93beec735837b72636e4da0148e228c2f307bfe3919f05a34f76bb683d0c"
+    },
+    {
+      "fileId": "6a8d72dfefd603213f147fbd",
+      "name": "РУП, Черемушки, Макаренко 1, МАГАЗИН_(файл отображения).pdf",
+      "size": 525260,
+      "sha256": "27f3128c3634ce450e90439dd94ff0ba9f31a33355bf721dc30a62ac9321c616"
+    },
+    {
+      "fileId": "6a8d72cc63124f3d8ea6cab2",
+      "name": "20240917_155818.jpg",
+      "size": 2147220,
+      "sha256": "f55d374286527d6d761777b692b81bfc13f6389abded6beeea0059eda600a2bb"
+    },
+    {
+      "fileId": "6a8d72cd63124f3d8ea6cabd",
+      "name": "20240917_155811.jpg",
+      "size": 2295456,
+      "sha256": "8a5c5e49abd7c66d26830d25ff4890d71de11b5dd2f376d48864760f1b33be30"
+    },
+    {
+      "fileId": "6a8d72cde096f456f84c946a",
+      "name": "20240917_155805.jpg",
+      "size": 1707823,
+      "sha256": "02888c93f6139f19b56d31e6f74889cd56bf289570525dcc26125cf83ad36aff"
+    },
+    {
+      "fileId": "6a8d72ce63124f3d8ea6cac8",
+      "name": "20240917_155744.jpg",
+      "size": 2124004,
+      "sha256": "92b8428051e57318f09fb2b2606bff58361e51799fcdf066384102051b6e7350"
+    },
+    {
+      "fileId": "6a8d72ce63124f3d8ea6cad3",
+      "name": "20240917_155715.jpg",
+      "size": 2312902,
+      "sha256": "a73761360aac090d1129f7a90289baea949b2891369183abdacc1e8eb4a67a40"
+    },
+    {
+      "fileId": "6a8d72ce57a2662b552a56af",
+      "name": "20240917_155548.jpg",
+      "size": 3506632,
+      "sha256": "f340912b842d26bf0bdc45bc53bb7c2d16cc37f9387c679b1602d5e3582d122e"
+    },
+    {
+      "fileId": "6a8d72cf63124f3d8ea6cae0",
+      "name": "20240917_155522.jpg",
+      "size": 2725590,
+      "sha256": "1029a0199ad35c9f221648a2195b3f122adb25b2fb189a99c5f4d1eee91e0fce"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "Обременения и ограничения не зарегистрированы",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberObjectRealty",
+      "name": "Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение",
+      "value": "18:17:108004:206",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "137.9",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "locationObjectRealty",
+      "name": "Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)",
+      "value": "Этаж № 1",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralValue",
+      "name": "Кадастровая стоимость",
+      "value": "1237615.27",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "18:17:108004:215",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "Обременения и ограничения не зарегистрированы",
+      "source": "structured"
+    },
+    {
+      "key": "typeNolivingQuarters",
+      "name": "Назначение нежилого помещения",
+      "value": "Нежилое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:12:53.365Z",
+  "lastSeenAt": "2026-08-25T13:12:53.365Z",
+  "contentHash": "c522f3ed9c8b3793f48ac979882ce5959b01aae717eee84b501c7c500c2a43d3"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 391 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"10 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"139 100 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 19:00 (МСК+1)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 19:00 (МСК+1)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 11:00 (МСК+1)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Удмуртия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000016080000003952_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое помещение общей площадью 137,9 кв.м., с кадастровым номером 18:17:108004:215, по а — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

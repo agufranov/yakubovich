@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--26000013000000000794_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--26000013000000000794_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--26000013000000000794_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"АМТС GREAT WALL POER, 2023 г.в., VIN LGWDAE195PJ651094"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8a997aac85246d2d847823","alt":"АМТС GREAT WALL POER, 2023 г.в., VIN LGWDAE195PJ651094"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8a997aac85246d2d84781f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8a997aac85246d2d84781f","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8a997aac85246d2d84781f","alt":"","loading":"lazy"}]}],["$","a","6a8a997a57a2662b5528b1ef",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8a997a57a2662b5528b1ef","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8a997a57a2662b5528b1ef","alt":"","loading":"lazy"}]}],["$","a","6a8a997a57a2662b5528b1eb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8a997a57a2662b5528b1eb","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8a997a57a2662b5528b1eb","alt":"","loading":"lazy"}]}],["$","a","6a8a997a63124f3d8ea5457b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8a997a63124f3d8ea5457b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8a997a63124f3d8ea5457b","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"АМТС GREAT WALL POER, 2023 г.в., VIN LGWDAE195PJ651094"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["Легковой автомобиль",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2023",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["LGWDAE195PJ651094",""]}]]}],["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["GREAT WALL",""]}]]}],["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["POER",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г Москва, вн.тер.г. муниципальный округ Марьино, ул Донецкая, дом 40 стр. 15"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",7,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8a992eac85246d2d84781b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8a992eac85246d2d84781b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Кун-9 Документы на Торги.pdf"]}],["$","span",null,{"className":"size","children":"977 КБ"}]]}],["$","a","6a8a992c57a2662b5528b1d8",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8a992c57a2662b5528b1d8","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Поручение.pdf"]}],["$","span",null,{"className":"size","children":"281 КБ"}]]}],["$","a","6a8a997aac85246d2d847823",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8a997aac85246d2d847823","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260608_170451_737.jpg"]}],["$","span",null,{"className":"size","children":"427 КБ"}]]}],["$","a","6a8a997aac85246d2d84781f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8a997aac85246d2d84781f","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15"]}]]}],false,"$L16"]}],"$L17"]}]]}]
+11:["$","span",null,{"children":["📎 ","IMG_20260608_170451_759.jpg"]}]
+12:["$","span",null,{"className":"size","children":"374 КБ"}]
+13:["$","a","6a8a997a57a2662b5528b1ef",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8a997a57a2662b5528b1ef","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260608_170451_769.jpg"]}],["$","span",null,{"className":"size","children":"492 КБ"}]]}]
+14:["$","a","6a8a997a57a2662b5528b1eb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8a997a57a2662b5528b1eb","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260608_170451_773.jpg"]}],["$","span",null,{"className":"size","children":"401 КБ"}]]}]
+15:["$","a","6a8a997a63124f3d8ea5457b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8a997a63124f3d8ea5457b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20260608_170451_782.jpg"]}],["$","span",null,{"className":"size","children":"386 КБ"}]]}]
+18:Tf5f,{
+  "id": "gis-torgi:26000013000000000794_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "26000013000000000794_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/26000013000000000794_1",
+  "title": "АМТС GREAT WALL POER, 2023 г.в., VIN LGWDAE195PJ651094",
+  "description": "АМТС GREAT WALL POER, 2023 г.в., VIN LGWDAE195PJ651094",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "77",
+  "address": "г Москва, вн.тер.г. муниципальный округ Марьино, ул Донецкая, дом 40 стр. 15",
+  "priceStart": "1922700.00",
+  "priceStep": "9613.5",
+  "deposit": "192270",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T11:33:22.575Z",
+  "biddStartAt": "2026-08-25T08:00:00Z",
+  "biddEndAt": "2026-09-22T08:00:00Z",
+  "auctionAt": "2026-09-24T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RAD",
+  "images": [
+    "6a8a997aac85246d2d847823",
+    "6a8a997aac85246d2d84781f",
+    "6a8a997a57a2662b5528b1ef",
+    "6a8a997a57a2662b5528b1eb",
+    "6a8a997a63124f3d8ea5457b"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8a992eac85246d2d84781b",
+      "name": "Кун-9 Документы на Торги.pdf",
+      "size": 1000449,
+      "sha256": "b92b350e650c52882dbf5db97f83739b7b5602c2d8b662bab470ff83ba6e782a"
+    },
+    {
+      "fileId": "6a8a992c57a2662b5528b1d8",
+      "name": "Поручение.pdf",
+      "size": 288236,
+      "sha256": "0a172175c1fa1a9acce334a7890a06bb607d057023b883a6e9272f6fc8e301a4"
+    },
+    {
+      "fileId": "6a8a997aac85246d2d847823",
+      "name": "IMG_20260608_170451_737.jpg",
+      "size": 437312,
+      "sha256": "e41179bd4fb313b48b125e9736c2a1aba058db743e888f810418c0305ac0b043"
+    },
+    {
+      "fileId": "6a8a997aac85246d2d84781f",
+      "name": "IMG_20260608_170451_759.jpg",
+      "size": 383084,
+      "sha256": "52c0f47fc49f6d9f59c2357e63a12cc76a841eb98772b73bff6fc1bd225e1711"
+    },
+    {
+      "fileId": "6a8a997a57a2662b5528b1ef",
+      "name": "IMG_20260608_170451_769.jpg",
+      "size": 504216,
+      "sha256": "01889ab10d651a60ef5aa9ebfaaac9065c829346bfe7d825b843134d9838547f"
+    },
+    {
+      "fileId": "6a8a997a57a2662b5528b1eb",
+      "name": "IMG_20260608_170451_773.jpg",
+      "size": 410281,
+      "sha256": "80b07d4035c0013b7b6ecce725ee7315ca807fbdea0856e546c5ad6d6420ad6f"
+    },
+    {
+      "fileId": "6a8a997a63124f3d8ea5457b",
+      "name": "IMG_20260608_170451_782.jpg",
+      "size": 394918,
+      "sha256": "5aecc07e507fdac4bee87156040bd2d2402f5eb26ddf4f7a28dcad6a88a325f8"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "Легковой автомобиль",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2023",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "LGWDAE195PJ651094",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "GREAT WALL",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "POER",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:47:39.690Z",
+  "lastSeenAt": "2026-08-25T11:47:39.690Z",
+  "contentHash": "b8b6308f13770952c833b2a845b285bcc3f3f437ca31fd435f7631c5d9aaba97"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 922 700 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"9 613,50 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"192 270 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 11:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 11:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"24 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RAD"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/26000013000000000794_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"АМТС GREAT WALL POER, 2023 г.в., VIN LGWDAE195PJ651094 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

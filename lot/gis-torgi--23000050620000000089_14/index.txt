@@ -1,0 +1,162 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000050620000000089_14",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000050620000000089_14","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000050620000000089_14","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"(повт) Д-к Караман Н.С. А/м ИНФИНИТИ QX80, г/в 2017, г/н Н667ТР123, VIN JN1JANZ62U0065261. Обременение:залог,арест, н/ц 2 306 900,00 руб., з-к 461 380,00 руб., ш/а 23 069,00 руб."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2a63124f3d8ea64646","alt":"(повт) Д-к Караман Н.С. А/м ИНФИНИТИ QX80, г/в 2017, г/н Н667ТР123, VIN JN1JANZ62U0065261. Обременение:залог,арест, н/ц 2 306 900,00 руб., з-к 461 380,00 руб., ш/а 23 069,00 руб."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c5c2b57a2662b5529d3fa",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2b57a2662b5529d3fa","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2b57a2662b5529d3fa","alt":"","loading":"lazy"}]}],["$","a","6a8c5c2ae096f456f84c1773",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2ae096f456f84c1773","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2ae096f456f84c1773","alt":"","loading":"lazy"}]}],["$","a","6a8c5c2aefd603213f14015d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2aefd603213f14015d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2aefd603213f14015d","alt":"","loading":"lazy"}]}],["$","a","6a8c5c2b57a2662b5529d3f6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2b57a2662b5529d3f6","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2b57a2662b5529d3f6","alt":"","loading":"lazy"}]}],["$","a","6a8c5c2c63124f3d8ea6464a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2c63124f3d8ea6464a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2c63124f3d8ea6464a","alt":"","loading":"lazy"}]}],["$","a","6a8c5c2befd603213f140160",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2befd603213f140160","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2befd603213f140160","alt":"","loading":"lazy"}]}],["$","a","6a8c5c2befd603213f140163",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2befd603213f140163","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2befd603213f140163","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"(повт) Д-к Караман Н.С. А/м ИНФИНИТИ QX80, г/в 2017, г/н Н667ТР123, VIN JN1JANZ62U0065261. Обременение:залог,арест, н/ц 2 306 900,00 руб., з-к 461 380,00 руб., ш/а 23 069,00 руб."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["Автомобиль",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2017",""]}]]}],["$","tr","regNumber",{"children":[["$","td",null,{"children":"Государственный регистрационный знак"}],["$","td",null,{"children":["Н667ТР123",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["JN1JANZ62U0065261",""]}]]}],"$L11","$L12","$L13"]}]}]]}],"$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["ИНФИНИТИ QX80",""]}]]}]
+12:["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["ИНФИНИТИ QX80",""]}]]}]
+13:["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Краснодарский"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",8,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c5c2a63124f3d8ea64646",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2a63124f3d8ea64646","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_1.jpeg"]}],["$","span",null,{"className":"size","children":"221 КБ"}]]}],["$","a","6a8c5c2b57a2662b5529d3fa",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2b57a2662b5529d3fa","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_2.jpeg"]}],["$","span",null,{"className":"size","children":"286 КБ"}]]}],["$","a","6a8c5c2ae096f456f84c1773",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2ae096f456f84c1773","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_3.jpeg"]}],["$","span",null,{"className":"size","children":"229 КБ"}]]}],["$","a","6a8c5c2aefd603213f14015d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2aefd603213f14015d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_4.jpeg"]}],["$","span",null,{"className":"size","children":"260 КБ"}]]}],["$","a","6a8c5c2b57a2662b5529d3f6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2b57a2662b5529d3f6","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_5.jpeg"]}],["$","span",null,{"className":"size","children":"601 КБ"}]]}],["$","a","6a8c5c2c63124f3d8ea6464a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2c63124f3d8ea6464a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_6.jpeg"]}],["$","span",null,{"className":"size","children":"439 КБ"}]]}],["$","a","6a8c5c2befd603213f140160",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2befd603213f140160","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_7.jpeg"]}],["$","span",null,{"className":"size","children":"230 КБ"}]]}],["$","a","6a8c5c2befd603213f140163",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5c2befd603213f140163","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото_8.jpeg"]}],["$","span",null,{"className":"size","children":"198 КБ"}]]}]]}]]}]
+18:T11eb,{
+  "id": "gis-torgi:23000050620000000089_14",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000050620000000089_14",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000050620000000089_14",
+  "title": "(повт) Д-к Караман Н.С. А/м ИНФИНИТИ QX80, г/в 2017, г/н Н667ТР123, VIN JN1JANZ62U0065261. Обременение:залог,арест, н/ц 2 306 900,00 руб., з-к 461 380,00 руб., ш/а 23 069,00 руб.",
+  "description": "(повт) Д-к Караман Н.С. А/м ИНФИНИТИ QX80, г/в 2017, г/н Н667ТР123, VIN JN1JANZ62U0065261. Обременение:залог,арест, н/ц 2 306 900,00 руб., з-к 461 380,00 руб., ш/а 23 069,00 руб.",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "23",
+  "address": "край Краснодарский",
+  "priceStart": "2306900.00",
+  "priceStep": "23069",
+  "deposit": "461380",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T11:16:39.979Z",
+  "biddStartAt": "2026-08-26T07:00:00Z",
+  "biddEndAt": "2026-09-21T13:00:00Z",
+  "auctionAt": "2026-09-25T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_MMVB",
+  "images": [
+    "6a8c5c2a63124f3d8ea64646",
+    "6a8c5c2b57a2662b5529d3fa",
+    "6a8c5c2ae096f456f84c1773",
+    "6a8c5c2aefd603213f14015d",
+    "6a8c5c2b57a2662b5529d3f6",
+    "6a8c5c2c63124f3d8ea6464a",
+    "6a8c5c2befd603213f140160",
+    "6a8c5c2befd603213f140163"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c5c2a63124f3d8ea64646",
+      "name": "фото_1.jpeg",
+      "size": 225963,
+      "sha256": "cf193b450b34496564ede6c34a35ffa4e2fd7147e83e8840397b6ca234788e26"
+    },
+    {
+      "fileId": "6a8c5c2b57a2662b5529d3fa",
+      "name": "фото_2.jpeg",
+      "size": 293348,
+      "sha256": "7dbc01555144b74528234f09c14853d045430c18b7d5c09ed450a066e061a8c0"
+    },
+    {
+      "fileId": "6a8c5c2ae096f456f84c1773",
+      "name": "фото_3.jpeg",
+      "size": 234232,
+      "sha256": "ff55fd645dc035d9c25893a5f1c6688cc8b875f10e052c3c25f694ca4c795fe4"
+    },
+    {
+      "fileId": "6a8c5c2aefd603213f14015d",
+      "name": "фото_4.jpeg",
+      "size": 266304,
+      "sha256": "175ea757028c10bf55cd923613ac427132ba68ba09fd7883ac4519850402458e"
+    },
+    {
+      "fileId": "6a8c5c2b57a2662b5529d3f6",
+      "name": "фото_5.jpeg",
+      "size": 615934,
+      "sha256": "38032bf99432f83aab768459802d001e1c304628fb361bcb828e62a727accd37"
+    },
+    {
+      "fileId": "6a8c5c2c63124f3d8ea6464a",
+      "name": "фото_6.jpeg",
+      "size": 449353,
+      "sha256": "ed3f465ba390f9470867a8f4bdc9b94730407ad694e17200905b2367ddf4a6cf"
+    },
+    {
+      "fileId": "6a8c5c2befd603213f140160",
+      "name": "фото_7.jpeg",
+      "size": 235808,
+      "sha256": "3c28085b43e934c960ca31ca58bc5c4620fc16b55cf187bf26086163530e4a02"
+    },
+    {
+      "fileId": "6a8c5c2befd603213f140163",
+      "name": "фото_8.jpeg",
+      "size": 202952,
+      "sha256": "4a4a71c3ac6a0df893254e9f2f1739f8841c533cbdde3074968d83596381a10c"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "Автомобиль",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2017",
+      "source": "structured"
+    },
+    {
+      "key": "regNumber",
+      "name": "Государственный регистрационный знак",
+      "value": "Н667ТР123",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "JN1JANZ62U0065261",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "ИНФИНИТИ QX80",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "ИНФИНИТИ QX80",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:23:58.702Z",
+  "lastSeenAt": "2026-08-25T11:23:58.702Z",
+  "contentHash": "9ff1c367acd46b2d06673c1c4ee0002771a6baed2f01df2ccba7119c4fba1922"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"2 306 900 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"23 069 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"461 380 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"25 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"MMVB"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000050620000000089_14","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"(повт) Д-к Караман Н.С. А/м ИНФИНИТИ QX80, г/в 2017, г/н Н667ТР123, VIN JN1JANZ62U0065261. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

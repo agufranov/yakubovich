@@ -1,0 +1,126 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000086100000000588_15",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000086100000000588_15","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000086100000000588_15","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=13","children":"Мордовия"}]]]}],["$","h1",null,{"children":"Объект незавершённого строительства площадью застройки 347 кв.м., степень готовности 92 %"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Объекты незавершенного строительства"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c6b33efd603213f140622","alt":"Объект незавершённого строительства площадью застройки 347 кв.м., степень готовности 92 %"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c6b3357a2662b5529d9a4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c6b3357a2662b5529d9a4","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c6b3357a2662b5529d9a4","alt":"","loading":"lazy"}]}],["$","a","6a8c6b3357a2662b5529d9a5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c6b3357a2662b5529d9a5","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c6b3357a2662b5529d9a5","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Объект незавершённого строительства площадью застройки 347 кв.м., степень готовности 92 %, кад. № 13:12:0136001:726, принадлежит должнику ОАО «Ковылкинский завод строительных материалов», ИНН 1323121621. Разрешение на строительство не выдавалось. Сведения о правах на земельный участок, расположенный под объектом, отсутствуют у организатора торгов. Сведениями о фактическом состоянии объекта недвижимости организатор торгов не располагает. Техническая документация на объект недвижимости и его фотографии отсутствуют у организатора торгов"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","PermittedUse",{"children":[["$","td",null,{"children":"Основной вид разрешенного использования"}],["$","td",null,{"children":["Иной вид",""]}]]}],["$","tr","limitParameters",{"children":[["$","td",null,{"children":"Предельные параметры застройки"}],["$","td",null,{"children":["347",""]}]]}],["$","tr","cadastralNumberZU",{"children":[["$","td",null,{"children":"Кадастровый номер земельного участка"}],["$","td",null,{"children":["13:12:0136001:726",""]}]]}],["$","tr","percCompletionObj",{"children":[["$","td",null,{"children":"Готовность объекта в %"}],["$","td",null,{"children":["92"," %"]}]]}],["$","tr","squareZU1299",{"children":[["$","td",null,{"children":"Площадь земельного участка"}],["$","td",null,{"children":["0"," м^2"]}]]}],["$","tr","placeZU",{"children":[["$","td",null,{"children":"Местоположение земельного участка"}],["$","td",null,{"children":["Ковылкинский р-н, п. Силикатный",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"респ. Мордовия Ковылкинский р-н, п. Силикатный"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c6b3b63124f3d8ea64c1f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c6b3b63124f3d8ea64c1f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","постановление 15.pdf"]}],["$","span",null,{"className":"size","children":"146 КБ"}]]}],["$","a","6a8c6b33efd603213f140622",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c6b33efd603213f140622","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-1.jpg"]}],["$","span",null,{"className":"size","children":"458 КБ"}]]}],"$L11","$L12"]}]]}],false,"$L13"]}],"$L14"]}]]}]
+11:["$","a","6a8c6b3357a2662b5529d9a4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c6b3357a2662b5529d9a4","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-2.jpg"]}],["$","span",null,{"className":"size","children":"451 КБ"}]]}]
+12:["$","a","6a8c6b3357a2662b5529d9a5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c6b3357a2662b5529d9a5","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-3.jpg"]}],["$","span",null,{"className":"size","children":"450 КБ"}]]}]
+15:T11a0,{
+  "id": "gis-torgi:22000086100000000588_15",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000086100000000588_15",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000086100000000588_15",
+  "title": "Объект незавершённого строительства площадью застройки 347 кв.м., степень готовности 92 %",
+  "description": "Объект незавершённого строительства площадью застройки 347 кв.м., степень готовности 92 %, кад. № 13:12:0136001:726, принадлежит должнику ОАО «Ковылкинский завод строительных материалов», ИНН 1323121621. Разрешение на строительство не выдавалось. Сведения о правах на земельный участок, расположенный под объектом, отсутствуют у организатора торгов. Сведениями о фактическом состоянии объекта недвижимости организатор торгов не располагает. Техническая документация на объект недвижимости и его фотографии отсутствуют у организатора торгов",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "206",
+  "categoryName": "Объекты незавершенного строительства",
+  "regionCode": "13",
+  "address": "респ. Мордовия Ковылкинский р-н, п. Силикатный",
+  "priceStart": "4990340.00",
+  "priceStep": "1000",
+  "deposit": "748600",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T16:07:35.078Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-18T15:00:00Z",
+  "auctionAt": "2026-09-24T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8c6b33efd603213f140622",
+    "6a8c6b3357a2662b5529d9a4",
+    "6a8c6b3357a2662b5529d9a5"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c6b3b63124f3d8ea64c1f",
+      "name": "постановление 15.pdf",
+      "size": 149137,
+      "sha256": "2df7eb5dcf043cef158c8643f2564c7037b88c107609c7467cf1cf46ce8887e1"
+    },
+    {
+      "fileId": "6a8c6b33efd603213f140622",
+      "name": "file-1.jpg",
+      "size": 469309,
+      "sha256": "c951184d77e9a9367da86af61e433da2d045ce7b8f8524cac5f0753b6419d52d"
+    },
+    {
+      "fileId": "6a8c6b3357a2662b5529d9a4",
+      "name": "file-2.jpg",
+      "size": 461966,
+      "sha256": "76ef9e1618cf1108bcc4bf81988218315455127dc11f13f0c08adf134e749804"
+    },
+    {
+      "fileId": "6a8c6b3357a2662b5529d9a5",
+      "name": "file-3.jpg",
+      "size": 460561,
+      "sha256": "da501dbe375a0226698e1353d9808f8634ea0aa6f5f29a3f198c9e12d070a592"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "PermittedUse",
+      "name": "Основной вид разрешенного использования",
+      "value": "Иной вид",
+      "source": "structured"
+    },
+    {
+      "key": "limitParameters",
+      "name": "Предельные параметры застройки",
+      "value": "347",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberZU",
+      "name": "Кадастровый номер земельного участка",
+      "value": "13:12:0136001:726",
+      "source": "structured"
+    },
+    {
+      "key": "percCompletionObj",
+      "name": "Готовность объекта в %",
+      "value": "92",
+      "unit": "%",
+      "source": "structured"
+    },
+    {
+      "key": "squareZU1299",
+      "name": "Площадь земельного участка",
+      "value": "0",
+      "unit": "м^2",
+      "source": "structured"
+    },
+    {
+      "key": "placeZU",
+      "name": "Местоположение земельного участка",
+      "value": "Ковылкинский р-н, п. Силикатный",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:36:48.775Z",
+  "lastSeenAt": "2026-08-25T11:36:48.775Z",
+  "contentHash": "09abd16142697e2721300523ca67be66d4a9c89617828a9cc67aeafb4112b339"
+}13:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$15"}]]}]
+14:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"4 990 340 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"1 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"748 600 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"18 сент. 2026 г., 18:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"22 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"24 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Мордовия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000086100000000588_15","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Объект незавершённого строительства площадью застройки 347 кв.м., степень готовности 92 % — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

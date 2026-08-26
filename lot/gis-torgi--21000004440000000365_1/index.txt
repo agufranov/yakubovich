@@ -1,0 +1,161 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000004440000000365_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000004440000000365_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000004440000000365_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=66","children":"Свердловская обл."}]]]}],["$","h1",null,{"children":"Нежилое помещение Общей площадью 250,5 кв. м. Кадастровый номер: 66:61:020001:2082. Адрес (местоположение): Свердловская область, город Серов, улица Центральная, дом 11"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6d39e096f456f84c8eb3","alt":"Нежилое помещение Общей площадью 250,5 кв. м. Кадастровый номер: 66:61:020001:2082. Адрес (местоположение): Свердловская область, город Серов, улица Центральная, дом 11"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d6d39e096f456f84c8ec5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d39e096f456f84c8ec5","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6d39e096f456f84c8ec5","alt":"","loading":"lazy"}]}],["$","a","6a8d6d3b57a2662b552a4efb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3b57a2662b552a4efb","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3b57a2662b552a4efb","alt":"","loading":"lazy"}]}],["$","a","6a8d6d3aefd603213f147af5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3aefd603213f147af5","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3aefd603213f147af5","alt":"","loading":"lazy"}]}],["$","a","6a8d6d3963124f3d8ea6c317",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3963124f3d8ea6c317","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3963124f3d8ea6c317","alt":"","loading":"lazy"}]}],["$","a","6a8d6d39efd603213f147add",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d39efd603213f147add","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6d39efd603213f147add","alt":"","loading":"lazy"}]}],["$","a","6a8d6d3d57a2662b552a4f0f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3d57a2662b552a4f0f","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3d57a2662b552a4f0f","alt":"","loading":"lazy"}]}],["$","a","6a8d6d3e63124f3d8ea6c33d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3e63124f3d8ea6c33d","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3e63124f3d8ea6c33d","alt":"","loading":"lazy"}]}],["$","a","6a8d6d3d63124f3d8ea6c329",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3d63124f3d8ea6c329","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3d63124f3d8ea6c329","alt":"","loading":"lazy"}]}],["$","a","6a8d6d3de096f456f84c8ed9",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3de096f456f84c8ed9","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3de096f456f84c8ed9","alt":"","loading":"lazy"}]}],["$","a","6a8d6d4a63124f3d8ea6c35e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d4a63124f3d8ea6c35e","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6d4a63124f3d8ea6c35e","alt":"","loading":"lazy"}]}],["$","a","6a8d6d3f57a2662b552a4f21",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3f57a2662b552a4f21","target":"_blank","rel":"noopener","children":"$L11"}]]}]]}],"$L12","$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3f57a2662b552a4f21","alt":"","loading":"lazy"}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое помещение Общей площадью 250,5 кв. м. Кадастровый номер: 66:61:020001:2082. Адрес (местоположение): Свердловская область, город Серов, улица Центральная, дом 11"}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["250.5"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["66:61:020001:2082",""]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Свердловская, м.о. Серовский, г. Серов, ул. Центральная, дом 11"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",12,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d6d39e096f456f84c8eb3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d39e096f456f84c8eb3","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_6858 (6).jpg"]}],["$","span",null,{"className":"size","children":"3.6 МБ"}]]}],["$","a","6a8d6d39e096f456f84c8ec5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d39e096f456f84c8ec5","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_6859.jpg"]}],["$","span",null,{"className":"size","children":"3.8 МБ"}]]}],["$","a","6a8d6d3b57a2662b552a4efb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3b57a2662b552a4efb","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_6860.jpg"]}],["$","span",null,{"className":"size","children":"5.0 МБ"}]]}],["$","a","6a8d6d3aefd603213f147af5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3aefd603213f147af5","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_6861 (1).jpg"]}],["$","span",null,{"className":"size","children":"5.4 МБ"}]]}],["$","a","6a8d6d3963124f3d8ea6c317",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3963124f3d8ea6c317","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_6862.jpg"]}],["$","span",null,{"className":"size","children":"3.1 МБ"}]]}],["$","a","6a8d6d39efd603213f147add",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d39efd603213f147add","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_6865.jpg"]}],["$","span",null,{"className":"size","children":"2.5 МБ"}]]}],["$","a","6a8d6d3d57a2662b552a4f0f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3d57a2662b552a4f0f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_6867.jpg"]}],["$","span",null,{"className":"size","children":"4.4 МБ"}]]}],["$","a","6a8d6d3e63124f3d8ea6c33d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3e63124f3d8ea6c33d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_6869.jpg"]}],["$","span",null,{"className":"size","children":"4.4 МБ"}]]}],["$","a","6a8d6d3d63124f3d8ea6c329",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3d63124f3d8ea6c329","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_6870.jpg"]}],["$","span",null,{"className":"size","children":"3.8 МБ"}]]}],["$","a","6a8d6d3de096f456f84c8ed9",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3de096f456f84c8ed9","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_6871 (1).jpg"]}],["$","span",null,{"className":"size","children":"3.6 МБ"}]]}],["$","a","6a8d6d4a63124f3d8ea6c35e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d4a63124f3d8ea6c35e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_6872 (6).jpg"]}],["$","span",null,{"className":"size","children":"3.7 МБ"}]]}],["$","a","6a8d6d3f57a2662b552a4f21",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d6d3f57a2662b552a4f21","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","центральная 11.jpg"]}],["$","span",null,{"className":"size","children":"3.9 МБ"}]]}]]}]]}]
+18:T13bb,{
+  "id": "gis-torgi:21000004440000000365_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000004440000000365_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000004440000000365_1",
+  "title": "Нежилое помещение Общей площадью 250,5 кв. м. Кадастровый номер: 66:61:020001:2082. Адрес (местоположение): Свердловская область, город Серов, улица Центральная, дом 11",
+  "description": "Нежилое помещение Общей площадью 250,5 кв. м. Кадастровый номер: 66:61:020001:2082. Адрес (местоположение): Свердловская область, город Серов, улица Центральная, дом 11",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "66",
+  "address": "обл. Свердловская, м.о. Серовский, г. Серов, ул. Центральная, дом 11",
+  "priceStart": "794340.00",
+  "priceStep": "39717",
+  "deposit": "79434",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T10:29:53.326Z",
+  "biddStartAt": "2026-08-25T14:00:00Z",
+  "biddEndAt": "2026-09-20T06:00:00Z",
+  "auctionAt": "2026-09-25T05:00:00Z",
+  "tzOffsetMin": 300,
+  "tzName": "МСК+2",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d6d39e096f456f84c8eb3",
+    "6a8d6d39e096f456f84c8ec5",
+    "6a8d6d3b57a2662b552a4efb",
+    "6a8d6d3aefd603213f147af5",
+    "6a8d6d3963124f3d8ea6c317",
+    "6a8d6d39efd603213f147add",
+    "6a8d6d3d57a2662b552a4f0f",
+    "6a8d6d3e63124f3d8ea6c33d",
+    "6a8d6d3d63124f3d8ea6c329",
+    "6a8d6d3de096f456f84c8ed9",
+    "6a8d6d4a63124f3d8ea6c35e",
+    "6a8d6d3f57a2662b552a4f21"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d6d39e096f456f84c8eb3",
+      "name": "IMG_6858 (6).jpg",
+      "size": 3782347,
+      "sha256": "22654a477b0f400636831ce97d562ecea9ab3b3f0dd6aac368e934ba79ada3e9"
+    },
+    {
+      "fileId": "6a8d6d39e096f456f84c8ec5",
+      "name": "IMG_6859.jpg",
+      "size": 4027897,
+      "sha256": "cc02f4245fe9e7b1537cb513cafef14134f93acf2d0372074bb34c3b688cdd99"
+    },
+    {
+      "fileId": "6a8d6d3b57a2662b552a4efb",
+      "name": "IMG_6860.jpg",
+      "size": 5203363,
+      "sha256": "0006dd6b96d64a5fa54528b6a671a0bf1e9df02da00f6b7e9a800995402c1c62"
+    },
+    {
+      "fileId": "6a8d6d3aefd603213f147af5",
+      "name": "IMG_6861 (1).jpg",
+      "size": 5668044,
+      "sha256": "87847b19141a14c4b3224135330a8c887ccfef0e16b66a02416326f7da3265b8"
+    },
+    {
+      "fileId": "6a8d6d3963124f3d8ea6c317",
+      "name": "IMG_6862.jpg",
+      "size": 3203046,
+      "sha256": "17e2dcc2a836ae382edaa1d50de55845a2e874c654f8f17519bf63bc93bc906f"
+    },
+    {
+      "fileId": "6a8d6d39efd603213f147add",
+      "name": "IMG_6865.jpg",
+      "size": 2603024,
+      "sha256": "667d2a4d2323dcb285a7981495a7b51b422ff819c5561fc8bb50805d4bfe2f9b"
+    },
+    {
+      "fileId": "6a8d6d3d57a2662b552a4f0f",
+      "name": "IMG_6867.jpg",
+      "size": 4623216,
+      "sha256": "98d2728a2f83181d58b98cad3c6814aba78b4e74acb3814d67ed81fb615880c7"
+    },
+    {
+      "fileId": "6a8d6d3e63124f3d8ea6c33d",
+      "name": "IMG_6869.jpg",
+      "size": 4610938,
+      "sha256": "6cf508b1f2c013232e1ada1338fa00c7c66386a0fbcea91987a2f71643910092"
+    },
+    {
+      "fileId": "6a8d6d3d63124f3d8ea6c329",
+      "name": "IMG_6870.jpg",
+      "size": 3963500,
+      "sha256": "00fd2a24383c4488fc6e284635c0cc52eeef5ddfc7601116d258c9565a004221"
+    },
+    {
+      "fileId": "6a8d6d3de096f456f84c8ed9",
+      "name": "IMG_6871 (1).jpg",
+      "size": 3786558,
+      "sha256": "4097934b07645b03cbcb351609007e96d6671fc2e2547a887eff4d3cb360b848"
+    },
+    {
+      "fileId": "6a8d6d4a63124f3d8ea6c35e",
+      "name": "IMG_6872 (6).jpg",
+      "size": 3903746,
+      "sha256": "481f77bd28cf05dea89e10fc00247841210b32df0ba26ad6dfa2a0b2fd7a4b60"
+    },
+    {
+      "fileId": "6a8d6d3f57a2662b552a4f21",
+      "name": "центральная 11.jpg",
+      "size": 4133337,
+      "sha256": "131e97fb88af4bf9129d9c5aba9db142db9fba4c245dd533ea1ea378179df06f"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "250.5",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "66:61:020001:2082",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:13:40.648Z",
+  "lastSeenAt": "2026-08-25T13:13:40.648Z",
+  "contentHash": "6fa0c71fa93b714b52a564d869258c9dd1dba5105383217ce9a2c3f1e1afd01f"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"794 340 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"39 717 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"79 434 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 19:00 (МСК+2)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"20 сент. 2026 г., 11:00 (МСК+2)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"24 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 10:00 (МСК+2)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Свердловская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000004440000000365_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое помещение Общей площадью 250,5 кв. м. Кадастровый номер: 66:61:020001:2082. Адрес  — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

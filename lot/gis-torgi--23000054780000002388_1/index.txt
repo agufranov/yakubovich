@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000054780000002388_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000054780000002388_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000054780000002388_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"квартира пл.60,1кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Чертаново Северное, проезд Сумской, дом 17, корпус 2, квартира 115, к/н 77:05:0006004:19434"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Жилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a880292efd603213f12495e","alt":"квартира пл.60,1кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Чертаново Северное, проезд Сумской, дом 17, корпус 2, квартира 115, к/н 77:05:0006004:19434"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8802a363124f3d8ea49da0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8802a363124f3d8ea49da0","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8802a363124f3d8ea49da0","alt":"","loading":"lazy"}]}],["$","a","6a8802a357a2662b5527db51",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8802a357a2662b5527db51","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8802a357a2662b5527db51","alt":"","loading":"lazy"}]}],["$","a","6a8802a363124f3d8ea49da1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8802a363124f3d8ea49da1","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8802a363124f3d8ea49da1","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"квартира пл.60,1кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Чертаново Северное, проезд Сумской, дом 17, корпус 2, квартира 115, к/н 77:05:0006004:19434, должник (собственник): Гудина О.В. Фотографии имущества судебным приставом-исполнителем не предоставлены"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["60.1"," м^2 общ. пл"]}]]}],["$","tr","typeLivingQuarters",{"children":[["$","td",null,{"children":"Вид жилого помещения"}],["$","td",null,{"children":["квартира",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["77:05:0006004:19434",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Чертаново Северное, пр-д Сумской, дом 17 к. 2, кв. 115"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8802b8efd603213f12498a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8802b8efd603213f12498a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Л2 26 18 Черт-70.pdf"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}],["$","a","6a8802c557a2662b5527dba3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8802c557a2662b5527dba3","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Гудина Ольга Владимировна Сумской пр. тг.pdf"]}],["$","span",null,{"className":"size","children":"8.4 МБ"}]]}],["$","a","6a880292efd603213f12495e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a880292efd603213f12495e","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15"]}]]}],false,"$L16"]}],"$L17"]}]]}]
+11:["$","span",null,{"children":["📎 ","логотип.jpg"]}]
+12:["$","span",null,{"className":"size","children":"2.3 МБ"}]
+13:["$","a","6a8802a363124f3d8ea49da0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8802a363124f3d8ea49da0","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Сум1.jpeg"]}],["$","span",null,{"className":"size","children":"42 КБ"}]]}]
+14:["$","a","6a8802a357a2662b5527db51",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8802a357a2662b5527db51","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Сум2.jpeg"]}],["$","span",null,{"className":"size","children":"21 КБ"}]]}]
+15:["$","a","6a8802a363124f3d8ea49da1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8802a363124f3d8ea49da1","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Сум3.jpeg"]}],["$","span",null,{"className":"size","children":"28 КБ"}]]}]
+18:Tff8,{
+  "id": "gis-torgi:23000054780000002388_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000054780000002388_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000054780000002388_1",
+  "title": "квартира пл.60,1кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Чертаново Северное, проезд Сумской, дом 17, корпус 2, квартира 115, к/н 77:05:0006004:19434",
+  "description": "квартира пл.60,1кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Чертаново Северное, проезд Сумской, дом 17, корпус 2, квартира 115, к/н 77:05:0006004:19434, должник (собственник): Гудина О.В. Фотографии имущества судебным приставом-исполнителем не предоставлены",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "9",
+  "categoryName": "Жилые помещения",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Чертаново Северное, пр-д Сумской, дом 17 к. 2, кв. 115",
+  "priceStart": "16031100.00",
+  "priceStep": "81000",
+  "deposit": "2500000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T14:03:54.856Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-24T13:00:00Z",
+  "auctionAt": "2026-09-29T06:30:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RAD",
+  "images": [
+    "6a880292efd603213f12495e",
+    "6a8802a363124f3d8ea49da0",
+    "6a8802a357a2662b5527db51",
+    "6a8802a363124f3d8ea49da1"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8802b8efd603213f12498a",
+      "name": "Л2 26 18 Черт-70.pdf",
+      "size": 2373788,
+      "sha256": "2b8d7c2f0961f03441c43f492bc3c4ea769b9e67c079f93327b8c6c2d086dff8"
+    },
+    {
+      "fileId": "6a8802c557a2662b5527dba3",
+      "name": "Гудина Ольга Владимировна Сумской пр. тг.pdf",
+      "size": 8837110,
+      "sha256": "66b1de7d0a53751560f0c30f22279107c44388ff85facc1cab9e304b61c1abde"
+    },
+    {
+      "fileId": "6a880292efd603213f12495e",
+      "name": "логотип.jpg",
+      "size": 2433104,
+      "sha256": "cb3680a136b3a2c1dc768159200b5a5ce5f7ccb865480cdd31ddb91f687b81b8"
+    },
+    {
+      "fileId": "6a8802a363124f3d8ea49da0",
+      "name": "Сум1.jpeg",
+      "size": 42860,
+      "sha256": "2c039a62ecaa361e0ec2a17cb6e0d1c270f7d83cc05158ed136ba24f09768108"
+    },
+    {
+      "fileId": "6a8802a357a2662b5527db51",
+      "name": "Сум2.jpeg",
+      "size": 21515,
+      "sha256": "7db3206ca9b11e282163e73e18e3546b0b3faef67b2c7c1d03c0642a7b023565"
+    },
+    {
+      "fileId": "6a8802a363124f3d8ea49da1",
+      "name": "Сум3.jpeg",
+      "size": 29013,
+      "sha256": "8e0ebd273b9180ec059aed3fff5a158466f97be9cc6f1c73f246faed5b1cf3cd"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "60.1",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "typeLivingQuarters",
+      "name": "Вид жилого помещения",
+      "value": "квартира",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "77:05:0006004:19434",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:40:24.225Z",
+  "lastSeenAt": "2026-08-25T11:40:24.225Z",
+  "contentHash": "9210715ed45648b998199c615d3ed6ad54b9513a8e6942147cf42a843f155116"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"16 031 100 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"81 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"2 500 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"24 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"28 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 09:30 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RAD"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000054780000002388_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"квартира пл.60,1кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальны — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,137 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000054780000002377_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000054780000002377_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000054780000002377_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"квартира пл.42,5кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Орехово-Борисово Южное, бульвар Ореховый, дом 12, корпус 2, квартира 137, к/н 77:05:0011003:6141"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Жилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87ea2c57a2662b5527b53c","alt":"квартира пл.42,5кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Орехово-Борисово Южное, бульвар Ореховый, дом 12, корпус 2, квартира 137, к/н 77:05:0011003:6141"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a87ea42efd603213f122921",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ea42efd603213f122921","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87ea42efd603213f122921","alt":"","loading":"lazy"}]}],["$","a","6a87ea4357a2662b5527b61b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ea4357a2662b5527b61b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87ea4357a2662b5527b61b","alt":"","loading":"lazy"}]}],["$","a","6a87ea4363124f3d8ea47c59",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ea4363124f3d8ea47c59","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87ea4363124f3d8ea47c59","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"квартира пл.42,5кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Орехово-Борисово Южное, бульвар Ореховый, дом 12, корпус 2, квартира 137, к/н 77:05:0011003:6141, должник (собственник): Ахмедзаде В. Фотографии имущества судебным приставом-исполнителем не предоставлены"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["42.5"," м^2 общ. пл"]}]]}],["$","tr","typeLivingQuarters",{"children":[["$","td",null,{"children":"Вид жилого помещения"}],["$","td",null,{"children":["квартира",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["77:05:0011003:6141",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Митино, ш. Пятницкое, дом 47"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",8,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a87ea5c63124f3d8ea47c70",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ea5c63124f3d8ea47c70","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Л2 26 17 Цар-74.pdf"]}],["$","span",null,{"className":"size","children":"498 КБ"}]]}],["$","a","6a87ea7663124f3d8ea47cb2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ea7663124f3d8ea47cb2","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Ахмедзаде Вагиф кв-ра Ореховый бул.pdf"]}],["$","span",null,{"className":"size","children":"9.8 МБ"}]]}],["$","a","6a87ea72ac85246d2d83a8cc",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ea72ac85246d2d83a8cc","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17"]}]]}],false,"$L18"]}],"$L19"]}]]}]
+11:["$","span",null,{"children":["📎 ","Ахмедзаде Вагиф ЕГРН кв-ра Ореховый бул.pdf"]}]
+12:["$","span",null,{"className":"size","children":"1.9 МБ"}]
+13:["$","a","6a8835feefd603213f1295a7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8835feefd603213f1295a7","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","снижение Ахмедзаде Цар-74.pdf"]}],["$","span",null,{"className":"size","children":"829 КБ"}]]}]
+14:["$","a","6a87ea2c57a2662b5527b53c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ea2c57a2662b5527b53c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","логотип.jpg"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}]
+15:["$","a","6a87ea42efd603213f122921",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ea42efd603213f122921","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Орех1.jpg"]}],["$","span",null,{"className":"size","children":"65 КБ"}]]}]
+16:["$","a","6a87ea4357a2662b5527b61b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ea4357a2662b5527b61b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Орех2.jpg"]}],["$","span",null,{"className":"size","children":"104 КБ"}]]}]
+17:["$","a","6a87ea4363124f3d8ea47c59",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87ea4363124f3d8ea47c59","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Орех3.jpeg"]}],["$","span",null,{"className":"size","children":"22 КБ"}]]}]
+1a:T11c1,{
+  "id": "gis-torgi:23000054780000002377_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000054780000002377_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000054780000002377_1",
+  "title": "квартира пл.42,5кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Орехово-Борисово Южное, бульвар Ореховый, дом 12, корпус 2, квартира 137, к/н 77:05:0011003:6141",
+  "description": "квартира пл.42,5кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Орехово-Борисово Южное, бульвар Ореховый, дом 12, корпус 2, квартира 137, к/н 77:05:0011003:6141, должник (собственник): Ахмедзаде В. Фотографии имущества судебным приставом-исполнителем не предоставлены",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "9",
+  "categoryName": "Жилые помещения",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Митино, ш. Пятницкое, дом 47",
+  "priceStart": "10673110.00",
+  "priceStep": "54000",
+  "deposit": "500000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T13:44:13.972Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-03T13:00:00Z",
+  "auctionAt": "2026-09-08T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RAD",
+  "images": [
+    "6a87ea2c57a2662b5527b53c",
+    "6a87ea42efd603213f122921",
+    "6a87ea4357a2662b5527b61b",
+    "6a87ea4363124f3d8ea47c59"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a87ea5c63124f3d8ea47c70",
+      "name": "Л2 26 17 Цар-74.pdf",
+      "size": 510172,
+      "sha256": "fe4a5ffdd2c517c2c0890352f8d60a2951a2c158f72321dcfe56c42cdd5e3ee6"
+    },
+    {
+      "fileId": "6a87ea7663124f3d8ea47cb2",
+      "name": "Ахмедзаде Вагиф кв-ра Ореховый бул.pdf",
+      "size": 10235264,
+      "sha256": "d6bf9b6c416b5e14cd84cf5adee0ffd635d5b2f19e3b84ca4d2ac5ae2e4ed8ac"
+    },
+    {
+      "fileId": "6a87ea72ac85246d2d83a8cc",
+      "name": "Ахмедзаде Вагиф ЕГРН кв-ра Ореховый бул.pdf",
+      "size": 1990750,
+      "sha256": "68f19acaec41681b0d99f13ab560b5a90ff57df271332606e04d33de8ec862f9"
+    },
+    {
+      "fileId": "6a8835feefd603213f1295a7",
+      "name": "снижение Ахмедзаде Цар-74.pdf",
+      "size": 848710,
+      "sha256": "17d59fc6176bd6d91bba7888c41443a72ab81fb563aa49621771f97b222ca61d"
+    },
+    {
+      "fileId": "6a87ea2c57a2662b5527b53c",
+      "name": "логотип.jpg",
+      "size": 2433104,
+      "sha256": "cb3680a136b3a2c1dc768159200b5a5ce5f7ccb865480cdd31ddb91f687b81b8"
+    },
+    {
+      "fileId": "6a87ea42efd603213f122921",
+      "name": "Орех1.jpg",
+      "size": 66981,
+      "sha256": "6e79278cbe83a41d3e504d1b341503b13768b9077744e6b428ddb516b7eea3a3"
+    },
+    {
+      "fileId": "6a87ea4357a2662b5527b61b",
+      "name": "Орех2.jpg",
+      "size": 106836,
+      "sha256": "b077d23e8d422f6345357fb14e426e6540fa7d34f7bcc3cd058e9b9f2ce594c5"
+    },
+    {
+      "fileId": "6a87ea4363124f3d8ea47c59",
+      "name": "Орех3.jpeg",
+      "size": 22857,
+      "sha256": "31786726febc8f323dde59d9b0412f7d8edc4598f9a244f55a71532122490ac4"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "42.5",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "typeLivingQuarters",
+      "name": "Вид жилого помещения",
+      "value": "квартира",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "77:05:0011003:6141",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:42:33.382Z",
+  "lastSeenAt": "2026-08-25T11:42:33.382Z",
+  "contentHash": "c606b2d80555115b239cb6b6412705493d870f8a7132d59f9038c6799dd11433"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"10 673 110 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"54 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"500 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"3 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"7 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"8 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RAD"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000054780000002377_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"квартира пл.42,5кв.м по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальны — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

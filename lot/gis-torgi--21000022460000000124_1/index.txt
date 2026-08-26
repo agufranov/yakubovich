@@ -1,0 +1,221 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000022460000000124_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000022460000000124_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000022460000000124_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=70","children":"Томская обл."}]]]}],["$","h1",null,{"children":"Помещение, площадь 25,1 кв. м, этаж N 01, кадастровый номер 70:19:0000001:5365. Адрес: Российская Федерация, Томская область, Колпашевский муниципальный район, Колпашевское городское поселение, г. Колпашево, ул. М.Горького, д. 21/2, помещение 1"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a69adebf4fed970e8e9b639","alt":"Помещение, площадь 25,1 кв. м, этаж N 01, кадастровый номер 70:19:0000001:5365. Адрес: Российская Федерация, Томская область, Колпашевский муниципальный район, Колпашевское городское поселение, г. Колпашево, ул. М.Горького, д. 21/2, помещение 1"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a69adecfa92be5dbd024218",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adecfa92be5dbd024218","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a69adecfa92be5dbd024218","alt":"","loading":"lazy"}]}],["$","a","6a69adec75591717f5a9199e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adec75591717f5a9199e","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a69adec75591717f5a9199e","alt":"","loading":"lazy"}]}],["$","a","6a69adec75591717f5a9199b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adec75591717f5a9199b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a69adec75591717f5a9199b","alt":"","loading":"lazy"}]}],["$","a","6a69adec75591717f5a919a1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adec75591717f5a919a1","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a69adec75591717f5a919a1","alt":"","loading":"lazy"}]}],["$","a","6a69adec75591717f5a919a4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adec75591717f5a919a4","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a69adec75591717f5a919a4","alt":"","loading":"lazy"}]}],["$","a","6a69adec5ff0f122a60762a7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adec5ff0f122a60762a7","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a69adec5ff0f122a60762a7","alt":"","loading":"lazy"}]}],["$","a","6a69adedfa92be5dbd02421b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adedfa92be5dbd02421b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a69adedfa92be5dbd02421b","alt":"","loading":"lazy"}]}],["$","a","6a69adee5ff0f122a60762b5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adee5ff0f122a60762b5","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a69adee5ff0f122a60762b5","alt":"","loading":"lazy"}]}],["$","a","6a69adec5ff0f122a60762aa",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adec5ff0f122a60762aa","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a69adec5ff0f122a60762aa","alt":"","loading":"lazy"}]}],["$","a","6a69aded5ff0f122a60762ad",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69aded5ff0f122a60762ad","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a69aded5ff0f122a60762ad","alt":"","loading":"lazy"}]}],"$L11"]}]]}],"$L12","$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","a","6a69aded75591717f5a919aa",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69aded75591717f5a919aa","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a69aded75591717f5a919aa","alt":"","loading":"lazy"}]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Помещение, назначение: нежилое, площадь 25,1 кв. м, этаж № 01, кадастровый номер 70:19:0000001:5365, расположенное по адресу: Российская Федерация, Томская область, Колпашевский муниципальный район, Колпашевское городское поселение, г.Колпашево, ул. М.Горького, д. 21/2, помещение 1"}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["1960",""]}]]}],["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["отсутствуют",""]}]]}],["$","tr","cadastralNumberObjectRealty",{"children":[["$","td",null,{"children":"Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение"}],["$","td",null,{"children":["70:19:0000001:7058",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["25.1"," м^2 общ. пл"]}]]}],["$","tr","locationObjectRealty",{"children":[["$","td",null,{"children":"Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)"}],["$","td",null,{"children":["этаж № 01",""]}]]}],["$","tr","cadastralValue",{"children":[["$","td",null,{"children":"Кадастровая стоимость"}],["$","td",null,{"children":["222878.46",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["70:19:0000001:5365",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["отсутствуют",""]}]]}],["$","tr","typeNolivingQuarters",{"children":[["$","td",null,{"children":"Назначение нежилого помещения"}],["$","td",null,{"children":["нежилое",""]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Томская, м.р-н Колпашевский, г.п. Колпашевское, г. Колпашево ул. М. Горького, д.21/2, пом.1"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",15,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a69abcbfa92be5dbd02401c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69abcbfa92be5dbd02401c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","27.07.2026 выписка из ЕГРН помещение Колпашево, ул.М.Горького, 21 2, пом.1.pdf"]}],["$","span",null,{"className":"size","children":"145 КБ"}]]}],["$","a","6a69abdefa92be5dbd024029",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69abdefa92be5dbd024029","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Техпаспорт от 25.12.2009.PDF"]}],["$","span",null,{"className":"size","children":"367 КБ"}]]}],["$","a","6a69abdf5ff0f122a6076055",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69abdf5ff0f122a6076055","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Уведомление о переводе жилого в нежилое.PDF"]}],["$","span",null,{"className":"size","children":"332 КБ"}]]}],["$","a","6a69adebf4fed970e8e9b639",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adebf4fed970e8e9b639","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1.jpg"]}],["$","span",null,{"className":"size","children":"201 КБ"}]]}],["$","a","6a69adecfa92be5dbd024218",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adecfa92be5dbd024218","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","15.jpg"]}],["$","span",null,{"className":"size","children":"208 КБ"}]]}],["$","a","6a69adec75591717f5a9199e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adec75591717f5a9199e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","9.jpg"]}],["$","span",null,{"className":"size","children":"173 КБ"}]]}],["$","a","6a69adec75591717f5a9199b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adec75591717f5a9199b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","10.jpg"]}],["$","span",null,{"className":"size","children":"158 КБ"}]]}],["$","a","6a69adec75591717f5a919a1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adec75591717f5a919a1","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","3.jpg"]}],["$","span",null,{"className":"size","children":"174 КБ"}]]}],["$","a","6a69adec75591717f5a919a4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adec75591717f5a919a4","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","4.jpg"]}],["$","span",null,{"className":"size","children":"170 КБ"}]]}],["$","a","6a69adec5ff0f122a60762a7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adec5ff0f122a60762a7","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","11.jpg"]}],["$","span",null,{"className":"size","children":"165 КБ"}]]}],["$","a","6a69adedfa92be5dbd02421b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adedfa92be5dbd02421b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","12.jpg"]}],["$","span",null,{"className":"size","children":"180 КБ"}]]}],["$","a","6a69adee5ff0f122a60762b5",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adee5ff0f122a60762b5","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","7.jpg"]}],["$","span",null,{"className":"size","children":"149 КБ"}]]}],["$","a","6a69adec5ff0f122a60762aa",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69adec5ff0f122a60762aa","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","13.jpg"]}],["$","span",null,{"className":"size","children":"131 КБ"}]]}],["$","a","6a69aded5ff0f122a60762ad",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69aded5ff0f122a60762ad","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","14.jpg"]}],["$","span",null,{"className":"size","children":"156 КБ"}]]}],["$","a","6a69aded75591717f5a919aa",{"href":"https://torgi.gov.ru/new/file-store/v1/6a69aded75591717f5a919aa","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","8.jpg"]}],["$","span",null,{"className":"size","children":"213 КБ"}]]}]]}]]}]
+18:T1dd2,{
+  "id": "gis-torgi:21000022460000000124_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000022460000000124_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000022460000000124_1",
+  "title": "Помещение, площадь 25,1 кв. м, этаж N 01, кадастровый номер 70:19:0000001:5365. Адрес: Российская Федерация, Томская область, Колпашевский муниципальный район, Колпашевское городское поселение, г. Колпашево, ул. М.Горького, д. 21/2, помещение 1",
+  "description": "Помещение, назначение: нежилое, площадь 25,1 кв. м, этаж № 01, кадастровый номер 70:19:0000001:5365, расположенное по адресу: Российская Федерация, Томская область, Колпашевский муниципальный район, Колпашевское городское поселение, г.Колпашево, ул. М.Горького, д. 21/2, помещение 1",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "70",
+  "address": "обл. Томская, м.р-н Колпашевский, г.п. Колпашевское, г. Колпашево ул. М. Горького, д.21/2, пом.1",
+  "priceStart": "307000.00",
+  "priceStep": "15350",
+  "deposit": "30700",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T11:32:55.861Z",
+  "biddStartAt": "2026-08-26T02:00:00Z",
+  "biddEndAt": "2026-09-23T11:00:00Z",
+  "auctionAt": "2026-09-28T03:00:00Z",
+  "tzOffsetMin": 420,
+  "tzName": "МСК+4",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a69adebf4fed970e8e9b639",
+    "6a69adecfa92be5dbd024218",
+    "6a69adec75591717f5a9199e",
+    "6a69adec75591717f5a9199b",
+    "6a69adec75591717f5a919a1",
+    "6a69adec75591717f5a919a4",
+    "6a69adec5ff0f122a60762a7",
+    "6a69adedfa92be5dbd02421b",
+    "6a69adee5ff0f122a60762b5",
+    "6a69adec5ff0f122a60762aa",
+    "6a69aded5ff0f122a60762ad",
+    "6a69aded75591717f5a919aa"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a69abcbfa92be5dbd02401c",
+      "name": "27.07.2026 выписка из ЕГРН помещение Колпашево, ул.М.Горького, 21 2, пом.1.pdf",
+      "size": 148979,
+      "sha256": "cd265bdd065d48733b3f709ed59abbe80283844c408d5a77cf5b4bdcf22db667"
+    },
+    {
+      "fileId": "6a69abdefa92be5dbd024029",
+      "name": "Техпаспорт от 25.12.2009.PDF",
+      "size": 375303,
+      "sha256": "6dcbffd6752e6e68ebd0b1a5ddbd297a17262e078bf2ca786e6793d3bd7477ad"
+    },
+    {
+      "fileId": "6a69abdf5ff0f122a6076055",
+      "name": "Уведомление о переводе жилого в нежилое.PDF",
+      "size": 339610,
+      "sha256": "754c115c0ed3a4095379a88d270073342646c89d0deddb7d302e06ec2e1f0191"
+    },
+    {
+      "fileId": "6a69adebf4fed970e8e9b639",
+      "name": "1.jpg",
+      "size": 205343,
+      "sha256": "246d6425b2bdb1c5caf1b0461679f5eed2fd94ed50ba8d5fe0adc1c316dffd9e"
+    },
+    {
+      "fileId": "6a69adecfa92be5dbd024218",
+      "name": "15.jpg",
+      "size": 212715,
+      "sha256": "a05089cf36c815d9e0824f79ae48962b79145ce2098bf55f4a95deb618f36438"
+    },
+    {
+      "fileId": "6a69adec75591717f5a9199e",
+      "name": "9.jpg",
+      "size": 176943,
+      "sha256": "085431a6a735e37c781df27e395d9ade21ce571aab50dc8da011ef0c5fa4aad3"
+    },
+    {
+      "fileId": "6a69adec75591717f5a9199b",
+      "name": "10.jpg",
+      "size": 161570,
+      "sha256": "870c9cc4ff5500f1b87756763d07bbeb63dc53d7e5f9a479ca420808dc961815"
+    },
+    {
+      "fileId": "6a69adec75591717f5a919a1",
+      "name": "3.jpg",
+      "size": 177734,
+      "sha256": "0bfcc7dd9de7aec2d40406e07d8b5b0dc51b68c07da82d8218385bdc33da745c"
+    },
+    {
+      "fileId": "6a69adec75591717f5a919a4",
+      "name": "4.jpg",
+      "size": 174074,
+      "sha256": "4b030e4b70345033662ca7902e7ee553d032d2b4a322e20e198b6af6d46158b5"
+    },
+    {
+      "fileId": "6a69adec5ff0f122a60762a7",
+      "name": "11.jpg",
+      "size": 169180,
+      "sha256": "2848c9bf116085a4e7a53143ae32b8b4a74ea1b587946358eb9987cbe47962d9"
+    },
+    {
+      "fileId": "6a69adedfa92be5dbd02421b",
+      "name": "12.jpg",
+      "size": 184295,
+      "sha256": "019823411035c13e2fa3669e3ee183ccfd782fd95eb5b530f9d9f4fd36a056f4"
+    },
+    {
+      "fileId": "6a69adee5ff0f122a60762b5",
+      "name": "7.jpg",
+      "size": 152105,
+      "sha256": "c15de1c2a13bb941a4f08403bbb9b931975f8216f7b019fb26a53dd02a446ed1"
+    },
+    {
+      "fileId": "6a69adec5ff0f122a60762aa",
+      "name": "13.jpg",
+      "size": 134023,
+      "sha256": "e4a74cfdbe8ba4ccda14b22e02aa4116c1ce88f12a8d603a8c7d127ae28e7924"
+    },
+    {
+      "fileId": "6a69aded5ff0f122a60762ad",
+      "name": "14.jpg",
+      "size": 159527,
+      "sha256": "4995a3c30a10795326d687bc6453857d10b4b4c4d8a7e8a61e8b02614c64bea3"
+    },
+    {
+      "fileId": "6a69aded75591717f5a919aa",
+      "name": "8.jpg",
+      "size": 217955,
+      "sha256": "1f5edc838510d1b36a696836448cf1b8ec610663bc05bd760ca9333a9bffc9e2"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "1960",
+      "source": "structured"
+    },
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberObjectRealty",
+      "name": "Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение",
+      "value": "70:19:0000001:7058",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "25.1",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "locationObjectRealty",
+      "name": "Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)",
+      "value": "этаж № 01",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralValue",
+      "name": "Кадастровая стоимость",
+      "value": "222878.46",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "70:19:0000001:5365",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "typeNolivingQuarters",
+      "name": "Назначение нежилого помещения",
+      "value": "нежилое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:12:32.715Z",
+  "lastSeenAt": "2026-08-25T13:12:32.715Z",
+  "contentHash": "c3cb75e114689645c83f80c5add4e28fbf780aadebfc25bbf78f9de060f63f28"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"307 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"15 350 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"30 700 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 09:00 (МСК+4)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"23 сент. 2026 г., 18:00 (МСК+4)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"27 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"28 сент. 2026 г., 10:00 (МСК+4)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Томская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000022460000000124_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Помещение, площадь 25,1 кв. м, этаж N 01, кадастровый номер 70:19:0000001:5365. Адрес: Рос — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

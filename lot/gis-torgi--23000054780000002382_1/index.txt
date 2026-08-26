@@ -1,0 +1,130 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000054780000002382_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000054780000002382_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000054780000002382_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"квартира пл.51кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Косино-Ухтомский, улица Салтыковская, дом 6/2, корпус 1, квартира 13, к/н 77:03:0010003:2565"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Жилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87f4d3efd603213f123220","alt":"квартира пл.51кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Косино-Ухтомский, улица Салтыковская, дом 6/2, корпус 1, квартира 13, к/н 77:03:0010003:2565"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a87f4ec63124f3d8ea4871a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f4ec63124f3d8ea4871a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87f4ec63124f3d8ea4871a","alt":"","loading":"lazy"}]}],["$","a","6a87f4ecac85246d2d83b36a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f4ecac85246d2d83b36a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87f4ecac85246d2d83b36a","alt":"","loading":"lazy"}]}],["$","a","6a87f4ecac85246d2d83b369",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f4ecac85246d2d83b369","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87f4ecac85246d2d83b369","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"квартира пл.51кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Косино-Ухтомский, улица Салтыковская, дом 6/2, корпус 1, квартира 13, к/н 77:03:0010003:2565, должник (собственник): Ахмедова М.З.  Фотографии имущества судебным приставом-исполнителем не предоставлены"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["51"," м^2 общ. пл"]}]]}],["$","tr","typeLivingQuarters",{"children":[["$","td",null,{"children":"Вид жилого помещения"}],["$","td",null,{"children":["квартира",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["77:03:0010003:2565",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Косино-Ухтомский, ул. Салтыковская, дом 6/2 к. 1, кв. 13"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",7,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a87f50c63124f3d8ea48743",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f50c63124f3d8ea48743","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Л2 26 19 Пер-1.pdf"]}],["$","span",null,{"className":"size","children":"467 КБ"}]]}],["$","a","6a87f52563124f3d8ea487fd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f52563124f3d8ea487fd","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Ахмедова Муфтуна Зиедуллоевна Пер-1 тг.pdf"]}],["$","span",null,{"className":"size","children":"18.6 МБ"}]]}],["$","a","6a8c4cde57a2662b5529c5de",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c4cde57a2662b5529c5de","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16"]}]]}],false,"$L17"]}],"$L18"]}]]}]
+11:["$","span",null,{"children":["📎 ","Ахмедова М.З. Салтыковская дом.книга (гис).pdf"]}]
+12:["$","span",null,{"className":"size","children":"185 КБ"}]
+13:["$","a","6a87f4d3efd603213f123220",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f4d3efd603213f123220","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","логотип.jpg"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}]
+14:["$","a","6a87f4ec63124f3d8ea4871a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f4ec63124f3d8ea4871a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Салт1.jpeg"]}],["$","span",null,{"className":"size","children":"23 КБ"}]]}]
+15:["$","a","6a87f4ecac85246d2d83b36a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f4ecac85246d2d83b36a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Салт2.jpeg"]}],["$","span",null,{"className":"size","children":"22 КБ"}]]}]
+16:["$","a","6a87f4ecac85246d2d83b369",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f4ecac85246d2d83b369","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Салт3.jpeg"]}],["$","span",null,{"className":"size","children":"19 КБ"}]]}]
+19:T1104,{
+  "id": "gis-torgi:23000054780000002382_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000054780000002382_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000054780000002382_1",
+  "title": "квартира пл.51кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Косино-Ухтомский, улица Салтыковская, дом 6/2, корпус 1, квартира 13, к/н 77:03:0010003:2565",
+  "description": "квартира пл.51кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Косино-Ухтомский, улица Салтыковская, дом 6/2, корпус 1, квартира 13, к/н 77:03:0010003:2565, должник (собственник): Ахмедова М.З.  Фотографии имущества судебным приставом-исполнителем не предоставлены",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "9",
+  "categoryName": "Жилые помещения",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Косино-Ухтомский, ул. Салтыковская, дом 6/2 к. 1, кв. 13",
+  "priceStart": "10470400.00",
+  "priceStep": "53000",
+  "deposit": "500000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T13:54:34.395Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-03T13:00:00Z",
+  "auctionAt": "2026-09-08T09:30:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RAD",
+  "images": [
+    "6a87f4d3efd603213f123220",
+    "6a87f4ec63124f3d8ea4871a",
+    "6a87f4ecac85246d2d83b36a",
+    "6a87f4ecac85246d2d83b369"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a87f50c63124f3d8ea48743",
+      "name": "Л2 26 19 Пер-1.pdf",
+      "size": 477908,
+      "sha256": "fed90ce9ad51b66310111c7096d02993cfe9b5197c2bb4013bf57a5d69055aa2"
+    },
+    {
+      "fileId": "6a87f52563124f3d8ea487fd",
+      "name": "Ахмедова Муфтуна Зиедуллоевна Пер-1 тг.pdf",
+      "size": 19466059,
+      "sha256": "32a85f190b25697e2da44d023f0ab6c9788edb603c4be7d1ad492767f8df1e23"
+    },
+    {
+      "fileId": "6a8c4cde57a2662b5529c5de",
+      "name": "Ахмедова М.З. Салтыковская дом.книга (гис).pdf",
+      "size": 189600,
+      "sha256": "d7507d4637c81f4ef7c2082c58515524268b25b5a12209a6fb407b83d925f13d"
+    },
+    {
+      "fileId": "6a87f4d3efd603213f123220",
+      "name": "логотип.jpg",
+      "size": 2433104,
+      "sha256": "cb3680a136b3a2c1dc768159200b5a5ce5f7ccb865480cdd31ddb91f687b81b8"
+    },
+    {
+      "fileId": "6a87f4ec63124f3d8ea4871a",
+      "name": "Салт1.jpeg",
+      "size": 23359,
+      "sha256": "01a4711f1b9340c2798c6b766817251e4bce2d2ff76f272d658d9b54cb56d1d9"
+    },
+    {
+      "fileId": "6a87f4ecac85246d2d83b36a",
+      "name": "Салт2.jpeg",
+      "size": 22531,
+      "sha256": "bc07cbca7d1a26a9f7fea126d6c4cf467c7db39f8608c5403e64aecc6e848e20"
+    },
+    {
+      "fileId": "6a87f4ecac85246d2d83b369",
+      "name": "Салт3.jpeg",
+      "size": 19682,
+      "sha256": "760027c8d43fac6a9b4f820b81d3e3594163f399fe9fabf4862eb77a6114147b"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "51",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "typeLivingQuarters",
+      "name": "Вид жилого помещения",
+      "value": "квартира",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "77:03:0010003:2565",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:42:02.993Z",
+  "lastSeenAt": "2026-08-25T11:42:02.993Z",
+  "contentHash": "aa1f6bd442aa0be8ba80186af223140dd404b075eb529c968e6b9c580283c9d6"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"10 470 400 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"53 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"500 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"3 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"7 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"8 сент. 2026 г., 12:30 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RAD"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000054780000002382_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"квартира пл.51кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,168 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000086100000000588_11",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000086100000000588_11","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000086100000000588_11","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=13","children":"Мордовия"}]]]}],["$","h1",null,{"children":"1/4 доля в праве общей долевой собственности на жилое помещение (комната) общей площадью 12,6 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Жилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5b3fe096f456f84c1721","alt":"1/4 доля в праве общей долевой собственности на жилое помещение (комната) общей площадью 12,6 кв.м."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c5b3fe096f456f84c1724",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5b3fe096f456f84c1724","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5b3fe096f456f84c1724","alt":"","loading":"lazy"}]}],["$","a","6a8c5b3f57a2662b5529d367",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5b3f57a2662b5529d367","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5b3f57a2662b5529d367","alt":"","loading":"lazy"}]}],["$","a","6a8c5b3fe096f456f84c171e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5b3fe096f456f84c171e","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c5b3fe096f456f84c171e","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"1/4 доля в праве общей долевой собственности на жилое помещение (комната) общей площадью 12,6 кв.м., кад. № 13:23:1113253:1724, расположенное в пределах объекта недвижимости с кад. № 13:23:1113253:79. Доля в праве принадлежит должнику  Чугуровой (Архиповой М.М.) По месту нахождения объекта недвижимости зарегистрировано четверо граждан, в т.ч. один - несовершеннолетний. Сведениями о фактическом состоянии объекта недвижимости, о задолженности по коммунальным платежам и взносам на капитальный ремонт организатор торгов не располагает. Техническая документация на объект недвижимости и его фотографии отсутствуют у организатора торгов."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["Сведения отсутствуют",""]}]]}],["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["Запрещение регистрации",""]}]]}],["$","tr","cadastralNumberObjectRealty",{"children":[["$","td",null,{"children":"Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение"}],["$","td",null,{"children":["13:23:1113253:79",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["12.6"," м^2 общ. пл"]}]]}],["$","tr","locationObjectRealty",{"children":[["$","td",null,{"children":"Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)"}],["$","td",null,{"children":["Этаж № 5",""]}]]}],["$","tr","typeLivingQuartersSpecFund",{"children":[["$","td",null,{"children":"Вид жилого помещения спец. Фонда"}],["$","td",null,{"children":["---",""]}]]}],["$","tr","typeLivingQuarters",{"children":[["$","td",null,{"children":"Вид жилого помещения"}],["$","td",null,{"children":["Комната",""]}]]}],["$","tr","cadastralValue",{"children":["$L11","$L12"]}],"$L13","$L14","$L15"]}]}]]}],"$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","td",null,{"children":"Кадастровая стоимость"}]
+12:["$","td",null,{"children":["441686.72",""]}]
+13:["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["13:23:1113253:1724",""]}]]}]
+14:["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["Запрещение регистрации",""]}]]}]
+15:["$","tr","shareSizeRealty",{"children":[["$","td",null,{"children":"Размер доли (Доля в праве (доля в жилом помещении))"}],["$","td",null,{"children":["25"," %"]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"респ. Мордовия г. Саранск, ул. Студенческая, д. 14, к. 509"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c5a2a57a2662b5529d2a1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5a2a57a2662b5529d2a1","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","постановление 11.pdf"]}],["$","span",null,{"className":"size","children":"181 КБ"}]]}],["$","a","6a8c5b3fe096f456f84c1721",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5b3fe096f456f84c1721","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-1.jpg"]}],["$","span",null,{"className":"size","children":"552 КБ"}]]}],["$","a","6a8c5b3fe096f456f84c1724",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5b3fe096f456f84c1724","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-2.jpg"]}],["$","span",null,{"className":"size","children":"535 КБ"}]]}],["$","a","6a8c5b3f57a2662b5529d367",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5b3f57a2662b5529d367","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-3.jpg"]}],["$","span",null,{"className":"size","children":"554 КБ"}]]}],["$","a","6a8c5b3fe096f456f84c171e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c5b3fe096f456f84c171e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","file-4.jpg"]}],["$","span",null,{"className":"size","children":"371 КБ"}]]}]]}]]}]
+1a:T17c4,{
+  "id": "gis-torgi:22000086100000000588_11",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000086100000000588_11",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000086100000000588_11",
+  "title": "1/4 доля в праве общей долевой собственности на жилое помещение (комната) общей площадью 12,6 кв.м.",
+  "description": "1/4 доля в праве общей долевой собственности на жилое помещение (комната) общей площадью 12,6 кв.м., кад. № 13:23:1113253:1724, расположенное в пределах объекта недвижимости с кад. № 13:23:1113253:79. Доля в праве принадлежит должнику  Чугуровой (Архиповой М.М.) По месту нахождения объекта недвижимости зарегистрировано четверо граждан, в т.ч. один - несовершеннолетний. Сведениями о фактическом состоянии объекта недвижимости, о задолженности по коммунальным платежам и взносам на капитальный ремонт организатор торгов не располагает. Техническая документация на объект недвижимости и его фотографии отсутствуют у организатора торгов.",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "9",
+  "categoryName": "Жилые помещения",
+  "regionCode": "13",
+  "address": "респ. Мордовия г. Саранск, ул. Студенческая, д. 14, к. 509",
+  "priceStart": "168000.00",
+  "priceStep": "1000",
+  "deposit": "25200",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T16:07:35.078Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-18T15:00:00Z",
+  "auctionAt": "2026-09-24T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8c5b3fe096f456f84c1721",
+    "6a8c5b3fe096f456f84c1724",
+    "6a8c5b3f57a2662b5529d367",
+    "6a8c5b3fe096f456f84c171e"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c5a2a57a2662b5529d2a1",
+      "name": "постановление 11.pdf",
+      "size": 184896,
+      "sha256": "729717bf0ba0b530ccb4803c58c65cefd3becbcb7f4a702e2422bfdb6d140305"
+    },
+    {
+      "fileId": "6a8c5b3fe096f456f84c1721",
+      "name": "file-1.jpg",
+      "size": 565725,
+      "sha256": "f03b7c8cbbe5b73fa8fd0db678f488d99aff3266f62979942e1d6f10df9560b5"
+    },
+    {
+      "fileId": "6a8c5b3fe096f456f84c1724",
+      "name": "file-2.jpg",
+      "size": 548070,
+      "sha256": "82db8f5beead8acd691fbdfb323e7c43f0f6ef427bdfea8ffa67ecfadf1983ca"
+    },
+    {
+      "fileId": "6a8c5b3f57a2662b5529d367",
+      "name": "file-3.jpg",
+      "size": 566869,
+      "sha256": "c9752d2b19eb57cc5ad316b5ba13344ad7094d1d6feb54c2afb2d240e1b880d1"
+    },
+    {
+      "fileId": "6a8c5b3fe096f456f84c171e",
+      "name": "file-4.jpg",
+      "size": 380140,
+      "sha256": "9208ff567b06164c0c5c40ebb2576ab803da471cee6f878a477c81e95236fc2e"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "Сведения отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "Запрещение регистрации",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberObjectRealty",
+      "name": "Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение",
+      "value": "13:23:1113253:79",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "12.6",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "locationObjectRealty",
+      "name": "Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)",
+      "value": "Этаж № 5",
+      "source": "structured"
+    },
+    {
+      "key": "typeLivingQuartersSpecFund",
+      "name": "Вид жилого помещения спец. Фонда",
+      "value": "---",
+      "source": "structured"
+    },
+    {
+      "key": "typeLivingQuarters",
+      "name": "Вид жилого помещения",
+      "value": "Комната",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralValue",
+      "name": "Кадастровая стоимость",
+      "value": "441686.72",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "13:23:1113253:1724",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "Запрещение регистрации",
+      "source": "structured"
+    },
+    {
+      "key": "shareSizeRealty",
+      "name": "Размер доли (Доля в праве (доля в жилом помещении))",
+      "value": "25",
+      "unit": "%",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:37:52.757Z",
+  "lastSeenAt": "2026-08-25T11:37:52.757Z",
+  "contentHash": "60b81bfd98724db6120d332b812aa529cda53a83f5be1a07544ba94fff483895"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"168 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"1 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"25 200 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"18 сент. 2026 г., 18:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"22 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"24 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Мордовия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000086100000000588_11","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"1/4 доля в праве общей долевой собственности на жилое помещение (комната) общей площадью 1 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

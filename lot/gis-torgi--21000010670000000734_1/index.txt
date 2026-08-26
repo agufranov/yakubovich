@@ -1,0 +1,163 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000010670000000734_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000010670000000734_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000010670000000734_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=34","children":"Волгоградская обл."}]]]}],["$","h1",null,{"children":"Нежилое помещение с кадастровым номером 34:23:190014:193 площадью 155,7 кв.м, реестровый номер федерального имущества П11360000538 по адресу:Волгоградская область, Палласовский район, г. Палласовка, ул. Интернациональная, д. 66."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d48c263124f3d8ea69318","alt":"Нежилое помещение с кадастровым номером 34:23:190014:193 площадью 155,7 кв.м, реестровый номер федерального имущества П11360000538 по адресу:Волгоградская область, Палласовский район, г. Палласовка, ул. Интернациональная, д. 66."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d48c257a2662b552a1bde",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48c257a2662b552a1bde","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d48c257a2662b552a1bde","alt":"","loading":"lazy"}]}],["$","a","6a8d48c163124f3d8ea69312",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48c163124f3d8ea69312","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d48c163124f3d8ea69312","alt":"","loading":"lazy"}]}],["$","a","6a8d48c263124f3d8ea69315",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48c263124f3d8ea69315","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d48c263124f3d8ea69315","alt":"","loading":"lazy"}]}],["$","a","6a8d48c263124f3d8ea6931b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48c263124f3d8ea6931b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d48c263124f3d8ea6931b","alt":"","loading":"lazy"}]}],["$","a","6a8d48c257a2662b552a1bdb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48c257a2662b552a1bdb","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d48c257a2662b552a1bdb","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое помещение с кадастровым номером 34:23:190014:193 площадью 155,7 кв.м, реестровый номер федерального имущества П11360000538 по адресу:Волгоградская область, Палласовский район, г. Палласовка, ул. Интернациональная, д. 66."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["155.7"," м^2 общ. пл"]}]]}],["$","tr","locationObjectRealty",{"children":[["$","td",null,{"children":"Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)"}],["$","td",null,{"children":["2",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["34:23:190014:193",""]}]]}],["$","tr","typeNolivingQuarters",{"children":[["$","td",null,{"children":"Назначение нежилого помещения"}],["$","td",null,{"children":["нежилое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Волгоградская, м.р-н Палласовский, г.п. город Палласовка, г. Палласовка, ул. Интернациональная, дом 66"}]]}],"$L11",false,"$L12"]}],"$L13"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",12,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d48d3e096f456f84c6575",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48d3e096f456f84c6575","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Акт осмотра №147 Интернациональная 66, 193 (помещение).pdf"]}],["$","span",null,{"className":"size","children":"3.9 МБ"}]]}],["$","a","6a8d48d0e096f456f84c6563",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48d0e096f456f84c6563","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","выписка ЕГРН.pdf"]}],["$","span",null,{"className":"size","children":"468 КБ"}]]}],["$","a","6a8d48e063124f3d8ea6935e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48e063124f3d8ea6935e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","заключение мчс.pdf"]}],["$","span",null,{"className":"size","children":"3.9 МБ"}]]}],["$","a","6a8d48ddefd603213f144e87",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48ddefd603213f144e87","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","заключение облкультнаследие помещения.pdf"]}],["$","span",null,{"className":"size","children":"6.7 МБ"}]]}],["$","a","6a8d48e2efd603213f144e8d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48e2efd603213f144e8d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","П13360000538_штамп.pdf"]}],["$","span",null,{"className":"size","children":"60 КБ"}]]}],["$","a","6a8d48f1e096f456f84c65c9",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48f1e096f456f84c65c9","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Тех.паспорт.pdf"]}],["$","span",null,{"className":"size","children":"11.7 МБ"}]]}],["$","a","6a8d48c263124f3d8ea69318",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48c263124f3d8ea69318","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_8796.jpeg"]}],["$","span",null,{"className":"size","children":"112 КБ"}]]}],["$","a","6a8d48c257a2662b552a1bde",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48c257a2662b552a1bde","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_8797.jpeg"]}],["$","span",null,{"className":"size","children":"79 КБ"}]]}],["$","a","6a8d48c163124f3d8ea69312",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48c163124f3d8ea69312","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_8798.jpeg"]}],["$","span",null,{"className":"size","children":"72 КБ"}]]}],["$","a","6a8d48c263124f3d8ea69315",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48c263124f3d8ea69315","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_8799.jpeg"]}],["$","span",null,{"className":"size","children":"87 КБ"}]]}],["$","a","6a8d48c263124f3d8ea6931b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48c263124f3d8ea6931b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_8800.jpeg"]}],["$","span",null,{"className":"size","children":"116 КБ"}]]}],["$","a","6a8d48c257a2662b552a1bdb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d48c257a2662b552a1bdb","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_8801.jpeg"]}],["$","span",null,{"className":"size","children":"67 КБ"}]]}]]}]]}]
+14:T1688,{
+  "id": "gis-torgi:21000010670000000734_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000010670000000734_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000010670000000734_1",
+  "title": "Нежилое помещение с кадастровым номером 34:23:190014:193 площадью 155,7 кв.м, реестровый номер федерального имущества П11360000538 по адресу:Волгоградская область, Палласовский район, г. Палласовка, ул. Интернациональная, д. 66.",
+  "description": "Нежилое помещение с кадастровым номером 34:23:190014:193 площадью 155,7 кв.м, реестровый номер федерального имущества П11360000538 по адресу:Волгоградская область, Палласовский район, г. Палласовка, ул. Интернациональная, д. 66.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "34",
+  "address": "обл. Волгоградская, м.р-н Палласовский, г.п. город Палласовка, г. Палласовка, ул. Интернациональная, дом 66",
+  "priceStart": "3902780.00",
+  "priceStep": "195139",
+  "deposit": "390278",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T07:53:31.947Z",
+  "biddStartAt": "2026-08-27T07:00:00Z",
+  "biddEndAt": "2026-09-30T13:00:00Z",
+  "auctionAt": "2026-10-07T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_EETP",
+  "images": [
+    "6a8d48c263124f3d8ea69318",
+    "6a8d48c257a2662b552a1bde",
+    "6a8d48c163124f3d8ea69312",
+    "6a8d48c263124f3d8ea69315",
+    "6a8d48c263124f3d8ea6931b",
+    "6a8d48c257a2662b552a1bdb"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d48d3e096f456f84c6575",
+      "name": "Акт осмотра №147 Интернациональная 66, 193 (помещение).pdf",
+      "size": 4046022,
+      "sha256": "f8ada2691b06aab44e020cdf68333785a1a2dfc560c7b9639968ba17ad2096c4"
+    },
+    {
+      "fileId": "6a8d48d0e096f456f84c6563",
+      "name": "выписка ЕГРН.pdf",
+      "size": 479061,
+      "sha256": "3c5e9480367e2ae2c198095cf2f8c8cca1e9b872046a3491e7ed815e8ee16b43"
+    },
+    {
+      "fileId": "6a8d48e063124f3d8ea6935e",
+      "name": "заключение мчс.pdf",
+      "size": 4065794,
+      "sha256": "ef186a1edce04d1309e96e5a4c1a5aab9d8b60016863e1fa13d49234c92e15c2"
+    },
+    {
+      "fileId": "6a8d48ddefd603213f144e87",
+      "name": "заключение облкультнаследие помещения.pdf",
+      "size": 7069760,
+      "sha256": "6b5789c2f0eaa6096cbc1e7d3308923433da91bb5a3513633d1fb726c54807f0"
+    },
+    {
+      "fileId": "6a8d48e2efd603213f144e8d",
+      "name": "П13360000538_штамп.pdf",
+      "size": 61376,
+      "sha256": "092f20687a77fac37e51b0a7662f315a0429d76ef5fd7d01f75dcc396d903200"
+    },
+    {
+      "fileId": "6a8d48f1e096f456f84c65c9",
+      "name": "Тех.паспорт.pdf",
+      "size": 12222056,
+      "sha256": "75720196effce3f4377613e0484dd0d052f06c543ba421def6b510aa1b99328a"
+    },
+    {
+      "fileId": "6a8d48c263124f3d8ea69318",
+      "name": "IMG_8796.jpeg",
+      "size": 114734,
+      "sha256": "72285027889311ebf8fb6b208fc0c66901af02ba0db95e5cedc9b1ed8ce60616"
+    },
+    {
+      "fileId": "6a8d48c257a2662b552a1bde",
+      "name": "IMG_8797.jpeg",
+      "size": 80444,
+      "sha256": "19664001bede07d543045a1b14b02deee3db9446711f25fd42c822f748fadf54"
+    },
+    {
+      "fileId": "6a8d48c163124f3d8ea69312",
+      "name": "IMG_8798.jpeg",
+      "size": 73253,
+      "sha256": "5e4a34d4925c243e40dc0e98bfd495c2803120e4ac4a388d73dbf6dc81abbc2b"
+    },
+    {
+      "fileId": "6a8d48c263124f3d8ea69315",
+      "name": "IMG_8799.jpeg",
+      "size": 89435,
+      "sha256": "87cb845aeca1e9204186aa297e3e88d77b2a3ddee847ca427ee2572d7b0f2cec"
+    },
+    {
+      "fileId": "6a8d48c263124f3d8ea6931b",
+      "name": "IMG_8800.jpeg",
+      "size": 119018,
+      "sha256": "e7e8d5b977637e40506783f0be7f95d679f75a131c562070b4b917e595fa3733"
+    },
+    {
+      "fileId": "6a8d48c257a2662b552a1bdb",
+      "name": "IMG_8801.jpeg",
+      "size": 69022,
+      "sha256": "9f9b742bad46a56290d888ab2d175e39273f3960cd3c06cc15b18c770a5bdc0f"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "155.7",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "locationObjectRealty",
+      "name": "Расположение в пределах объекта недвижимости (этажа, части этажа, нескольких этажей)",
+      "value": "2",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "34:23:190014:193",
+      "source": "structured"
+    },
+    {
+      "key": "typeNolivingQuarters",
+      "name": "Назначение нежилого помещения",
+      "value": "нежилое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:18:06.402Z",
+  "lastSeenAt": "2026-08-25T13:18:06.402Z",
+  "contentHash": "799eee54ae00dce53fde67b5404ea2f8d1412dbfcc611f1a7fbc67d5d809eb47"
+}12:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$14"}]]}]
+13:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"3 902 780 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"195 139 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"390 278 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"30 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"34 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"7 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Волгоградская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"EETP"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000010670000000734_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое помещение с кадастровым номером 34:23:190014:193 площадью 155,7 кв.м, реестровый н — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

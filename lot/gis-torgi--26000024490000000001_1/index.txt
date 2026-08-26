@@ -1,0 +1,145 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--26000024490000000001_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--26000024490000000001_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--26000024490000000001_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=equipment","children":"Оборудование и техника"}],[" · ",["$","$L4",null,{"href":"/?region=65","children":"Сахалинская обл."}]]]}],["$","h1",null,{"children":"Мобильный бетонный завод РБУ HZS25"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Оборудование"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bca4063124f3d8ea57cf1","alt":"Мобильный бетонный завод РБУ HZS25"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8bca50efd603213f1335b4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bca50efd603213f1335b4","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bca50efd603213f1335b4","alt":"","loading":"lazy"}]}],["$","a","6a8bca6063124f3d8ea57d12",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bca6063124f3d8ea57d12","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bca6063124f3d8ea57d12","alt":"","loading":"lazy"}]}],["$","a","6a8bca7063124f3d8ea57d30",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bca7063124f3d8ea57d30","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bca7063124f3d8ea57d30","alt":"","loading":"lazy"}]}],["$","a","6a8bca7563124f3d8ea57d47",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bca7563124f3d8ea57d47","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bca7563124f3d8ea57d47","alt":"","loading":"lazy"}]}],["$","a","6a8bcc5057a2662b5528fa76",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bcc5057a2662b5528fa76","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8bcc5057a2662b5528fa76","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Мобильный бетонный завод РБУ HZS25 производительность 25 куб.м/час. Год выпуска-2014. Б/У, разукомплектован. Состояние комплектующих завода, деталей завода находятся в неисправном состоянии (проржавели, окислились), произведен монтаж не всех комплектующих частей завода, отсутствует ряд деталей, нет кабелей. Демонтаж, разборка и вывоз Мобильного бетонного завода РБУ с территории ФКУ ИК-1 УФСИН России по Сахалинской области осуществляется покупателем самостоятельно, за свой счёт и в сроки, установленные договором купли-продажи. Продавец не несет расходов по его демонтажу и транспортировке."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","equipmentCondition",{"children":[["$","td",null,{"children":"Состояние объекта (новое, б\\у)"}],["$","td",null,{"children":["б/у (разукомплектован), степень  износа 95%",""]}]]}],["$","tr","equipmentType",{"children":[["$","td",null,{"children":"Вид оборудования"}],["$","td",null,{"children":["Мобильный бетонный завод",""]}]]}],["$","tr","equipmentMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["РБУ",""]}]]}],["$","tr","equipmentModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["HZS25",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Сахалинская, г.о. город Южно-Сахалинск, г. Южно-Сахалинск, ул. Пограничная, дом 71"}]]}],["$","section",null,{"className":"panel","children":["$L11","$L12"]}],false,"$L13"]}],"$L14"]}]]}]
+11:["$","h2",null,{"children":["Документы (",8,")"]}]
+12:["$","div",null,{"className":"files","children":[["$","a","6a8c3bacefd603213f13d7b6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c3bacefd603213f13d7b6","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","scan_20260413234257.pdf"]}],["$","span",null,{"className":"size","children":"21.0 МБ"}]]}],["$","a","6a8cd77befd603213f1417c2",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8cd77befd603213f1417c2","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Scanner.pdf"]}],["$","span",null,{"className":"size","children":"4.6 МБ"}]]}],["$","a","6a8bca4063124f3d8ea57cf1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bca4063124f3d8ea57cf1","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_3671.JPG"]}],["$","span",null,{"className":"size","children":"1.9 МБ"}]]}],["$","a","6a8bca50efd603213f1335b4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bca50efd603213f1335b4","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_3673.JPG"]}],["$","span",null,{"className":"size","children":"3.0 МБ"}]]}],["$","a","6a8bca6063124f3d8ea57d12",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bca6063124f3d8ea57d12","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_3691.JPG"]}],["$","span",null,{"className":"size","children":"2.6 МБ"}]]}],["$","a","6a8bca7063124f3d8ea57d30",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bca7063124f3d8ea57d30","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_3692.JPG"]}],["$","span",null,{"className":"size","children":"3.7 МБ"}]]}],["$","a","6a8bca7563124f3d8ea57d47",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bca7563124f3d8ea57d47","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_3694.JPG"]}],["$","span",null,{"className":"size","children":"2.1 МБ"}]]}],["$","a","6a8bcc5057a2662b5528fa76",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8bcc5057a2662b5528fa76","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_6700.jpeg"]}],["$","span",null,{"className":"size","children":"4.8 МБ"}]]}]]}]
+15:T1430,{
+  "id": "gis-torgi:26000024490000000001_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "26000024490000000001_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/26000024490000000001_1",
+  "title": "Мобильный бетонный завод РБУ HZS25",
+  "description": "Мобильный бетонный завод РБУ HZS25 производительность 25 куб.м/час. Год выпуска-2014. Б/У, разукомплектован. Состояние комплектующих завода, деталей завода находятся в неисправном состоянии (проржавели, окислились), произведен монтаж не всех комплектующих частей завода, отсутствует ряд деталей, нет кабелей. Демонтаж, разборка и вывоз Мобильного бетонного завода РБУ с территории ФКУ ИК-1 УФСИН России по Сахалинской области осуществляется покупателем самостоятельно, за свой счёт и в сроки, установленные договором купли-продажи. Продавец не несет расходов по его демонтажу и транспортировке.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "equipment",
+  "categoryCode": "400",
+  "categoryName": "Оборудование",
+  "regionCode": "65",
+  "address": "обл. Сахалинская, г.о. город Южно-Сахалинск, г. Южно-Сахалинск, ул. Пограничная, дом 71",
+  "priceStart": "169276.00",
+  "priceStep": "1000",
+  "deposit": "16927.6",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T00:02:25.406Z",
+  "biddStartAt": "2026-08-25T13:00:00Z",
+  "biddEndAt": "2026-09-20T13:00:00Z",
+  "auctionAt": "2026-09-22T23:00:00Z",
+  "tzOffsetMin": 660,
+  "tzName": "МСК+8",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8bca4063124f3d8ea57cf1",
+    "6a8bca50efd603213f1335b4",
+    "6a8bca6063124f3d8ea57d12",
+    "6a8bca7063124f3d8ea57d30",
+    "6a8bca7563124f3d8ea57d47",
+    "6a8bcc5057a2662b5528fa76"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c3bacefd603213f13d7b6",
+      "name": "scan_20260413234257.pdf",
+      "size": 22016751,
+      "sha256": "36839a17e60e44df8131ef98388252e92319847cd57ac2a720fb5c1f755b52de"
+    },
+    {
+      "fileId": "6a8cd77befd603213f1417c2",
+      "name": "Scanner.pdf",
+      "size": 4809031,
+      "sha256": "b642f91e43ead0ab490c050508fdc5681df95d4a744db81be0cdbdcba7e71097"
+    },
+    {
+      "fileId": "6a8bca4063124f3d8ea57cf1",
+      "name": "IMG_3671.JPG",
+      "size": 1989356,
+      "sha256": "b3c4afd608e50c00526afffd6619d9bf5efa14814db8f56d80017da50a8666f7"
+    },
+    {
+      "fileId": "6a8bca50efd603213f1335b4",
+      "name": "IMG_3673.JPG",
+      "size": 3114825,
+      "sha256": "dc5a3cdf268218e36c6965a6907e6471b9eb07831961720809f476a81c32c775"
+    },
+    {
+      "fileId": "6a8bca6063124f3d8ea57d12",
+      "name": "IMG_3691.JPG",
+      "size": 2697218,
+      "sha256": "707f5bc441ad0a2e254a6c449f48c4e0d3a5e06a6b8b7598c43772772d06f1e2"
+    },
+    {
+      "fileId": "6a8bca7063124f3d8ea57d30",
+      "name": "IMG_3692.JPG",
+      "size": 3889745,
+      "sha256": "31de51843f7653aa0cf5657640058f03cf4953f1025ed9f9a5592fa69d64b0c9"
+    },
+    {
+      "fileId": "6a8bca7563124f3d8ea57d47",
+      "name": "IMG_3694.JPG",
+      "size": 2159956,
+      "sha256": "62e262b16f94e823f322c5f1ba488154d7c694a12edda3f6e7f2a9cd369d7d3a"
+    },
+    {
+      "fileId": "6a8bcc5057a2662b5528fa76",
+      "name": "IMG_6700.jpeg",
+      "size": 4980789,
+      "sha256": "4e381fe19207bba6c15a0706e8c5e4cf6a20b3cfda83948158b34c63a033bd5a"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "equipmentCondition",
+      "name": "Состояние объекта (новое, б\\у)",
+      "value": "б/у (разукомплектован), степень  износа 95%",
+      "source": "structured"
+    },
+    {
+      "key": "equipmentType",
+      "name": "Вид оборудования",
+      "value": "Мобильный бетонный завод",
+      "source": "structured"
+    },
+    {
+      "key": "equipmentMarka",
+      "name": "Марка",
+      "value": "РБУ",
+      "source": "structured"
+    },
+    {
+      "key": "equipmentModel",
+      "name": "Модель",
+      "value": "HZS25",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:28:15.816Z",
+  "lastSeenAt": "2026-08-25T13:28:15.816Z",
+  "contentHash": "184eb92de0def8e942cc30a68210c60e8143f1fc1b17caddd5e6e5b29e29da7a"
+}13:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$15"}]]}]
+14:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"169 276 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"1 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"16 927,60 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 00:00 (МСК+8)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 00:00 (МСК+8)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"24 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"23 сент. 2026 г., 10:00 (МСК+8)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Сахалинская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/26000024490000000001_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Мобильный бетонный завод РБУ HZS25 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

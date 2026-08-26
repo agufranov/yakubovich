@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000054780000002383_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000054780000002383_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000054780000002383_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"квартира пл.68,7кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Филимонковский, поселок Первомайское, улица Центральная, дом 27, квартира 26, к/н 77:11:0050603:38"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Жилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87f66263124f3d8ea48974","alt":"квартира пл.68,7кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Филимонковский, поселок Первомайское, улица Центральная, дом 27, квартира 26, к/н 77:11:0050603:38"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a87f66d63124f3d8ea489a0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f66d63124f3d8ea489a0","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87f66d63124f3d8ea489a0","alt":"","loading":"lazy"}]}],["$","a","6a87f66eefd603213f1233cf",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f66eefd603213f1233cf","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87f66eefd603213f1233cf","alt":"","loading":"lazy"}]}],["$","a","6a87f66eefd603213f1233cb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f66eefd603213f1233cb","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a87f66eefd603213f1233cb","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"квартира пл.68,7кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Филимонковский, поселок Первомайское, улица Центральная, дом 27, квартира 26, к/н 77:11:0050603:38, должник (собственник): Китлина В.А.  Фотографии имущества судебным приставом-исполнителем не предоставлены"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["68.7"," м^2 общ. пл"]}]]}],["$","tr","typeLivingQuarters",{"children":[["$","td",null,{"children":"Вид жилого помещения"}],["$","td",null,{"children":["квартира",""]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["77:11:0050603:38",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Филимонковский, п. Первомайское, ул. Центральная, дом 27, кв. 26"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a87f689efd603213f12340d",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f689efd603213f12340d","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Л2 26 12 НАО-34.pdf"]}],["$","span",null,{"className":"size","children":"506 КБ"}]]}],["$","a","6a87f76b57a2662b5527c83f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f76b57a2662b5527c83f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Китлина Вера Анатольевна Первомайское тг.pdf"]}],["$","span",null,{"className":"size","children":"19.0 МБ"}]]}],["$","a","6a87f66263124f3d8ea48974",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f66263124f3d8ea48974","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14","$L15"]}]]}],false,"$L16"]}],"$L17"]}]]}]
+11:["$","span",null,{"children":["📎 ","логотип.jpg"]}]
+12:["$","span",null,{"className":"size","children":"2.3 МБ"}]
+13:["$","a","6a87f66d63124f3d8ea489a0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f66d63124f3d8ea489a0","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Цент1.jpeg"]}],["$","span",null,{"className":"size","children":"308 КБ"}]]}]
+14:["$","a","6a87f66eefd603213f1233cf",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f66eefd603213f1233cf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Цент2.jpeg"]}],["$","span",null,{"className":"size","children":"502 КБ"}]]}]
+15:["$","a","6a87f66eefd603213f1233cb",{"href":"https://torgi.gov.ru/new/file-store/v1/6a87f66eefd603213f1233cb","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Цент3.jpeg"]}],["$","span",null,{"className":"size","children":"426 КБ"}]]}]
+18:T1040,{
+  "id": "gis-torgi:23000054780000002383_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000054780000002383_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000054780000002383_1",
+  "title": "квартира пл.68,7кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Филимонковский, поселок Первомайское, улица Центральная, дом 27, квартира 26, к/н 77:11:0050603:38",
+  "description": "квартира пл.68,7кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальный округ Филимонковский, поселок Первомайское, улица Центральная, дом 27, квартира 26, к/н 77:11:0050603:38, должник (собственник): Китлина В.А.  Фотографии имущества судебным приставом-исполнителем не предоставлены",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "realty",
+  "categoryCode": "9",
+  "categoryName": "Жилые помещения",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Филимонковский, п. Первомайское, ул. Центральная, дом 27, кв. 26",
+  "priceStart": "7217600.00",
+  "priceStep": "37000",
+  "deposit": "350000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T13:55:21.575Z",
+  "biddStartAt": "2026-08-25T06:00:00Z",
+  "biddEndAt": "2026-09-03T13:00:00Z",
+  "auctionAt": "2026-09-08T10:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RAD",
+  "images": [
+    "6a87f66263124f3d8ea48974",
+    "6a87f66d63124f3d8ea489a0",
+    "6a87f66eefd603213f1233cf",
+    "6a87f66eefd603213f1233cb"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a87f689efd603213f12340d",
+      "name": "Л2 26 12 НАО-34.pdf",
+      "size": 517900,
+      "sha256": "459d4c548eae60d37b3c3e0b4866dfb43646e9785e0ed252c842760ad9cfb116"
+    },
+    {
+      "fileId": "6a87f76b57a2662b5527c83f",
+      "name": "Китлина Вера Анатольевна Первомайское тг.pdf",
+      "size": 19936274,
+      "sha256": "15867ce356db8cf3ba4698f9227438911a907dc523a96ac3bfe7c2600ef3efab"
+    },
+    {
+      "fileId": "6a87f66263124f3d8ea48974",
+      "name": "логотип.jpg",
+      "size": 2433104,
+      "sha256": "cb3680a136b3a2c1dc768159200b5a5ce5f7ccb865480cdd31ddb91f687b81b8"
+    },
+    {
+      "fileId": "6a87f66d63124f3d8ea489a0",
+      "name": "Цент1.jpeg",
+      "size": 315528,
+      "sha256": "c46ba2716d638298e32e4d2481c022529bc2023a98f73182b984d512bc2f7e4d"
+    },
+    {
+      "fileId": "6a87f66eefd603213f1233cf",
+      "name": "Цент2.jpeg",
+      "size": 513910,
+      "sha256": "72fa8184d5dd533aaffe98e27fbd519a76b350d0ce1f366e6e4d26a932aa73e1"
+    },
+    {
+      "fileId": "6a87f66eefd603213f1233cb",
+      "name": "Цент3.jpeg",
+      "size": 436067,
+      "sha256": "59130098ab7ca29555644cc68712e197aa598b88b22f365bad3a331cf09a85b0"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "68.7",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "typeLivingQuarters",
+      "name": "Вид жилого помещения",
+      "value": "квартира",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "77:11:0050603:38",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:41:56.039Z",
+  "lastSeenAt": "2026-08-25T11:41:56.039Z",
+  "contentHash": "185f45e9a74b49dbacabf7585bb409165aff2980f0c3b8ee086936066ff904e0"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"7 217 600 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"37 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"350 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"3 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"7 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"8 сент. 2026 г., 13:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RAD"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000054780000002383_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"квартира пл.68,7кв.м. по адресу: Российская Федерация, город Москва, вн.тер.г. муниципальн — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

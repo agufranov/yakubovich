@@ -1,0 +1,160 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--21000005000000033123_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--21000005000000033123_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--21000005000000033123_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"Продажа имущества, находящегося в собственности города Москвы, нежилое помещение по адресу: г. Москва, ул. Крылатская, д. 45, корп. 1, площадью 615,1 кв. м, (этаж № 2), кадастровый номер: 77:07:0001001:4926"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/68595f34737a99574f2ca06e","alt":"Продажа имущества, находящегося в собственности города Москвы, нежилое помещение по адресу: г. Москва, ул. Крылатская, д. 45, корп. 1, площадью 615,1 кв. м, (этаж № 2), кадастровый номер: 77:07:0001001:4926"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a325970e50b2b041574d650",{"href":"https://torgi.gov.ru/new/file-store/v1/6a325970e50b2b041574d650","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a325970e50b2b041574d650","alt":"","loading":"lazy"}]}],["$","a","68595f377ceb00267b0f6a8e",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f377ceb00267b0f6a8e","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/68595f377ceb00267b0f6a8e","alt":"","loading":"lazy"}]}],["$","a","68595f37e1d9e642b5da16fc",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f37e1d9e642b5da16fc","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/68595f37e1d9e642b5da16fc","alt":"","loading":"lazy"}]}],["$","a","68595f39737a99574f2ca07b",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f39737a99574f2ca07b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/68595f39737a99574f2ca07b","alt":"","loading":"lazy"}]}],["$","a","68595f3abcd9d4256022b5bf",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f3abcd9d4256022b5bf","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/68595f3abcd9d4256022b5bf","alt":"","loading":"lazy"}]}],["$","a","68595f3be1d9e642b5da170c",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f3be1d9e642b5da170c","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/68595f3be1d9e642b5da170c","alt":"","loading":"lazy"}]}],["$","a","68595f3cbcd9d4256022b5cd",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f3cbcd9d4256022b5cd","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/68595f3cbcd9d4256022b5cd","alt":"","loading":"lazy"}]}],["$","a","68595f3de1d9e642b5da1718",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f3de1d9e642b5da1718","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/68595f3de1d9e642b5da1718","alt":"","loading":"lazy"}]}],["$","a","68595f3e7ceb00267b0f6a9b",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f3e7ceb00267b0f6a9b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/68595f3e7ceb00267b0f6a9b","alt":"","loading":"lazy"}]}],["$","a","68595f3f737a99574f2ca087",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f3f737a99574f2ca087","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/68595f3f737a99574f2ca087","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":["$L11","$L12"]}],"$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","h2",null,{"children":"Описание"}]
+12:["$","div",null,{"className":"desc","children":"Продажа имущества, находящегося в собственности города Москвы, нежилое помещение по адресу: г. Москва, ул. Крылатская, д. 45, корп. 1, площадью 615,1 кв. м, (этаж № 2), кадастровый номер: 77:07:0001001:4926"}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeNolivingQuarters",{"children":[["$","td",null,{"children":"Назначение нежилого помещения"}],["$","td",null,{"children":["Свободное",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["615.1"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["77:07:0001001:4926",""]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва, вн.тер.г. муниципальный округ Крылатское, ул. Крылатская, дом 45 к. 1, помещ. 1/2"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",11,")"]}],["$","div",null,{"className":"files","children":[["$","a","68595f34737a99574f2ca06e",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f34737a99574f2ca06e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16963199.Нежилое помещение.Общий фасад здания_2.jpg"]}],["$","span",null,{"className":"size","children":"4.1 МБ"}]]}],["$","a","6a325970e50b2b041574d650",{"href":"https://torgi.gov.ru/new/file-store/v1/6a325970e50b2b041574d650","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16963199.Нежилое помещение.Фасад здания с выделенными окнами реализуемого объекта.jpg"]}],["$","span",null,{"className":"size","children":"727 КБ"}]]}],["$","a","68595f377ceb00267b0f6a8e",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f377ceb00267b0f6a8e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16963199.Нежилое помещение.Входная группа объекта.jpg"]}],["$","span",null,{"className":"size","children":"2.6 МБ"}]]}],["$","a","68595f37e1d9e642b5da16fc",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f37e1d9e642b5da16fc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16963199.Нежилое помещение.План этажа (поэтажный) с указанием границ реализуемого объекта.jpg"]}],["$","span",null,{"className":"size","children":"48 КБ"}]]}],["$","a","68595f39737a99574f2ca07b",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f39737a99574f2ca07b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16963199.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта .jpg"]}],["$","span",null,{"className":"size","children":"2.7 МБ"}]]}],["$","a","68595f3abcd9d4256022b5bf",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f3abcd9d4256022b5bf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16963199.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _2.jpg"]}],["$","span",null,{"className":"size","children":"2.5 МБ"}]]}],["$","a","68595f3be1d9e642b5da170c",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f3be1d9e642b5da170c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16963199.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _3.jpg"]}],["$","span",null,{"className":"size","children":"2.6 МБ"}]]}],["$","a","68595f3cbcd9d4256022b5cd",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f3cbcd9d4256022b5cd","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16963199.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _4.jpg"]}],["$","span",null,{"className":"size","children":"3.0 МБ"}]]}],["$","a","68595f3de1d9e642b5da1718",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f3de1d9e642b5da1718","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16963199.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _5.jpg"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}],["$","a","68595f3e7ceb00267b0f6a9b",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f3e7ceb00267b0f6a9b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16963199.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _6.jpg"]}],["$","span",null,{"className":"size","children":"2.6 МБ"}]]}],["$","a","68595f3f737a99574f2ca087",{"href":"https://torgi.gov.ru/new/file-store/v1/68595f3f737a99574f2ca087","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГП16963199.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _7.jpg"]}],["$","span",null,{"className":"size","children":"2.4 МБ"}]]}]]}]]}]
+18:T1a41,{
+  "id": "gis-torgi:21000005000000033123_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "21000005000000033123_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/21000005000000033123_1",
+  "title": "Продажа имущества, находящегося в собственности города Москвы, нежилое помещение по адресу: г. Москва, ул. Крылатская, д. 45, корп. 1, площадью 615,1 кв. м, (этаж № 2), кадастровый номер: 77:07:0001001:4926",
+  "description": "Продажа имущества, находящегося в собственности города Москвы, нежилое помещение по адресу: г. Москва, ул. Крылатская, д. 45, корп. 1, площадью 615,1 кв. м, (этаж № 2), кадастровый номер: 77:07:0001001:4926",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "77",
+  "address": "г. Москва, вн.тер.г. муниципальный округ Крылатское, ул. Крылатская, дом 45 к. 1, помещ. 1/2",
+  "priceStart": "90460000.00",
+  "priceStep": "4523000",
+  "deposit": "9046000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T11:21:36.327Z",
+  "biddStartAt": "2026-08-25T17:00:00Z",
+  "biddEndAt": "2026-10-15T12:00:00Z",
+  "auctionAt": "2026-10-27T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_EETP",
+  "images": [
+    "68595f34737a99574f2ca06e",
+    "6a325970e50b2b041574d650",
+    "68595f377ceb00267b0f6a8e",
+    "68595f37e1d9e642b5da16fc",
+    "68595f39737a99574f2ca07b",
+    "68595f3abcd9d4256022b5bf",
+    "68595f3be1d9e642b5da170c",
+    "68595f3cbcd9d4256022b5cd",
+    "68595f3de1d9e642b5da1718",
+    "68595f3e7ceb00267b0f6a9b",
+    "68595f3f737a99574f2ca087"
+  ],
+  "attachments": [
+    {
+      "fileId": "68595f34737a99574f2ca06e",
+      "name": "ГП16963199.Нежилое помещение.Общий фасад здания_2.jpg",
+      "size": 4344656,
+      "sha256": "1516687955dbcb950bd688351db1d24499eb663d758d2d258fda4fa83144b8e3"
+    },
+    {
+      "fileId": "6a325970e50b2b041574d650",
+      "name": "ГП16963199.Нежилое помещение.Фасад здания с выделенными окнами реализуемого объекта.jpg",
+      "size": 744081,
+      "sha256": "8fa905e86f69b75ceb4773e157fc94ecda9109f7199c53e90f494d2c752ee4ab"
+    },
+    {
+      "fileId": "68595f377ceb00267b0f6a8e",
+      "name": "ГП16963199.Нежилое помещение.Входная группа объекта.jpg",
+      "size": 2767242,
+      "sha256": "e81c892f5baf6bd77697d28e622654f17bcbfd48dd27d5de5fd82110c660bad4"
+    },
+    {
+      "fileId": "68595f37e1d9e642b5da16fc",
+      "name": "ГП16963199.Нежилое помещение.План этажа (поэтажный) с указанием границ реализуемого объекта.jpg",
+      "size": 49489,
+      "sha256": "695ef74ebb5dc5036c040f56bcb9ded15b211697c7410bf548cb477ac3f7e5c4"
+    },
+    {
+      "fileId": "68595f39737a99574f2ca07b",
+      "name": "ГП16963199.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта .jpg",
+      "size": 2796025,
+      "sha256": "4cc0f6d7aa6505c9e81e8d6475e033de7f6967a0ff58dc9ead59c1a909d5d705"
+    },
+    {
+      "fileId": "68595f3abcd9d4256022b5bf",
+      "name": "ГП16963199.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _2.jpg",
+      "size": 2650000,
+      "sha256": "60a1a7ff9f8634ffa6e75b9a0da7207d076faafd91f0bc9d291f4ff2d8f95e8a"
+    },
+    {
+      "fileId": "68595f3be1d9e642b5da170c",
+      "name": "ГП16963199.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _3.jpg",
+      "size": 2701863,
+      "sha256": "c0f68efad6ea2242abba47414b65d5ed585e44adf096e20bdfede002c2767784"
+    },
+    {
+      "fileId": "68595f3cbcd9d4256022b5cd",
+      "name": "ГП16963199.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _4.jpg",
+      "size": 3123612,
+      "sha256": "b54ec89f1de91cfeb821459a8e45b9ae92e9a1b165726247ddae6c052274f439"
+    },
+    {
+      "fileId": "68595f3de1d9e642b5da1718",
+      "name": "ГП16963199.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _5.jpg",
+      "size": 2404970,
+      "sha256": "717c68e362511f2eb6aab0d873877860167cc12232620ec4d52ed745f4da705b"
+    },
+    {
+      "fileId": "68595f3e7ceb00267b0f6a9b",
+      "name": "ГП16963199.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _6.jpg",
+      "size": 2759303,
+      "sha256": "e7022b380084e242e77eb2cce3525ea42d4a6d42f14fcae26682dc1a995a8893"
+    },
+    {
+      "fileId": "68595f3f737a99574f2ca087",
+      "name": "ГП16963199.Нежилое помещение.Каждое помещение_комната, входящее в состав реализуемого объекта _7.jpg",
+      "size": 2478447,
+      "sha256": "5d489ac0322a7dc22ba968329421e28937383dcc4b7a011c833505f25f46dbbf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeNolivingQuarters",
+      "name": "Назначение нежилого помещения",
+      "value": "Свободное",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "615.1",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "77:07:0001001:4926",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:12:37.715Z",
+  "lastSeenAt": "2026-08-25T13:12:37.715Z",
+  "contentHash": "32c56e557fe30c60574f968636bc7db60251d4c091b9577c22c4b39374328b2f"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"90 460 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"4 523 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"9 046 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 20:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"15 окт. 2026 г., 15:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"49 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"27 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"EETP"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/21000005000000033123_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Продажа имущества, находящегося в собственности города Москвы, нежилое помещение по адресу — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

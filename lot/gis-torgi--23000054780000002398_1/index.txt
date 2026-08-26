@@ -1,0 +1,171 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--23000054780000002398_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--23000054780000002398_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--23000054780000002398_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"АМТС ВОЛЬВО ХС90, 2016гв, г/н Х535УМ777, цвет синий, VIN YV1LC68ACH1148820"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковые автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8829f857a2662b55280c33","alt":"АМТС ВОЛЬВО ХС90, 2016гв, г/н Х535УМ777, цвет синий, VIN YV1LC68ACH1148820"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a882a67efd603213f12801e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a67efd603213f12801e","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a882a67efd603213f12801e","alt":"","loading":"lazy"}]}],["$","a","6a882a6857a2662b55280cc6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a6857a2662b55280cc6","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a882a6857a2662b55280cc6","alt":"","loading":"lazy"}]}],["$","a","6a882a6857a2662b55280cca",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a6857a2662b55280cca","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a882a6857a2662b55280cca","alt":"","loading":"lazy"}]}],["$","a","6a882a68ac85246d2d83f538",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a68ac85246d2d83f538","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a882a68ac85246d2d83f538","alt":"","loading":"lazy"}]}],["$","a","6a882a68efd603213f128025",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a68efd603213f128025","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a882a68efd603213f128025","alt":"","loading":"lazy"}]}],["$","a","6a882a6863124f3d8ea4c9a1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a6863124f3d8ea4c9a1","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a882a6863124f3d8ea4c9a1","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"АМТС ВОЛЬВО ХС90, 2016гв, г/н Х535УМ777, цвет синий, VIN YV1LC68ACH1148820, должник (собственник) Сергунин И.С"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","typeCar",{"children":[["$","td",null,{"children":"Вид транспорта"}],["$","td",null,{"children":["легковой автомобиль",""]}]]}],["$","tr","yearProduction",{"children":[["$","td",null,{"children":"Год выпуска"}],["$","td",null,{"children":["2016",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"VIN номер"}],["$","td",null,{"children":["YV1LC68ACH1148820",""]}]]}],["$","tr","carMarka",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["ВОЛЬВО",""]}]]}],["$","tr","carModel",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["ХС90",""]}]]}],["$","tr","generalPurpose",{"children":[["$","td",null,{"children":"Назначение"}],["$","td",null,{"children":["Прямое",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва Днепропетровский пр., д.4А"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",10,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a882a77ac85246d2d83f540",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a77ac85246d2d83f540","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Л5 26 12 Цар-16.pdf"]}],["$","span",null,{"className":"size","children":"487 КБ"}]]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19"]}]]}],false,"$L1a"]}],"$L1b"]}]]}]
+11:["$","a","6a882a83efd603213f12802c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a83efd603213f12802c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","снижение Сергунин Цар-16.pdf"]}],["$","span",null,{"className":"size","children":"424 КБ"}]]}]
+12:["$","a","6a882a9b57a2662b55280d25",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a9b57a2662b55280d25","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Сергунин Игорь Сергеевич ВОЛЬВО ХС90 тг.pdf"]}],["$","span",null,{"className":"size","children":"7.5 МБ"}]]}]
+13:["$","a","6a8829f857a2662b55280c33",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8829f857a2662b55280c33","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","логотип.jpg"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}]
+14:["$","a","6a882a67efd603213f12801e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a67efd603213f12801e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1-_1_.jpg"]}],["$","span",null,{"className":"size","children":"227 КБ"}]]}]
+15:["$","a","6a882a6857a2662b55280cc6",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a6857a2662b55280cc6","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1-_3_.jpg"]}],["$","span",null,{"className":"size","children":"281 КБ"}]]}]
+16:["$","a","6a882a6857a2662b55280cca",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a6857a2662b55280cca","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1-_2_.jpg"]}],["$","span",null,{"className":"size","children":"267 КБ"}]]}]
+17:["$","a","6a882a68ac85246d2d83f538",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a68ac85246d2d83f538","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1-_6_.jpg"]}],["$","span",null,{"className":"size","children":"230 КБ"}]]}]
+18:["$","a","6a882a68efd603213f128025",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a68efd603213f128025","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1-_5_.jpg"]}],["$","span",null,{"className":"size","children":"261 КБ"}]]}]
+19:["$","a","6a882a6863124f3d8ea4c9a1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a882a6863124f3d8ea4c9a1","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1-_4_.jpg"]}],["$","span",null,{"className":"size","children":"205 КБ"}]]}]
+1c:T120d,{
+  "id": "gis-torgi:23000054780000002398_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "23000054780000002398_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/23000054780000002398_1",
+  "title": "АМТС ВОЛЬВО ХС90, 2016гв, г/н Х535УМ777, цвет синий, VIN YV1LC68ACH1148820",
+  "description": "АМТС ВОЛЬВО ХС90, 2016гв, г/н Х535УМ777, цвет синий, VIN YV1LC68ACH1148820, должник (собственник) Сергунин И.С",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "vehicle",
+  "categoryCode": "100001",
+  "categoryName": "Легковые автомобили",
+  "regionCode": "77",
+  "address": "г. Москва Днепропетровский пр., д.4А",
+  "priceStart": "2319650.00",
+  "priceStep": "15000",
+  "deposit": "400000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T14:17:48.331Z",
+  "biddStartAt": "2026-08-25T12:00:00Z",
+  "biddEndAt": "2026-09-25T13:00:00Z",
+  "auctionAt": "2026-09-30T08:30:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RAD",
+  "images": [
+    "6a8829f857a2662b55280c33",
+    "6a882a67efd603213f12801e",
+    "6a882a6857a2662b55280cc6",
+    "6a882a6857a2662b55280cca",
+    "6a882a68ac85246d2d83f538",
+    "6a882a68efd603213f128025",
+    "6a882a6863124f3d8ea4c9a1"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a882a77ac85246d2d83f540",
+      "name": "Л5 26 12 Цар-16.pdf",
+      "size": 498590,
+      "sha256": "6ce8b2f3584cd290509a98f8b57c5d528183843a9ff326bcc90a8d2da27a7a30"
+    },
+    {
+      "fileId": "6a882a83efd603213f12802c",
+      "name": "снижение Сергунин Цар-16.pdf",
+      "size": 434677,
+      "sha256": "1dcb602fb83fd6e4dda9d543c7e9294b7e8925722478a1a9abaee428c1e53016"
+    },
+    {
+      "fileId": "6a882a9b57a2662b55280d25",
+      "name": "Сергунин Игорь Сергеевич ВОЛЬВО ХС90 тг.pdf",
+      "size": 7827448,
+      "sha256": "21eb05771a65f51fc385a1a456ed8f0d02eac3b01c0af48feada267068509b66"
+    },
+    {
+      "fileId": "6a8829f857a2662b55280c33",
+      "name": "логотип.jpg",
+      "size": 2433104,
+      "sha256": "cb3680a136b3a2c1dc768159200b5a5ce5f7ccb865480cdd31ddb91f687b81b8"
+    },
+    {
+      "fileId": "6a882a67efd603213f12801e",
+      "name": "1-_1_.jpg",
+      "size": 232315,
+      "sha256": "06db6690e68b22b641367f3ea5ec7564b541ac1b5d478d9600e99e2bad75c57e"
+    },
+    {
+      "fileId": "6a882a6857a2662b55280cc6",
+      "name": "1-_3_.jpg",
+      "size": 288019,
+      "sha256": "c5ff7948102667bb0add620dbc9f8b82be518340b6b7bd19bef8d8f8b3f25293"
+    },
+    {
+      "fileId": "6a882a6857a2662b55280cca",
+      "name": "1-_2_.jpg",
+      "size": 273596,
+      "sha256": "cb3f550134b8c82c1a8c164b3022352488895b755329129108bf70d11e743f2a"
+    },
+    {
+      "fileId": "6a882a68ac85246d2d83f538",
+      "name": "1-_6_.jpg",
+      "size": 235744,
+      "sha256": "29ad1162ebf018566aee129d462921826eca8c53f9806557aa234a6066175454"
+    },
+    {
+      "fileId": "6a882a68efd603213f128025",
+      "name": "1-_5_.jpg",
+      "size": 267473,
+      "sha256": "98406c708f1588661dceff8a623ffc72b49d40c579d79d191842d55d9758f0a9"
+    },
+    {
+      "fileId": "6a882a6863124f3d8ea4c9a1",
+      "name": "1-_4_.jpg",
+      "size": 209938,
+      "sha256": "956e532a21f0fb43ad7d08e9559685ab7c8be9150a9dd1805006920a5d5e8c2b"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "typeCar",
+      "name": "Вид транспорта",
+      "value": "легковой автомобиль",
+      "source": "structured"
+    },
+    {
+      "key": "yearProduction",
+      "name": "Год выпуска",
+      "value": "2016",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "VIN номер",
+      "value": "YV1LC68ACH1148820",
+      "source": "structured"
+    },
+    {
+      "key": "carMarka",
+      "name": "Марка",
+      "value": "ВОЛЬВО",
+      "source": "structured"
+    },
+    {
+      "key": "carModel",
+      "name": "Модель",
+      "value": "ХС90",
+      "source": "structured"
+    },
+    {
+      "key": "generalPurpose",
+      "name": "Назначение",
+      "value": "Прямое",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:39:07.129Z",
+  "lastSeenAt": "2026-08-25T11:39:07.129Z",
+  "contentHash": "e69d24a9b0ffc5266c79a2cc5d6b073249c0b2896e9fa93c96c1cb377c8a59a6"
+}1a:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1c"}]]}]
+1b:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"2 319 650 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"15 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"400 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 15:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"25 сент. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"29 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"30 сент. 2026 г., 11:30 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RAD"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/23000054780000002398_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"АМТС ВОЛЬВО ХС90, 2016гв, г/н Х535УМ777, цвет синий, VIN YV1LC68ACH1148820 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

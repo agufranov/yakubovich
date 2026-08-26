@@ -1,0 +1,312 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--24000004100000000097_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--24000004100000000097_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--24000004100000000097_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=10","children":"Карелия"}]]]}],["$","h1",null,{"children":"Нежилое 1-этажное здание, магазин, с кадастровым номером 10:11:0000000:2600, общей площадью 62,7 кв.м., расположенное по адресу: Республика Карелия, р-н. Беломорский, д. Летний-2, д. б/н (далее – Здание), а также земельный участок с кадастровым номером 10:11:0050501:5, площадью 294 кв.м, на котором расположено Здание."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Торги"}],["$","span",null,{"children":"Земельный участок со зданием"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d83efd603213f14a6ea","alt":"Нежилое 1-этажное здание, магазин, с кадастровым номером 10:11:0000000:2600, общей площадью 62,7 кв.м., расположенное по адресу: Республика Карелия, р-н. Беломорский, д. Летний-2, д. б/н (далее – Здание), а также земельный участок с кадастровым номером 10:11:0050501:5, площадью 294 кв.м, на котором расположено Здание."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d8d8ae096f456f84cb47f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d8ae096f456f84cb47f","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d8ae096f456f84cb47f","alt":"","loading":"lazy"}]}],["$","a","6a8d8d8a63124f3d8ea6f078",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d8a63124f3d8ea6f078","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d8a63124f3d8ea6f078","alt":"","loading":"lazy"}]}],["$","a","6a8d8d9157a2662b552a7a64",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9157a2662b552a7a64","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9157a2662b552a7a64","alt":"","loading":"lazy"}]}],["$","a","6a8d8d91e096f456f84cb48b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d91e096f456f84cb48b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d91e096f456f84cb48b","alt":"","loading":"lazy"}]}],["$","a","6a8d8d91e096f456f84cb488",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d91e096f456f84cb488","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d91e096f456f84cb488","alt":"","loading":"lazy"}]}],["$","a","6a8d8d9163124f3d8ea6f081",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9163124f3d8ea6f081","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9163124f3d8ea6f081","alt":"","loading":"lazy"}]}],["$","a","6a8d8d9157a2662b552a7a68",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9157a2662b552a7a68","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9157a2662b552a7a68","alt":"","loading":"lazy"}]}],["$","a","6a8d8d91e096f456f84cb48e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d91e096f456f84cb48e","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d91e096f456f84cb48e","alt":"","loading":"lazy"}]}],["$","a","6a8d8d91efd603213f14a6f0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d91efd603213f14a6f0","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d91efd603213f14a6f0","alt":"","loading":"lazy"}]}],["$","a","6a8d8d9257a2662b552a7a6b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a6b","target":"_blank","rel":"noopener","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20"]}]]}],"$L21",false,"$L22","$L23",false,"$L24"]}],"$L25"]}]]}]
+11:["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a6b","alt":"","loading":"lazy"}]
+12:["$","a","6a8d8d92e096f456f84cb494",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92e096f456f84cb494","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92e096f456f84cb494","alt":"","loading":"lazy"}]}]
+13:["$","a","6a8d8d92e096f456f84cb493",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92e096f456f84cb493","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92e096f456f84cb493","alt":"","loading":"lazy"}]}]
+14:["$","a","6a8d8d9263124f3d8ea6f084",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9263124f3d8ea6f084","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9263124f3d8ea6f084","alt":"","loading":"lazy"}]}]
+15:["$","a","6a8d8d92efd603213f14a6f3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92efd603213f14a6f3","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92efd603213f14a6f3","alt":"","loading":"lazy"}]}]
+16:["$","a","6a8d8d92efd603213f14a6f7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92efd603213f14a6f7","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92efd603213f14a6f7","alt":"","loading":"lazy"}]}]
+17:["$","a","6a8d8d9257a2662b552a7a72",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a72","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a72","alt":"","loading":"lazy"}]}]
+18:["$","a","6a8d8d9257a2662b552a7a6f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a6f","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a6f","alt":"","loading":"lazy"}]}]
+19:["$","a","6a8d8d9363124f3d8ea6f08a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9363124f3d8ea6f08a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9363124f3d8ea6f08a","alt":"","loading":"lazy"}]}]
+1a:["$","a","6a8d8d92e096f456f84cb497",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92e096f456f84cb497","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92e096f456f84cb497","alt":"","loading":"lazy"}]}]
+1b:["$","a","6a8d8d9257a2662b552a7a75",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a75","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a75","alt":"","loading":"lazy"}]}]
+1c:["$","a","6a8d8d9257a2662b552a7a78",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a78","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a78","alt":"","loading":"lazy"}]}]
+1d:["$","a","6a8d8d97e096f456f84cb49e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d97e096f456f84cb49e","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d97e096f456f84cb49e","alt":"","loading":"lazy"}]}]
+1e:["$","a","6a8d8d9763124f3d8ea6f091",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9763124f3d8ea6f091","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9763124f3d8ea6f091","alt":"","loading":"lazy"}]}]
+1f:["$","a","6a8d8d98e096f456f84cb4a1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d98e096f456f84cb4a1","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d98e096f456f84cb4a1","alt":"","loading":"lazy"}]}]
+20:["$","a","6a8d8d9763124f3d8ea6f094",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9763124f3d8ea6f094","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9763124f3d8ea6f094","alt":"","loading":"lazy"}]}]
+21:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое 1-этажное здание, магазин, с кадастровым номером 10:11:0000000:2600, общей площадью 62,7 кв.м., расположенное по адресу: Республика Карелия, р-н. Беломорский, д. Летний-2, д. б/н (далее – Здание), а также земельный участок с кадастровым номером 10:11:0050501:5, площадью 294 кв.м, на котором расположено Здание."}]]}]
+22:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"респ. Карелия, м.о. Беломорский, п. Летний-2"}]]}]
+23:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",32,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d8da563124f3d8ea6f09b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8da563124f3d8ea6f09b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН земля.pdf"]}],["$","span",null,{"className":"size","children":"218 КБ"}]]}],["$","a","6a8d8dace096f456f84cb4da",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8dace096f456f84cb4da","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка на здание.pdf"]}],["$","span",null,{"className":"size","children":"234 КБ"}]]}],["$","a","6a8d8db863124f3d8ea6f0db",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8db863124f3d8ea6f0db","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет об оценке_Беломорский район_Летний 2 _ЕОН (со штампом) (1).pdf"]}],["$","span",null,{"className":"size","children":"11.5 МБ"}]]}],["$","a","6a8d8db4efd603213f14a736",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8db4efd603213f14a736","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Тех.паспорт Летний 2.zip"]}],["$","span",null,{"className":"size","children":"3.3 МБ"}]]}],["$","a","6a8d8d83efd603213f14a6ea",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d83efd603213f14a6ea","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-29.jpg"]}],["$","span",null,{"className":"size","children":"236 КБ"}]]}],["$","a","6a8d8d8ae096f456f84cb47f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d8ae096f456f84cb47f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-21_09-42-42.jpg"]}],["$","span",null,{"className":"size","children":"231 КБ"}]]}],["$","a","6a8d8d8a63124f3d8ea6f078",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d8a63124f3d8ea6f078","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-21_09-42-50.jpg"]}],["$","span",null,{"className":"size","children":"238 КБ"}]]}],["$","a","6a8d8d9157a2662b552a7a64",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9157a2662b552a7a64","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-21_09-42-53.jpg"]}],["$","span",null,{"className":"size","children":"251 КБ"}]]}],["$","a","6a8d8d91e096f456f84cb48b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d91e096f456f84cb48b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-21_09-42-55.jpg"]}],["$","span",null,{"className":"size","children":"239 КБ"}]]}],["$","a","6a8d8d91e096f456f84cb488",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d91e096f456f84cb488","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-21_09-42-58.jpg"]}],["$","span",null,{"className":"size","children":"227 КБ"}]]}],["$","a","6a8d8d9163124f3d8ea6f081",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9163124f3d8ea6f081","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-27.jpg"]}],["$","span",null,{"className":"size","children":"216 КБ"}]]}],["$","a","6a8d8d9157a2662b552a7a68",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9157a2662b552a7a68","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-31.jpg"]}],["$","span",null,{"className":"size","children":"278 КБ"}]]}],["$","a","6a8d8d91e096f456f84cb48e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d91e096f456f84cb48e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-32.jpg"]}],["$","span",null,{"className":"size","children":"249 КБ"}]]}],["$","a","6a8d8d91efd603213f14a6f0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d91efd603213f14a6f0","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-33.jpg"]}],["$","span",null,{"className":"size","children":"234 КБ"}]]}],["$","a","6a8d8d9257a2662b552a7a6b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a6b","target":"_blank","rel":"noopener","children":["$L26","$L27"]}],"$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38"]}]]}]
+39:T272c,{
+  "id": "gis-torgi:24000004100000000097_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "24000004100000000097_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/24000004100000000097_1",
+  "title": "Нежилое 1-этажное здание, магазин, с кадастровым номером 10:11:0000000:2600, общей площадью 62,7 кв.м., расположенное по адресу: Республика Карелия, р-н. Беломорский, д. Летний-2, д. б/н (далее – Здание), а также земельный участок с кадастровым номером 10:11:0050501:5, площадью 294 кв.м, на котором расположено Здание.",
+  "description": "Нежилое 1-этажное здание, магазин, с кадастровым номером 10:11:0000000:2600, общей площадью 62,7 кв.м., расположенное по адресу: Республика Карелия, р-н. Беломорский, д. Летний-2, д. б/н (далее – Здание), а также земельный участок с кадастровым номером 10:11:0050501:5, площадью 294 кв.м, на котором расположено Здание.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "other",
+  "tradeKindRaw": "Продажа по минимально допустимой цене",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "903",
+  "categoryName": "Земельный участок со зданием",
+  "regionCode": "10",
+  "address": "респ. Карелия, м.о. Беломорский, п. Летний-2",
+  "priceStart": "12811.50",
+  "deposit": "2562.3",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T12:47:01.148Z",
+  "biddStartAt": "2026-08-25T21:00:00Z",
+  "biddEndAt": "2026-10-16T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_SBAST",
+  "images": [
+    "6a8d8d83efd603213f14a6ea",
+    "6a8d8d8ae096f456f84cb47f",
+    "6a8d8d8a63124f3d8ea6f078",
+    "6a8d8d9157a2662b552a7a64",
+    "6a8d8d91e096f456f84cb48b",
+    "6a8d8d91e096f456f84cb488",
+    "6a8d8d9163124f3d8ea6f081",
+    "6a8d8d9157a2662b552a7a68",
+    "6a8d8d91e096f456f84cb48e",
+    "6a8d8d91efd603213f14a6f0",
+    "6a8d8d9257a2662b552a7a6b",
+    "6a8d8d92e096f456f84cb494",
+    "6a8d8d92e096f456f84cb493",
+    "6a8d8d9263124f3d8ea6f084",
+    "6a8d8d92efd603213f14a6f3",
+    "6a8d8d92efd603213f14a6f7",
+    "6a8d8d9257a2662b552a7a72",
+    "6a8d8d9257a2662b552a7a6f",
+    "6a8d8d9363124f3d8ea6f08a",
+    "6a8d8d92e096f456f84cb497",
+    "6a8d8d9257a2662b552a7a75",
+    "6a8d8d9257a2662b552a7a78",
+    "6a8d8d97e096f456f84cb49e",
+    "6a8d8d9763124f3d8ea6f091",
+    "6a8d8d98e096f456f84cb4a1",
+    "6a8d8d9763124f3d8ea6f094"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d8da563124f3d8ea6f09b",
+      "name": "Выписка из ЕГРН земля.pdf",
+      "size": 223597,
+      "sha256": "d3108e4d9fd915561f1735f5e72de69b39b4cd9f865c80f8021680c497abd5aa"
+    },
+    {
+      "fileId": "6a8d8dace096f456f84cb4da",
+      "name": "Выписка на здание.pdf",
+      "size": 239642,
+      "sha256": "61f1ad8e63d068ecf9e312aae18fda1e6ebd285f8dc596fdd7dce5bfc5242232"
+    },
+    {
+      "fileId": "6a8d8db863124f3d8ea6f0db",
+      "name": "Отчет об оценке_Беломорский район_Летний 2 _ЕОН (со штампом) (1).pdf",
+      "size": 12094778,
+      "sha256": "7a1d5f1134fc52f55279b0bdb97057db07499afaf725697a015acbc48a729f2f"
+    },
+    {
+      "fileId": "6a8d8db4efd603213f14a736",
+      "name": "Тех.паспорт Летний 2.zip",
+      "size": 3467871,
+      "sha256": "925a7a9f6fa0fc3276c7f155ced5ecd8f9ebd62523386945e060c951521cb877"
+    },
+    {
+      "fileId": "6a8d8d83efd603213f14a6ea",
+      "name": "photo_2025-07-25_17-04-29.jpg",
+      "size": 241655,
+      "sha256": "d3bc881d34879c851b63a02c12e08a43d9e0a0f80d0c966fe4ec3f8a5ab584a2"
+    },
+    {
+      "fileId": "6a8d8d8ae096f456f84cb47f",
+      "name": "photo_2025-07-21_09-42-42.jpg",
+      "size": 236544,
+      "sha256": "642063fc26e380b270c53370d14cb00ac98106f55caff87730026b73cfd0b27c"
+    },
+    {
+      "fileId": "6a8d8d8a63124f3d8ea6f078",
+      "name": "photo_2025-07-21_09-42-50.jpg",
+      "size": 243860,
+      "sha256": "7cd458f3e389bc63dee5b4182e9d26bfdd8bb74ce4965f4edfa36bae5cf7dc5b"
+    },
+    {
+      "fileId": "6a8d8d9157a2662b552a7a64",
+      "name": "photo_2025-07-21_09-42-53.jpg",
+      "size": 256596,
+      "sha256": "547c2c42cdcb7c63257c69d0bae48f515c25427fc5627e78234f2bab3fae3ffb"
+    },
+    {
+      "fileId": "6a8d8d91e096f456f84cb48b",
+      "name": "photo_2025-07-21_09-42-55.jpg",
+      "size": 245037,
+      "sha256": "ee3114690de16034c7c1ff3b594a1d85e70ecd38d203c2c06cae15907f9b9536"
+    },
+    {
+      "fileId": "6a8d8d91e096f456f84cb488",
+      "name": "photo_2025-07-21_09-42-58.jpg",
+      "size": 232482,
+      "sha256": "e2596b7c8a772d14445aa83f090bcfa5d575dcb828a0c10c71e146eb79549ea3"
+    },
+    {
+      "fileId": "6a8d8d9163124f3d8ea6f081",
+      "name": "photo_2025-07-25_17-04-27.jpg",
+      "size": 221689,
+      "sha256": "fde388d981f0ac00dab0e412a7632e22bbd630661fb8c460e36e4393aa5129d8"
+    },
+    {
+      "fileId": "6a8d8d9157a2662b552a7a68",
+      "name": "photo_2025-07-25_17-04-31.jpg",
+      "size": 285178,
+      "sha256": "20c0ae09ea9aaef07fce74530c6b0f1ed4a62be8c9a5edc71e1e167f77219f59"
+    },
+    {
+      "fileId": "6a8d8d91e096f456f84cb48e",
+      "name": "photo_2025-07-25_17-04-32.jpg",
+      "size": 255197,
+      "sha256": "449f43d95f54cd30c36cbefb38c6c1e728f96ac9338fdd71079bcc155ae09b0f"
+    },
+    {
+      "fileId": "6a8d8d91efd603213f14a6f0",
+      "name": "photo_2025-07-25_17-04-33.jpg",
+      "size": 239563,
+      "sha256": "4550383bf9f1ab6fcd75f3bb13ee552f89e95340ca30f2e37e4b42af837b7a34"
+    },
+    {
+      "fileId": "6a8d8d9257a2662b552a7a6b",
+      "name": "photo_2025-07-25_17-04-34.jpg",
+      "size": 191660,
+      "sha256": "58bd8dc4540aee78cadee6d987934ffd9b360d23ad5e6441438852dfa9185a57"
+    },
+    {
+      "fileId": "6a8d8d92e096f456f84cb494",
+      "name": "photo_2025-07-25_17-04-35.jpg",
+      "size": 99581,
+      "sha256": "426686faa08a2d935b33ac9e5c99efe0c38c0354593e0d630d55a0e3ba2eb547"
+    },
+    {
+      "fileId": "6a8d8d92e096f456f84cb493",
+      "name": "photo_2025-07-25_17-04-36.jpg",
+      "size": 103175,
+      "sha256": "1ba3c3221645bb73d0761928e61656359f65de2b304014f188dd5059fc17a5c1"
+    },
+    {
+      "fileId": "6a8d8d9263124f3d8ea6f084",
+      "name": "photo_2025-07-25_17-04-38.jpg",
+      "size": 109033,
+      "sha256": "c10a2a5608c314bf1acb60dd0e6cfac8b98a86ee2566f9e1b497be18a3281690"
+    },
+    {
+      "fileId": "6a8d8d92efd603213f14a6f3",
+      "name": "photo_2025-07-25_17-04-40.jpg",
+      "size": 125914,
+      "sha256": "b1562036cf3246e6df0f361ad93149f2d890f03e1417b0e813a67c10bf2f9cc0"
+    },
+    {
+      "fileId": "6a8d8d92efd603213f14a6f7",
+      "name": "photo_2025-07-25_17-04-41.jpg",
+      "size": 171014,
+      "sha256": "73d807a5de18218db9edda474a06fe72c0d2eccaa7062008dc605e2f55e3ff0d"
+    },
+    {
+      "fileId": "6a8d8d9257a2662b552a7a72",
+      "name": "photo_2025-07-25_17-04-42.jpg",
+      "size": 133017,
+      "sha256": "e104e1e79e7468ce9fa52f8e11e73bdb7a9a7034164e43c307927463bb17cc34"
+    },
+    {
+      "fileId": "6a8d8d9257a2662b552a7a6f",
+      "name": "photo_2025-07-25_17-04-43.jpg",
+      "size": 133101,
+      "sha256": "1ae303c70fb9442d0499c660e4ca7ce35b731bbe7945f84d21f4adb10e394232"
+    },
+    {
+      "fileId": "6a8d8d9363124f3d8ea6f08a",
+      "name": "photo_2025-07-25_17-04-44.jpg",
+      "size": 130225,
+      "sha256": "572c7853ecc1134074d122459ddd890c1730d2bab5c19cfa944c0b82b6ea94dd"
+    },
+    {
+      "fileId": "6a8d8d92e096f456f84cb497",
+      "name": "photo_2025-07-25_17-04-45.jpg",
+      "size": 124181,
+      "sha256": "24abc2dc5aee0310ca94545e4978d4762dcd06fd061de47fde6dabd3c94bcc36"
+    },
+    {
+      "fileId": "6a8d8d9257a2662b552a7a75",
+      "name": "photo_2025-07-25_17-04-46.jpg",
+      "size": 153755,
+      "sha256": "4ea823577028bd47d04652595e3cd7f3f643f499dc810be3477011d3230f1002"
+    },
+    {
+      "fileId": "6a8d8d9257a2662b552a7a78",
+      "name": "photo_2025-07-25_17-04-47.jpg",
+      "size": 214868,
+      "sha256": "ad0538391fa1bac40af5250fc7b27d7fdd0693c30ad6631db787204204b32a8c"
+    },
+    {
+      "fileId": "6a8d8d97e096f456f84cb49e",
+      "name": "photo_2025-07-25_17-04-48.jpg",
+      "size": 246794,
+      "sha256": "02706fc85183c203a53fb9263938c2d6f9397afc3da99cae6494f4ff9cecc8ee"
+    },
+    {
+      "fileId": "6a8d8d9763124f3d8ea6f091",
+      "name": "photo_2025-07-25_17-04-49.jpg",
+      "size": 216160,
+      "sha256": "338599338bfc874132e470d4d3c3991977043ce8a3c3c7d72932af0449d5c51b"
+    },
+    {
+      "fileId": "6a8d8d98e096f456f84cb4a1",
+      "name": "photo_2025-07-25_17-04-50.jpg",
+      "size": 197374,
+      "sha256": "02ddcd287d0fee2a448c1f0b05737ed8bdd4761b3f27f95bce42413d8d590251"
+    },
+    {
+      "fileId": "6a8d8d9763124f3d8ea6f094",
+      "name": "photo_2025-07-25_17-04-56.jpg",
+      "size": 260298,
+      "sha256": "e7c10e9b66401d56280c18f26893b202436146e9ae743ef4b6bc2d34d9337bdf"
+    },
+    {
+      "fileId": "6a8d8da5efd603213f14a71c",
+      "name": "IMG_9635.MOV",
+      "size": 5780085,
+      "sha256": "f37e1220153352fc71338d4fe15526a49781eb98f0dbbc315029874d52fff7b9"
+    },
+    {
+      "fileId": "6a8d8dace096f456f84cb4e4",
+      "name": "IMG_9637.MOV",
+      "size": 13811950,
+      "sha256": "4a0f238bca7f49a6d1913bda2315f7a74cf78088771aa3fa782aefbb17324763"
+    }
+  ],
+  "attributes": [],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:11:32.996Z",
+  "lastSeenAt": "2026-08-25T13:11:32.996Z",
+  "contentHash": "43e2afdaf41ba5c8ccc847bea56360019df8a9a923ca2df65c9a4ff79158be7d"
+}24:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$39"}]]}]
+25:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"12 811,50 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"2 562,30 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"16 окт. 2026 г., 11:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"50 дней"}]],"$undefined"]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Карелия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"SBAST"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/24000004100000000097_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+26:["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-34.jpg"]}]
+27:["$","span",null,{"className":"size","children":"187 КБ"}]
+28:["$","a","6a8d8d92e096f456f84cb494",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92e096f456f84cb494","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-35.jpg"]}],["$","span",null,{"className":"size","children":"97 КБ"}]]}]
+29:["$","a","6a8d8d92e096f456f84cb493",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92e096f456f84cb493","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-36.jpg"]}],["$","span",null,{"className":"size","children":"101 КБ"}]]}]
+2a:["$","a","6a8d8d9263124f3d8ea6f084",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9263124f3d8ea6f084","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-38.jpg"]}],["$","span",null,{"className":"size","children":"106 КБ"}]]}]
+2b:["$","a","6a8d8d92efd603213f14a6f3",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92efd603213f14a6f3","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-40.jpg"]}],["$","span",null,{"className":"size","children":"123 КБ"}]]}]
+2c:["$","a","6a8d8d92efd603213f14a6f7",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92efd603213f14a6f7","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-41.jpg"]}],["$","span",null,{"className":"size","children":"167 КБ"}]]}]
+2d:["$","a","6a8d8d9257a2662b552a7a72",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a72","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-42.jpg"]}],["$","span",null,{"className":"size","children":"130 КБ"}]]}]
+2e:["$","a","6a8d8d9257a2662b552a7a6f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a6f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-43.jpg"]}],["$","span",null,{"className":"size","children":"130 КБ"}]]}]
+2f:["$","a","6a8d8d9363124f3d8ea6f08a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9363124f3d8ea6f08a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-44.jpg"]}],["$","span",null,{"className":"size","children":"127 КБ"}]]}]
+30:["$","a","6a8d8d92e096f456f84cb497",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d92e096f456f84cb497","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-45.jpg"]}],["$","span",null,{"className":"size","children":"121 КБ"}]]}]
+31:["$","a","6a8d8d9257a2662b552a7a75",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a75","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-46.jpg"]}],["$","span",null,{"className":"size","children":"150 КБ"}]]}]
+32:["$","a","6a8d8d9257a2662b552a7a78",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9257a2662b552a7a78","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-47.jpg"]}],["$","span",null,{"className":"size","children":"210 КБ"}]]}]
+33:["$","a","6a8d8d97e096f456f84cb49e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d97e096f456f84cb49e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-48.jpg"]}],["$","span",null,{"className":"size","children":"241 КБ"}]]}]
+34:["$","a","6a8d8d9763124f3d8ea6f091",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9763124f3d8ea6f091","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-49.jpg"]}],["$","span",null,{"className":"size","children":"211 КБ"}]]}]
+35:["$","a","6a8d8d98e096f456f84cb4a1",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d98e096f456f84cb4a1","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-50.jpg"]}],["$","span",null,{"className":"size","children":"193 КБ"}]]}]
+36:["$","a","6a8d8d9763124f3d8ea6f094",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8d9763124f3d8ea6f094","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","photo_2025-07-25_17-04-56.jpg"]}],["$","span",null,{"className":"size","children":"254 КБ"}]]}]
+37:["$","a","6a8d8da5efd603213f14a71c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8da5efd603213f14a71c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_9635.MOV"]}],["$","span",null,{"className":"size","children":"5.5 МБ"}]]}]
+38:["$","a","6a8d8dace096f456f84cb4e4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d8dace096f456f84cb4e4","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_9637.MOV"]}],["$","span",null,{"className":"size","children":"13.2 МБ"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое 1-этажное здание, магазин, с кадастровым номером 10:11:0000000:2600, общей площадь — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

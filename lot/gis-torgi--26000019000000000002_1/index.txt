@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--26000019000000000002_1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--26000019000000000002_1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--26000019000000000002_1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=61","children":"Ростовская обл."}]]]}],["$","h1",null,{"children":"Нежилое здание с земельным участком"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d4a7a57a2662b552a1e15","alt":"Нежилое здание с земельным участком"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8d4a7aefd603213f1450e4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d4a7aefd603213f1450e4","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d4a7aefd603213f1450e4","alt":"","loading":"lazy"}]}],["$","a","6a8d4a7a57a2662b552a1e03",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d4a7a57a2662b552a1e03","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8d4a7a57a2662b552a1e03","alt":"","loading":"lazy"}]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое здание с кадастровым номером 61:30:0060101:4930 площадь 512.6 по адресу Ростовская область, р-н. Песчанокопский, с. Летник, ул. Кирова, д. 1"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","yearCommissioning",{"children":[["$","td",null,{"children":"Год ввода в эксплуатацию"}],["$","td",null,{"children":["1982",""]}]]}],["$","tr","typeRestrictionsEncumbrances",{"children":[["$","td",null,{"children":"Вид ограничений и обременений"}],["$","td",null,{"children":["нет",""]}]]}],["$","tr","cadastralNumberObjectRealty",{"children":[["$","td",null,{"children":"Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение"}],["$","td",null,{"children":["61:30:0060101:4930",""]}]]}],["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["512.6"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["61:30:0060101:4930",""]}]]}],["$","tr","restrictionsEncumbrances",{"children":[["$","td",null,{"children":"Общие сведения об ограничениях и обременениях"}],["$","td",null,{"children":["нет",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл. Ростовская, м.р-н Песчанокопский, с.п. Летницкое, с. Летник"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",10,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8d39bfe096f456f84c5425",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d39bfe096f456f84c5425","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","выписка земля кирова 1.pdf"]}],["$","span",null,{"className":"size","children":"348 КБ"}]]}],["$","a","6a8d39bf63124f3d8ea680af",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d39bf63124f3d8ea680af","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","выписка кирова 1 здание.pdf"]}],["$","span",null,{"className":"size","children":"314 КБ"}]]}],["$","a","6a8d3a1f57a2662b552a0e7b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d3a1f57a2662b552a0e7b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Постановление от 25.08.2026 №89.docx"]}],["$","span",null,{"className":"size","children":"14 КБ"}]]}],["$","a","6a8d3a2e63124f3d8ea6816e",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d3a2e63124f3d8ea6816e","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГПЗУ РФ-61-4-30-2-05-2026-0067-0 от 22.06.2026.pdf"]}],"$L11"]}],"$L12","$L13","$L14","$L15","$L16","$L17"]}]]}],false,"$L18"]}],"$L19"]}]]}]
+11:["$","span",null,{"className":"size","children":"1.6 МБ"}]
+12:["$","a","6a8d3ac563124f3d8ea6820f",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d3ac563124f3d8ea6820f","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","решение сд №123 от 16.12.2025 положение приватизация имущества.docx"]}],["$","span",null,{"className":"size","children":"47 КБ"}]]}]
+13:["$","a","6a8d3ac5e096f456f84c5528",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d3ac5e096f456f84c5528","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","решение СД №143 от 16.06.2026  о внесении изменений в план приватизации.docx"]}],["$","span",null,{"className":"size","children":"22 КБ"}]]}]
+14:["$","a","6a8d3b2263124f3d8ea68290",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d3b2263124f3d8ea68290","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","тех. паспорт кирова 1.pdf"]}],["$","span",null,{"className":"size","children":"3.3 МБ"}]]}]
+15:["$","a","6a8d4a7a57a2662b552a1e15",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d4a7a57a2662b552a1e15","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Кирова1.jpg"]}],["$","span",null,{"className":"size","children":"3.8 МБ"}]]}]
+16:["$","a","6a8d4a7aefd603213f1450e4",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d4a7aefd603213f1450e4","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Кирова2.jpg"]}],["$","span",null,{"className":"size","children":"4.0 МБ"}]]}]
+17:["$","a","6a8d4a7a57a2662b552a1e03",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8d4a7a57a2662b552a1e03","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Кирова3.jpg"]}],["$","span",null,{"className":"size","children":"2.2 МБ"}]]}]
+1a:T1500,{
+  "id": "gis-torgi:26000019000000000002_1",
+  "sourceCode": "gis-torgi",
+  "externalId": "26000019000000000002_1",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/26000019000000000002_1",
+  "title": "Нежилое здание с земельным участком",
+  "description": "Нежилое здание с кадастровым номером 61:30:0060101:4930 площадь 512.6 по адресу Ростовская область, р-н. Песчанокопский, с. Летник, ул. Кирова, д. 1",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "61",
+  "address": "обл. Ростовская, м.р-н Песчанокопский, с.п. Летницкое, с. Летник",
+  "priceStart": "2295935.00",
+  "priceStep": "68878.05",
+  "deposit": "229593.5",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T07:57:31.524Z",
+  "biddStartAt": "2026-08-26T05:00:00Z",
+  "biddEndAt": "2026-09-22T14:00:00Z",
+  "auctionAt": "2026-09-25T06:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_RTS",
+  "images": [
+    "6a8d4a7a57a2662b552a1e15",
+    "6a8d4a7aefd603213f1450e4",
+    "6a8d4a7a57a2662b552a1e03"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8d39bfe096f456f84c5425",
+      "name": "выписка земля кирова 1.pdf",
+      "size": 356376,
+      "sha256": "07aa24ac6a0eb7ab249c981663a011efee6e5aefb72724af76d060c7eb4535cf"
+    },
+    {
+      "fileId": "6a8d39bf63124f3d8ea680af",
+      "name": "выписка кирова 1 здание.pdf",
+      "size": 321523,
+      "sha256": "f183f4abda06475ab231f7e806ceca91d91e069ef8dd707e97faf1b8c6909842"
+    },
+    {
+      "fileId": "6a8d3a1f57a2662b552a0e7b",
+      "name": "Постановление от 25.08.2026 №89.docx",
+      "size": 14237,
+      "sha256": "06c619e2092f5ae34e9e2e1b7851243d95be6ba343d12007b4b1b869ada53676"
+    },
+    {
+      "fileId": "6a8d3a2e63124f3d8ea6816e",
+      "name": "ГПЗУ РФ-61-4-30-2-05-2026-0067-0 от 22.06.2026.pdf",
+      "size": 1653128,
+      "sha256": "e59cbcf3f840d93bc8258178462169193ccbd7aa3e41623986bf81e596780f4e"
+    },
+    {
+      "fileId": "6a8d3ac563124f3d8ea6820f",
+      "name": "решение сд №123 от 16.12.2025 положение приватизация имущества.docx",
+      "size": 48418,
+      "sha256": "27c444ef7cb65a2826b43a1be9aa9def3b730e67d71077b62a061e10064d1be6"
+    },
+    {
+      "fileId": "6a8d3ac5e096f456f84c5528",
+      "name": "решение СД №143 от 16.06.2026  о внесении изменений в план приватизации.docx",
+      "size": 22835,
+      "sha256": "8e2419c0ae99f8e906adf164b85f5c82d807ae28d52bc9132bdd01309c032c3b"
+    },
+    {
+      "fileId": "6a8d3b2263124f3d8ea68290",
+      "name": "тех. паспорт кирова 1.pdf",
+      "size": 3466696,
+      "sha256": "2abf906c29dc9b7199838c97239f4faff58dc0925d53399624aeae0cd36b305e"
+    },
+    {
+      "fileId": "6a8d4a7a57a2662b552a1e15",
+      "name": "Кирова1.jpg",
+      "size": 3984243,
+      "sha256": "b69f2b42202d6872c5c8b88d52f7db5608691b321227270fc8ae6dd93c32c392"
+    },
+    {
+      "fileId": "6a8d4a7aefd603213f1450e4",
+      "name": "Кирова2.jpg",
+      "size": 4226000,
+      "sha256": "b6a38217a09e5438199695e013c52661e2eff1bd146324938699d5527e19ca1a"
+    },
+    {
+      "fileId": "6a8d4a7a57a2662b552a1e03",
+      "name": "Кирова3.jpg",
+      "size": 2286358,
+      "sha256": "6ec6ce4844ded814ab72ea43b27ca062aab906312d881f7a9600b3fb03670eb8"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "yearCommissioning",
+      "name": "Год ввода в эксплуатацию",
+      "value": "1982",
+      "source": "structured"
+    },
+    {
+      "key": "typeRestrictionsEncumbrances",
+      "name": "Вид ограничений и обременений",
+      "value": "нет",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberObjectRealty",
+      "name": "Кадастровый номер объекта недвижимости (здания, сооружения), в пределах которого расположено помещение",
+      "value": "61:30:0060101:4930",
+      "source": "structured"
+    },
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "512.6",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "61:30:0060101:4930",
+      "source": "structured"
+    },
+    {
+      "key": "restrictionsEncumbrances",
+      "name": "Общие сведения об ограничениях и обременениях",
+      "value": "нет",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:17:48.439Z",
+  "lastSeenAt": "2026-08-25T13:17:48.439Z",
+  "contentHash": "2aa825e83523187edd653900a6dd65d9aa6864a243ddcc39ee5eda7479eb750b"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"2 295 935 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"68 878,05 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"229 593,50 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 08:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 17:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 09:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Ростовская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"RTS"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/26000019000000000002_1","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Нежилое здание с земельным участком — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

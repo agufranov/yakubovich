@@ -1,0 +1,108 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--24000032040000000242_6",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--24000032040000000242_6","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--24000032040000000242_6","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:T10f1,{
+  "id": "gis-torgi:24000032040000000242_6",
+  "sourceCode": "gis-torgi",
+  "externalId": "24000032040000000242_6",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/24000032040000000242_6",
+  "title": "Доля в уставном капитале ООО «Северстрой-инвест», ИНН 4345139025, ОГРН 1064345105032, дата регистрации 14.06.2006, адрес: Кировская обл., г. Киров, ул. Чернышевского, д. 35, в размере 50%",
+  "description": "(первичные торги). Доля в уставном капитале ООО «Северстрой-инвест», ИНН 4345139025, ОГРН 1064345105032, дата регистрации 14.06.2006, адрес: Кировская обл., г. Киров, ул. Чернышевского, д. 35, в размере 50%. Вид права – собственность. Обременение – аресты. Собственник – Туганов В.В. (уведомление № 208-ГМУ от 29.07.2026).",
+  "legalBasis": "fssp_229fz",
+  "legalBasisRaw": "Реализация имущества должников",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "applications",
+  "statusRaw": "APPLICATIONS_SUBMISSION",
+  "kind": "business",
+  "categoryCode": "46",
+  "categoryName": "Доля ООО",
+  "regionCode": "43",
+  "address": "обл Кировская г. Киров, ул. Чернышевского, д. 35",
+  "priceStart": "5000.00",
+  "priceStep": "50",
+  "deposit": "750",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T19:10:27.48Z",
+  "biddStartAt": "2026-08-24T19:30:00Z",
+  "biddEndAt": "2026-09-22T07:00:00Z",
+  "auctionAt": "2026-09-25T07:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_MMVB",
+  "images": [
+    "6a8c7836efd603213f140d11"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c783163124f3d8ea64fbd",
+      "name": "208-гму Туганов В.В. 2.pdf",
+      "size": 74195,
+      "sha256": "0480e1197db1fd1571135cc92f8575e5f36ac28f47bb54d9483cc0435ed15995"
+    },
+    {
+      "fileId": "6a8c7836efd603213f140d11",
+      "name": "арест.jpg",
+      "size": 176421,
+      "sha256": "35e213f79fc14f65befaeafbceeb6161eb7db80b3fe50cfffcec46d003b7ec31"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "companyName",
+      "name": "Полное наименование хозяйственного общества",
+      "value": "ООО «Северстрой-инвест»",
+      "source": "structured"
+    },
+    {
+      "key": "companyAdressName",
+      "name": "Адрес местонахождения хозяйственного общества",
+      "value": "Кировская обл., г. Киров, ул. Чернышевского, д. 35",
+      "source": "structured"
+    },
+    {
+      "key": "objectsArea",
+      "name": "Площадь объектов недвижимого имущества хозяйственного общества и их перечень с указанием действующих и установленных обременений",
+      "value": "-",
+      "source": "structured"
+    },
+    {
+      "key": "keyProducts",
+      "name": "Перечень видов основной продукции (работ, услуг), производимых хозяйственным обществом",
+      "value": "Строительство жилых и нежилых зданий (41.20)",
+      "source": "structured"
+    },
+    {
+      "key": "authorisedCapitalStock",
+      "name": "Размер уставного капитала хозяйственного общества",
+      "value": "10000",
+      "source": "structured"
+    },
+    {
+      "key": "landArea",
+      "name": "Площадь земельного участка или земельных участков, на которых расположено недвижимое имущество хозяйственного общества",
+      "value": "0",
+      "unit": "га",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T11:31:32.109Z",
+  "lastSeenAt": "2026-08-25T11:31:32.109Z",
+  "contentHash": "5664c96fde260e1d1c6756660d9c871675bbb4f4fe2788e611b088c72fe24c35"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=business","children":"Бизнес"}],[" · ",["$","$L4",null,{"href":"/?region=43","children":"Кировская обл."}]]]}],["$","h1",null,{"children":"Доля в уставном капитале ООО «Северстрой-инвест», ИНН 4345139025, ОГРН 1064345105032, дата регистрации 14.06.2006, адрес: Кировская обл., г. Киров, ул. Чернышевского, д. 35, в размере 50%"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Арестованное имущество"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Доля ООО"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c7836efd603213f140d11","alt":"Доля в уставном капитале ООО «Северстрой-инвест», ИНН 4345139025, ОГРН 1064345105032, дата регистрации 14.06.2006, адрес: Кировская обл., г. Киров, ул. Чернышевского, д. 35, в размере 50%"}]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"(первичные торги). Доля в уставном капитале ООО «Северстрой-инвест», ИНН 4345139025, ОГРН 1064345105032, дата регистрации 14.06.2006, адрес: Кировская обл., г. Киров, ул. Чернышевского, д. 35, в размере 50%. Вид права – собственность. Обременение – аресты. Собственник – Туганов В.В. (уведомление № 208-ГМУ от 29.07.2026)."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","companyName",{"children":[["$","td",null,{"children":"Полное наименование хозяйственного общества"}],["$","td",null,{"children":["ООО «Северстрой-инвест»",""]}]]}],["$","tr","companyAdressName",{"children":[["$","td",null,{"children":"Адрес местонахождения хозяйственного общества"}],["$","td",null,{"children":["Кировская обл., г. Киров, ул. Чернышевского, д. 35",""]}]]}],["$","tr","objectsArea",{"children":[["$","td",null,{"children":"Площадь объектов недвижимого имущества хозяйственного общества и их перечень с указанием действующих и установленных обременений"}],["$","td",null,{"children":["-",""]}]]}],["$","tr","keyProducts",{"children":[["$","td",null,{"children":"Перечень видов основной продукции (работ, услуг), производимых хозяйственным обществом"}],["$","td",null,{"children":["Строительство жилых и нежилых зданий (41.20)",""]}]]}],["$","tr","authorisedCapitalStock",{"children":[["$","td",null,{"children":"Размер уставного капитала хозяйственного общества"}],["$","td",null,{"children":["10000",""]}]]}],["$","tr","landArea",{"children":[["$","td",null,{"children":"Площадь земельного участка или земельных участков, на которых расположено недвижимое имущество хозяйственного общества"}],["$","td",null,{"children":["0"," га"]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"обл Кировская г. Киров, ул. Чернышевского, д. 35"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c783163124f3d8ea64fbd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c783163124f3d8ea64fbd","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","208-гму Туганов В.В. 2.pdf"]}],["$","span",null,{"className":"size","children":"72 КБ"}]]}],["$","a","6a8c7836efd603213f140d11",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c7836efd603213f140d11","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","арест.jpg"]}],["$","span",null,{"className":"size","children":"172 КБ"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"5 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"50 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"750 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"24 авг. 2026 г., 22:30 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Кировская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"MMVB"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/24000032040000000242_6","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Доля в уставном капитале ООО «Северстрой-инвест», ИНН 4345139025, ОГРН 1064345105032, дата — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

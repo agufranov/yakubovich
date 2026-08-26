@@ -1,0 +1,177 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-f66a8b04aecfff1a.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","470","static/chunks/app/lot/%5Bslug%5D/page-1e63da728f6d6a8e.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/1a5ed56a051382f8.css","style"]
+0:{"P":null,"b":"jyURO28jUMrRq47EnnEkH","p":"/yakubovich","c":["","lot","gis-torgi--22000038210000000224_4",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","gis-torgi--22000038210000000224_4","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/1a5ed56a051382f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gis-torgi--22000038210000000224_4","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Помещения № 1, 2, 3, 4, общая площадь 26,5 кв. м, Российская Федерация, Краснодарский край, городской округ город Краснодар, город Краснодар, пер. Насыпной, дом 8, помещ. № 1, 2, 3, 4. Кадастровый номер: 23:43:0305036:215, назначение: нежилое."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Приватизация"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилые помещения"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c0205efd603213f137c78","alt":"Помещения № 1, 2, 3, 4, общая площадь 26,5 кв. м, Российская Федерация, Краснодарский край, городской округ город Краснодар, город Краснодар, пер. Насыпной, дом 8, помещ. № 1, 2, 3, 4. Кадастровый номер: 23:43:0305036:215, назначение: нежилое."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","6a8c020557a2662b5529412b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c020557a2662b5529412b","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c020557a2662b5529412b","alt":"","loading":"lazy"}]}],["$","a","6a8c0206efd603213f137c87",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c0206efd603213f137c87","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c0206efd603213f137c87","alt":"","loading":"lazy"}]}],["$","a","6a8c020657a2662b55294137",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c020657a2662b55294137","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c020657a2662b55294137","alt":"","loading":"lazy"}]}],["$","a","6a8c020663124f3d8ea5c640",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c020663124f3d8ea5c640","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c020663124f3d8ea5c640","alt":"","loading":"lazy"}]}],["$","a","6a8c020763124f3d8ea5c64c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c020763124f3d8ea5c64c","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c020763124f3d8ea5c64c","alt":"","loading":"lazy"}]}],["$","a","6a8c020763124f3d8ea5c655",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c020763124f3d8ea5c655","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c020763124f3d8ea5c655","alt":"","loading":"lazy"}]}],["$","a","6a8c022163124f3d8ea5c674",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c022163124f3d8ea5c674","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c022163124f3d8ea5c674","alt":"","loading":"lazy"}]}],["$","a","6a8c022263124f3d8ea5c6be",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c022263124f3d8ea5c6be","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c022263124f3d8ea5c6be","alt":"","loading":"lazy"}]}],["$","a","6a8c022357a2662b5529415a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c022357a2662b5529415a","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c022357a2662b5529415a","alt":"","loading":"lazy"}]}],["$","a","6a8c022263124f3d8ea5c6aa",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c022263124f3d8ea5c6aa","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c022263124f3d8ea5c6aa","alt":"","loading":"lazy"}]}],"$L11","$L12","$L13"]}]]}],"$L14","$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","a","6a8c022363124f3d8ea5c6d9",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c022363124f3d8ea5c6d9","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c022363124f3d8ea5c6d9","alt":"","loading":"lazy"}]}]
+12:["$","a","6a8c022263124f3d8ea5c6bd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c022263124f3d8ea5c6bd","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c022263124f3d8ea5c6bd","alt":"","loading":"lazy"}]}]
+13:["$","a","6a8c022463124f3d8ea5c6f0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c022463124f3d8ea5c6f0","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://torgi.gov.ru/new/file-store/v1/6a8c022463124f3d8ea5c6f0","alt":"","loading":"lazy"}]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Лот № 4 – помещения № 1, 2, 3, 4, общая площадь 26,5 кв. м, Российская Федерация, Краснодарский край, городской округ город Краснодар, город Краснодар, пер. Насыпной, дом 8, помещ. № 1, 2, 3, 4. Кадастровый номер: 23:43:0305036:215, назначение: нежилое."}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","totalAreaRealty",{"children":[["$","td",null,{"children":"Общая площадь"}],["$","td",null,{"children":["26.5"," м^2 общ. пл"]}]]}],["$","tr","cadastralNumberRealty",{"children":[["$","td",null,{"children":"Кадастровый номер"}],["$","td",null,{"children":["23:43:0305036:215",""]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"край Краснодарский, г.о. город Краснодар, г. Краснодар, пер. Насыпной, дом 8"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",14,")"]}],["$","div",null,{"className":"files","children":[["$","a","6a8c0205efd603213f137c78",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c0205efd603213f137c78","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","CIMG8304.JPG"]}],["$","span",null,{"className":"size","children":"2.7 МБ"}]]}],["$","a","6a8c020557a2662b5529412b",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c020557a2662b5529412b","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","CIMG8305.JPG"]}],["$","span",null,{"className":"size","children":"2.2 МБ"}]]}],["$","a","6a8c0206efd603213f137c87",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c0206efd603213f137c87","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","CIMG8306.JPG"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}],["$","a","6a8c020657a2662b55294137",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c020657a2662b55294137","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","CIMG8307.JPG"]}],["$","span",null,{"className":"size","children":"2.4 МБ"}]]}],["$","a","6a8c020663124f3d8ea5c640",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c020663124f3d8ea5c640","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","CIMG8308.JPG"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}],["$","a","6a8c020763124f3d8ea5c64c",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c020763124f3d8ea5c64c","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","CIMG8309.JPG"]}],["$","span",null,{"className":"size","children":"2.3 МБ"}]]}],["$","a","6a8c020763124f3d8ea5c655",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c020763124f3d8ea5c655","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","CIMG8310.JPG"]}],["$","span",null,{"className":"size","children":"1.7 МБ"}]]}],["$","a","6a8c022163124f3d8ea5c674",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c022163124f3d8ea5c674","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20201224_113052.jpg"]}],["$","span",null,{"className":"size","children":"5.3 МБ"}]]}],["$","a","6a8c022263124f3d8ea5c6be",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c022263124f3d8ea5c6be","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20201224_113100.jpg"]}],["$","span",null,{"className":"size","children":"5.6 МБ"}]]}],["$","a","6a8c022357a2662b5529415a",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c022357a2662b5529415a","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20201224_113106.jpg"]}],["$","span",null,{"className":"size","children":"4.9 МБ"}]]}],["$","a","6a8c022263124f3d8ea5c6aa",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c022263124f3d8ea5c6aa","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20201224_113113.jpg"]}],["$","span",null,{"className":"size","children":"5.0 МБ"}]]}],["$","a","6a8c022363124f3d8ea5c6d9",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c022363124f3d8ea5c6d9","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20201224_113122.jpg"]}],["$","span",null,{"className":"size","children":"5.4 МБ"}]]}],["$","a","6a8c022263124f3d8ea5c6bd",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c022263124f3d8ea5c6bd","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20201224_113132.jpg"]}],["$","span",null,{"className":"size","children":"5.0 МБ"}]]}],["$","a","6a8c022463124f3d8ea5c6f0",{"href":"https://torgi.gov.ru/new/file-store/v1/6a8c022463124f3d8ea5c6f0","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_20201224_113145.jpg"]}],["$","span",null,{"className":"size","children":"5.2 МБ"}]]}]]}]]}]
+1a:T16b8,{
+  "id": "gis-torgi:22000038210000000224_4",
+  "sourceCode": "gis-torgi",
+  "externalId": "22000038210000000224_4",
+  "sourceUrl": "https://torgi.gov.ru/new/public/lots/lot/22000038210000000224_4",
+  "title": "Помещения № 1, 2, 3, 4, общая площадь 26,5 кв. м, Российская Федерация, Краснодарский край, городской округ город Краснодар, город Краснодар, пер. Насыпной, дом 8, помещ. № 1, 2, 3, 4. Кадастровый номер: 23:43:0305036:215, назначение: нежилое.",
+  "description": "Лот № 4 – помещения № 1, 2, 3, 4, общая площадь 26,5 кв. м, Российская Федерация, Краснодарский край, городской округ город Краснодар, город Краснодар, пер. Насыпной, дом 8, помещ. № 1, 2, 3, 4. Кадастровый номер: 23:43:0305036:215, назначение: нежилое.",
+  "legalBasis": "privatization_178fz",
+  "legalBasisRaw": "Продажа (приватизация) государственного и муниципального имущества",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Электронный аукцион",
+  "status": "published",
+  "statusRaw": "PUBLISHED",
+  "kind": "realty",
+  "categoryCode": "11",
+  "categoryName": "Нежилые помещения",
+  "regionCode": "23",
+  "address": "край Краснодарский, г.о. город Краснодар, г. Краснодар, пер. Насыпной, дом 8",
+  "priceStart": "2187310.00",
+  "priceStep": "109365.5",
+  "deposit": "218731",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T14:23:28.724Z",
+  "biddStartAt": "2026-08-27T09:00:00Z",
+  "biddEndAt": "2026-09-29T07:00:00Z",
+  "auctionAt": "2026-10-06T08:00:00Z",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "ETP_EETP",
+  "images": [
+    "6a8c0205efd603213f137c78",
+    "6a8c020557a2662b5529412b",
+    "6a8c0206efd603213f137c87",
+    "6a8c020657a2662b55294137",
+    "6a8c020663124f3d8ea5c640",
+    "6a8c020763124f3d8ea5c64c",
+    "6a8c020763124f3d8ea5c655",
+    "6a8c022163124f3d8ea5c674",
+    "6a8c022263124f3d8ea5c6be",
+    "6a8c022357a2662b5529415a",
+    "6a8c022263124f3d8ea5c6aa",
+    "6a8c022363124f3d8ea5c6d9",
+    "6a8c022263124f3d8ea5c6bd",
+    "6a8c022463124f3d8ea5c6f0"
+  ],
+  "attachments": [
+    {
+      "fileId": "6a8c0205efd603213f137c78",
+      "name": "CIMG8304.JPG",
+      "size": 2833270,
+      "sha256": "0d34cb710f1bfee8d3d2db39cb6cb1a2681b2ebb36327a9274d3ecdb8f13f399"
+    },
+    {
+      "fileId": "6a8c020557a2662b5529412b",
+      "name": "CIMG8305.JPG",
+      "size": 2291967,
+      "sha256": "68e0ba30bc09be2417626d609cc51ddad34e67257350b7963a724eaf495c021b"
+    },
+    {
+      "fileId": "6a8c0206efd603213f137c87",
+      "name": "CIMG8306.JPG",
+      "size": 2374693,
+      "sha256": "8a4cfc9ff35499178b200bf651ddc3e1446c1a1df08555710688982f8a73190b"
+    },
+    {
+      "fileId": "6a8c020657a2662b55294137",
+      "name": "CIMG8307.JPG",
+      "size": 2508349,
+      "sha256": "eb8bac46ec2955e0cb6965ebc35752a8f778ad170b14dd0a6c8fce14d11abf77"
+    },
+    {
+      "fileId": "6a8c020663124f3d8ea5c640",
+      "name": "CIMG8308.JPG",
+      "size": 2384882,
+      "sha256": "d4a126bb8b0b450f225fc9a95d57b587eb355b9913a50eebd885c9d939d27482"
+    },
+    {
+      "fileId": "6a8c020763124f3d8ea5c64c",
+      "name": "CIMG8309.JPG",
+      "size": 2361374,
+      "sha256": "0b69dd2fbecb6b4e0d7baa8fb606c824840ceedc103fc250f5fc902b2b443f04"
+    },
+    {
+      "fileId": "6a8c020763124f3d8ea5c655",
+      "name": "CIMG8310.JPG",
+      "size": 1756556,
+      "sha256": "ff23768d56613d17a1592918c6431bc95606a1de07d29011d0ef2c72aefb22f9"
+    },
+    {
+      "fileId": "6a8c022163124f3d8ea5c674",
+      "name": "IMG_20201224_113052.jpg",
+      "size": 5603242,
+      "sha256": "993d7d395899b8d62b719509041379951af847313895ed3ac736ad274d489b12"
+    },
+    {
+      "fileId": "6a8c022263124f3d8ea5c6be",
+      "name": "IMG_20201224_113100.jpg",
+      "size": 5826264,
+      "sha256": "9728abafbb16727ade0097ae820243f34825c4ec9b50a07cc26c951553124899"
+    },
+    {
+      "fileId": "6a8c022357a2662b5529415a",
+      "name": "IMG_20201224_113106.jpg",
+      "size": 5145327,
+      "sha256": "d250e6a3d4beece5fc161e390e979fa09f72194b4eb46c4d1490b97cae2dd486"
+    },
+    {
+      "fileId": "6a8c022263124f3d8ea5c6aa",
+      "name": "IMG_20201224_113113.jpg",
+      "size": 5279786,
+      "sha256": "6dac74fd5046a076d392e40acf780be56fd154c84d813951e63f03f09cbc82fe"
+    },
+    {
+      "fileId": "6a8c022363124f3d8ea5c6d9",
+      "name": "IMG_20201224_113122.jpg",
+      "size": 5651821,
+      "sha256": "80c6f12efdcf553da4fbd9b854bf12356ae6f23b5a1492e835ae5ab91dfbd460"
+    },
+    {
+      "fileId": "6a8c022263124f3d8ea5c6bd",
+      "name": "IMG_20201224_113132.jpg",
+      "size": 5269025,
+      "sha256": "de88ecbeed159d659fe68983c4c0ec7c15190308f3bc375fc2fc30b392d846a4"
+    },
+    {
+      "fileId": "6a8c022463124f3d8ea5c6f0",
+      "name": "IMG_20201224_113145.jpg",
+      "size": 5477009,
+      "sha256": "b5eef7fa156f60aac233e89ebff4f6614ac44956e85db18f189da359e1d6f716"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "totalAreaRealty",
+      "name": "Общая площадь",
+      "value": "26.5",
+      "unit": "м^2 общ. пл",
+      "source": "structured"
+    },
+    {
+      "key": "cadastralNumberRealty",
+      "name": "Кадастровый номер",
+      "value": "23:43:0305036:215",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-25T13:29:02.249Z",
+  "lastSeenAt": "2026-08-25T13:29:02.249Z",
+  "contentHash": "a283bb8b58282df4b98c33d42ec707fd150d6eb167584d176804523b7ffd8477"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"2 187 310 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"109 365,50 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"218 731 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 авг. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"29 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"33 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"6 окт. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":"EETP"}]]]}],["$","a",null,{"className":"btn primary big","href":"https://torgi.gov.ru/new/public/lots/lot/22000038210000000224_4","target":"_blank","rel":"noopener","children":"Смотреть на torgi.gov.ru →"}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Помещения № 1, 2, 3, 4, общая площадь 26,5 кв. м, Российская Федерация, Краснодарский край — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"
