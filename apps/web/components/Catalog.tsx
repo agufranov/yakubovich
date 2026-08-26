@@ -1,27 +1,19 @@
 'use client';
 
 /**
- * Каталог целиком на клиенте: один раз качаем дамп базы и фильтруем в браузере
- * тем же queryLots, что и на сервере. Так одна и та же выдача работает и в dev,
- * и на GitHub Pages, где сервера нет вовсе.
+ * Разметка каталога. Откуда взялась выдача — ей все равно:
+ *   с сервером (dev, обычная сборка) фильтрует сервер и отдает готовый res;
+ *   в статике для GitHub Pages то же самое считает браузер по дампу базы.
+ * Реализация фильтрации при этом одна — queryLots из @bankrot/storage.
  */
 import Link from 'next/link';
-import { useRouter, useSearchParams } from 'next/navigation';
-import { useEffect, useMemo, useState } from 'react';
-import {
-  KIND_LABELS,
-  LEGAL_BASIS_LABELS,
-  formatDate,
-  regionName,
-  type LegalBasis,
-  type LotKind,
-} from '@bankrot/shared';
-import { queryLots, type LotQuery, type SortKey, type StatusGroup } from '@bankrot/storage/query';
+import { useRouter } from 'next/navigation';
+import type { ReactNode } from 'react';
+import { KIND_LABELS, LEGAL_BASIS_LABELS, regionName } from '@bankrot/shared';
+import type { LotQuery, QueryResult, SortKey, StatusGroup } from '@bankrot/storage/query';
 import { LotCard } from '@/components/LotCard';
-import type { LotsDump } from '@/lib/dump';
-import { LOTS_DUMP_URL } from '@/lib/site';
-
-type Params = Record<string, string>;
+import type { Params } from '@/lib/catalog-query';
+import type { DumpLot } from '@/lib/dump';
 
 const SORT_OPTIONS: { value: SortKey; label: string }[] = [
   { value: 'newest', label: 'Сначала новые' },
@@ -35,49 +27,6 @@ const STATUS_GROUPS: { value: StatusGroup; label: string }[] = [
   { value: 'finished', label: 'Завершенные' },
   { value: 'all', label: 'Все' },
 ];
-
-/** Дамп качаем один раз на вкладку: 1.8 МБ незачем тянуть на каждый фильтр */
-let dumpPromise: Promise<LotsDump> | null = null;
-function loadDump(): Promise<LotsDump> {
-  if (!dumpPromise) {
-    dumpPromise = fetch(LOTS_DUMP_URL)
-      .then((r) => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return r.json() as Promise<LotsDump>;
-      })
-      .catch((e) => {
-        dumpPromise = null; // дать повторить попытку при следующем заходе
-        throw e;
-      });
-  }
-  return dumpPromise;
-}
-
-function useDump(): { dump: LotsDump | null; error: string | null } {
-  const [dump, setDump] = useState<LotsDump | null>(null);
-  const [error, setError] = useState<string | null>(null);
-  useEffect(() => {
-    let alive = true;
-    loadDump().then(
-      (d) => {
-        if (alive) setDump(d);
-      },
-      (e: unknown) => {
-        if (alive) setError(e instanceof Error ? e.message : String(e));
-      },
-    );
-    return () => {
-      alive = false;
-    };
-  }, []);
-  return { dump, error };
-}
-
-function num(v: string | undefined): number | undefined {
-  if (v == null) return undefined;
-  const n = Number(v.replace(/\s/g, ''));
-  return Number.isFinite(n) ? n : undefined;
-}
 
 /** Ссылка с измененным одним параметром (страница сбрасывается) */
 function href(params: Params, patch: Record<string, string | undefined>): string {
@@ -99,41 +48,24 @@ function hrefPage(params: Params, page: number): string {
   return str ? `/?${str}` : '/';
 }
 
-export function Catalog() {
+interface Props {
+  params: Params;
+  q: LotQuery;
+  res: QueryResult<DumpLot>;
+  /** только в статике: дамп еще едет */
+  loading?: boolean;
+  error?: string | null;
+  footnote?: ReactNode;
+}
+
+export function CatalogView({ params, q, res, loading = false, error = null, footnote }: Props) {
   const router = useRouter();
-  const searchParams = useSearchParams();
-  const { dump, error } = useDump();
-
-  const params: Params = useMemo(() => {
-    const out: Params = {};
-    for (const [k, v] of searchParams.entries()) if (v.trim()) out[k] = v.trim();
-    return out;
-  }, [searchParams]);
-
-  const q: LotQuery = useMemo(
-    () => ({
-      text: params.q,
-      kind: params.kind as LotKind | undefined,
-      basis: params.basis as LegalBasis | undefined,
-      region: params.region,
-      statusGroup: (params.status as StatusGroup | undefined) ?? 'all',
-      priceFrom: num(params.from),
-      priceTo: num(params.to),
-      sort: (params.sort as SortKey | undefined) ?? 'newest',
-      page: num(params.page) ?? 1,
-    }),
-    [params],
-  );
-
-  // фильтрация 652 лотов — это миллисекунды, но гонять ее на каждый ререндер
-  // незачем: пересчитываем при смене URL или прихода дампа
-  const res = useMemo(() => queryLots(dump?.lots ?? [], q), [dump, q]);
 
   const hasFilters = Boolean(
     q.text || q.kind || q.basis || q.region || q.priceFrom || q.priceTo || q.statusGroup !== 'all',
   );
 
-  /** GET-форма без перезагрузки страницы: иначе каждый поиск заново качает дамп */
+  /** GET-форма через роутер: обычная перезагрузка в статике заново качает дамп */
   function submit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
     const qs = new URLSearchParams();
@@ -271,7 +203,7 @@ export function Catalog() {
         <section>
           <div className="results-head">
             <h1>{q.kind ? KIND_LABELS[q.kind] : 'Все лоты'}</h1>
-            <span className="total">{dump ? `${res.total.toLocaleString('ru-RU')} шт.` : '…'}</span>
+            <span className="total">{loading ? '…' : `${res.total.toLocaleString('ru-RU')} шт.`}</span>
             <form onSubmit={submit}>
               {Object.entries(params).map(([k, v]) =>
                 k === 'sort' || k === 'page' ? null : (
@@ -279,9 +211,9 @@ export function Catalog() {
                 ),
               )}
               <select
+                key={`sort:${q.sort}`}
                 name="sort"
                 defaultValue={q.sort}
-                key={`sort:${q.sort}`}
                 onChange={(e) => e.currentTarget.form?.requestSubmit()}
               >
                 {SORT_OPTIONS.map((o) => (
@@ -303,7 +235,7 @@ export function Catalog() {
                 Повторить
               </button>
             </div>
-          ) : !dump ? (
+          ) : loading ? (
             <div className="lot-grid">
               {Array.from({ length: 8 }, (_, i) => (
                 <div key={i} className="lot-card skeleton" aria-hidden />
@@ -342,12 +274,7 @@ export function Catalog() {
             </nav>
           )}
 
-          {dump && (
-            <p className="footnote">
-              Данные обновлены {formatDate(dump.generatedAt)} · в базе{' '}
-              {dump.count.toLocaleString('ru-RU')} лотов
-            </p>
-          )}
+          {footnote && <p className="footnote">{footnote}</p>}
         </section>
       </div>
     </main>
