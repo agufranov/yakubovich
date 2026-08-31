@@ -1,6 +1,6 @@
 import type { LotKind, LotStatus } from '@bankrot/shared';
 import { STATUS_LABELS, daysLeft, plural } from '@bankrot/shared';
-import type { DumpLot } from '@/lib/dump';
+import { CARD_ATTR_KEYS, type DumpLot } from '@/lib/dump';
 
 /** Цвет статуса: живое — зеленое/синее, подведение — янтарное, мертвое — серое/красное */
 const STATUS_COLOR: Record<LotStatus, string> = {
@@ -41,22 +41,24 @@ export function deadlineInfo(lot: DumpLot): { text: string; soon: boolean } | nu
   };
 }
 
-/** Пара самых говорящих атрибутов для карточки в каталоге */
-const CARD_ATTR_KEYS = [
-  'yearProduction',
-  'mileage',
-  'totalAreaRealty',
-  'SquareZU',
-  'carMarka',
-  'engineCapacity',
-];
+/**
+ * Пара самых говорящих атрибутов для карточки в каталоге. Список ключей —
+ * из lib/dump.ts: там же решается, что попадет в дамп, и разъехаться они
+ * не могут. Ключи у источников разные: `yearProduction` у ГИС Торги и
+ * `year` у ЭТП — это одно и то же поле, просто названное по-своему.
+ */
 const CARD_ATTR_SHORT: Record<string, (v: string, u?: string) => string> = {
   yearProduction: (v) => `${v} г.`,
-  mileage: (v) => `${Number(v).toLocaleString('ru-RU')} км`,
+  year: (v) => `${v} г.`,
+  mileage: (v) => `${Number(v.replace(/\s/g, '')).toLocaleString('ru-RU')} км`,
   totalAreaRealty: (v) => `${v} м²`,
   SquareZU: (v) => `${v} м²`,
   carMarka: (v) => v,
+  brand: (v) => v,
+  model: (v) => v,
+  power: (v) => `${v} л.с.`,
   engineCapacity: (v) => `${v} л`,
+  vin: (v) => v,
 };
 
 export function cardAttributes(lot: DumpLot, max = 2): string[] {

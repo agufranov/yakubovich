@@ -2,15 +2,50 @@
  * Поиск и фильтры по лотам в памяти. Интерфейс продуман под будущий Postgres:
  * это тот же контракт, что даст SQL с tsvector, — заменится реализация.
  */
-import type { CoreLot, LegalBasis, LotKind, LotStatus } from '@bankrot/shared';
+import type { LegalBasis, LotKind, LotStatus, TradeKind } from '@bankrot/shared';
 import { ACTIVE_STATUSES } from '@bankrot/shared';
 
 /**
- * Все, что нужно фильтрам и сортировке. Не `CoreLot` целиком: каталог на
- * GitHub Pages работает с дампом без вложений (apps/web/lib/dump.ts), а модуль
- * должен оставаться одним на оба режима — иначе поиск разъедется с серверным.
+ * Все, что нужно фильтрам, сортировке и карточке в списке — и ничего сверх.
+ *
+ * Это не удобство, а контракт с витриной. Каталог на GitHub Pages качает базу
+ * целиком (apps/web/lib/dump.ts), поэтому каждое лишнее поле здесь — это
+ * мегабайты у каждого посетителя. Раньше тип был `Omit<CoreLot, 'attachments'>`,
+ * то есть «всё, кроме вложений», и дамп пух вместе с моделью: тексты порядка
+ * ознакомления, графики снижения, служебные хеши.
+ *
+ * Теперь наоборот: список полей явный, и компилятор не даст каталогу
+ * воспользоваться тем, чего в дампе нет. `CoreLot` этому типу соответствует
+ * структурно, поэтому серверный режим работает с теми же функциями.
  */
-export type QueryableLot = Omit<CoreLot, 'attachments'>;
+export interface QueryableLot {
+  id: string;
+  title: string;
+  description?: string;
+  kind: LotKind;
+  legalBasis: LegalBasis;
+  tradeKind: TradeKind;
+  status: LotStatus;
+  statusRaw?: string;
+  regionCode?: string;
+  address?: string;
+  priceStart?: string;
+  priceMin?: string;
+  currency: string;
+  publishedAt?: string;
+  biddEndAt?: string;
+  etpCode?: string;
+  caseNumber?: string;
+  /**
+   * Только короткие значения и только полезная часть: человекочитаемое `name`
+   * и `source` витрине не нужны, а весили они вдвое больше самих значений.
+   */
+  attributes: { key: string; value: string; unit?: string }[];
+  /** только имя и ИНН — по ним ищут; контакты и СРО живут на карточке лота */
+  parties?: { name: string; inn?: string; efrsbId?: string }[];
+  /** только обложка: в списке показывается одна картинка */
+  images: string[];
+}
 
 export type StatusGroup = 'active' | 'finished' | 'all';
 export type SortKey = 'newest' | 'deadline' | 'price_asc' | 'price_desc';
@@ -38,7 +73,7 @@ export interface Facets {
   statusGroups: { value: StatusGroup; count: number }[];
 }
 
-export interface QueryResult<T extends QueryableLot = CoreLot> {
+export interface QueryResult<T extends QueryableLot = QueryableLot> {
   lots: T[];
   total: number;
   page: number;
