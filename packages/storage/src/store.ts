@@ -9,7 +9,16 @@
  *   data/state/<source>.json             — курсоры и хеши коннектора
  *   data/state/runs.ndjson               — метрики прогонов (наблюдаемость)
  */
-import { appendFileSync, existsSync, mkdirSync, readFileSync, renameSync, statSync, writeFileSync } from 'node:fs';
+import {
+  appendFileSync,
+  existsSync,
+  mkdirSync,
+  readdirSync,
+  readFileSync,
+  renameSync,
+  statSync,
+  writeFileSync,
+} from 'node:fs';
 import path from 'node:path';
 import type { CoreLot, RawRecord, RunRecord } from '@bankrot/shared';
 
@@ -54,6 +63,40 @@ export class FileStore {
     const month = rec.fetchedAt.slice(0, 7); // YYYY-MM
     const file = this.dir('raw', sourceCode, `${month}.ndjson`);
     appendFileSync(file, JSON.stringify(rec) + '\n', 'utf-8');
+  }
+
+  /**
+   * Сколько места занимает сырье. Нужно не для отчетности, а для напоминания:
+   * raw — это несжатый HTML чужих карточек, и он растет линейно объему сбора.
+   * Замерено на МЭТС: карточка 191 КБ, gzip дает 4x. На 15 000 лотов это
+   * разница между 2,8 ГБ и 700 МБ, и чем позже сжимать, тем больше
+   * перечитывать. Порог зовет заняться этим до того, как станет больно.
+   */
+  rawSizeBytes(): number {
+    const root = path.join(this.rootDir, 'raw');
+    if (!existsSync(root)) return 0;
+    let total = 0;
+    const walk = (dir: string): void => {
+      for (const entry of readdirSync(dir, { withFileTypes: true })) {
+        const p = path.join(dir, entry.name);
+        if (entry.isDirectory()) walk(p);
+        else total += statSync(p).size;
+      }
+    };
+    walk(root);
+    return total;
+  }
+
+  /** Уже сжатое сырье не считаем поводом для напоминания */
+  rawIsCompressed(): boolean {
+    const root = path.join(this.rootDir, 'raw');
+    if (!existsSync(root)) return true;
+    for (const src of readdirSync(root, { withFileTypes: true })) {
+      if (!src.isDirectory()) continue;
+      const files = readdirSync(path.join(root, src.name));
+      if (files.some((f) => f.endsWith('.ndjson'))) return false;
+    }
+    return true;
   }
 
   // ---------- state ----------

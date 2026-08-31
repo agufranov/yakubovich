@@ -134,5 +134,32 @@ export async function runIngest(
       `ошибок http/parse ${run.httpErrors}/${run.parseErrors}` +
       (run.aborted ? ` — ОБОРВАН: ${run.aborted}` : ''),
   );
+  warnIfRawUncompressed(store, log);
   return run;
+}
+
+/** Порог, после которого несжатое сырье перестает быть мелочью */
+const RAW_WARN_BYTES = 1024 ** 3;
+
+/**
+ * Напоминание о сжатии raw. Оно живет здесь, а не в заметке в документации,
+ * ровно потому, что заметку никто не открывает: предупреждение печатается в
+ * конце каждого прогона тому, кто прогон и запустил.
+ *
+ * Сжимать raw надо один раз, и чем позже — тем больше перечитывать. Замер на
+ * МЭТС: карточка 191 КБ, gzip 4x. См. PROGRESS.md.
+ */
+export function warnIfRawUncompressed(store: FileStore, log: (msg: string) => void): void {
+  const bytes = store.rawSizeBytes();
+  if (bytes < RAW_WARN_BYTES || store.rawIsCompressed()) return;
+  const gb = (bytes / 1024 ** 3).toFixed(1);
+  log(
+    `
+⚠  СЫРЬЕ НЕ СЖАТО: data/raw занимает ${gb} ГБ.
+` +
+      `   gzip дает примерно 4x (замерено на карточках МЭТС) — это ${(bytes / 1024 ** 3 / 4).toFixed(1)} ГБ вместо ${gb}.
+` +
+      `   Сжатие делается один раз и тем дороже, чем дольше тянуть. См. PROGRESS.md.
+`,
+  );
 }
