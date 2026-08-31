@@ -26,6 +26,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <nav className="site-nav">
               <Link href="/">Каталог</Link>
               <Link href="/sources">Источники</Link>
+              <Link href="/status">Статус проекта</Link>
             </nav>
           </div>
         </header>

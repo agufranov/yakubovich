@@ -467,3 +467,15 @@ details.raw pre {
 .price-schedule td:first-child { width: auto; }
 .price-schedule tr.now td { background: var(--gray-soft); font-weight: 600; color: var(--text); }
 .muted { color: var(--text-faint); font-size: 12.5px; }
+
+/* Страница статуса для заказчика: читается как документ, а не как интерфейс */
+.status-page { max-width: 820px; }
+.status-page .lead { color: var(--text-soft); font-size: 15px; line-height: 1.6; margin-bottom: 22px; }
+.status-page h2 { margin-top: 0; }
+.status-page h3 { font-size: 15px; margin: 22px 0 8px; }
+.status-page p, .status-page li { line-height: 1.65; }
+.decisions dt { font-weight: 600; margin-top: 16px; }
+.decisions dt:first-child { margin-top: 0; }
+.decisions dd { margin: 5px 0 0; color: var(--text-soft); line-height: 1.65; }
+.ticks, .next-steps { padding-left: 20px; margin: 10px 0 0; }
+.ticks li, .next-steps li { margin-bottom: 10px; }
