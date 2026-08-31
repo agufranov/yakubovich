@@ -66,7 +66,13 @@ function matchesText(lot: QueryableLot, needle: string): boolean {
     lot.title.toLowerCase().includes(needle) ||
     (lot.description?.toLowerCase().includes(needle) ?? false) ||
     (lot.address?.toLowerCase().includes(needle) ?? false) ||
-    lot.attributes.some((a) => a.value.toLowerCase().includes(needle))
+    lot.attributes.some((a) => a.value.toLowerCase().includes(needle)) ||
+    // по ИНН должника или управляющего собирается «все лоты этого лица»,
+    // по номеру дела — все имущество одной процедуры
+    (lot.caseNumber?.toLowerCase().includes(needle) ?? false) ||
+    (lot.parties?.some(
+      (p) => p.name.toLowerCase().includes(needle) || p.inn === needle || p.efrsbId === needle,
+    ) ?? false)
   );
 }
 

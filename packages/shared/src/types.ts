@@ -41,6 +41,49 @@ export interface LotAttribute {
   source: 'structured' | 'regex' | 'llm';
 }
 
+/**
+ * Роль стороны в торгах. Сущности, которые заказчик назвал отдельно
+ * (должник, арбитражный управляющий), живут здесь, а не в attributes:
+ * по ним строятся выдача «все лоты этого управляющего» и склейка процедур.
+ */
+export type PartyRole =
+  | 'debtor'     // должник
+  | 'manager'    // арбитражный (конкурсный, финансовый) управляющий
+  | 'organizer'  // организатор торгов
+  | 'pledgee';   // залоговый кредитор
+
+export interface LotParty {
+  role: PartyRole;
+  kind: 'person' | 'company' | 'unknown';
+  name: string;
+  /** ИНН — публичный реквизит и самый надежный ключ сущности */
+  inn?: string;
+  ogrn?: string;
+  /** СРО арбитражных управляющих */
+  sro?: string;
+  /**
+   * ID карточки лица на ЕФРСБ. Сквозной ключ сущности между площадками:
+   * тот же должник на другой ЭТП придет с тем же id.
+   */
+  efrsbId?: string;
+  email?: string;
+  phone?: string;
+}
+
+/**
+ * Период публичного предложения: цена падает по расписанию.
+ * Ключевая механика продукта (docs/12-lotum.md, фаза C) — храним как
+ * структуру, а не как текст условий. Цены, как и везде, строками (решение №3).
+ */
+export interface PricePeriod {
+  /** номер периода в графике, с 1 */
+  no: number;
+  startAt?: string;
+  endAt?: string;
+  price: string;
+  deposit?: string;
+}
+
 export interface LotAttachment {
   fileId: string;
   name: string;
@@ -87,6 +130,16 @@ export interface CoreLot {
   /** Часовой пояс лота: смещение в минутах от UTC и имя из источника */
   tzOffsetMin?: number;
   tzName?: string;
+
+  /** Номер дела о банкротстве («А41-41498/2025») — ключ процедуры */
+  caseNumber?: string;
+  /**
+   * Стороны торгов. Опционально: источники, которые их не отдают
+   * (ГИС Торги, iTender), поле не заполняют.
+   */
+  parties?: LotParty[];
+  /** График снижения цены публичного предложения, по возрастанию `no` */
+  pricePeriods?: PricePeriod[];
 
   etpCode?: string;
   images: string[];
@@ -163,6 +216,13 @@ export const TRADE_KIND_LABELS: Record<TradeKind, string> = {
   public_offer: 'Публичное предложение',
   competition: 'Конкурс',
   other: 'Торги',
+};
+
+export const PARTY_ROLE_LABELS: Record<PartyRole, string> = {
+  debtor: 'Должник',
+  manager: 'Арбитражный управляющий',
+  organizer: 'Организатор торгов',
+  pledgee: 'Залоговый кредитор',
 };
 
 /** Статусы, при которых лот «живой» и показывается в выдаче по умолчанию */

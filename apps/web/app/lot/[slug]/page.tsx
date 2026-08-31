@@ -11,7 +11,9 @@ import {
   formatDate,
   formatDateTime,
   formatMoney,
+  readSchedule,
   regionName,
+  PARTY_ROLE_LABELS,
   daysLeft,
   plural,
 } from '@bankrot/shared';
@@ -55,6 +57,8 @@ export default async function LotPage(props: Props) {
   const region = regionName(lot.regionCode);
   const left = daysLeft(lot.biddEndAt);
   const [cover, ...moreImages] = lot.images;
+  // публичное предложение: цена падает по расписанию — считаем, что сейчас
+  const schedule = readSchedule(lot.pricePeriods);
   const prevLots = lot.prevProcedureIds
     .map((pid) => getStore().getLot(`${lot.sourceCode}:${pid}`))
     .filter((x): x is NonNullable<typeof x> => Boolean(x));
@@ -128,6 +132,63 @@ export default async function LotPage(props: Props) {
             </section>
           )}
 
+          {lot.pricePeriods && lot.pricePeriods.length > 0 && (
+            <section className="panel">
+              <h2>График снижения цены</h2>
+              <table className="attr-table price-schedule">
+                <thead>
+                  <tr>
+                    <th>Период</th>
+                    <th>Цена</th>
+                    <th>Задаток</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {lot.pricePeriods.map((p) => (
+                    <tr key={p.no} className={p.no === schedule.current?.no ? 'now' : ''}>
+                      <td>
+                        {formatDateTime(p.startAt, lot.tzOffsetMin, lot.tzName)} —{' '}
+                        {formatDateTime(p.endAt, lot.tzOffsetMin, lot.tzName)}
+                      </td>
+                      <td>{formatMoney(p.price, lot.currency)}</td>
+                      <td>{formatMoney(p.deposit, lot.currency) ?? '—'}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </section>
+          )}
+
+          {lot.parties && lot.parties.length > 0 && (
+            <section className="panel">
+              <h2>Стороны</h2>
+              <table className="attr-table">
+                <tbody>
+                  {lot.parties.map((p) => (
+                    <tr key={`${p.role}:${p.name}`}>
+                      <td>{PARTY_ROLE_LABELS[p.role]}</td>
+                      <td>
+                        {/* по ИНН собирается вся выдача этого лица, по имени — нет:
+                            тезки и разное написание */}
+                        {p.inn ? <Link href={`/?q=${p.inn}`}>{p.name}</Link> : p.name}
+                        {p.inn && <span className="muted"> · ИНН {p.inn}</span>}
+                        {p.sro && <span className="muted"> · {p.sro}</span>}
+                      </td>
+                    </tr>
+                  ))}
+                  {lot.caseNumber && (
+                    <tr>
+                      <td>Дело о банкротстве</td>
+                      <td>
+                        <Link href={`/?q=${encodeURIComponent(lot.caseNumber)}`}>{lot.caseNumber}</Link>
+                      </td>
+                    </tr>
+                  )}
+                </tbody>
+              </table>
+            </section>
+          )}
+
           {(lot.address || region) && (
             <section className="panel">
               <h2>Местоположение</h2>
@@ -171,11 +232,37 @@ export default async function LotPage(props: Props) {
         <aside className="lot-aside">
           <div className="aside-card">
             <div className="big-price">
-              <small>Начальная цена</small>
-              {formatMoney(lot.priceStart, lot.currency) ?? '—'}
+              <small>{schedule.current ? 'Цена сейчас' : 'Начальная цена'}</small>
+              {formatMoney(schedule.current?.price ?? lot.priceStart, lot.currency) ?? '—'}
             </div>
 
             <dl className="kv">
+              {schedule.next && (
+                <>
+                  <dt>Снизится до</dt>
+                  <dd>
+                    {formatMoney(schedule.next.price, lot.currency)}
+                    <span className="muted">
+                      {' '}
+                      · {formatDateTime(schedule.next.startAt, lot.tzOffsetMin, lot.tzName)}
+                    </span>
+                  </dd>
+                </>
+              )}
+              {schedule.stepsLeft > 0 && (
+                <>
+                  <dt>Снижений впереди</dt>
+                  <dd>
+                    {schedule.stepsLeft}, до {formatMoney(schedule.floor?.price, lot.currency)}
+                  </dd>
+                </>
+              )}
+              {schedule.current && lot.priceStart && (
+                <>
+                  <dt>Начальная цена</dt>
+                  <dd>{formatMoney(lot.priceStart, lot.currency)}</dd>
+                </>
+              )}
               {lot.priceStep && (
                 <>
                   <dt>Шаг</dt>

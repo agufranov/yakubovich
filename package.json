@@ -11,9 +11,10 @@
     "web": "npm run dev -w apps/web",
     "web:build": "npm run build -w apps/web",
     "deploy": "tsx tools/deploy/gh-pages.ts",
-    "test": "tsx --test packages/connector-gis-torgi/test/parse.test.ts packages/connector-etp-itender/test/parse.test.ts",
+    "test": "tsx --test packages/connector-gis-torgi/test/parse.test.ts packages/connector-etp-itender/test/parse.test.ts packages/connector-etp-mets/test/parse.test.ts",
     "typecheck": "tsc -p tsconfig.json --noEmit",
-    "ingest:etp": "tsx packages/connector-etp-itender/src/cli.ts"
+    "ingest:etp": "tsx packages/connector-etp-itender/src/cli.ts",
+    "ingest:mets": "tsx packages/connector-etp-mets/src/cli.ts"
   },
   "devDependencies": {
     "@types/node": "^24.3.0",

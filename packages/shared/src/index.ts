@@ -4,3 +4,4 @@ export * from './format';
 export * from './slug';
 export * from './classify';
 export * from './etp';
+export * from './price-periods';
