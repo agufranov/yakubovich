@@ -1,0 +1,180 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--227958-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--227958-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--227958-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"Здание 1144,5 кв.м. и сооружения в Москве"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Нежилое здание"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268664912/268664912_thumb_0.jpg","alt":"Здание 1144,5 кв.м. и сооружения в Москве"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268664914/268664914_thumb_0.jpg",{"href":"https://m-ets.ru/download/268664914/268664914_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268664914/268664914_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268664910/268664910_thumb_0.jpg",{"href":"https://m-ets.ru/download/268664910/268664910_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268664910/268664910_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268664911/268664911_thumb_0.jpg",{"href":"https://m-ets.ru/download/268664911/268664911_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268664911/268664911_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268664913/268664913_thumb_0.jpg",{"href":"https://m-ets.ru/download/268664913/268664913_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268664913/268664913_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268664915/268664915_thumb_0.jpg",{"href":"https://m-ets.ru/download/268664915/268664915_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268664915/268664915_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Объект недвижимости с кад. номером: 77:04:0001019:13869 - объект незавершенного строительства, назначение: общественно-жилой комплекс на освобождаемой территории ОАО \"Завод ЖБИ-5\", 2 очередь, 3 этап, 2 подэтап, площадь: 1144,5 кв.м., адрес: г. Москва, ул. Мельникова, влд.3. В состав лота включены коммунальными сооружениями (трубопроводы) с кад. номерами: 77:04:0001019:13233 - 6м., 77:04:0001019:13234 - 127м., 77:04:0001019:13236 - 24м., 77:04:0001019:13237 - 196м."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24193532",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Москвы",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["28.07.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["По вопросам ознакомления с документами и имуществом обращаться на sergei.tesloff@yandex.ru, 89102042224.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],"$L11"]}],"$L12","$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 00:00 (МСК)"," —"," ","23 авг. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"232 214 400 ₽"}],["$","td",null,{"children":"23 221 440 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 00:00 (МСК)"," —"," ","30 авг. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"211 573 120 ₽"}],["$","td",null,{"children":"21 157 312 ₽"}]]}],["$","tr","3",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 00:00 (МСК)"," —"," ","6 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"190 931 840 ₽"}],["$","td",null,{"children":"19 093 184 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 00:00 (МСК)"," —"," ","13 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"170 290 560 ₽"}],["$","td",null,{"children":"17 029 056 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 00:00 (МСК)"," —"," ","20 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"149 649 280 ₽"}],["$","td",null,{"children":"14 964 928 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 00:00 (МСК)"," —"," ","27 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"129 008 000 ₽"}],["$","td",null,{"children":"12 900 800 ₽"}]]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЗАВОД ЖЕЛЕЗОБЕТОННЫХ ИЗДЕЛИЙ - 5\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7722059768","children":"АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЗАВОД ЖЕЛЕЗОБЕТОННЫХ ИЗДЕЛИЙ - 5\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7722059768"]}],"$undefined"]}]]}],["$","tr","manager:Теслов Сергей Александрович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=571406085238","children":"Теслов Сергей Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","571406085238"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"СИРИУС\""]}]]}]]}],["$","tr","organizer:Теслов Сергей Александрович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=571406085238","children":"Теслов Сергей Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","571406085238"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-263490%2F2024","children":"А40-263490/2024"}]}]]}]]}]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268664766/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%9E%D0%9D%D0%A1.pdf",{"href":"https://m-ets.ru/download/268664766/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%9E%D0%9D%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Технический план ОНС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268665638/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268665638/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268665640/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20(%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2).pdf",{"href":"https://m-ets.ru/download/268665640/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20(%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи имущества (ПРОЕКТ).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+17:T1962,{
+  "id": "etp-mets:227958-1",
+  "sourceCode": "etp-mets",
+  "externalId": "227958-1",
+  "sourceUrl": "https://m-ets.ru/227958-1",
+  "title": "Здание 1144,5 кв.м. и сооружения в Москве",
+  "description": "Объект недвижимости с кад. номером: 77:04:0001019:13869 - объект незавершенного строительства, назначение: общественно-жилой комплекс на освобождаемой территории ОАО \"Завод ЖБИ-5\", 2 очередь, 3 этап, 2 подэтап, площадь: 1144,5 кв.м., адрес: г. Москва, ул. Мельникова, влд.3. В состав лота включены коммунальными сооружениями (трубопроводы) с кад. номерами: 77:04:0001019:13233 - 6м., 77:04:0001019:13234 - 127м., 77:04:0001019:13236 - 24м., 77:04:0001019:13237 - 196м.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "38",
+  "categoryName": "Нежилое здание",
+  "regionCode": "77",
+  "address": "г. Москва",
+  "priceStart": "232214400",
+  "priceMin": "129008000.00",
+  "deposit": "23221440.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-14T00:00:00+03:00",
+  "biddStartAt": "2026-08-17T00:00:00+03:00",
+  "biddEndAt": "2026-09-27T23:59:00+03:00",
+  "auctionAt": "2026-09-28T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-263490/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЗАВОД ЖЕЛЕЗОБЕТОННЫХ ИЗДЕЛИЙ - 5\"",
+      "inn": "7722059768",
+      "ogrn": "1027700309735"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Теслов Сергей Александрович",
+      "inn": "571406085238",
+      "sro": "ААУ \"СИРИУС\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Теслов Сергей Александрович",
+      "inn": "571406085238",
+      "email": "sergei.tesloff@yandex.ru",
+      "phone": "+7 (910) 204 22 24"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-17T00:00:00+03:00",
+      "endAt": "2026-08-23T23:59:00+03:00",
+      "price": "232214400.00",
+      "deposit": "23221440.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-24T00:00:00+03:00",
+      "endAt": "2026-08-30T23:59:00+03:00",
+      "price": "211573120.00",
+      "deposit": "21157312.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-31T00:00:00+03:00",
+      "endAt": "2026-09-06T23:59:00+03:00",
+      "price": "190931840.00",
+      "deposit": "19093184.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-07T00:00:00+03:00",
+      "endAt": "2026-09-13T23:59:00+03:00",
+      "price": "170290560.00",
+      "deposit": "17029056.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-14T00:00:00+03:00",
+      "endAt": "2026-09-20T23:59:00+03:00",
+      "price": "149649280.00",
+      "deposit": "14964928.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-21T00:00:00+03:00",
+      "endAt": "2026-09-27T23:59:00+03:00",
+      "price": "129008000.00",
+      "deposit": "12900800.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268664912/268664912_thumb_0.jpg",
+    "https://m-ets.ru/download/268664914/268664914_thumb_0.jpg",
+    "https://m-ets.ru/download/268664910/268664910_thumb_0.jpg",
+    "https://m-ets.ru/download/268664911/268664911_thumb_0.jpg",
+    "https://m-ets.ru/download/268664913/268664913_thumb_0.jpg",
+    "https://m-ets.ru/download/268664915/268664915_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268664766/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%9E%D0%9D%D0%A1.pdf",
+      "name": "Технический план ОНС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268665638/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268665640/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20(%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2).pdf",
+      "name": "Договор купли-продажи имущества (ПРОЕКТ).pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24193532",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "28.07.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "По вопросам ознакомления с документами и имуществом обращаться на sergei.tesloff@yandex.ru, 89102042224.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:44:12.804Z",
+  "lastSeenAt": "2026-08-31T19:44:12.804Z",
+  "contentHash": "53c5a3dd02cc4999c9c340f76e187fe7fa7ba9088f9a6b9b4c9ebac42ac5a34e"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$17"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"190 931 840 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["170 290 560 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[3,", до ","129 008 000 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"232 214 400 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"23 221 440 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"13 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"17 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"27 сент. 2026 г., 23:59 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"22 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"28 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/227958-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Здание 1144,5 кв.м. и сооружения в Москве — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

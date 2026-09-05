@@ -1,0 +1,286 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--217264-16",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--217264-16","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--217264-16","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Трактор Т-170, 2000 года"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Коммерческий транспорт и спецтехника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Трактор Т-170, зав номер 16, 2000 г.в.Ознакомление с имуществом производится путем непосредственного осмотра по месту нахождения. Конкурсным управляющим не проводилась дефектовка, техническое состояние, работоспособность, комплектность, наличие скрытых недостатков и фактическая пригодность имущества не проверялись."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2000",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23448043",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Краснодарского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["10.03.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом производится путем непосредственного осмотра по месту нахождения имущества, по Лотам № 13,14,15,16,17,18,19 Краснодарский край ст. Ленинградская, ул. Юбилейная 3, по Лоту № 8, 9 Оренбургская область г. Орск, ул. Ялтинская д.92 в течение срока приема заявок на участие в торгах по предварительному согласованию по e-mail: sodeystvie-01@mail.ru и по тел. +79288483299 в рабочие дни с 10-00 до 13-00, с 14-00 до 17-00 по мск.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["29 июн. 2026 г., 00:00 (МСК)"," —"," ","4 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"355 500 ₽"}],["$","td",null,{"children":"35 550 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["4 июл. 2026 г., 00:00 (МСК)"," —"," ","9 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"337 725 ₽"}],["$","td",null,{"children":"33 772,50 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["9 июл. 2026 г., 00:00 (МСК)"," —"," ","14 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"319 950 ₽"}],["$","td",null,{"children":"31 995 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["14 июл. 2026 г., 00:00 (МСК)"," —"," ","19 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"302 175 ₽"}],["$","td",null,{"children":"30 217,50 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["19 июл. 2026 г., 00:00 (МСК)"," —"," ","24 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"284 400 ₽"}],["$","td",null,{"children":"28 440 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["24 июл. 2026 г., 00:00 (МСК)"," —"," ","29 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"266 625 ₽"}],["$","td",null,{"children":"26 662,50 ₽"}]]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19"]}]]}]]}],"$L1a","$L1b","$L1c",false,"$L1d"]}],"$L1e"]}]]}]
+11:["$","tr","7",{"className":"","children":[["$","td",null,{"children":["29 июл. 2026 г., 00:00 (МСК)"," —"," ","3 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"248 850 ₽"}],["$","td",null,{"children":"24 885 ₽"}]]}]
+12:["$","tr","8",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 00:00 (МСК)"," —"," ","8 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"231 075 ₽"}],["$","td",null,{"children":"23 107,50 ₽"}]]}]
+13:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["8 авг. 2026 г., 00:00 (МСК)"," —"," ","13 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"213 300 ₽"}],["$","td",null,{"children":"21 330 ₽"}]]}]
+14:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["13 авг. 2026 г., 00:00 (МСК)"," —"," ","18 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"195 525 ₽"}],["$","td",null,{"children":"19 552,50 ₽"}]]}]
+15:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["18 авг. 2026 г., 00:00 (МСК)"," —"," ","23 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"177 750 ₽"}],["$","td",null,{"children":"17 775 ₽"}]]}]
+16:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["23 авг. 2026 г., 00:00 (МСК)"," —"," ","28 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"159 975 ₽"}],["$","td",null,{"children":"15 997,50 ₽"}]]}]
+17:["$","tr","13",{"className":"","children":[["$","td",null,{"children":["28 авг. 2026 г., 00:00 (МСК)"," —"," ","2 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"142 200 ₽"}],["$","td",null,{"children":"14 220 ₽"}]]}]
+18:["$","tr","14",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 00:00 (МСК)"," —"," ","7 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"124 425 ₽"}],["$","td",null,{"children":"12 442,50 ₽"}]]}]
+19:["$","tr","15",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 00:00 (МСК)"," —"," ","11 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"106 650 ₽"}],["$","td",null,{"children":"10 665 ₽"}]]}]
+1a:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЧИСТАЯ СТАНИЦА\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=2341015025","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЧИСТАЯ СТАНИЦА\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","2341015025"]}],"$undefined"]}]]}],["$","tr","manager:Хагундоков Руслан Мухарбиевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=010505029858","children":"Хагундоков Руслан Мухарбиевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","010505029858"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСРО \"Содействие\""]}]]}]]}],["$","tr","organizer:Хагундоков Руслан Мухарбиевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=010505029858","children":"Хагундоков Руслан Мухарбиевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","010505029858"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9032-40340%2F2024","children":"А32-40340/2024"}]}]]}]]}]}]]}]
+1b:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Краснодарский край"}]]}]
+1c:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",10,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268265404/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.docx",{"href":"https://m-ets.ru/download/268265404/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников открытых торгов 217264-МЭТС по лоту 3.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268265406/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.docx",{"href":"https://m-ets.ru/download/268265406/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 217264-МЭТС по лоту 3.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268296724/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%209.pdf",{"href":"https://m-ets.ru/download/268296724/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%209.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 217264-МЭТС по лоту 9.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268296726/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%209.pdf",{"href":"https://m-ets.ru/download/268296726/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%209.pdf","target":"_blank","rel":"noopener","children":["$L1f","$L20"]}],"$L21","$L22","$L23","$L24","$L25","$L26"]}]]}]
+27:T2fe1,{
+  "id": "etp-mets:217264-16",
+  "sourceCode": "etp-mets",
+  "externalId": "217264-16",
+  "sourceUrl": "https://m-ets.ru/217264-16",
+  "title": "Трактор Т-170, 2000 года",
+  "description": "Трактор Т-170, зав номер 16, 2000 г.в.Ознакомление с имуществом производится путем непосредственного осмотра по месту нахождения. Конкурсным управляющим не проводилась дефектовка, техническое состояние, работоспособность, комплектность, наличие скрытых недостатков и фактическая пригодность имущества не проверялись.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "3",
+  "categoryName": "Коммерческий транспорт и спецтехника",
+  "regionCode": "23",
+  "address": "Краснодарский край",
+  "priceStart": "355500",
+  "priceMin": "106650.00",
+  "deposit": "35550.00",
+  "currency": "RUB",
+  "publishedAt": "2026-06-24T00:00:00+03:00",
+  "biddStartAt": "2026-06-29T00:00:00+03:00",
+  "biddEndAt": "2026-09-11T23:59:00+03:00",
+  "auctionAt": "2026-09-11T23:59:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А32-40340/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЧИСТАЯ СТАНИЦА\"",
+      "inn": "2341015025",
+      "ogrn": "1092341000070"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Хагундоков Руслан Мухарбиевич",
+      "inn": "010505029858",
+      "sro": "Ассоциация МСРО \"Содействие\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Хагундоков Руслан Мухарбиевич",
+      "inn": "010505029858",
+      "email": "sodeystvie-01@mail.ru",
+      "phone": "+7 (928) 848 32 99"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-06-29T00:00:00+03:00",
+      "endAt": "2026-07-04T00:00:00+03:00",
+      "price": "355500.00",
+      "deposit": "35550.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-04T00:00:00+03:00",
+      "endAt": "2026-07-09T00:00:00+03:00",
+      "price": "337725.00",
+      "deposit": "33772.50"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-07-09T00:00:00+03:00",
+      "endAt": "2026-07-14T00:00:00+03:00",
+      "price": "319950.00",
+      "deposit": "31995.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-07-14T00:00:00+03:00",
+      "endAt": "2026-07-19T00:00:00+03:00",
+      "price": "302175.00",
+      "deposit": "30217.50"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-07-19T00:00:00+03:00",
+      "endAt": "2026-07-24T00:00:00+03:00",
+      "price": "284400.00",
+      "deposit": "28440.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-07-24T00:00:00+03:00",
+      "endAt": "2026-07-29T00:00:00+03:00",
+      "price": "266625.00",
+      "deposit": "26662.50"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-07-29T00:00:00+03:00",
+      "endAt": "2026-08-03T00:00:00+03:00",
+      "price": "248850.00",
+      "deposit": "24885.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-03T00:00:00+03:00",
+      "endAt": "2026-08-08T00:00:00+03:00",
+      "price": "231075.00",
+      "deposit": "23107.50"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-08-08T00:00:00+03:00",
+      "endAt": "2026-08-13T00:00:00+03:00",
+      "price": "213300.00",
+      "deposit": "21330.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-08-13T00:00:00+03:00",
+      "endAt": "2026-08-18T00:00:00+03:00",
+      "price": "195525.00",
+      "deposit": "19552.50"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-08-18T00:00:00+03:00",
+      "endAt": "2026-08-23T00:00:00+03:00",
+      "price": "177750.00",
+      "deposit": "17775.00"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-08-23T00:00:00+03:00",
+      "endAt": "2026-08-28T00:00:00+03:00",
+      "price": "159975.00",
+      "deposit": "15997.50"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-08-28T00:00:00+03:00",
+      "endAt": "2026-09-02T00:00:00+03:00",
+      "price": "142200.00",
+      "deposit": "14220.00"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-09-02T00:00:00+03:00",
+      "endAt": "2026-09-07T00:00:00+03:00",
+      "price": "124425.00",
+      "deposit": "12442.50"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-09-07T00:00:00+03:00",
+      "endAt": "2026-09-11T23:59:00+03:00",
+      "price": "106650.00",
+      "deposit": "10665.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268265404/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.docx",
+      "name": "Протокол определения участников открытых торгов 217264-МЭТС по лоту 3.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268265406/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.docx",
+      "name": "Протокол о результатах проведения открытых торгов 217264-МЭТС по лоту 3.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268296724/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%209.pdf",
+      "name": "Протокол определения участников торгов 217264-МЭТС по лоту 9.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268296726/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%209.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 217264-МЭТС по лоту 9.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268578351/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2018.pdf",
+      "name": "Протокол определения участников торгов 217264-МЭТС по лоту 18.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268578353/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2018.docx",
+      "name": "Протокол о результатах проведения открытых торгов 217264-МЭТС по лоту 18.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268577710/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2019.pdf",
+      "name": "Протокол определения участников торгов 217264-МЭТС по лоту 19.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268577712/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2019.docx",
+      "name": "Протокол о результатах проведения открытых торгов 217264-МЭТС по лоту 19.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267807330/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%A7%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B0.docx",
+      "name": "Договор о задатке Чистая станица.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267807332/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A7%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B0.docx",
+      "name": "Договор купли-продажи Чистая станица.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2000",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23448043",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Краснодарского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "10.03.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом производится путем непосредственного осмотра по месту нахождения имущества, по Лотам № 13,14,15,16,17,18,19 Краснодарский край ст. Ленинградская, ул. Юбилейная 3, по Лоту № 8, 9 Оренбургская область г. Орск, ул. Ялтинская д.92 в течение срока приема заявок на участие в торгах по предварительному согласованию по e-mail: sodeystvie-01@mail.ru и по тел. +79288483299 в рабочие дни с 10-00 до 13-00, с 14-00 до 17-00 по мск.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:56:12.642Z",
+  "lastSeenAt": "2026-08-31T18:56:12.642Z",
+  "contentHash": "f352e82ff6b949cf829a5955a05b7ca1119cb75b7db3c91ca7209aef8171b8fd"
+}1d:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$27"}]]}]
+1e:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"124 425 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["106 650 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[1,", до ","106 650 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"355 500 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"35 550 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"23 июн. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"29 июн. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"11 сент. 2026 г., 23:59 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"6 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"11 сент. 2026 г., 23:59 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/217264-16","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1f:["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 217264-МЭТС по лоту 9.pdf"]}]
+20:["$","span",null,{"className":"size","children":"$undefined"}]
+21:["$","a","https://m-ets.ru/download/268578351/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2018.pdf",{"href":"https://m-ets.ru/download/268578351/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2018.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 217264-МЭТС по лоту 18.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+22:["$","a","https://m-ets.ru/download/268578353/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2018.docx",{"href":"https://m-ets.ru/download/268578353/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2018.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 217264-МЭТС по лоту 18.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+23:["$","a","https://m-ets.ru/download/268577710/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2019.pdf",{"href":"https://m-ets.ru/download/268577710/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 217264-МЭТС по лоту 19.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+24:["$","a","https://m-ets.ru/download/268577712/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2019.docx",{"href":"https://m-ets.ru/download/268577712/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217264-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2019.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 217264-МЭТС по лоту 19.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+25:["$","a","https://m-ets.ru/download/267807330/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%A7%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B0.docx",{"href":"https://m-ets.ru/download/267807330/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%A7%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке Чистая станица.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+26:["$","a","https://m-ets.ru/download/267807332/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A7%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B0.docx",{"href":"https://m-ets.ru/download/267807332/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A7%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи Чистая станица.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Трактор Т-170, 2000 года — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

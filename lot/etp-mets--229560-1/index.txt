@@ -1,0 +1,230 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229560-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229560-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229560-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=57","children":"Орловская обл."}]]]}],["$","h1",null,{"children":"Lada Vesta, 2023 года, 106 лс, 44000 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268800878/268800878_thumb_0.jpg","alt":"Lada Vesta, 2023 года, 106 лс, 44000 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268800887/268800887_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800887/268800887_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800887/268800887_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800873/268800873_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800873/268800873_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800873/268800873_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800879/268800879_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800879/268800879_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800879/268800879_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800883/268800883_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800883/268800883_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800883/268800883_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800885/268800885_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800885/268800885_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800885/268800885_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800870/268800870_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800870/268800870_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800870/268800870_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800876/268800876_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800876/268800876_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800876/268800876_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800880/268800880_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800880/268800880_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800880/268800880_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800886/268800886_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800886/268800886_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800886/268800886_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800860/268800860_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800860/268800860_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800860/268800860_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800864/268800864_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800864/268800864_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$undefined","$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268800864/268800864_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",17," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268800861/268800861_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800861/268800861_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800861/268800861_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800866/268800866_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800866/268800866_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800866/268800866_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800858/268800858_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800858/268800858_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800858/268800858_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800868/268800868_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800868/268800868_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800868/268800868_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800869/268800869_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800869/268800869_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800869/268800869_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800867/268800867_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800867/268800867_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800867/268800867_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800862/268800862_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800862/268800862_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800862/268800862_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800872/268800872_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800872/268800872_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800872/268800872_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800865/268800865_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800865/268800865_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800865/268800865_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800871/268800871_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800871/268800871_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800871/268800871_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800882/268800882_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800882/268800882_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800882/268800882_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800874/268800874_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800874/268800874_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800874/268800874_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800877/268800877_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800877/268800877_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800877/268800877_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268800884/268800884_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800884/268800884_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L1a"}],"$L1b","$L1c","$L1d"]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"LADA VESTA , г.в. 2023 XTAGFL110R0723238. Пробег 44 тыс.После ДТП. Состояние на фотографиях. Более подробное техническое состояние выясняйте самостоятельно в ходе осмотра. Организатор торгов нюансами технического состояния не владеет."}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Lada (ВАЗ)",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Vesta",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2023",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["44 000"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["106"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XTAGFL110R0723238",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24310955",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Орловской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["05.08.2026",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["17 800 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: залог в пользу ПАО Сбербанк",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["в рабочие дни с 09:00 до 17:00, предварительно согласовав дату и время с организатором торгов по телефону +7 915 509-11-11",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Кирпиченко Елена Анатольевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=575306052469","children":"Кирпиченко Елена Анатольевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","575306052469"]}],"$undefined"]}]]}],["$","tr","manager:Мальцев Антон Андреевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=575309043279","children":"Мальцев Антон Андреевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","575309043279"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСРО \"Содействие\""]}]]}]]}],["$","tr","organizer:Мальцев Антон Андреевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=575309043279","children":"Мальцев Антон Андреевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","575309043279"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9048-11239%2F2025","children":"А48-11239/2025"}]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Орловская область"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268800900/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268800900/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268800902/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/268800902/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи ТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1e:T1f9b,{
+  "id": "etp-mets:229560-1",
+  "sourceCode": "etp-mets",
+  "externalId": "229560-1",
+  "sourceUrl": "https://m-ets.ru/229560-1",
+  "title": "Lada Vesta, 2023 года, 106 лс, 44000 км",
+  "description": "LADA VESTA , г.в. 2023 XTAGFL110R0723238. Пробег 44 тыс.После ДТП. Состояние на фотографиях. Более подробное техническое состояние выясняйте самостоятельно в ходе осмотра. Организатор торгов нюансами технического состояния не владеет.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "57",
+  "address": "Орловская область",
+  "priceStart": "356000",
+  "priceStep": "17800",
+  "deposit": "35600",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T00:00:00+03:00",
+  "biddStartAt": "2026-08-25T09:00:00+03:00",
+  "biddEndAt": "2026-09-29T09:00:00+03:00",
+  "auctionAt": "2026-09-30T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А48-11239/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Кирпиченко Елена Анатольевна",
+      "inn": "575306052469",
+      "efrsbId": "9d536238858631b87d342eb7e547c85b"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Мальцев Антон Андреевич",
+      "inn": "575309043279",
+      "sro": "Ассоциация МСРО \"Содействие\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Мальцев Антон Андреевич",
+      "inn": "575309043279",
+      "email": "am302000@ya.ru",
+      "phone": "+7 (915) 509 11 11"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268800878/268800878_thumb_0.jpg",
+    "https://m-ets.ru/download/268800887/268800887_thumb_0.jpg",
+    "https://m-ets.ru/download/268800873/268800873_thumb_0.jpg",
+    "https://m-ets.ru/download/268800879/268800879_thumb_0.jpg",
+    "https://m-ets.ru/download/268800883/268800883_thumb_0.jpg",
+    "https://m-ets.ru/download/268800885/268800885_thumb_0.jpg",
+    "https://m-ets.ru/download/268800870/268800870_thumb_0.jpg",
+    "https://m-ets.ru/download/268800876/268800876_thumb_0.jpg",
+    "https://m-ets.ru/download/268800880/268800880_thumb_0.jpg",
+    "https://m-ets.ru/download/268800886/268800886_thumb_0.jpg",
+    "https://m-ets.ru/download/268800860/268800860_thumb_0.jpg",
+    "https://m-ets.ru/download/268800864/268800864_thumb_0.jpg",
+    "https://m-ets.ru/download/268800861/268800861_thumb_0.jpg",
+    "https://m-ets.ru/download/268800866/268800866_thumb_0.jpg",
+    "https://m-ets.ru/download/268800858/268800858_thumb_0.jpg",
+    "https://m-ets.ru/download/268800868/268800868_thumb_0.jpg",
+    "https://m-ets.ru/download/268800869/268800869_thumb_0.jpg",
+    "https://m-ets.ru/download/268800867/268800867_thumb_0.jpg",
+    "https://m-ets.ru/download/268800862/268800862_thumb_0.jpg",
+    "https://m-ets.ru/download/268800872/268800872_thumb_0.jpg",
+    "https://m-ets.ru/download/268800865/268800865_thumb_0.jpg",
+    "https://m-ets.ru/download/268800871/268800871_thumb_0.jpg",
+    "https://m-ets.ru/download/268800882/268800882_thumb_0.jpg",
+    "https://m-ets.ru/download/268800874/268800874_thumb_0.jpg",
+    "https://m-ets.ru/download/268800877/268800877_thumb_0.jpg",
+    "https://m-ets.ru/download/268800884/268800884_thumb_0.jpg",
+    "https://m-ets.ru/download/268800863/268800863_thumb_0.jpg",
+    "https://m-ets.ru/download/268800881/268800881_thumb_0.jpg",
+    "https://m-ets.ru/download/268800859/268800859_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268800900/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268800902/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A2%D0%A1.pdf",
+      "name": "Проект договора купли-продажи ТС.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Lada (ВАЗ)",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Vesta",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2023",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "44 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "106",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XTAGFL110R0723238",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24310955",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Орловской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "05.08.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "17 800 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: залог в пользу ПАО Сбербанк",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "в рабочие дни с 09:00 до 17:00, предварительно согласовав дату и время с организатором торгов по телефону +7 915 509-11-11",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:42:47.830Z",
+  "lastSeenAt": "2026-08-31T17:42:47.830Z",
+  "contentHash": "9d7771bd1fb1116b2b3c67435e3320456248fc0ca7c5959caeb0db6bbc920c59"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1e"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"356 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"17 800 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"35 600 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"23 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"29 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"23 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"30 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Орловская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229560-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1a:["$","img",null,{"src":"https://m-ets.ru/download/268800884/268800884_thumb_0.jpg","alt":"","loading":"lazy"}]
+1b:["$","a","https://m-ets.ru/download/268800863/268800863_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800863/268800863_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800863/268800863_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1c:["$","a","https://m-ets.ru/download/268800881/268800881_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800881/268800881_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800881/268800881_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1d:["$","a","https://m-ets.ru/download/268800859/268800859_thumb_0.jpg",{"href":"https://m-ets.ru/download/268800859/268800859_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268800859/268800859_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Lada Vesta, 2023 года, 106 лс, 44000 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

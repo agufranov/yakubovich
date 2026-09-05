@@ -1,0 +1,215 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--221420-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--221420-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--221420-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=64","children":"Саратовская обл."}]]]}],["$","h1",null,{"children":"Lada Priora, 2010 года, 98 лс, 200000 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Состоялся"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268146281/268146281_thumb_0.jpg","alt":"Lada Priora, 2010 года, 98 лс, 200000 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268146282/268146282_thumb_0.jpg",{"href":"https://m-ets.ru/download/268146282/268146282_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268146282/268146282_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268146283/268146283_thumb_0.jpg",{"href":"https://m-ets.ru/download/268146283/268146283_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268146283/268146283_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268146288/268146288_thumb_0.jpg",{"href":"https://m-ets.ru/download/268146288/268146288_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268146288/268146288_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268146287/268146287_thumb_0.jpg",{"href":"https://m-ets.ru/download/268146287/268146287_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268146287/268146287_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268146286/268146286_thumb_0.jpg",{"href":"https://m-ets.ru/download/268146286/268146286_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268146286/268146286_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268146289/268146289_thumb_0.jpg",{"href":"https://m-ets.ru/download/268146289/268146289_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268146289/268146289_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268146290/268146290_thumb_0.jpg",{"href":"https://m-ets.ru/download/268146290/268146290_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268146290/268146290_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268146291/268146291_thumb_0.jpg",{"href":"https://m-ets.ru/download/268146291/268146291_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268146291/268146291_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268146280/268146280_thumb_0.jpg",{"href":"https://m-ets.ru/download/268146280/268146280_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268146280/268146280_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268146295/268146295_thumb_0.jpg",{"href":"https://m-ets.ru/download/268146295/268146295_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268146295/268146295_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268146292/268146292_thumb_0.jpg",{"href":"https://m-ets.ru/download/268146292/268146292_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268146292/268146292_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],"$L11"]}],"$L12","$L13","$undefined","$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",3," ","фотографии"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268146294/268146294_thumb_0.jpg",{"href":"https://m-ets.ru/download/268146294/268146294_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268146294/268146294_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268146284/268146284_thumb_0.jpg",{"href":"https://m-ets.ru/download/268146284/268146284_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268146284/268146284_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268146285/268146285_thumb_0.jpg",{"href":"https://m-ets.ru/download/268146285/268146285_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268146285/268146285_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль, марка: LADA217030, модель: LADA217030, год изготовления: 2010 г.в., цвет: белый, VIN: XTA217030A0256632, ПТС: 63 МС 773475, г/н: О756ОР64, модель двигателя: 21126, мощность двигателя, л. с. (кВт): 98, рабочий объем двигателя, куб. см: 1596, шасси (рама) №: номер отсутствует, кузов №: XTA217030A0256632, разрешенная максимальная масса: 1578, масса без нагрузки: 1088, Транспортное средство имеет много ржавчин и сколов по кузову, коробка, колёса, аккумулятор передач не в рабочем состоянии. Потребление масла повышенное. Бампер нуждается в замене. На некоторых участках нижняя часть кузова прогнила. Один комплект ключей. ПТС отсутствует. Обременения: Документ: 229596500/6421 от 06.09.2024, Коробкова Алена Дмитриевна, СПИ: 63211030628147, ИП: 962300/24/64021-ИП от 05.09.2024., вид собственности: совместная"}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Lada (ВАЗ)",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Priora",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2010",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["200 000"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["98"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XTA217030A0256632",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23765091",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Саратовской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["07.10.2025",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["5 060,15 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Обременения: Документ: 229596500/6421 от 06.09.2024, Коробкова Алена Дмитриевна, СПИ: 63211030628147, ИП: 962300/24/64021-ИП от 05.09.2024",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление заинтересованных лиц с составом имущества должника, условиями его продажи, а также иной имеющейся у организатора торгов информацией о выставленном на продажу имуществе, в том числе об обременениях, (в том числе путем осмотра, фотографирования указанного имущества и копирования правоустанавливающих документов) производится с даты опубликования сообщения о проведении торгов в рабочие дни ... Показать полностью с понедельника по пятницу с 09:00 ч. до 11:00 ч. по местному времени (UTC +4) по предварительной записи по адресу электронной почты, указанной в реквизитах арбитражного управляющего (запросы на ознакомление с имуществом, документами на имущество принимаются на адрес электронной почты строго в рабочие дни с 09:00 ч. до 18:00 ч. по местному времени (UTC +4). Ознакомление возможно до даты окончания приема заявок. За пределами рабочего времени заявки на осмотр имущества и документов на него не принимаются.",""]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Джафаров Адалет Сабир Оглы",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=644300140008","children":"Джафаров Адалет Сабир Оглы"}],["$","span",null,{"className":"muted","children":[" · ИНН ","644300140008"]}],"$undefined"]}]]}],["$","tr","manager:Морозов Максим Николаевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=645390380243","children":"Морозов Максим Николаевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","645390380243"]}],["$","span",null,{"className":"muted","children":[" · ","Союз АУ \"Возрождение\""]}]]}]]}],["$","tr","organizer:Морозов Максим Николаевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=645390380243","children":"Морозов Максим Николаевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","645390380243"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9057-24171%2F2025","children":"А57-24171/2025"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Саратовская область"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268912812/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20221420-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268912812/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20221420-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 221420-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268913076/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BD%D0%B5%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%B2%D1%88%D0%B8%D0%BC%D0%B8%D1%81%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20221420-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268913076/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BD%D0%B5%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%B2%D1%88%D0%B8%D0%BC%D0%B8%D1%81%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20221420-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение о признании несостоявшимися торгов 221420-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268146617/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268146617/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268146619/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268146619/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":["$L19","$L1a"]}]]}]]}]
+1b:T29d7,{
+  "id": "etp-mets:221420-1",
+  "sourceCode": "etp-mets",
+  "externalId": "221420-1",
+  "sourceUrl": "https://m-ets.ru/221420-1",
+  "title": "Lada Priora, 2010 года, 98 лс, 200000 км",
+  "description": "Легковой автомобиль, марка: LADA217030, модель: LADA217030, год изготовления: 2010 г.в., цвет: белый, VIN: XTA217030A0256632, ПТС: 63 МС 773475, г/н: О756ОР64, модель двигателя: 21126, мощность двигателя, л. с. (кВт): 98, рабочий объем двигателя, куб. см: 1596, шасси (рама) №: номер отсутствует, кузов №: XTA217030A0256632, разрешенная максимальная масса: 1578, масса без нагрузки: 1088, Транспортное средство имеет много ржавчин и сколов по кузову, коробка, колёса, аккумулятор передач не в рабочем состоянии. Потребление масла повышенное. Бампер нуждается в замене. На некоторых участках нижняя часть кузова прогнила. Один комплект ключей. ПТС отсутствует. Обременения: Документ: 229596500/6421 от 06.09.2024, Коробкова Алена Дмитриевна, СПИ: 63211030628147, ИП: 962300/24/64021-ИП от 05.09.2024., вид собственности: совместная",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "finished",
+  "statusRaw": "Торги завершены",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "64",
+  "address": "Саратовская область",
+  "priceStart": "101203",
+  "priceStep": "5060.15",
+  "deposit": "10120.30",
+  "currency": "RUB",
+  "publishedAt": "2026-07-15T00:00:00+03:00",
+  "biddStartAt": "2026-07-23T09:00:00+03:00",
+  "biddEndAt": "2026-08-31T09:00:00+03:00",
+  "auctionAt": "2026-09-01T13:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А57-24171/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Джафаров Адалет Сабир Оглы",
+      "inn": "644300140008",
+      "efrsbId": "47b88d3b4538bcabbc040e54d04b6d78"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Морозов Максим Николаевич",
+      "inn": "645390380243",
+      "sro": "Союз АУ \"Возрождение\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Морозов Максим Николаевич",
+      "inn": "645390380243",
+      "email": "maksimmorozov88461@gmail.com",
+      "phone": "+7 (987) 307 73 66"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268146281/268146281_thumb_0.jpg",
+    "https://m-ets.ru/download/268146282/268146282_thumb_0.jpg",
+    "https://m-ets.ru/download/268146283/268146283_thumb_0.jpg",
+    "https://m-ets.ru/download/268146288/268146288_thumb_0.jpg",
+    "https://m-ets.ru/download/268146287/268146287_thumb_0.jpg",
+    "https://m-ets.ru/download/268146286/268146286_thumb_0.jpg",
+    "https://m-ets.ru/download/268146289/268146289_thumb_0.jpg",
+    "https://m-ets.ru/download/268146290/268146290_thumb_0.jpg",
+    "https://m-ets.ru/download/268146291/268146291_thumb_0.jpg",
+    "https://m-ets.ru/download/268146280/268146280_thumb_0.jpg",
+    "https://m-ets.ru/download/268146295/268146295_thumb_0.jpg",
+    "https://m-ets.ru/download/268146292/268146292_thumb_0.jpg",
+    "https://m-ets.ru/download/268146294/268146294_thumb_0.jpg",
+    "https://m-ets.ru/download/268146284/268146284_thumb_0.jpg",
+    "https://m-ets.ru/download/268146285/268146285_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268912812/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20221420-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Протокол определения участников торгов 221420-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268913076/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BD%D0%B5%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%B2%D1%88%D0%B8%D0%BC%D0%B8%D1%81%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20221420-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Решение о признании несостоявшимися торгов 221420-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268146617/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268146619/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "Договор купли-продажи движимого имущества.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Lada (ВАЗ)",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Priora",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2010",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "200 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "98",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XTA217030A0256632",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23765091",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Саратовской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "07.10.2025",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "5 060,15 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Обременения: Документ: 229596500/6421 от 06.09.2024, Коробкова Алена Дмитриевна, СПИ: 63211030628147, ИП: 962300/24/64021-ИП от 05.09.2024",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление заинтересованных лиц с составом имущества должника, условиями его продажи, а также иной имеющейся у организатора торгов информацией о выставленном на продажу имуществе, в том числе об обременениях, (в том числе путем осмотра, фотографирования указанного имущества и копирования правоустанавливающих документов) производится с даты опубликования сообщения о проведении торгов в рабочие дни ... Показать полностью с понедельника по пятницу с 09:00 ч. до 11:00 ч. по местному времени (UTC +4) по предварительной записи по адресу электронной почты, указанной в реквизитах арбитражного управляющего (запросы на ознакомление с имуществом, документами на имущество принимаются на адрес электронной почты строго в рабочие дни с 09:00 ч. до 18:00 ч. по местному времени (UTC +4). Ознакомление возможно до даты окончания приема заявок. За пределами рабочего времени заявки на осмотр имущества и документов на него не принимаются.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T20:04:51.028Z",
+  "lastSeenAt": "2026-08-31T20:04:51.028Z",
+  "contentHash": "590ecbcac8c72a22dbd5227821c1214e9f2d262a309c4869d3b49efec131b067"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"101 203 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"5 060,15 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"10 120,30 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"14 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"23 июл. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"31 авг. 2026 г., 09:00 (МСК)"}]],false,[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"1 сент. 2026 г., 13:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Саратовская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/221420-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+19:["$","span",null,{"children":["📎 ","Договор купли-продажи движимого имущества.pdf"]}]
+1a:["$","span",null,{"className":"size","children":"$undefined"}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Lada Priora, 2010 года, 98 лс, 200000 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

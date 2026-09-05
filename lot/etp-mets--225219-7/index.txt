@@ -1,0 +1,304 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--225219-7",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--225219-7","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--225219-7","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=36","children":"Воронежская обл."}]]]}],["$","h1",null,{"children":"Земельный участок в Воронежской обл., 504 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"земельный участок площадь 504 кв.м., кадастровый номер: 36:28:8300018:2630 расположенный по адресу: Воронежская область Семилукский район, с. Гудовка, ул. Партизанская"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24006544",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["арбитражный суд Воронежской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["24.09.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Наложены ограничения в виде запрещения регистрации судебным приставом-исполнителем СОСП по Воронежской области и судебным приставом-исполнителем Ленинского РОСП г.Воронежа",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом производится по месту нахождения имущества в рабочие дни с 10 ч. 00 мин. по 17 ч. 00 мин. по предварительной записи по телефону: 8(915)5481858",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 09:00 (МСК)"," —"," ","15 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"378 900 ₽"}],["$","td",null,{"children":"37 890 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["15 авг. 2026 г., 09:00 (МСК)"," —"," ","20 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"359 955 ₽"}],["$","td",null,{"children":"35 995,50 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["20 авг. 2026 г., 09:00 (МСК)"," —"," ","25 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"341 010 ₽"}],["$","td",null,{"children":"34 101 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["25 авг. 2026 г., 09:00 (МСК)"," —"," ","30 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"322 065 ₽"}],["$","td",null,{"children":"32 206,50 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["30 авг. 2026 г., 09:00 (МСК)"," —"," ","4 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"303 120 ₽"}],["$","td",null,{"children":"30 312 ₽"}]]}],["$","tr","6",{"className":"now","children":[["$","td",null,{"children":["4 сент. 2026 г., 09:00 (МСК)"," —"," ","9 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"284 175 ₽"}],["$","td",null,{"children":"28 417,50 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["9 сент. 2026 г., 09:00 (МСК)"," —"," ","14 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"265 230 ₽"}],["$","td",null,{"children":"26 523 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 09:00 (МСК)"," —"," ","19 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"246 285 ₽"}],"$L11"]}],"$L12","$L13"]}]]}]]}],"$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","td",null,{"children":"24 628,50 ₽"}]
+12:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["19 сент. 2026 г., 09:00 (МСК)"," —"," ","24 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"227 340 ₽"}],["$","td",null,{"children":"22 734 ₽"}]]}]
+13:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["24 сент. 2026 г., 09:00 (МСК)"," —"," ","29 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"210 500 ₽"}],["$","td",null,{"children":"21 050 ₽"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СЛАВЯНСКОЕ НАСЛЕДИЕ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=3663119084","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СЛАВЯНСКОЕ НАСЛЕДИЕ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","3663119084"]}],"$undefined"]}]]}],["$","tr","manager:Панин Евгений Константинович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=366411047877","children":"Панин Евгений Константинович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","366411047877"]}],["$","span",null,{"className":"muted","children":[" · ","Союз \"СРО АУ СЗ\""]}]]}]]}],["$","tr","organizer:Панин Евгений Константинович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=366411047877","children":"Панин Евгений Константинович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","366411047877"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9014-22729%2F2024","children":"А14-22729/2024"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Воронежская область"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",23,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268383862/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2036288300018110.pdf",{"href":"https://m-ets.ru/download/268383862/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2036288300018110.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 36288300018110.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268383864/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",{"href":"https://m-ets.ru/download/268383864/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет 84-1-2026.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268383867/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",{"href":"https://m-ets.ru/download/268383867/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет 84-1-2026.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268383869/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182635.pdf",{"href":"https://m-ets.ru/download/268383869/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182635.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 362883000182635.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268383872/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",{"href":"https://m-ets.ru/download/268383872/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет 84-1-2026.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268383874/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182634.pdf",{"href":"https://m-ets.ru/download/268383874/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182634.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 362883000182634.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268383877/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182632.pdf",{"href":"https://m-ets.ru/download/268383877/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182632.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 362883000182632.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268383879/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",{"href":"https://m-ets.ru/download/268383879/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет 84-1-2026.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268383882/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182631.pdf",{"href":"https://m-ets.ru/download/268383882/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182631.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 362883000182631.pdf"]}],"$L19"]}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27"]}]]}]
+28:T2bca,{
+  "id": "etp-mets:225219-7",
+  "sourceCode": "etp-mets",
+  "externalId": "225219-7",
+  "sourceUrl": "https://m-ets.ru/225219-7",
+  "title": "Земельный участок в Воронежской обл., 504 кв.м.",
+  "description": "земельный участок площадь 504 кв.м., кадастровый номер: 36:28:8300018:2630 расположенный по адресу: Воронежская область Семилукский район, с. Гудовка, ул. Партизанская",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "36",
+  "address": "Воронежская область",
+  "priceStart": "378900",
+  "priceMin": "210500.00",
+  "deposit": "37890.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-31T00:00:00+03:00",
+  "biddStartAt": "2026-08-10T09:00:00+03:00",
+  "biddEndAt": "2026-09-29T09:00:00+03:00",
+  "auctionAt": "2026-09-29T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А14-22729/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СЛАВЯНСКОЕ НАСЛЕДИЕ\"",
+      "inn": "3663119084",
+      "ogrn": "1163668067067"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Панин Евгений Константинович",
+      "inn": "366411047877",
+      "sro": "Союз \"СРО АУ СЗ\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Панин Евгений Константинович",
+      "inn": "366411047877",
+      "email": "89155481858@mail.ru",
+      "phone": "+7 (915) 548 18 58"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-10T09:00:00+03:00",
+      "endAt": "2026-08-15T09:00:00+03:00",
+      "price": "378900.00",
+      "deposit": "37890.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-15T09:00:00+03:00",
+      "endAt": "2026-08-20T09:00:00+03:00",
+      "price": "359955.00",
+      "deposit": "35995.50"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-20T09:00:00+03:00",
+      "endAt": "2026-08-25T09:00:00+03:00",
+      "price": "341010.00",
+      "deposit": "34101.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-25T09:00:00+03:00",
+      "endAt": "2026-08-30T09:00:00+03:00",
+      "price": "322065.00",
+      "deposit": "32206.50"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-30T09:00:00+03:00",
+      "endAt": "2026-09-04T09:00:00+03:00",
+      "price": "303120.00",
+      "deposit": "30312.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-04T09:00:00+03:00",
+      "endAt": "2026-09-09T09:00:00+03:00",
+      "price": "284175.00",
+      "deposit": "28417.50"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-09T09:00:00+03:00",
+      "endAt": "2026-09-14T09:00:00+03:00",
+      "price": "265230.00",
+      "deposit": "26523.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-14T09:00:00+03:00",
+      "endAt": "2026-09-19T09:00:00+03:00",
+      "price": "246285.00",
+      "deposit": "24628.50"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-19T09:00:00+03:00",
+      "endAt": "2026-09-24T09:00:00+03:00",
+      "price": "227340.00",
+      "deposit": "22734.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-09-24T09:00:00+03:00",
+      "endAt": "2026-09-29T09:00:00+03:00",
+      "price": "210500.00",
+      "deposit": "21050.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268383862/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2036288300018110.pdf",
+      "name": "Выписка из ЕГРН 36288300018110.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383864/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",
+      "name": "Отчет 84-1-2026.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383867/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",
+      "name": "Отчет 84-1-2026.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383869/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182635.pdf",
+      "name": "Выписка из ЕГРН 362883000182635.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383872/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",
+      "name": "Отчет 84-1-2026.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383874/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182634.pdf",
+      "name": "Выписка из ЕГРН 362883000182634.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383877/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182632.pdf",
+      "name": "Выписка из ЕГРН 362883000182632.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383879/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",
+      "name": "Отчет 84-1-2026.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383882/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182631.pdf",
+      "name": "Выписка из ЕГРН 362883000182631.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383884/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",
+      "name": "Отчет 84-1-2026.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383887/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182630.pdf",
+      "name": "Выписка из ЕГРН 362883000182630.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383889/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",
+      "name": "Отчет 84-1-2026.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383892/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182629.pdf",
+      "name": "Выписка из ЕГРН 362883000182629.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383894/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",
+      "name": "Отчет 84-1-2026.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383897/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",
+      "name": "Отчет 84-1-2026.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383899/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182628.pdf",
+      "name": "Выписка из ЕГРН 362883000182628.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383902/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2036130800002214.pdf",
+      "name": "Выписка из ЕГРН 36130800002214.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383904/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-2-2026.pdf",
+      "name": "Отчет 84-2-2026.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383909/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2036130800002215.pdf",
+      "name": "Выписка из ЕГРН 36130800002215.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383911/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2036130800002221.pdf",
+      "name": "Выписка из ЕГРН 36130800002221.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383913/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%9E%D0%9E%D0%9E%20%D0%A1%D0%BB%D0%B0%D0%B2%D1%8F%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D0%B5.pdf",
+      "name": "Положение о реализации_ООО Славянское наследие.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383915/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx",
+      "name": "Договор купли-продажи проект.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268435058/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24006544",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "арбитражный суд Воронежской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "24.09.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Наложены ограничения в виде запрещения регистрации судебным приставом-исполнителем СОСП по Воронежской области и судебным приставом-исполнителем Ленинского РОСП г.Воронежа",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом производится по месту нахождения имущества в рабочие дни с 10 ч. 00 мин. по 17 ч. 00 мин. по предварительной записи по телефону: 8(915)5481858",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:59:40.968Z",
+  "lastSeenAt": "2026-08-31T17:59:40.968Z",
+  "contentHash": "aa10ccddb18a39b9fdad003d4bc9d06d68302dd02f983773b9e6f44c9f27cf20"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$28"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"284 175 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["265 230 ₽",["$","span",null,{"className":"muted","children":[" ","· ","9 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[4,", до ","210 500 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"378 900 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"37 890 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"30 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"10 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"29 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"23 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Воронежская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/225219-7","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+19:["$","span",null,{"className":"size","children":"$undefined"}]
+1a:["$","a","https://m-ets.ru/download/268383884/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",{"href":"https://m-ets.ru/download/268383884/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет 84-1-2026.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1b:["$","a","https://m-ets.ru/download/268383887/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182630.pdf",{"href":"https://m-ets.ru/download/268383887/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182630.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 362883000182630.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1c:["$","a","https://m-ets.ru/download/268383889/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",{"href":"https://m-ets.ru/download/268383889/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет 84-1-2026.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1d:["$","a","https://m-ets.ru/download/268383892/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182629.pdf",{"href":"https://m-ets.ru/download/268383892/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182629.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 362883000182629.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1e:["$","a","https://m-ets.ru/download/268383894/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",{"href":"https://m-ets.ru/download/268383894/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет 84-1-2026.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1f:["$","a","https://m-ets.ru/download/268383897/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf",{"href":"https://m-ets.ru/download/268383897/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-1-2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет 84-1-2026.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+20:["$","a","https://m-ets.ru/download/268383899/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182628.pdf",{"href":"https://m-ets.ru/download/268383899/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%20362883000182628.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 362883000182628.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+21:["$","a","https://m-ets.ru/download/268383902/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2036130800002214.pdf",{"href":"https://m-ets.ru/download/268383902/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2036130800002214.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 36130800002214.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+22:["$","a","https://m-ets.ru/download/268383904/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-2-2026.pdf",{"href":"https://m-ets.ru/download/268383904/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2084-2-2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет 84-2-2026.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+23:["$","a","https://m-ets.ru/download/268383909/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2036130800002215.pdf",{"href":"https://m-ets.ru/download/268383909/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2036130800002215.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 36130800002215.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+24:["$","a","https://m-ets.ru/download/268383911/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2036130800002221.pdf",{"href":"https://m-ets.ru/download/268383911/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2036130800002221.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 36130800002221.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+25:["$","a","https://m-ets.ru/download/268383913/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%9E%D0%9E%D0%9E%20%D0%A1%D0%BB%D0%B0%D0%B2%D1%8F%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D0%B5.pdf",{"href":"https://m-ets.ru/download/268383913/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%9E%D0%9E%D0%9E%20%D0%A1%D0%BB%D0%B0%D0%B2%D1%8F%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о реализации_ООО Славянское наследие.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+26:["$","a","https://m-ets.ru/download/268383915/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx",{"href":"https://m-ets.ru/download/268383915/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи проект.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+27:["$","a","https://m-ets.ru/download/268435058/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268435058/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Воронежской обл., 504 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,212 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229203-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229203-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229203-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=86","children":"Ханты-Мансийский АО"}]]]}],["$","h1",null,{"children":"Прицеп 7197-0000010-04, 2023 года"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Коммерческий транспорт и спецтехника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Прицеп 7197-0000010-04, 2023 года выпуска, государственный, модель: регистрационный номер ВС426886, VIN XKZ71971DP0020884. , вид собственности: индивидуальная."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2023",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24284852",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Ханты-Мансийского автономного округа",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["24.09.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С имуществом по лоту №1 можно познакомиться по местонахождению имущества по предварительной записи у организатора торгов путем направления запроса по адресу эл. почты daryavinter_au@mail.ru.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 06:00 (МСК)"," —"," ","29 авг. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"110 250 ₽"}],["$","td",null,{"children":"22 050 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["29 авг. 2026 г., 06:00 (МСК)"," —"," ","3 сент. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"99 225 ₽"}],["$","td",null,{"children":"22 050 ₽"}]]}],["$","tr","3",{"className":"now","children":[["$","td",null,{"children":["3 сент. 2026 г., 06:00 (МСК)"," —"," ","8 сент. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"88 200 ₽"}],["$","td",null,{"children":"22 050 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["8 сент. 2026 г., 06:00 (МСК)"," —"," ","13 сент. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"77 175 ₽"}],["$","td",null,{"children":"22 050 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["13 сент. 2026 г., 06:00 (МСК)"," —"," ","18 сент. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"66 150 ₽"}],["$","td",null,{"children":"22 050 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["18 сент. 2026 г., 06:00 (МСК)"," —"," ","23 сент. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"55 125 ₽"}],["$","td",null,{"children":"22 050 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["23 сент. 2026 г., 06:00 (МСК)"," —"," ","28 сент. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"44 100 ₽"}],["$","td",null,{"children":"22 050 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["28 сент. 2026 г., 06:00 (МСК)"," —"," ","3 окт. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"33 075 ₽"}],["$","td",null,{"children":"22 050 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["3 окт. 2026 г., 06:00 (МСК)"," —"," ","8 окт. 2026 г., 06:00 (МСК)"]}],"$L11","$L12"]}]]}]]}]]}],"$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","td",null,{"children":"22 050 ₽"}]
+12:["$","td",null,{"children":"22 050 ₽"}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Воронцев Алексей Валерьевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=860901796331","children":"Воронцев Алексей Валерьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","860901796331"]}],"$undefined"]}]]}],["$","tr","manager:Винтер Дарья Алексеевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=381609690440","children":"Винтер Дарья Алексеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","381609690440"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация \"ДМСО\""]}]]}]]}],["$","tr","organizer:Винтер Дарья Алексеевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=381609690440","children":"Винтер Дарья Алексеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","381609690440"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9075-7875%2F2025","children":"А75-7875/2025"}]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Ханты-Мансийский АО"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268765140/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf",{"href":"https://m-ets.ru/download/268765140/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение об оценке имущества должника.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268908597/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20229203-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2024.08.2026%2006%3A00%3A00%20%D0%BF%D0%BE%2029.08.2026%2006%3A00%3A00%20.docx",{"href":"https://m-ets.ru/download/268908597/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20229203-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2024.08.2026%2006%3A00%3A00%20%D0%BF%D0%BE%2029.08.2026%2006%3A00%3A00%20.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 229203-МЭТС по лоту 1 за период c 24.08.2026 06:00:00 по 29.08.2026 06:00:00 .docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268765154/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0_639161897044101668.pdf",{"href":"https://m-ets.ru/download/268765154/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0_639161897044101668.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи движимого имущества_639161897044101668.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268765324/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268765324/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":["$L18","$L19"]}],"$L1a"]}]]}]
+1b:T1e82,{
+  "id": "etp-mets:229203-1",
+  "sourceCode": "etp-mets",
+  "externalId": "229203-1",
+  "sourceUrl": "https://m-ets.ru/229203-1",
+  "title": "Прицеп 7197-0000010-04, 2023 года",
+  "description": "Прицеп 7197-0000010-04, 2023 года выпуска, государственный, модель: регистрационный номер ВС426886, VIN XKZ71971DP0020884. , вид собственности: индивидуальная.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "3",
+  "categoryName": "Коммерческий транспорт и спецтехника",
+  "regionCode": "86",
+  "address": "Ханты-Мансийский АО",
+  "priceStart": "110250",
+  "priceMin": "22050.00",
+  "deposit": "22050.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-21T00:00:00+03:00",
+  "biddStartAt": "2026-08-24T06:00:00+03:00",
+  "biddEndAt": "2026-10-08T06:00:00+03:00",
+  "auctionAt": "2026-10-08T06:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А75-7875/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Воронцев Алексей Валерьевич",
+      "inn": "860901796331",
+      "efrsbId": "eeb913259ccdb58beb347a465febdbaf"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Винтер Дарья Алексеевна",
+      "inn": "381609690440",
+      "sro": "Ассоциация \"ДМСО\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Винтер Дарья Алексеевна",
+      "inn": "381609690440",
+      "email": "daryavinter_au@mail.ru",
+      "phone": "+7 (923) 120 08 55"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-24T06:00:00+03:00",
+      "endAt": "2026-08-29T06:00:00+03:00",
+      "price": "110250.00",
+      "deposit": "22050.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-29T06:00:00+03:00",
+      "endAt": "2026-09-03T06:00:00+03:00",
+      "price": "99225.00",
+      "deposit": "22050.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-03T06:00:00+03:00",
+      "endAt": "2026-09-08T06:00:00+03:00",
+      "price": "88200.00",
+      "deposit": "22050.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-08T06:00:00+03:00",
+      "endAt": "2026-09-13T06:00:00+03:00",
+      "price": "77175.00",
+      "deposit": "22050.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-13T06:00:00+03:00",
+      "endAt": "2026-09-18T06:00:00+03:00",
+      "price": "66150.00",
+      "deposit": "22050.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-18T06:00:00+03:00",
+      "endAt": "2026-09-23T06:00:00+03:00",
+      "price": "55125.00",
+      "deposit": "22050.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-23T06:00:00+03:00",
+      "endAt": "2026-09-28T06:00:00+03:00",
+      "price": "44100.00",
+      "deposit": "22050.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-28T06:00:00+03:00",
+      "endAt": "2026-10-03T06:00:00+03:00",
+      "price": "33075.00",
+      "deposit": "22050.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-03T06:00:00+03:00",
+      "endAt": "2026-10-08T06:00:00+03:00",
+      "price": "22050.00",
+      "deposit": "22050.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268765140/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf",
+      "name": "Решение об оценке имущества должника.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268908597/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20229203-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2024.08.2026%2006%3A00%3A00%20%D0%BF%D0%BE%2029.08.2026%2006%3A00%3A00%20.docx",
+      "name": "Протокол определения участников торгов 229203-МЭТС по лоту 1 за период c 24.08.2026 06:00:00 по 29.08.2026 06:00:00 .docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268765154/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0_639161897044101668.pdf",
+      "name": "Договор купли-продажи движимого имущества_639161897044101668.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268765324/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268765371/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D1%81%20%D0%BF%D1%80%D0%B5%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%20%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BC%20%D0%B2%D1%8B%D0%BA%D1%83%D0%BF%D0%B0.pdf",
+      "name": "Положение о торгах с преимущественным правом выкупа.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2023",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24284852",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Ханты-Мансийского автономного округа",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "24.09.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С имуществом по лоту №1 можно познакомиться по местонахождению имущества по предварительной записи у организатора торгов путем направления запроса по адресу эл. почты daryavinter_au@mail.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:31:35.757Z",
+  "lastSeenAt": "2026-08-31T18:31:35.757Z",
+  "contentHash": "623d099951ba97e3072a61ce0f73abb02711ab81613dd9bb1ae8a94e7827d3fb"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"88 200 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["77 175 ₽",["$","span",null,{"className":"muted","children":[" ","· ","8 сент. 2026 г., 06:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[6,", до ","22 050 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"110 250 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"22 050 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"20 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"24 авг. 2026 г., 06:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"8 окт. 2026 г., 06:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"32 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"8 окт. 2026 г., 06:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Ханты-Мансийский АО"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229203-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+18:["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}]
+19:["$","span",null,{"className":"size","children":"$undefined"}]
+1a:["$","a","https://m-ets.ru/download/268765371/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D1%81%20%D0%BF%D1%80%D0%B5%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%20%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BC%20%D0%B2%D1%8B%D0%BA%D1%83%D0%BF%D0%B0.pdf",{"href":"https://m-ets.ru/download/268765371/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D1%81%20%D0%BF%D1%80%D0%B5%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%20%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BC%20%D0%B2%D1%8B%D0%BA%D1%83%D0%BF%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о торгах с преимущественным правом выкупа.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Прицеп 7197-0000010-04, 2023 года — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

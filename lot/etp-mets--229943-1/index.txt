@@ -1,0 +1,224 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229943-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229943-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229943-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=56","children":"Оренбургская обл."}]]]}],["$","h1",null,{"children":"Ford Focus, 2017 года, 125,1 лс, АКПП"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268829535/268829535_thumb_0.jpg","alt":"Ford Focus, 2017 года, 125,1 лс, АКПП"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268829538/268829538_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829538/268829538_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829538/268829538_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268829545/268829545_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829545/268829545_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829545/268829545_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268829533/268829533_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829533/268829533_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829533/268829533_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268829532/268829532_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829532/268829532_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829532/268829532_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268829527/268829527_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829527/268829527_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829527/268829527_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268829536/268829536_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829536/268829536_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829536/268829536_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268829530/268829530_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829530/268829530_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829530/268829530_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268829529/268829529_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829529/268829529_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829529/268829529_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268829528/268829528_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829528/268829528_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829528/268829528_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268829541/268829541_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829541/268829541_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829541/268829541_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268829531/268829531_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829531/268829531_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829531/268829531_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],"$L11"]}],"$L12","$L13","$undefined","$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",4," ","фотографии"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268829542/268829542_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829542/268829542_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829542/268829542_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268829540/268829540_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829540/268829540_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829540/268829540_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268829537/268829537_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829537/268829537_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829537/268829537_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268829544/268829544_thumb_0.jpg",{"href":"https://m-ets.ru/download/268829544/268829544_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268829544/268829544_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"транспортное средство: Ford Focus, Идентификационный номер (VIN Номер): Z6F6XXEEC6HP31439, Год выпуска: 2017 гос.номер В928МО156"}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Ford",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Focus",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2017",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["260 265"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["125,1"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Автоматическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["Z6F6XXEEC6HP31439",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24337297",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Оренбургской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["18.05.2026",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["34 550 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге в пользу АО \"ТБАНК\", (ИНН 7710140679 ) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С ЛОТОМ №1 можно ознакомиться по месту его нахождения: обл. Московская, г. Люберцы, мкр. Зенино ЖК Самолёт, ул. Дружбы, д. 1, к. 2, предварительно согласовав время с Финансовым управляющим по тел. +79128062751, либо путем направления запроса на электронную почту orlova.t.e@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному ... Показать полностью управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",""]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Тарасова Юлия Дмитриевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=561507944680","children":"Тарасова Юлия Дмитриевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","561507944680"]}],"$undefined"]}]]}],["$","tr","manager:Орлова Татьяна Евгеньевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=740203310980","children":"Орлова Татьяна Евгеньевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","740203310980"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:ОРЛОВА ТАТЬЯНА ЕВГЕНЬЕВНА",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=740203310980","children":"ОРЛОВА ТАТЬЯНА ЕВГЕНЬЕВНА"}],["$","span",null,{"className":"muted","children":[" · ИНН ","740203310980"]}],"$undefined"]}]]}],["$","tr","pledgee:АО \"ТБАНК\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7710140679","children":"АО \"ТБАНК\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7710140679"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9047-6023%2F2026","children":"А47-6023/2026"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Оренбургская область"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268829583/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268829583/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268829585/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC).docx",{"href":"https://m-ets.ru/download/268829585/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП на ЭТП (ТС с залогом).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268829587/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_%D0%A2%D0%B0%D1%80%D0%B0%D1%81%D0%BE%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268829587/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_%D0%A2%D0%B0%D1%80%D0%B0%D1%81%D0%BE%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о торгах_Тарасова.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268829589/%D0%9F%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/268829589/%D0%9F%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ПТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268829591/%D0%A1%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/268829591/%D0%A1%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","СТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+19:T234e,{
+  "id": "etp-mets:229943-1",
+  "sourceCode": "etp-mets",
+  "externalId": "229943-1",
+  "sourceUrl": "https://m-ets.ru/229943-1",
+  "title": "Ford Focus, 2017 года, 125,1 лс, АКПП",
+  "description": "транспортное средство: Ford Focus, Идентификационный номер (VIN Номер): Z6F6XXEEC6HP31439, Год выпуска: 2017 гос.номер В928МО156",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "published",
+  "statusRaw": "Объявленные торги",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "56",
+  "address": "Оренбургская область",
+  "priceStart": "691000",
+  "priceStep": "34550",
+  "deposit": "69100",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T00:00:00+03:00",
+  "biddStartAt": "2026-09-01T09:00:00+03:00",
+  "biddEndAt": "2026-10-06T09:00:00+03:00",
+  "auctionAt": "2026-10-06T11:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А47-6023/2026",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Тарасова Юлия Дмитриевна",
+      "inn": "561507944680",
+      "efrsbId": "9c0e13ff9bac66aaed148dd92f72b801"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Орлова Татьяна Евгеньевна",
+      "inn": "740203310980",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "ОРЛОВА ТАТЬЯНА ЕВГЕНЬЕВНА",
+      "inn": "740203310980",
+      "email": "orlova.t.e@mail.ru",
+      "phone": "+7 (912) 806 27 51"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "АО \"ТБАНК\"",
+      "inn": "7710140679"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268829535/268829535_thumb_0.jpg",
+    "https://m-ets.ru/download/268829538/268829538_thumb_0.jpg",
+    "https://m-ets.ru/download/268829545/268829545_thumb_0.jpg",
+    "https://m-ets.ru/download/268829533/268829533_thumb_0.jpg",
+    "https://m-ets.ru/download/268829532/268829532_thumb_0.jpg",
+    "https://m-ets.ru/download/268829527/268829527_thumb_0.jpg",
+    "https://m-ets.ru/download/268829536/268829536_thumb_0.jpg",
+    "https://m-ets.ru/download/268829530/268829530_thumb_0.jpg",
+    "https://m-ets.ru/download/268829529/268829529_thumb_0.jpg",
+    "https://m-ets.ru/download/268829528/268829528_thumb_0.jpg",
+    "https://m-ets.ru/download/268829541/268829541_thumb_0.jpg",
+    "https://m-ets.ru/download/268829531/268829531_thumb_0.jpg",
+    "https://m-ets.ru/download/268829542/268829542_thumb_0.jpg",
+    "https://m-ets.ru/download/268829540/268829540_thumb_0.jpg",
+    "https://m-ets.ru/download/268829537/268829537_thumb_0.jpg",
+    "https://m-ets.ru/download/268829544/268829544_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268829583/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268829585/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC).docx",
+      "name": "Проект ДКП на ЭТП (ТС с залогом).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268829587/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_%D0%A2%D0%B0%D1%80%D0%B0%D1%81%D0%BE%D0%B2%D0%B0.pdf",
+      "name": "Положение о торгах_Тарасова.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268829589/%D0%9F%D0%A2%D0%A1.pdf",
+      "name": "ПТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268829591/%D0%A1%D0%A2%D0%A1.pdf",
+      "name": "СТС.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Ford",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Focus",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2017",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "260 265",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "125,1",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Автоматическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "Z6F6XXEEC6HP31439",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24337297",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Оренбургской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "18.05.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "34 550 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге в пользу АО \"ТБАНК\", (ИНН 7710140679 ) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: обл. Московская, г. Люберцы, мкр. Зенино ЖК Самолёт, ул. Дружбы, д. 1, к. 2, предварительно согласовав время с Финансовым управляющим по тел. +79128062751, либо путем направления запроса на электронную почту orlova.t.e@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному ... Показать полностью управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:38:21.291Z",
+  "lastSeenAt": "2026-08-31T18:38:21.291Z",
+  "contentHash": "3e374b4bb7a099cff2dcc3d7914d8d43224e095f1ed4cc9c206cbe36815b2170"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"691 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"34 550 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"69 100 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"1 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"6 окт. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"30 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"6 окт. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Оренбургская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229943-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Ford Focus, 2017 года, 125,1 лс, АКПП — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

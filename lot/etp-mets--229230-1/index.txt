@@ -1,0 +1,207 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229230-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229230-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229230-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=55","children":"Омская обл."}]]]}],["$","h1",null,{"children":"Квартира в Омске, 65,3 кв.м"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Квартира"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Жилое помещение, кадастровый номер 55:36:110101:21466 , площадью 65,30 кв. м., Омская область, г Омск, ул. Перелета, д 34, кв. 357."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24285641",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Омской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["03.07.2020",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомиться со сведениями (документами) о предмете торгов можно у организатора торгов в рабочие дни по адресу: г. Челябинск, пр. Ленина, д. 2, оф. 205. с 15 до 18 часов местного времени предварительно согласовав время по тел. 89049711485.3апись на осмотр по телефону либо направление запроса на эл почту 50-11@mail.ru.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 10:00 (МСК)"," —"," ","28 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"9 001 681 ₽"}],["$","td",null,{"children":"900 168,10 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["28 авг. 2026 г., 10:00 (МСК)"," —"," ","4 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"8 551 596,95 ₽"}],["$","td",null,{"children":"855 159,70 ₽"}]]}],["$","tr","3",{"className":"now","children":[["$","td",null,{"children":["4 сент. 2026 г., 10:00 (МСК)"," —"," ","11 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"8 101 512,90 ₽"}],["$","td",null,{"children":"810 151,29 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["11 сент. 2026 г., 10:00 (МСК)"," —"," ","18 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"7 651 428,85 ₽"}],["$","td",null,{"children":"765 142,89 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["18 сент. 2026 г., 10:00 (МСК)"," —"," ","25 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"7 201 344,80 ₽"}],["$","td",null,{"children":"720 134,48 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["25 сент. 2026 г., 10:00 (МСК)"," —"," ","2 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 751 260,75 ₽"}],["$","td",null,{"children":"675 126,08 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["2 окт. 2026 г., 10:00 (МСК)"," —"," ","9 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 301 176,70 ₽"}],["$","td",null,{"children":"630 117,67 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["9 окт. 2026 г., 10:00 (МСК)"," —"," ","16 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"5 851 092,65 ₽"}],["$","td",null,{"children":"585 109,27 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["16 окт. 2026 г., 10:00 (МСК)"," —"," ","23 окт. 2026 г., 10:00 (МСК)"]}],"$L11","$L12"]}],"$L13","$L14"]}]]}]]}],"$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","td",null,{"children":"5 401 008,60 ₽"}]
+12:["$","td",null,{"children":"540 100,86 ₽"}]
+13:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["23 окт. 2026 г., 10:00 (МСК)"," —"," ","30 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 950 924,55 ₽"}],["$","td",null,{"children":"495 092,46 ₽"}]]}]
+14:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["30 окт. 2026 г., 10:00 (МСК)"," —"," ","6 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 500 841 ₽"}],["$","td",null,{"children":"450 084,10 ₽"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Сариев Эрнест Автандилович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=550722777320","children":"Сариев Эрнест Автандилович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","550722777320"]}],"$undefined"]}]]}],["$","tr","manager:Галиуллина Гульнара Талгатовна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=745011676443","children":"Галиуллина Гульнара Талгатовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","745011676443"]}],["$","span",null,{"className":"muted","children":[" · ","НП СОПАУ \"Альянс управляющих\""]}]]}]]}],["$","tr","organizer:Галиуллина Гульнара Талгатовна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=745011676443","children":"Галиуллина Гульнара Талгатовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","745011676443"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9046-15453%2F2019","children":"А46-15453/2019"}]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Омская область"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268768189/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268768189/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268768191/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A1%D0%B0%D1%80%D0%B8%D0%B5%D0%B2.docx",{"href":"https://m-ets.ru/download/268768191/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A1%D0%B0%D1%80%D0%B8%D0%B5%D0%B2.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДОГОВОР проект Сариев.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1a:T1921,{
+  "id": "etp-mets:229230-1",
+  "sourceCode": "etp-mets",
+  "externalId": "229230-1",
+  "sourceUrl": "https://m-ets.ru/229230-1",
+  "title": "Квартира в Омске, 65,3 кв.м",
+  "description": "Жилое помещение, кадастровый номер 55:36:110101:21466 , площадью 65,30 кв. м., Омская область, г Омск, ул. Перелета, д 34, кв. 357.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "36",
+  "categoryName": "Квартира",
+  "regionCode": "55",
+  "address": "Омская область",
+  "priceStart": "9001681",
+  "priceMin": "4500841.00",
+  "deposit": "900168.10",
+  "currency": "RUB",
+  "publishedAt": "2026-08-21T00:00:00+03:00",
+  "biddStartAt": "2026-08-21T10:00:00+03:00",
+  "biddEndAt": "2026-11-06T10:00:00+03:00",
+  "auctionAt": "2026-11-06T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А46-15453/2019",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Сариев Эрнест Автандилович",
+      "inn": "550722777320",
+      "efrsbId": "585295a7fba0e9f9b73431dffa5cb59f"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Галиуллина Гульнара Талгатовна",
+      "inn": "745011676443",
+      "sro": "НП СОПАУ \"Альянс управляющих\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Галиуллина Гульнара Талгатовна",
+      "inn": "745011676443",
+      "email": "gulnara-parallel@mail.ru",
+      "phone": "+7 (904) 971 14 85"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-21T10:00:00+03:00",
+      "endAt": "2026-08-28T10:00:00+03:00",
+      "price": "9001681.00",
+      "deposit": "900168.10"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-28T10:00:00+03:00",
+      "endAt": "2026-09-04T10:00:00+03:00",
+      "price": "8551596.95",
+      "deposit": "855159.70"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-04T10:00:00+03:00",
+      "endAt": "2026-09-11T10:00:00+03:00",
+      "price": "8101512.90",
+      "deposit": "810151.29"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-11T10:00:00+03:00",
+      "endAt": "2026-09-18T10:00:00+03:00",
+      "price": "7651428.85",
+      "deposit": "765142.89"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-18T10:00:00+03:00",
+      "endAt": "2026-09-25T10:00:00+03:00",
+      "price": "7201344.80",
+      "deposit": "720134.48"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-25T10:00:00+03:00",
+      "endAt": "2026-10-02T10:00:00+03:00",
+      "price": "6751260.75",
+      "deposit": "675126.08"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-02T10:00:00+03:00",
+      "endAt": "2026-10-09T10:00:00+03:00",
+      "price": "6301176.70",
+      "deposit": "630117.67"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-09T10:00:00+03:00",
+      "endAt": "2026-10-16T10:00:00+03:00",
+      "price": "5851092.65",
+      "deposit": "585109.27"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-16T10:00:00+03:00",
+      "endAt": "2026-10-23T10:00:00+03:00",
+      "price": "5401008.60",
+      "deposit": "540100.86"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-10-23T10:00:00+03:00",
+      "endAt": "2026-10-30T10:00:00+03:00",
+      "price": "4950924.55",
+      "deposit": "495092.46"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-10-30T10:00:00+03:00",
+      "endAt": "2026-11-06T10:00:00+03:00",
+      "price": "4500841.00",
+      "deposit": "450084.10"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268768189/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268768191/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%A1%D0%B0%D1%80%D0%B8%D0%B5%D0%B2.docx",
+      "name": "ДОГОВОР проект Сариев.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24285641",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Омской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "03.07.2020",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомиться со сведениями (документами) о предмете торгов можно у организатора торгов в рабочие дни по адресу: г. Челябинск, пр. Ленина, д. 2, оф. 205. с 15 до 18 часов местного времени предварительно согласовав время по тел. 89049711485.3апись на осмотр по телефону либо направление запроса на эл почту 50-11@mail.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:18:46.339Z",
+  "lastSeenAt": "2026-08-31T19:18:46.339Z",
+  "contentHash": "98eb8d25e2a8f732f7ec832790d82091f37af6393447498921f05230be465e84"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"8 101 512,90 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["7 651 428,85 ₽",["$","span",null,{"className":"muted","children":[" ","· ","11 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[8,", до ","4 500 841 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"9 001 681 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"900 168,10 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"20 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"21 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"6 нояб. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"61 день"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"6 нояб. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Омская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229230-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Квартира в Омске, 65,3 кв.м — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

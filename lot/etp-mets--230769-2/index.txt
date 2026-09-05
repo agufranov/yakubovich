@@ -1,0 +1,299 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230769-2",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230769-2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230769-2","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=50","children":"Московская обл."}]]]}],["$","h1",null,{"children":"Fiat Albea, 2011 года, 77,6 лс, 321500 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268886887/268886887_thumb_0.jpg","alt":"Fiat Albea, 2011 года, 77,6 лс, 321500 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268886886/268886886_thumb_0.jpg",{"href":"https://m-ets.ru/download/268886886/268886886_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268886886/268886886_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268886885/268886885_thumb_0.jpg",{"href":"https://m-ets.ru/download/268886885/268886885_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268886885/268886885_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268886881/268886881_thumb_0.jpg",{"href":"https://m-ets.ru/download/268886881/268886881_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268886881/268886881_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268886883/268886883_thumb_0.jpg",{"href":"https://m-ets.ru/download/268886883/268886883_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268886883/268886883_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268886890/268886890_thumb_0.jpg",{"href":"https://m-ets.ru/download/268886890/268886890_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268886890/268886890_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268886884/268886884_thumb_0.jpg",{"href":"https://m-ets.ru/download/268886884/268886884_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268886884/268886884_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268886882/268886882_thumb_0.jpg",{"href":"https://m-ets.ru/download/268886882/268886882_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268886882/268886882_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268886889/268886889_thumb_0.jpg",{"href":"https://m-ets.ru/download/268886889/268886889_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268886889/268886889_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Автотранспортное средство Марка и(или) модель: ФИАТ 178CYN1A Albea Год выпуска: 2011 Идентификационный номер (VIN): XU3178000BZ143713 Номер шасси (рамы): -- Номер кузова (кабины):-XU3178000BZ143713 Цвет кузова (кабины): СЕРЫЙ ХРОНО Номер двигателя: - Рабочий объем (см³): 1368 Мощность (кВт/л.с.): 57.1/77.6 Экологический класс: ЧЕТВЕРТЫЙ/4 Тип транспортного средства: Легковой седан Оценить техническое состояние, комплектность т/с можно при самостоятельном осмотре. При подаче заявки на участие в торгах покупатель считается ознакомленным с техническим состоянием и комплектацией т/с."}]]}],"$L11","$L12","$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Fiat",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Albea",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2011",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["321 500"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["77,6"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XU3178000BZ143713",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24386883",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Москвы",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["15.05.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Возможны ограничения со стороны ФССП. Актуальная информация на официальном сайте ведомства. Все ограничения будут сниматься по результатам торгов после заключения Договора купли-продажи.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомиться с имуществом, подлежащим реализации, можно в течение срока приема заявок в рабочие дни в рабочее время. Предварительный запрос информации об имуществе направлять по адресу электронной почты: 89162548425@mail.ru. Ознакомиться с имуществом может любое лицо, заинтересованное в участии в торгах.",""]}]]}]]}]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["29 авг. 2026 г., 10:00 (МСК)"," —"," ","1 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"249 030 ₽"}],["$","td",null,{"children":"24 903 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["1 сент. 2026 г., 10:00 (МСК)"," —"," ","4 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"236 578,50 ₽"}],["$","td",null,{"children":"23 657,85 ₽"}]]}],["$","tr","3",{"className":"now","children":[["$","td",null,{"children":["4 сент. 2026 г., 10:00 (МСК)"," —"," ","7 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"224 127 ₽"}],["$","td",null,{"children":"22 412,70 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 10:00 (МСК)"," —"," ","10 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"211 675,50 ₽"}],["$","td",null,{"children":"21 167,55 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 10:00 (МСК)"," —"," ","13 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"199 224 ₽"}],["$","td",null,{"children":"19 922,40 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["13 сент. 2026 г., 10:00 (МСК)"," —"," ","16 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"186 772,50 ₽"}],["$","td",null,{"children":"18 677,25 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["16 сент. 2026 г., 10:00 (МСК)"," —"," ","19 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"174 321 ₽"}],["$","td",null,{"children":"17 432,10 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["19 сент. 2026 г., 10:00 (МСК)"," —"," ","22 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"161 869,50 ₽"}],["$","td",null,{"children":"16 186,95 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["22 сент. 2026 г., 10:00 (МСК)"," —"," ","25 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"149 418 ₽"}],["$","td",null,{"children":"14 941,80 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["25 сент. 2026 г., 10:00 (МСК)"," —"," ","28 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"136 966,50 ₽"}],["$","td",null,{"children":"13 696,65 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["28 сент. 2026 г., 10:00 (МСК)"," —"," ","1 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"124 515 ₽"}],["$","td",null,{"children":"12 451,50 ₽"}]]}],["$","tr","12",{"className":"","children":[["$","td",null,{"children":["1 окт. 2026 г., 10:00 (МСК)"," —"," ","4 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"112 063,50 ₽"}],["$","td",null,{"children":"11 206,35 ₽"}]]}],["$","tr","13",{"className":"","children":[["$","td",null,{"children":["4 окт. 2026 г., 10:00 (МСК)"," —"," ","7 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"99 612 ₽"}],["$","td",null,{"children":"9 961,20 ₽"}]]}],["$","tr","14",{"className":"","children":[["$","td",null,{"children":["7 окт. 2026 г., 10:00 (МСК)"," —"," ","10 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"87 160,50 ₽"}],["$","td",null,{"children":"8 716,05 ₽"}]]}],["$","tr","15",{"className":"","children":[["$","td",null,{"children":["10 окт. 2026 г., 10:00 (МСК)"," —"," ","13 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"74 709 ₽"}],["$","td",null,{"children":"7 470,90 ₽"}]]}]]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Саакян Самсон Карленович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=772705171965","children":"Саакян Самсон Карленович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","772705171965"]}],"$undefined"]}]]}],["$","tr","manager:Коршунович Роман Петрович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=504800741143","children":"Коршунович Роман Петрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","504800741143"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСОПАУ"]}]]}]]}],["$","tr","organizer:Коршунович Роман Петрович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=504800741143","children":"Коршунович Роман Петрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","504800741143"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-29898%2F25","children":"А40-29898/25"}]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Московская область"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268887264/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268887264/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268887266/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B0%D0%B2%D1%82%D0%BE.pdf",{"href":"https://m-ets.ru/download/268887266/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B0%D0%B2%D1%82%D0%BE.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи имущества авто.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T2892,{
+  "id": "etp-mets:230769-2",
+  "sourceCode": "etp-mets",
+  "externalId": "230769-2",
+  "sourceUrl": "https://m-ets.ru/230769-2",
+  "title": "Fiat Albea, 2011 года, 77,6 лс, 321500 км",
+  "description": "Автотранспортное средство Марка и(или) модель: ФИАТ 178CYN1A Albea Год выпуска: 2011 Идентификационный номер (VIN): XU3178000BZ143713 Номер шасси (рамы): -- Номер кузова (кабины):-XU3178000BZ143713 Цвет кузова (кабины): СЕРЫЙ ХРОНО Номер двигателя: - Рабочий объем (см³): 1368 Мощность (кВт/л.с.): 57.1/77.6 Экологический класс: ЧЕТВЕРТЫЙ/4 Тип транспортного средства: Легковой седан Оценить техническое состояние, комплектность т/с можно при самостоятельном осмотре. При подаче заявки на участие в торгах покупатель считается ознакомленным с техническим состоянием и комплектацией т/с.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "50",
+  "address": "Московская область",
+  "priceStart": "249030",
+  "priceMin": "74709.00",
+  "deposit": "24903.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-28T00:00:00+03:00",
+  "biddStartAt": "2026-08-29T10:00:00+03:00",
+  "biddEndAt": "2026-10-13T10:00:00+03:00",
+  "auctionAt": "2026-10-13T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-29898/25",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Саакян Самсон Карленович",
+      "inn": "772705171965",
+      "efrsbId": "145f6c2dbee213295ad44bf1ba610310"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Коршунович Роман Петрович",
+      "inn": "504800741143",
+      "sro": "Ассоциация МСОПАУ"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Коршунович Роман Петрович",
+      "inn": "504800741143",
+      "email": "korshunovich@gmail.com",
+      "phone": "+7 (916) 254 84 25"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-29T10:00:00+03:00",
+      "endAt": "2026-09-01T10:00:00+03:00",
+      "price": "249030.00",
+      "deposit": "24903.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-01T10:00:00+03:00",
+      "endAt": "2026-09-04T10:00:00+03:00",
+      "price": "236578.50",
+      "deposit": "23657.85"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-04T10:00:00+03:00",
+      "endAt": "2026-09-07T10:00:00+03:00",
+      "price": "224127.00",
+      "deposit": "22412.70"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-07T10:00:00+03:00",
+      "endAt": "2026-09-10T10:00:00+03:00",
+      "price": "211675.50",
+      "deposit": "21167.55"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-10T10:00:00+03:00",
+      "endAt": "2026-09-13T10:00:00+03:00",
+      "price": "199224.00",
+      "deposit": "19922.40"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-13T10:00:00+03:00",
+      "endAt": "2026-09-16T10:00:00+03:00",
+      "price": "186772.50",
+      "deposit": "18677.25"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-16T10:00:00+03:00",
+      "endAt": "2026-09-19T10:00:00+03:00",
+      "price": "174321.00",
+      "deposit": "17432.10"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-19T10:00:00+03:00",
+      "endAt": "2026-09-22T10:00:00+03:00",
+      "price": "161869.50",
+      "deposit": "16186.95"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-22T10:00:00+03:00",
+      "endAt": "2026-09-25T10:00:00+03:00",
+      "price": "149418.00",
+      "deposit": "14941.80"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-09-25T10:00:00+03:00",
+      "endAt": "2026-09-28T10:00:00+03:00",
+      "price": "136966.50",
+      "deposit": "13696.65"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-09-28T10:00:00+03:00",
+      "endAt": "2026-10-01T10:00:00+03:00",
+      "price": "124515.00",
+      "deposit": "12451.50"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-10-01T10:00:00+03:00",
+      "endAt": "2026-10-04T10:00:00+03:00",
+      "price": "112063.50",
+      "deposit": "11206.35"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-10-04T10:00:00+03:00",
+      "endAt": "2026-10-07T10:00:00+03:00",
+      "price": "99612.00",
+      "deposit": "9961.20"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-10-07T10:00:00+03:00",
+      "endAt": "2026-10-10T10:00:00+03:00",
+      "price": "87160.50",
+      "deposit": "8716.05"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-10-10T10:00:00+03:00",
+      "endAt": "2026-10-13T10:00:00+03:00",
+      "price": "74709.00",
+      "deposit": "7470.90"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268886887/268886887_thumb_0.jpg",
+    "https://m-ets.ru/download/268886886/268886886_thumb_0.jpg",
+    "https://m-ets.ru/download/268886885/268886885_thumb_0.jpg",
+    "https://m-ets.ru/download/268886881/268886881_thumb_0.jpg",
+    "https://m-ets.ru/download/268886883/268886883_thumb_0.jpg",
+    "https://m-ets.ru/download/268886890/268886890_thumb_0.jpg",
+    "https://m-ets.ru/download/268886884/268886884_thumb_0.jpg",
+    "https://m-ets.ru/download/268886882/268886882_thumb_0.jpg",
+    "https://m-ets.ru/download/268886889/268886889_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268887264/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268887266/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B0%D0%B2%D1%82%D0%BE.pdf",
+      "name": "Проект договора купли-продажи имущества авто.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Fiat",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Albea",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2011",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "321 500",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "77,6",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XU3178000BZ143713",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24386883",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "15.05.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Возможны ограничения со стороны ФССП. Актуальная информация на официальном сайте ведомства. Все ограничения будут сниматься по результатам торгов после заключения Договора купли-продажи.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомиться с имуществом, подлежащим реализации, можно в течение срока приема заявок в рабочие дни в рабочее время. Предварительный запрос информации об имуществе направлять по адресу электронной почты: 89162548425@mail.ru. Ознакомиться с имуществом может любое лицо, заинтересованное в участии в торгах.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:50:04.696Z",
+  "lastSeenAt": "2026-08-31T18:50:04.696Z",
+  "contentHash": "3b340bc3f457d47e28dea9b783d4b714689763fb613910edb4b16ef94d297351"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"224 127 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["211 675,50 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[12,", до ","74 709 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"249 030 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"24 903 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"27 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"29 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"13 окт. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"37 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"13 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Московская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230769-2","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Fiat Albea, 2011 года, 77,6 лс, 321500 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

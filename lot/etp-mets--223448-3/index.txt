@@ -1,0 +1,254 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--223448-3",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--223448-3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--223448-3","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=86","children":"Ханты-Мансийский АО"}]]]}],["$","h1",null,{"children":"Ваз 2107, 2007 года, 54 лс"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Автомобиль легковой, ВАЗ 21074, гос. № У 136 СВ 86, 2007 г.в."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Lada (ВАЗ)",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["2107",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2007",""]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["54"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Задний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23900605",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд ХМАО - Югры",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["04.03.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление, осмотр осуществляется в рабочие дни по предварительной договоренности по тел. 89128939761, или по адресу г. Челябинск пр. Свердловский 10 оф. 7. Для оперативного реагирования направляйте вопросы по адресу электронной почты olegismagilov@mail.ru. Фотографии имущества на момент оценки приложены в отчете об оценке. Осмотр в рабочие дни предварительно созвонившись по телефону с представителем в г. Когалым +7(904) 477-70-23.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 00:00 (МСК)"," —"," ","14 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"36 900 ₽"}],["$","td",null,{"children":"3 690 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 00:00 (МСК)"," —"," ","21 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"35 055 ₽"}],["$","td",null,{"children":"3 505,50 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 00:00 (МСК)"," —"," ","28 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"33 210 ₽"}],["$","td",null,{"children":"3 321 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["28 сент. 2026 г., 00:00 (МСК)"," —"," ","5 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"31 365 ₽"}],["$","td",null,{"children":"3 136,50 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["5 окт. 2026 г., 00:00 (МСК)"," —"," ","12 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"29 520 ₽"}],["$","td",null,{"children":"2 952 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["12 окт. 2026 г., 00:00 (МСК)"," —"," ","19 окт. 2026 г., 00:00 (МСК)"]}],"$L11","$L12"]}],"$L13"]}]]}]]}],"$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","td",null,{"children":"27 675 ₽"}]
+12:["$","td",null,{"children":"2 767,50 ₽"}]
+13:["$","tr","7",{"className":"","children":[["$","td",null,{"children":["19 окт. 2026 г., 00:00 (МСК)"," —"," ","26 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"25 830 ₽"}],["$","td",null,{"children":"2 583 ₽"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЖЕНЕРНО-КОНСУЛЬТАЦИОННЫЙ ЦЕНТР ПО ОБЪЕКТАМ ПОВЫШЕННОЙ ОПАСНОСТИ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=8608046910","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЖЕНЕРНО-КОНСУЛЬТАЦИОННЫЙ ЦЕНТР ПО ОБЪЕКТАМ ПОВЫШЕННОЙ ОПАСНОСТИ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","8608046910"]}],"$undefined"]}]]}],["$","tr","manager:Исмагилов Олег Герардович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=745009190984","children":"Исмагилов Олег Герардович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","745009190984"]}],["$","span",null,{"className":"muted","children":[" · ","Союз АУ «Созидание»"]}]]}]]}],["$","tr","organizer:Исмагилов Олег Герардович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=745009190984","children":"Исмагилов Олег Герардович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","745009190984"]}],"$undefined"]}]]}],["$","tr","pledgee:МЕЖРАЙОННАЯ ИФНС РОССИИ № 11 ПО ХАНТЫ-МАНСИЙСКОМУ АВТОНОМНОМУ ОКРУГУ - ЮГРЕ",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=8617011328","children":"МЕЖРАЙОННАЯ ИФНС РОССИИ № 11 ПО ХАНТЫ-МАНСИЙСКОМУ АВТОНОМНОМУ ОКРУГУ - ЮГРЕ"}],["$","span",null,{"className":"muted","children":[" · ИНН ","8617011328"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9075-18243%2F2023","children":"А75-18243/2023"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Ханты-Мансийский АО"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",8,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268296868/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20-%20%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9%20%20%D0%B8%20%D1%82%D0%B4%20compressed.pdf",{"href":"https://m-ets.ru/download/268296868/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20-%20%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9%20%20%D0%B8%20%D1%82%D0%B4%20compressed.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет - Автомобилей и тд compressed.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268297521/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20-%20%D0%9A%D1%80%D0%B0%D0%BD%2C%D0%98%D0%9A%D0%A6%20%D0%9E%D0%9F%D0%9E_compressed.pdf",{"href":"https://m-ets.ru/download/268297521/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20-%20%D0%9A%D1%80%D0%B0%D0%BD%2C%D0%98%D0%9A%D0%A6%20%D0%9E%D0%9F%D0%9E_compressed.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет - Кран,ИКЦ ОПО_compressed.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268301643/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20-%20%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9%20%20%D0%B8%20%D1%82%D0%B4%20compressed.pdf",{"href":"https://m-ets.ru/download/268301643/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20-%20%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9%20%20%D0%B8%20%D1%82%D0%B4%20compressed.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет - Автомобилей и тд compressed.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268297288/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268297288/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268297290/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE.docx",{"href":"https://m-ets.ru/download/268297290/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","договор купли-продажи авто.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268297292/gf_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%20%D0%9E%D0%9E%D0%9E%20%D0%98%D0%9A%D0%A6%20%D0%9E%D0%9F%D0%9E%20(1).pdf",{"href":"https://m-ets.ru/download/268297292/gf_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%20%D0%9E%D0%9E%D0%9E%20%D0%98%D0%9A%D0%A6%20%D0%9E%D0%9F%D0%9E%20(1).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","gf_ответ ООО ИКЦ ОПО (1).pdf"]}],"$L19"]}],"$L1a","$L1b"]}]]}]
+1c:T225a,{
+  "id": "etp-mets:223448-3",
+  "sourceCode": "etp-mets",
+  "externalId": "223448-3",
+  "sourceUrl": "https://m-ets.ru/223448-3",
+  "title": "Ваз 2107, 2007 года, 54 лс",
+  "description": "Автомобиль легковой, ВАЗ 21074, гос. № У 136 СВ 86, 2007 г.в.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "published",
+  "statusRaw": "Объявленные торги",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "86",
+  "address": "Ханты-Мансийский АО",
+  "priceStart": "36900",
+  "priceMin": "25830.00",
+  "deposit": "3690.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-24T00:00:00+03:00",
+  "biddStartAt": "2026-09-07T00:00:00+03:00",
+  "biddEndAt": "2026-10-26T00:00:00+03:00",
+  "auctionAt": "2026-10-26T00:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А75-18243/2023",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЖЕНЕРНО-КОНСУЛЬТАЦИОННЫЙ ЦЕНТР ПО ОБЪЕКТАМ ПОВЫШЕННОЙ ОПАСНОСТИ\"",
+      "inn": "8608046910",
+      "ogrn": "1028601443958"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Исмагилов Олег Герардович",
+      "inn": "745009190984",
+      "sro": "Союз АУ «Созидание»"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Исмагилов Олег Герардович",
+      "inn": "745009190984",
+      "email": "olegismagilov@mail.ru",
+      "phone": "+7 (912) 893 97 61"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "МЕЖРАЙОННАЯ ИФНС РОССИИ № 11 ПО ХАНТЫ-МАНСИЙСКОМУ АВТОНОМНОМУ ОКРУГУ - ЮГРЕ",
+      "inn": "8617011328"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-09-07T00:00:00+03:00",
+      "endAt": "2026-09-14T00:00:00+03:00",
+      "price": "36900.00",
+      "deposit": "3690.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-14T00:00:00+03:00",
+      "endAt": "2026-09-21T00:00:00+03:00",
+      "price": "35055.00",
+      "deposit": "3505.50"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-21T00:00:00+03:00",
+      "endAt": "2026-09-28T00:00:00+03:00",
+      "price": "33210.00",
+      "deposit": "3321.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-28T00:00:00+03:00",
+      "endAt": "2026-10-05T00:00:00+03:00",
+      "price": "31365.00",
+      "deposit": "3136.50"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-10-05T00:00:00+03:00",
+      "endAt": "2026-10-12T00:00:00+03:00",
+      "price": "29520.00",
+      "deposit": "2952.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-10-12T00:00:00+03:00",
+      "endAt": "2026-10-19T00:00:00+03:00",
+      "price": "27675.00",
+      "deposit": "2767.50"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-19T00:00:00+03:00",
+      "endAt": "2026-10-26T00:00:00+03:00",
+      "price": "25830.00",
+      "deposit": "2583.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268296868/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20-%20%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9%20%20%D0%B8%20%D1%82%D0%B4%20compressed.pdf",
+      "name": "Отчет - Автомобилей и тд compressed.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268297521/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20-%20%D0%9A%D1%80%D0%B0%D0%BD%2C%D0%98%D0%9A%D0%A6%20%D0%9E%D0%9F%D0%9E_compressed.pdf",
+      "name": "Отчет - Кран,ИКЦ ОПО_compressed.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268301643/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20-%20%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9%20%20%D0%B8%20%D1%82%D0%B4%20compressed.pdf",
+      "name": "Отчет - Автомобилей и тд compressed.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268297288/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268297290/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE.docx",
+      "name": "договор купли-продажи авто.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268297292/gf_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%20%D0%9E%D0%9E%D0%9E%20%D0%98%D0%9A%D0%A6%20%D0%9E%D0%9F%D0%9E%20(1).pdf",
+      "name": "gf_ответ ООО ИКЦ ОПО (1).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268297294/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20(%D0%BF%D1%83%D0%B1%D0%BB.)%20(2).pdf",
+      "name": "Положение о торгах (публ.) (2).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268297519/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(6).docx",
+      "name": "договор купли-продажи крана (6).docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Lada (ВАЗ)",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "2107",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2007",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "54",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Задний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23900605",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд ХМАО - Югры",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "04.03.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление, осмотр осуществляется в рабочие дни по предварительной договоренности по тел. 89128939761, или по адресу г. Челябинск пр. Свердловский 10 оф. 7. Для оперативного реагирования направляйте вопросы по адресу электронной почты olegismagilov@mail.ru. Фотографии имущества на момент оценки приложены в отчете об оценке. Осмотр в рабочие дни предварительно созвонившись по телефону с представителем в г. Когалым +7(904) 477-70-23.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:53:37.544Z",
+  "lastSeenAt": "2026-08-31T17:53:37.544Z",
+  "contentHash": "0589e0b1e6b07ab0efd877eb82e21426d330d8faf7c2e80dc8be085558948aad"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1c"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"36 900 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["36 900 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[7,", до ","25 830 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"3 690 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"23 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"7 сент. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"26 окт. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"50 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"26 окт. 2026 г., 00:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Ханты-Мансийский АО"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/223448-3","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+19:["$","span",null,{"className":"size","children":"$undefined"}]
+1a:["$","a","https://m-ets.ru/download/268297294/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20(%D0%BF%D1%83%D0%B1%D0%BB.)%20(2).pdf",{"href":"https://m-ets.ru/download/268297294/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20(%D0%BF%D1%83%D0%B1%D0%BB.)%20(2).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о торгах (публ.) (2).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1b:["$","a","https://m-ets.ru/download/268297519/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(6).docx",{"href":"https://m-ets.ru/download/268297519/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(6).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","договор купли-продажи крана (6).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Ваз 2107, 2007 года, 54 лс — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

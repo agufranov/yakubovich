@@ -1,0 +1,271 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230427-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230427-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230427-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"Volkswagen Jetta, 2013 года, 105 лс, 418 045 км, АКПП"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268863031/268863031_thumb_0.jpg","alt":"Volkswagen Jetta, 2013 года, 105 лс, 418 045 км, АКПП"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268863036/268863036_thumb_0.jpg",{"href":"https://m-ets.ru/download/268863036/268863036_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268863036/268863036_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268863038/268863038_thumb_0.jpg",{"href":"https://m-ets.ru/download/268863038/268863038_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268863038/268863038_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268863037/268863037_thumb_0.jpg",{"href":"https://m-ets.ru/download/268863037/268863037_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268863037/268863037_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268863034/268863034_thumb_0.jpg",{"href":"https://m-ets.ru/download/268863034/268863034_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268863034/268863034_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268863033/268863033_thumb_0.jpg",{"href":"https://m-ets.ru/download/268863033/268863033_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268863033/268863033_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268863040/268863040_thumb_0.jpg",{"href":"https://m-ets.ru/download/268863040/268863040_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268863040/268863040_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268863032/268863032_thumb_0.jpg",{"href":"https://m-ets.ru/download/268863032/268863032_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268863032/268863032_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268863039/268863039_thumb_0.jpg",{"href":"https://m-ets.ru/download/268863039/268863039_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268863039/268863039_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль, Фольксваген Джетта, год изготовления: 2013 г.в., VIN: XW8ZZZ16ZDN004226, г/н: Х610АЕ163, вид собственности: личная. При осмотре транспортного средства было выявлено следующее: эксплуатационные истирания обивки, трещина на стекле, механическая деформация (замятие) коробов левого и правого порогов, царапина, трещины, дефект лакокрасочного покрытия."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]}]]}],"$L20","$L21","$L22","$L23",false,"$L24"]}],"$L25"]}]]}]
+11:["$","td",null,{"children":"Марка"}]
+12:["$","td",null,{"children":["Volkswagen",""]}]
+13:["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Jetta",""]}]]}]
+14:["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2013",""]}]]}]
+15:["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["418 045"," км"]}]]}]
+16:["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["105"," л.с."]}]]}]
+17:["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}]
+18:["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}]
+19:["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Автоматическая",""]}]]}]
+1a:["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XW8ZZZ16ZDN004226",""]}]]}]
+1b:["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24365386",""]}]]}]
+1c:["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Москвы",""]}]]}]
+1d:["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["22.09.2025",""]}]]}]
+1e:["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}]
+1f:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с документами об имуществе, договором о задатке, купли-продажи - на сайте www.m-ets.ru или у организатора торгов. Ознакомление с лотом – по месту нахождения имущества: Москва, Щербинка ул. Южная, дом 2. Телефон предварительной записи для ознакомления с имуществом: 89150672679.",""]}]]}]
+20:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["28 авг. 2026 г., 10:00 (МСК)"," —"," ","2 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"441 000 ₽"}],["$","td",null,{"children":"44 100 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 10:00 (МСК)"," —"," ","7 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"396 900 ₽"}],["$","td",null,{"children":"39 690 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 10:00 (МСК)"," —"," ","10 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"352 800 ₽"}],["$","td",null,{"children":"35 280 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 10:00 (МСК)"," —"," ","15 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"308 700 ₽"}],["$","td",null,{"children":"30 870 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["15 сент. 2026 г., 10:00 (МСК)"," —"," ","18 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"264 600 ₽"}],["$","td",null,{"children":"26 460 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["18 сент. 2026 г., 10:00 (МСК)"," —"," ","23 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"220 500 ₽"}],["$","td",null,{"children":"22 050 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["23 сент. 2026 г., 10:00 (МСК)"," —"," ","28 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"176 400 ₽"}],["$","td",null,{"children":"17 640 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["28 сент. 2026 г., 10:00 (МСК)"," —"," ","1 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"132 300 ₽"}],["$","td",null,{"children":"13 230 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["1 окт. 2026 г., 10:00 (МСК)"," —"," ","6 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"88 200 ₽"}],["$","td",null,{"children":"8 820 ₽"}]]}]]}]]}]]}]
+21:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Гуров Игорь Владимирович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=131502536208","children":"Гуров Игорь Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","131502536208"]}],"$undefined"]}]]}],["$","tr","manager:Кулешина Мария Евгеньевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=262306457514","children":"Кулешина Мария Евгеньевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","262306457514"]}],["$","span",null,{"className":"muted","children":[" · ","МСО ПАУ"]}]]}]]}],["$","tr","organizer:Кулешина Мария Евгеньевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=262306457514","children":"Кулешина Мария Евгеньевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","262306457514"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-207389%2F2025","children":"А40-207389/2025"}]}]]}]]}]}]]}]
+22:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва"}]]}]
+23:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268863041/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%93%D1%83%D1%80%D0%BE%D0%B2%20%D0%98.%D0%92..docx",{"href":"https://m-ets.ru/download/268863041/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%93%D1%83%D1%80%D0%BE%D0%B2%20%D0%98.%D0%92..docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи Гуров И.В..docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268863961/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268863961/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+26:T2100,{
+  "id": "etp-mets:230427-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230427-1",
+  "sourceUrl": "https://m-ets.ru/230427-1",
+  "title": "Volkswagen Jetta, 2013 года, 105 лс, 418 045 км, АКПП",
+  "description": "Легковой автомобиль, Фольксваген Джетта, год изготовления: 2013 г.в., VIN: XW8ZZZ16ZDN004226, г/н: Х610АЕ163, вид собственности: личная. При осмотре транспортного средства было выявлено следующее: эксплуатационные истирания обивки, трещина на стекле, механическая деформация (замятие) коробов левого и правого порогов, царапина, трещины, дефект лакокрасочного покрытия.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "77",
+  "address": "г. Москва",
+  "priceStart": "441000",
+  "priceMin": "88200.00",
+  "deposit": "44100.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-27T00:00:00+03:00",
+  "biddStartAt": "2026-08-28T10:00:00+03:00",
+  "biddEndAt": "2026-10-06T10:00:00+03:00",
+  "auctionAt": "2026-10-06T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-207389/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Гуров Игорь Владимирович",
+      "inn": "131502536208",
+      "efrsbId": "e8f256a43cacedebed54e09f72315d6b"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Кулешина Мария Евгеньевна",
+      "inn": "262306457514",
+      "sro": "МСО ПАУ"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Кулешина Мария Евгеньевна",
+      "inn": "262306457514",
+      "email": "prof.team@mail.ru",
+      "phone": "+7 (928) 315 83 00"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-28T10:00:00+03:00",
+      "endAt": "2026-09-02T10:00:00+03:00",
+      "price": "441000.00",
+      "deposit": "44100.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-02T10:00:00+03:00",
+      "endAt": "2026-09-07T10:00:00+03:00",
+      "price": "396900.00",
+      "deposit": "39690.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-07T10:00:00+03:00",
+      "endAt": "2026-09-10T10:00:00+03:00",
+      "price": "352800.00",
+      "deposit": "35280.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-10T10:00:00+03:00",
+      "endAt": "2026-09-15T10:00:00+03:00",
+      "price": "308700.00",
+      "deposit": "30870.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-15T10:00:00+03:00",
+      "endAt": "2026-09-18T10:00:00+03:00",
+      "price": "264600.00",
+      "deposit": "26460.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-18T10:00:00+03:00",
+      "endAt": "2026-09-23T10:00:00+03:00",
+      "price": "220500.00",
+      "deposit": "22050.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-23T10:00:00+03:00",
+      "endAt": "2026-09-28T10:00:00+03:00",
+      "price": "176400.00",
+      "deposit": "17640.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-28T10:00:00+03:00",
+      "endAt": "2026-10-01T10:00:00+03:00",
+      "price": "132300.00",
+      "deposit": "13230.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-01T10:00:00+03:00",
+      "endAt": "2026-10-06T10:00:00+03:00",
+      "price": "88200.00",
+      "deposit": "8820.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268863031/268863031_thumb_0.jpg",
+    "https://m-ets.ru/download/268863036/268863036_thumb_0.jpg",
+    "https://m-ets.ru/download/268863038/268863038_thumb_0.jpg",
+    "https://m-ets.ru/download/268863037/268863037_thumb_0.jpg",
+    "https://m-ets.ru/download/268863034/268863034_thumb_0.jpg",
+    "https://m-ets.ru/download/268863033/268863033_thumb_0.jpg",
+    "https://m-ets.ru/download/268863040/268863040_thumb_0.jpg",
+    "https://m-ets.ru/download/268863032/268863032_thumb_0.jpg",
+    "https://m-ets.ru/download/268863039/268863039_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268863041/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%93%D1%83%D1%80%D0%BE%D0%B2%20%D0%98.%D0%92..docx",
+      "name": "Проект договора купли-продажи Гуров И.В..docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268863961/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Volkswagen",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Jetta",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2013",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "418 045",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "105",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Автоматическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XW8ZZZ16ZDN004226",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24365386",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "22.09.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с документами об имуществе, договором о задатке, купли-продажи - на сайте www.m-ets.ru или у организатора торгов. Ознакомление с лотом – по месту нахождения имущества: Москва, Щербинка ул. Южная, дом 2. Телефон предварительной записи для ознакомления с имуществом: 89150672679.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:45:55.201Z",
+  "lastSeenAt": "2026-08-31T18:45:55.201Z",
+  "contentHash": "02d3ee4c0a6e9482869aca92d12a89313db111edd5f6dd01b861c8491a53dc83"
+}24:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$26"}]]}]
+25:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"396 900 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["352 800 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[7,", до ","88 200 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"441 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"44 100 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"26 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"28 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"6 окт. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"30 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"6 окт. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230427-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Volkswagen Jetta, 2013 года, 105 лс, 418 045 км, АКПП — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

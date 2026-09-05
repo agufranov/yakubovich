@@ -1,0 +1,63 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230788-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230788-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230788-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:T59d,{
+  "id": "etp-mets:230788-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230788-1",
+  "sourceUrl": "https://m-ets.ru/230788-1",
+  "title": "Два смежных нежилых помещения в Краснодаре 469,1 кв.м.",
+  "legalBasis": "other",
+  "legalBasisRaw": "Коммерческие торги",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Аукцион на повышение «Своя цена»",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "37",
+  "categoryName": "Нежилое помещение",
+  "regionCode": "23",
+  "address": "Краснодарский край",
+  "priceStart": "39000000",
+  "deposit": "1950000",
+  "currency": "RUB",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "parties": [],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268888897/268888897_thumb_0.jpg",
+    "https://m-ets.ru/download/268888896/268888896_thumb_0.jpg",
+    "https://m-ets.ru/download/268888899/268888899_thumb_0.jpg",
+    "https://m-ets.ru/download/268888898/268888898_thumb_0.jpg",
+    "https://m-ets.ru/download/268888895/268888895_thumb_0.jpg"
+  ],
+  "attachments": [],
+  "attributes": [],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:27:19.132Z",
+  "lastSeenAt": "2026-08-31T19:27:19.132Z",
+  "contentHash": "16bd4deb3a6f755807d002bed95a41801a5caf956d494e77dd3d80d48a4e0c97"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Два смежных нежилых помещения в Краснодаре 469,1 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Прочие торги"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилое помещение"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268888897/268888897_thumb_0.jpg","alt":"Два смежных нежилых помещения в Краснодаре 469,1 кв.м."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268888896/268888896_thumb_0.jpg",{"href":"https://m-ets.ru/download/268888896/268888896_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268888896/268888896_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268888899/268888899_thumb_0.jpg",{"href":"https://m-ets.ru/download/268888899/268888899_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268888899/268888899_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268888898/268888898_thumb_0.jpg",{"href":"https://m-ets.ru/download/268888898/268888898_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268888898/268888898_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268888895/268888895_thumb_0.jpg",{"href":"https://m-ets.ru/download/268888895/268888895_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268888895/268888895_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],"$undefined",false,"$undefined",false,["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Краснодарский край"}]]}],false,false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":["$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19"]}]}]]}]]}]
+12:["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"39 000 000 ₽"]}]
+13:["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"1 950 000 ₽"}]]]}]
+14:["$","hr",null,{"className":"divider"}]
+15:["$","dl",null,{"className":"kv","children":["$undefined","$undefined","$undefined",false,"$undefined"]}]
+16:["$","hr",null,{"className":"divider"}]
+17:["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}]
+18:["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230788-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}]
+19:["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Два смежных нежилых помещения в Краснодаре 469,1 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

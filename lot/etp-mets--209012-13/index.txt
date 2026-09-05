@@ -1,0 +1,425 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--209012-13",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--209012-13","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--209012-13","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=receivable","children":"Права требования"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"Права требования к Головинский Сергей Вячеславович на сумму 88 500,00 руб."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Задолженность физ. лиц"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Права требования к Головинский Сергей Вячеславович (ИНН 740419790023) на сумму 88 500,00 р"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["22808349",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд г. Москвы",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["18.03.2021",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Информация отсутствует",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["По вопросам ознакомления с имуществом должника, описанием, составом и характеристиками продаваемого имущества, а также иной дополнительной информацией обращаться по тел.: +7(985)271-67-75, а также по электронной почте: d.fominyx@bk.ru.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["18 мая 2026 г., 09:01 (МСК)"," —"," ","25 мая 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"39 825 ₽"}],["$","td",null,{"children":"3 982,50 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["25 мая 2026 г., 09:01 (МСК)"," —"," ","1 июн. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"37 833,75 ₽"}],["$","td",null,{"children":"3 783,38 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["1 июн. 2026 г., 09:01 (МСК)"," —"," ","8 июн. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"35 842,50 ₽"}],["$","td",null,{"children":"3 584,25 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["8 июн. 2026 г., 09:01 (МСК)"," —"," ","16 июн. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"33 851,25 ₽"}],["$","td",null,{"children":"3 385,13 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["16 июн. 2026 г., 09:01 (МСК)"," —"," ","23 июн. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"31 860 ₽"}],["$","td",null,{"children":"3 186 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["23 июн. 2026 г., 09:01 (МСК)"," —"," ","30 июн. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"29 868,75 ₽"}],["$","td",null,{"children":"2 986,88 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["30 июн. 2026 г., 09:01 (МСК)"," —"," ","7 июл. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"27 877,50 ₽"}],["$","td",null,{"children":"2 787,75 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["7 июл. 2026 г., 09:01 (МСК)"," —"," ","14 июл. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"25 886,25 ₽"}],["$","td",null,{"children":"2 588,63 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["14 июл. 2026 г., 09:01 (МСК)"," —"," ","21 июл. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"23 895 ₽"}],["$","td",null,{"children":"2 389,50 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["21 июл. 2026 г., 09:01 (МСК)"," —"," ","28 июл. 2026 г., 09:01 (МСК)"]}],"$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]]}]]}],"$L1c","$L1d","$L1e",false,"$L1f"]}],"$L20"]}]]}]
+11:["$","td",null,{"children":"21 903,75 ₽"}]
+12:["$","td",null,{"children":"2 190,38 ₽"}]
+13:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["28 июл. 2026 г., 09:01 (МСК)"," —"," ","4 авг. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"19 912,50 ₽"}],["$","td",null,{"children":"1 991,25 ₽"}]]}]
+14:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["4 авг. 2026 г., 09:01 (МСК)"," —"," ","11 авг. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"17 921,25 ₽"}],["$","td",null,{"children":"1 792,13 ₽"}]]}]
+15:["$","tr","13",{"className":"","children":[["$","td",null,{"children":["11 авг. 2026 г., 09:01 (МСК)"," —"," ","18 авг. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"15 930 ₽"}],["$","td",null,{"children":"1 593 ₽"}]]}]
+16:["$","tr","14",{"className":"","children":[["$","td",null,{"children":["18 авг. 2026 г., 09:01 (МСК)"," —"," ","25 авг. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"13 938,75 ₽"}],["$","td",null,{"children":"1 393,88 ₽"}]]}]
+17:["$","tr","15",{"className":"","children":[["$","td",null,{"children":["25 авг. 2026 г., 09:01 (МСК)"," —"," ","1 сент. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"11 947,50 ₽"}],["$","td",null,{"children":"1 194,75 ₽"}]]}]
+18:["$","tr","16",{"className":"now","children":[["$","td",null,{"children":["1 сент. 2026 г., 09:01 (МСК)"," —"," ","8 сент. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"9 956,25 ₽"}],["$","td",null,{"children":"995,63 ₽"}]]}]
+19:["$","tr","17",{"className":"","children":[["$","td",null,{"children":["8 сент. 2026 г., 09:01 (МСК)"," —"," ","15 сент. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"7 965 ₽"}],["$","td",null,{"children":"796,50 ₽"}]]}]
+1a:["$","tr","18",{"className":"","children":[["$","td",null,{"children":["15 сент. 2026 г., 09:01 (МСК)"," —"," ","22 сент. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"5 973,75 ₽"}],["$","td",null,{"children":"597,38 ₽"}]]}]
+1b:["$","tr","19",{"className":"","children":[["$","td",null,{"children":["22 сент. 2026 г., 09:01 (МСК)"," —"," ","29 сент. 2026 г., 09:01 (МСК)"]}],["$","td",null,{"children":"3 982,50 ₽"}],["$","td",null,{"children":"398,25 ₽"}]]}]
+1c:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АТ-СТРОЙГРУПП\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=9701053448","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АТ-СТРОЙГРУПП\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","9701053448"]}],"$undefined"]}]]}],["$","tr","manager:Фоминых Диана Евгеньевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=503017201314","children":"Фоминых Диана Евгеньевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","503017201314"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСОПАУ"]}]]}]]}],["$","tr","organizer:Фоминых Диана Евгеньевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=503017201314","children":"Фоминых Диана Евгеньевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","503017201314"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-235814%2F20","children":"А40-235814/20"}]}]]}]]}]}]]}]
+1d:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва"}]]}]
+1e:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",33,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268390711/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",{"href":"https://m-ets.ru/download/268390711/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 3.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268390713/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",{"href":"https://m-ets.ru/download/268390713/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 3.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268390758/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207.pdf",{"href":"https://m-ets.ru/download/268390758/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 7.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268390760/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207.pdf",{"href":"https://m-ets.ru/download/268390760/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207.pdf","target":"_blank","rel":"noopener","children":["$L21","$L22"]}],"$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f"]}]]}]
+40:T5f64,{
+  "id": "etp-mets:209012-13",
+  "sourceCode": "etp-mets",
+  "externalId": "209012-13",
+  "sourceUrl": "https://m-ets.ru/209012-13",
+  "title": "Права требования к Головинский Сергей Вячеславович на сумму 88 500,00 руб.",
+  "description": "Права требования к Головинский Сергей Вячеславович (ИНН 740419790023) на сумму 88 500,00 р",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "receivable",
+  "categoryCode": "24",
+  "categoryName": "Задолженность физ. лиц",
+  "regionCode": "77",
+  "address": "г. Москва",
+  "priceStart": "39825",
+  "priceMin": "3982.50",
+  "deposit": "3982.50",
+  "currency": "RUB",
+  "publishedAt": "2026-05-12T00:00:00+03:00",
+  "biddStartAt": "2026-05-18T09:01:00+03:00",
+  "biddEndAt": "2026-09-29T09:01:00+03:00",
+  "auctionAt": "2026-09-29T09:01:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-235814/20",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АТ-СТРОЙГРУПП\"",
+      "inn": "9701053448",
+      "ogrn": "5167746279817"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Фоминых Диана Евгеньевна",
+      "inn": "503017201314",
+      "sro": "Ассоциация МСОПАУ"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Фоминых Диана Евгеньевна",
+      "inn": "503017201314",
+      "email": "127fz2002@gmail.com",
+      "phone": "+7 (985) 271 67 75"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-05-18T09:01:00+03:00",
+      "endAt": "2026-05-25T09:01:00+03:00",
+      "price": "39825.00",
+      "deposit": "3982.50"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-05-25T09:01:00+03:00",
+      "endAt": "2026-06-01T09:01:00+03:00",
+      "price": "37833.75",
+      "deposit": "3783.38"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-06-01T09:01:00+03:00",
+      "endAt": "2026-06-08T09:01:00+03:00",
+      "price": "35842.50",
+      "deposit": "3584.25"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-06-08T09:01:00+03:00",
+      "endAt": "2026-06-16T09:01:00+03:00",
+      "price": "33851.25",
+      "deposit": "3385.13"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-06-16T09:01:00+03:00",
+      "endAt": "2026-06-23T09:01:00+03:00",
+      "price": "31860.00",
+      "deposit": "3186.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-06-23T09:01:00+03:00",
+      "endAt": "2026-06-30T09:01:00+03:00",
+      "price": "29868.75",
+      "deposit": "2986.88"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-06-30T09:01:00+03:00",
+      "endAt": "2026-07-07T09:01:00+03:00",
+      "price": "27877.50",
+      "deposit": "2787.75"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-07-07T09:01:00+03:00",
+      "endAt": "2026-07-14T09:01:00+03:00",
+      "price": "25886.25",
+      "deposit": "2588.63"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-07-14T09:01:00+03:00",
+      "endAt": "2026-07-21T09:01:00+03:00",
+      "price": "23895.00",
+      "deposit": "2389.50"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-07-21T09:01:00+03:00",
+      "endAt": "2026-07-28T09:01:00+03:00",
+      "price": "21903.75",
+      "deposit": "2190.38"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-07-28T09:01:00+03:00",
+      "endAt": "2026-08-04T09:01:00+03:00",
+      "price": "19912.50",
+      "deposit": "1991.25"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-08-04T09:01:00+03:00",
+      "endAt": "2026-08-11T09:01:00+03:00",
+      "price": "17921.25",
+      "deposit": "1792.13"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-08-11T09:01:00+03:00",
+      "endAt": "2026-08-18T09:01:00+03:00",
+      "price": "15930.00",
+      "deposit": "1593.00"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-08-18T09:01:00+03:00",
+      "endAt": "2026-08-25T09:01:00+03:00",
+      "price": "13938.75",
+      "deposit": "1393.88"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-08-25T09:01:00+03:00",
+      "endAt": "2026-09-01T09:01:00+03:00",
+      "price": "11947.50",
+      "deposit": "1194.75"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-09-01T09:01:00+03:00",
+      "endAt": "2026-09-08T09:01:00+03:00",
+      "price": "9956.25",
+      "deposit": "995.63"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-09-08T09:01:00+03:00",
+      "endAt": "2026-09-15T09:01:00+03:00",
+      "price": "7965.00",
+      "deposit": "796.50"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-09-15T09:01:00+03:00",
+      "endAt": "2026-09-22T09:01:00+03:00",
+      "price": "5973.75",
+      "deposit": "597.38"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-09-22T09:01:00+03:00",
+      "endAt": "2026-09-29T09:01:00+03:00",
+      "price": "3982.50",
+      "deposit": "398.25"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268390711/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 3.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268390713/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 3.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268390758/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 7.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268390760/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 7.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268021049/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%209.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 9.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268021051/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%209.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 9.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267615158/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2010.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 10.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267615160/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2010.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 10.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268390790/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2014%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2021.07.2026%2009%3A01%3A00%20%D0%BF%D0%BE%2028.07.2026%2009%3A01%3A00%20.docx",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 14 за период c 21.07.2026 09:01:00 по 28.07.2026 09:01:00 .docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268762503/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2016.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 16.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268762505/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2016.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 16.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268390816/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2020.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 20.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268390818/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2020.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 20.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268020999/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2024.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 24.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268021001/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2024.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 24.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268762494/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2026.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 26.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268762496/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2026.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 26.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268390833/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2028.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 28.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268390835/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2028.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 28.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267339942/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2035.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 35.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267339944/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2035.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 35.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268021095/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2036.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 36.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268021097/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2036.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 36.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268390892/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2045.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 45.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268390894/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2045.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 45.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268390946/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2046.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 46.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268390948/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2046.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 46.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268390908/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2048.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 48.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268390910/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2048.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 48.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268762514/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2050.pdf",
+      "name": "Протокол определения участников торгов 209012-МЭТС по лоту 50.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268762516/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2050.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 50.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267104648/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D0%BF%20(38).doc",
+      "name": "договор кп (38).doc"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267139278/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "22808349",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд г. Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "18.03.2021",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Информация отсутствует",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "По вопросам ознакомления с имуществом должника, описанием, составом и характеристиками продаваемого имущества, а также иной дополнительной информацией обращаться по тел.: +7(985)271-67-75, а также по электронной почте: d.fominyx@bk.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:29:23.150Z",
+  "lastSeenAt": "2026-08-31T19:29:23.150Z",
+  "contentHash": "f077901475f46aa861be4ab463eebcef36b63dcba0c9bc3c6a1efc49c3bdf52b"
+}1f:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$40"}]]}]
+20:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"9 956,25 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["7 965 ₽",["$","span",null,{"className":"muted","children":[" ","· ","8 сент. 2026 г., 09:01 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[3,", до ","3 982,50 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"39 825 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"3 982,50 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"11 мая 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"18 мая 2026 г., 09:01 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"29 сент. 2026 г., 09:01 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"23 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 09:01 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/209012-13","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+21:["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 7.pdf"]}]
+22:["$","span",null,{"className":"size","children":"$undefined"}]
+23:["$","a","https://m-ets.ru/download/268021049/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%209.pdf",{"href":"https://m-ets.ru/download/268021049/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%209.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 9.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+24:["$","a","https://m-ets.ru/download/268021051/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%209.pdf",{"href":"https://m-ets.ru/download/268021051/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%209.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 9.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+25:["$","a","https://m-ets.ru/download/267615158/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2010.pdf",{"href":"https://m-ets.ru/download/267615158/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2010.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 10.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+26:["$","a","https://m-ets.ru/download/267615160/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2010.pdf",{"href":"https://m-ets.ru/download/267615160/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2010.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 10.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+27:["$","a","https://m-ets.ru/download/268390790/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2014%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2021.07.2026%2009%3A01%3A00%20%D0%BF%D0%BE%2028.07.2026%2009%3A01%3A00%20.docx",{"href":"https://m-ets.ru/download/268390790/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2014%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2021.07.2026%2009%3A01%3A00%20%D0%BF%D0%BE%2028.07.2026%2009%3A01%3A00%20.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 14 за период c 21.07.2026 09:01:00 по 28.07.2026 09:01:00 .docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+28:["$","a","https://m-ets.ru/download/268762503/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2016.pdf",{"href":"https://m-ets.ru/download/268762503/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2016.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 16.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+29:["$","a","https://m-ets.ru/download/268762505/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2016.pdf",{"href":"https://m-ets.ru/download/268762505/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2016.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 16.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2a:["$","a","https://m-ets.ru/download/268390816/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2020.pdf",{"href":"https://m-ets.ru/download/268390816/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2020.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 20.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2b:["$","a","https://m-ets.ru/download/268390818/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2020.pdf",{"href":"https://m-ets.ru/download/268390818/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2020.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 20.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2c:["$","a","https://m-ets.ru/download/268020999/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2024.pdf",{"href":"https://m-ets.ru/download/268020999/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2024.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 24.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2d:["$","a","https://m-ets.ru/download/268021001/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2024.pdf",{"href":"https://m-ets.ru/download/268021001/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2024.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 24.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2e:["$","a","https://m-ets.ru/download/268762494/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2026.pdf",{"href":"https://m-ets.ru/download/268762494/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 26.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2f:["$","a","https://m-ets.ru/download/268762496/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2026.pdf",{"href":"https://m-ets.ru/download/268762496/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 26.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+30:["$","a","https://m-ets.ru/download/268390833/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2028.pdf",{"href":"https://m-ets.ru/download/268390833/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2028.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 28.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+31:["$","a","https://m-ets.ru/download/268390835/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2028.pdf",{"href":"https://m-ets.ru/download/268390835/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2028.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 28.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+32:["$","a","https://m-ets.ru/download/267339942/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2035.pdf",{"href":"https://m-ets.ru/download/267339942/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2035.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 35.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+33:["$","a","https://m-ets.ru/download/267339944/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2035.pdf",{"href":"https://m-ets.ru/download/267339944/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2035.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 35.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+34:["$","a","https://m-ets.ru/download/268021095/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2036.pdf",{"href":"https://m-ets.ru/download/268021095/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2036.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 36.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+35:["$","a","https://m-ets.ru/download/268021097/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2036.pdf",{"href":"https://m-ets.ru/download/268021097/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2036.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 36.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+36:["$","a","https://m-ets.ru/download/268390892/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2045.pdf",{"href":"https://m-ets.ru/download/268390892/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2045.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 45.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+37:["$","a","https://m-ets.ru/download/268390894/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2045.pdf",{"href":"https://m-ets.ru/download/268390894/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2045.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 45.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+38:["$","a","https://m-ets.ru/download/268390946/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2046.pdf",{"href":"https://m-ets.ru/download/268390946/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2046.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 46.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+39:["$","a","https://m-ets.ru/download/268390948/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2046.pdf",{"href":"https://m-ets.ru/download/268390948/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2046.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 46.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+3a:["$","a","https://m-ets.ru/download/268390908/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2048.pdf",{"href":"https://m-ets.ru/download/268390908/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2048.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 48.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+3b:["$","a","https://m-ets.ru/download/268390910/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2048.pdf",{"href":"https://m-ets.ru/download/268390910/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2048.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 48.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+3c:["$","a","https://m-ets.ru/download/268762514/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2050.pdf",{"href":"https://m-ets.ru/download/268762514/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2050.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 209012-МЭТС по лоту 50.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+3d:["$","a","https://m-ets.ru/download/268762516/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2050.pdf",{"href":"https://m-ets.ru/download/268762516/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20209012-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2050.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 209012-МЭТС по лоту 50.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+3e:["$","a","https://m-ets.ru/download/267104648/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D0%BF%20(38).doc",{"href":"https://m-ets.ru/download/267104648/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D0%BF%20(38).doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","договор кп (38).doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+3f:["$","a","https://m-ets.ru/download/267139278/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/267139278/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Права требования к Головинский Сергей Вячеславович на сумму 88 500,00 руб. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

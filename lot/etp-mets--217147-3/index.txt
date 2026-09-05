@@ -1,0 +1,293 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--217147-3",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--217147-3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--217147-3","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=74","children":"Челябинская обл."}]]]}],["$","h1",null,{"children":"Медицинские изделия"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Товарно-материальные ценности"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Светильник медицинский ADMECO Lux LED 5SL+C/3 SL-D MU, 2017 г.в., срок годности неизвестен"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23455476",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Челябинской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["01.09.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с конкурсной документацией, Положением о торгах, - по предварительной записи по телефону: +79514535780 в течение срока приема заявок.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["24 июн. 2026 г., 00:00 (МСК)"," —"," ","29 июн. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"567 000 ₽"}],["$","td",null,{"children":"113 400 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["29 июн. 2026 г., 00:00 (МСК)"," —"," ","4 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"538 650 ₽"}],["$","td",null,{"children":"107 730 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["4 июл. 2026 г., 00:00 (МСК)"," —"," ","9 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"510 300 ₽"}],["$","td",null,{"children":"102 060 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["9 июл. 2026 г., 00:00 (МСК)"," —"," ","14 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"481 950 ₽"}],["$","td",null,{"children":"96 390 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["14 июл. 2026 г., 00:00 (МСК)"," —"," ","19 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"453 600 ₽"}],["$","td",null,{"children":"90 720 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["19 июл. 2026 г., 00:00 (МСК)"," —"," ","24 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"425 250 ₽"}],["$","td",null,{"children":"85 050 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["24 июл. 2026 г., 00:00 (МСК)"," —"," ","29 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"396 900 ₽"}],["$","td",null,{"children":"79 380 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["29 июл. 2026 г., 00:00 (МСК)"," —"," ","3 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"368 550 ₽"}],["$","td",null,{"children":"73 710 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 00:00 (МСК)"," —"," ","8 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"340 200 ₽"}],["$","td",null,{"children":"68 040 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["8 авг. 2026 г., 00:00 (МСК)"," —"," ","13 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"311 850 ₽"}],["$","td",null,{"children":"62 370 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["13 авг. 2026 г., 00:00 (МСК)"," —"," ","18 авг. 2026 г., 00:00 (МСК)"]}],"$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c"]}]]}]]}],"$L1d","$L1e","$L1f",false,"$L20"]}],"$L21"]}]]}]
+11:["$","td",null,{"children":"283 500 ₽"}]
+12:["$","td",null,{"children":"56 700 ₽"}]
+13:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["18 авг. 2026 г., 00:00 (МСК)"," —"," ","23 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"255 150 ₽"}],["$","td",null,{"children":"51 030 ₽"}]]}]
+14:["$","tr","13",{"className":"","children":[["$","td",null,{"children":["23 авг. 2026 г., 00:00 (МСК)"," —"," ","28 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"226 800 ₽"}],["$","td",null,{"children":"45 360 ₽"}]]}]
+15:["$","tr","14",{"className":"","children":[["$","td",null,{"children":["28 авг. 2026 г., 00:00 (МСК)"," —"," ","2 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"198 450 ₽"}],["$","td",null,{"children":"39 690 ₽"}]]}]
+16:["$","tr","15",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 00:00 (МСК)"," —"," ","7 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"170 100 ₽"}],["$","td",null,{"children":"34 020 ₽"}]]}]
+17:["$","tr","16",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 00:00 (МСК)"," —"," ","12 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"141 750 ₽"}],["$","td",null,{"children":"28 350 ₽"}]]}]
+18:["$","tr","17",{"className":"","children":[["$","td",null,{"children":["12 сент. 2026 г., 00:00 (МСК)"," —"," ","17 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"113 400 ₽"}],["$","td",null,{"children":"22 680 ₽"}]]}]
+19:["$","tr","18",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 00:00 (МСК)"," —"," ","22 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"85 050 ₽"}],["$","td",null,{"children":"17 010 ₽"}]]}]
+1a:["$","tr","19",{"className":"","children":[["$","td",null,{"children":["22 сент. 2026 г., 00:00 (МСК)"," —"," ","27 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"56 700 ₽"}],["$","td",null,{"children":"11 340 ₽"}]]}]
+1b:["$","tr","20",{"className":"","children":[["$","td",null,{"children":["27 сент. 2026 г., 00:00 (МСК)"," —"," ","2 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"28 350 ₽"}],["$","td",null,{"children":"5 670 ₽"}]]}]
+1c:["$","tr","21",{"className":"","children":[["$","td",null,{"children":["2 окт. 2026 г., 00:00 (МСК)"," —"," ","7 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"1 ₽"}],["$","td",null,{"children":"0,20 ₽"}]]}]
+1d:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МЕДЛАЙТ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7447236182","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МЕДЛАЙТ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7447236182"]}],"$undefined"]}]]}],["$","tr","manager:Протасова Ирина Александровна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=744705575465","children":"Протасова Ирина Александровна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","744705575465"]}],["$","span",null,{"className":"muted","children":[" · ","Союз АУ \"Возрождение\""]}]]}]]}],["$","tr","organizer:Протасова Ирина Александровна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=744705575465","children":"Протасова Ирина Александровна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","744705575465"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9076-18601%2F2024","children":"А76-18601/2024"}]}]]}]]}]}]]}]
+1e:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Челябинская область"}]]}]
+1f:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268297254/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217147-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268297254/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217147-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 217147-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268297256/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217147-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268297256/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217147-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 217147-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267812768/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx",{"href":"https://m-ets.ru/download/267812768/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДОГОВОР купли-продажи проект.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267812770/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B0.pdf",{"href":"https://m-ets.ru/download/267812770/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","договор задатка.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+22:T21f2,{
+  "id": "etp-mets:217147-3",
+  "sourceCode": "etp-mets",
+  "externalId": "217147-3",
+  "sourceUrl": "https://m-ets.ru/217147-3",
+  "title": "Медицинские изделия",
+  "description": "Светильник медицинский ADMECO Lux LED 5SL+C/3 SL-D MU, 2017 г.в., срок годности неизвестен",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "other",
+  "categoryCode": "27",
+  "categoryName": "Товарно-материальные ценности",
+  "regionCode": "74",
+  "address": "Челябинская область",
+  "priceStart": "567000",
+  "priceMin": "1.00",
+  "deposit": "113400.00",
+  "currency": "RUB",
+  "publishedAt": "2026-06-23T00:00:00+03:00",
+  "biddStartAt": "2026-06-24T00:00:00+03:00",
+  "biddEndAt": "2026-10-07T00:00:00+03:00",
+  "auctionAt": "2026-10-08T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А76-18601/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МЕДЛАЙТ\"",
+      "inn": "7447236182",
+      "ogrn": "1147447001261"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Протасова Ирина Александровна",
+      "inn": "744705575465",
+      "sro": "Союз АУ \"Возрождение\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Протасова Ирина Александровна",
+      "inn": "744705575465",
+      "email": "protasovairina_74@mail.ru",
+      "phone": "+7 (951) 453 57 80"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-06-24T00:00:00+03:00",
+      "endAt": "2026-06-29T00:00:00+03:00",
+      "price": "567000.00",
+      "deposit": "113400.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-06-29T00:00:00+03:00",
+      "endAt": "2026-07-04T00:00:00+03:00",
+      "price": "538650.00",
+      "deposit": "107730.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-07-04T00:00:00+03:00",
+      "endAt": "2026-07-09T00:00:00+03:00",
+      "price": "510300.00",
+      "deposit": "102060.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-07-09T00:00:00+03:00",
+      "endAt": "2026-07-14T00:00:00+03:00",
+      "price": "481950.00",
+      "deposit": "96390.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-07-14T00:00:00+03:00",
+      "endAt": "2026-07-19T00:00:00+03:00",
+      "price": "453600.00",
+      "deposit": "90720.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-07-19T00:00:00+03:00",
+      "endAt": "2026-07-24T00:00:00+03:00",
+      "price": "425250.00",
+      "deposit": "85050.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-07-24T00:00:00+03:00",
+      "endAt": "2026-07-29T00:00:00+03:00",
+      "price": "396900.00",
+      "deposit": "79380.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-07-29T00:00:00+03:00",
+      "endAt": "2026-08-03T00:00:00+03:00",
+      "price": "368550.00",
+      "deposit": "73710.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-08-03T00:00:00+03:00",
+      "endAt": "2026-08-08T00:00:00+03:00",
+      "price": "340200.00",
+      "deposit": "68040.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-08-08T00:00:00+03:00",
+      "endAt": "2026-08-13T00:00:00+03:00",
+      "price": "311850.00",
+      "deposit": "62370.00"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-08-13T00:00:00+03:00",
+      "endAt": "2026-08-18T00:00:00+03:00",
+      "price": "283500.00",
+      "deposit": "56700.00"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-08-18T00:00:00+03:00",
+      "endAt": "2026-08-23T00:00:00+03:00",
+      "price": "255150.00",
+      "deposit": "51030.00"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-08-23T00:00:00+03:00",
+      "endAt": "2026-08-28T00:00:00+03:00",
+      "price": "226800.00",
+      "deposit": "45360.00"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-08-28T00:00:00+03:00",
+      "endAt": "2026-09-02T00:00:00+03:00",
+      "price": "198450.00",
+      "deposit": "39690.00"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-09-02T00:00:00+03:00",
+      "endAt": "2026-09-07T00:00:00+03:00",
+      "price": "170100.00",
+      "deposit": "34020.00"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-09-07T00:00:00+03:00",
+      "endAt": "2026-09-12T00:00:00+03:00",
+      "price": "141750.00",
+      "deposit": "28350.00"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-09-12T00:00:00+03:00",
+      "endAt": "2026-09-17T00:00:00+03:00",
+      "price": "113400.00",
+      "deposit": "22680.00"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-09-17T00:00:00+03:00",
+      "endAt": "2026-09-22T00:00:00+03:00",
+      "price": "85050.00",
+      "deposit": "17010.00"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-09-22T00:00:00+03:00",
+      "endAt": "2026-09-27T00:00:00+03:00",
+      "price": "56700.00",
+      "deposit": "11340.00"
+    },
+    {
+      "no": 20,
+      "startAt": "2026-09-27T00:00:00+03:00",
+      "endAt": "2026-10-02T00:00:00+03:00",
+      "price": "28350.00",
+      "deposit": "5670.00"
+    },
+    {
+      "no": 21,
+      "startAt": "2026-10-02T00:00:00+03:00",
+      "endAt": "2026-10-07T00:00:00+03:00",
+      "price": "1.00",
+      "deposit": "0.20"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268297254/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217147-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Протокол определения участников торгов 217147-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268297256/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217147-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 217147-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267812768/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx",
+      "name": "ДОГОВОР купли-продажи проект.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267812770/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B0.pdf",
+      "name": "договор задатка.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23455476",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Челябинской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "01.09.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с конкурсной документацией, Положением о торгах, - по предварительной записи по телефону: +79514535780 в течение срока приема заявок.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:46:09.236Z",
+  "lastSeenAt": "2026-08-31T17:46:09.236Z",
+  "contentHash": "ae6e1c07cfc0ca2f94edece82084ecf6098695eb2f65a636b7b28125b0d62c73"
+}20:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$22"}]]}]
+21:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"170 100 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["141 750 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[6,", до ","1 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"567 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"113 400 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"22 июн. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"24 июн. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"7 окт. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"31 день"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"8 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Челябинская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/217147-3","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Медицинские изделия — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

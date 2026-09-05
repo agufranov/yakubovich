@@ -1,0 +1,233 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230826-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230826-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230826-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=54","children":"Новосибирская обл."}]]]}],["$","h1",null,{"children":"Дом 185,8 кв.м. и земельный участок 1442+/-13 кв.м. в Новосибирской обл."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Жилой дом "}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268890310/268890310_thumb_0.jpg","alt":"Дом 185,8 кв.м. и земельный участок 1442+/-13 кв.м. в Новосибирской обл."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268890311/268890311_thumb_0.jpg",{"href":"https://m-ets.ru/download/268890311/268890311_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268890311/268890311_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268890312/268890312_thumb_0.jpg",{"href":"https://m-ets.ru/download/268890312/268890312_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268890312/268890312_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268890313/268890313_thumb_0.jpg",{"href":"https://m-ets.ru/download/268890313/268890313_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268890313/268890313_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268890317/268890317_thumb_0.jpg",{"href":"https://m-ets.ru/download/268890317/268890317_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268890317/268890317_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268890316/268890316_thumb_0.jpg",{"href":"https://m-ets.ru/download/268890316/268890316_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268890316/268890316_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268890318/268890318_thumb_0.jpg",{"href":"https://m-ets.ru/download/268890318/268890318_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268890318/268890318_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268890319/268890319_thumb_0.jpg",{"href":"https://m-ets.ru/download/268890319/268890319_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268890319/268890319_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268890320/268890320_thumb_0.jpg",{"href":"https://m-ets.ru/download/268890320/268890320_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268890320/268890320_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268890321/268890321_thumb_0.jpg",{"href":"https://m-ets.ru/download/268890321/268890321_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268890321/268890321_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"жилой дом, общей площадью 185,8 кв. м., с кадастровым номером 54:11:040135:174 и земельный участок общей площадью 1442 +/- 13 кв. м., с кадастровым номером 54:11:040135:48 , с находящимися на нем хозяйственными постройками, адрес местонахождения Новосибирская область, Коченевский район, р.п. Коченево, ул. Пушкина, дом 13"}]]}],"$L11","$L12","$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24384421",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Новосибирской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["04.06.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Запрещение регистрации - Постановление о запрете на совершение действий по регистрации pdf)8806/21/54022-ИП, № 175892356/5422, выдан 13.07.2021, ОСП по Коченевскому району Новосибирской области, Запрещение регистрации Постановление судебного пристава-исполнителя СОСП по Новосибирской области Апчугова Валерия Анатольевна, № 1157491825/9854 (107585/26/98054-ИП), выдан 06.03.2026, СОСП по Новосибирской области Ипотека в силу закона Срок действия с 11.06.2014 по 10.06.203, Акционерное общество \"Российский Сельскохозяйственный банк\", ИНН: 7725114488",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление участников с документами по имуществу осуществляется с 31.08.2026г. по 19.10.2026г. с 06:00 до 13.00 (моск. вр.) в раб. дни. Необходимая информация предоставляется по запросу на эл.почту: vital.ziryanow@yandex.ru, тел. для организации ознакомления с имуществом: +7(923)2208196.",""]}]]}]]}]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["31 авг. 2026 г., 06:00 (МСК)"," —"," ","3 сент. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"6 814 800 ₽"}],["$","td",null,{"children":"681 480 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["3 сент. 2026 г., 06:00 (МСК)"," —"," ","8 сент. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"6 474 060 ₽"}],["$","td",null,{"children":"681 480 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["8 сент. 2026 г., 06:00 (МСК)"," —"," ","11 сент. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"6 133 320 ₽"}],["$","td",null,{"children":"681 480 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["11 сент. 2026 г., 06:00 (МСК)"," —"," ","16 сент. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"5 792 580 ₽"}],["$","td",null,{"children":"681 480 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["16 сент. 2026 г., 06:00 (МСК)"," —"," ","21 сент. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"5 451 840 ₽"}],["$","td",null,{"children":"681 480 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 06:00 (МСК)"," —"," ","24 сент. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"5 111 100 ₽"}],["$","td",null,{"children":"681 480 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["24 сент. 2026 г., 06:00 (МСК)"," —"," ","29 сент. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"4 770 360 ₽"}],["$","td",null,{"children":"681 480 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["29 сент. 2026 г., 06:00 (МСК)"," —"," ","2 окт. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"4 429 620 ₽"}],["$","td",null,{"children":"681 480 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["2 окт. 2026 г., 06:00 (МСК)"," —"," ","7 окт. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"4 088 880 ₽"}],["$","td",null,{"children":"681 480 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["7 окт. 2026 г., 06:00 (МСК)"," —"," ","12 окт. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"3 748 140 ₽"}],["$","td",null,{"children":"681 480 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["12 окт. 2026 г., 06:00 (МСК)"," —"," ","15 окт. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"3 407 400 ₽"}],["$","td",null,{"children":"681 480 ₽"}]]}],["$","tr","12",{"className":"","children":[["$","td",null,{"children":["15 окт. 2026 г., 06:00 (МСК)"," —"," ","20 окт. 2026 г., 06:00 (МСК)"]}],["$","td",null,{"children":"3 066 660 ₽"}],["$","td",null,{"children":"681 480 ₽"}]]}]]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Пономарева Татьяна Васильевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=542509303040","children":"Пономарева Татьяна Васильевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","542509303040"]}],"$undefined"]}]]}],["$","tr","manager:Зырянов Виталий Юрьевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=544511990509","children":"Зырянов Виталий Юрьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","544511990509"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСРО \"Содействие\""]}]]}]]}],["$","tr","organizer:Зырянов Виталий Юрьевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=544511990509","children":"Зырянов Виталий Юрьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","544511990509"]}],"$undefined"]}]]}],["$","tr","pledgee:АО \"РОССЕЛЬХОЗБАНК\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7725114488","children":"АО \"РОССЕЛЬХОЗБАНК\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7725114488"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9045-34450%2F2024%20%D0%92%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%9A.%D0%93.","children":"А45-34450/2024 Висковская К.Г."}]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Новосибирская область"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268890618/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B0.docx",{"href":"https://m-ets.ru/download/268890618/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке публичка.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268890620/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%D1%8E%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B0.docx",{"href":"https://m-ets.ru/download/268890620/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%D1%8E%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажию публичка.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268890622/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%9F%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%80%D0%B5%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268890622/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%9F%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%80%D0%B5%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о торгах Пономарева.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T2343,{
+  "id": "etp-mets:230826-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230826-1",
+  "sourceUrl": "https://m-ets.ru/230826-1",
+  "title": "Дом 185,8 кв.м. и земельный участок 1442+/-13 кв.м. в Новосибирской обл.",
+  "description": "жилой дом, общей площадью 185,8 кв. м., с кадастровым номером 54:11:040135:174 и земельный участок общей площадью 1442 +/- 13 кв. м., с кадастровым номером 54:11:040135:48 , с находящимися на нем хозяйственными постройками, адрес местонахождения Новосибирская область, Коченевский район, р.п. Коченево, ул. Пушкина, дом 13",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "34",
+  "categoryName": "Жилой дом ",
+  "regionCode": "54",
+  "address": "Новосибирская область",
+  "priceStart": "6814800",
+  "priceMin": "3066660.00",
+  "deposit": "681480.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-28T00:00:00+03:00",
+  "biddStartAt": "2026-08-31T06:00:00+03:00",
+  "biddEndAt": "2026-10-20T06:00:00+03:00",
+  "auctionAt": "2026-10-20T06:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А45-34450/2024 Висковская К.Г.",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Пономарева Татьяна Васильевна",
+      "inn": "542509303040",
+      "efrsbId": "22fecd6e735fe14b85f479b3d6eed893"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Зырянов Виталий Юрьевич",
+      "inn": "544511990509",
+      "sro": "Ассоциация МСРО \"Содействие\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Зырянов Виталий Юрьевич",
+      "inn": "544511990509",
+      "email": "vital.ziryanow@yandex.ru",
+      "phone": "+7 (923) 220 81 96"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "АО \"РОССЕЛЬХОЗБАНК\"",
+      "inn": "7725114488"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-31T06:00:00+03:00",
+      "endAt": "2026-09-03T06:00:00+03:00",
+      "price": "6814800.00",
+      "deposit": "681480.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-03T06:00:00+03:00",
+      "endAt": "2026-09-08T06:00:00+03:00",
+      "price": "6474060.00",
+      "deposit": "681480.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-08T06:00:00+03:00",
+      "endAt": "2026-09-11T06:00:00+03:00",
+      "price": "6133320.00",
+      "deposit": "681480.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-11T06:00:00+03:00",
+      "endAt": "2026-09-16T06:00:00+03:00",
+      "price": "5792580.00",
+      "deposit": "681480.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-16T06:00:00+03:00",
+      "endAt": "2026-09-21T06:00:00+03:00",
+      "price": "5451840.00",
+      "deposit": "681480.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-21T06:00:00+03:00",
+      "endAt": "2026-09-24T06:00:00+03:00",
+      "price": "5111100.00",
+      "deposit": "681480.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-24T06:00:00+03:00",
+      "endAt": "2026-09-29T06:00:00+03:00",
+      "price": "4770360.00",
+      "deposit": "681480.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-29T06:00:00+03:00",
+      "endAt": "2026-10-02T06:00:00+03:00",
+      "price": "4429620.00",
+      "deposit": "681480.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-02T06:00:00+03:00",
+      "endAt": "2026-10-07T06:00:00+03:00",
+      "price": "4088880.00",
+      "deposit": "681480.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-10-07T06:00:00+03:00",
+      "endAt": "2026-10-12T06:00:00+03:00",
+      "price": "3748140.00",
+      "deposit": "681480.00"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-10-12T06:00:00+03:00",
+      "endAt": "2026-10-15T06:00:00+03:00",
+      "price": "3407400.00",
+      "deposit": "681480.00"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-10-15T06:00:00+03:00",
+      "endAt": "2026-10-20T06:00:00+03:00",
+      "price": "3066660.00",
+      "deposit": "681480.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268890310/268890310_thumb_0.jpg",
+    "https://m-ets.ru/download/268890311/268890311_thumb_0.jpg",
+    "https://m-ets.ru/download/268890312/268890312_thumb_0.jpg",
+    "https://m-ets.ru/download/268890313/268890313_thumb_0.jpg",
+    "https://m-ets.ru/download/268890317/268890317_thumb_0.jpg",
+    "https://m-ets.ru/download/268890316/268890316_thumb_0.jpg",
+    "https://m-ets.ru/download/268890318/268890318_thumb_0.jpg",
+    "https://m-ets.ru/download/268890319/268890319_thumb_0.jpg",
+    "https://m-ets.ru/download/268890320/268890320_thumb_0.jpg",
+    "https://m-ets.ru/download/268890321/268890321_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268890618/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B0.docx",
+      "name": "Договор о задатке публичка.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268890620/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%D1%8E%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B0.docx",
+      "name": "Проект договора купли-продажию публичка.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268890622/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%9F%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%80%D0%B5%D0%B2%D0%B0.pdf",
+      "name": "Положение о торгах Пономарева.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24384421",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Новосибирской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "04.06.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Запрещение регистрации - Постановление о запрете на совершение действий по регистрации pdf)8806/21/54022-ИП, № 175892356/5422, выдан 13.07.2021, ОСП по Коченевскому району Новосибирской области, Запрещение регистрации Постановление судебного пристава-исполнителя СОСП по Новосибирской области Апчугова Валерия Анатольевна, № 1157491825/9854 (107585/26/98054-ИП), выдан 06.03.2026, СОСП по Новосибирской области Ипотека в силу закона Срок действия с 11.06.2014 по 10.06.203, Акционерное общество \"Российский Сельскохозяйственный банк\", ИНН: 7725114488",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление участников с документами по имуществу осуществляется с 31.08.2026г. по 19.10.2026г. с 06:00 до 13.00 (моск. вр.) в раб. дни. Необходимая информация предоставляется по запросу на эл.почту: vital.ziryanow@yandex.ru, тел. для организации ознакомления с имуществом: +7(923)2208196.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:44:34.170Z",
+  "lastSeenAt": "2026-08-31T17:44:34.170Z",
+  "contentHash": "74b0c31662d59331fd22b4d15d7ef022624184f93e5bb3d932e9e2d6c2f8ff85"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"6 474 060 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["6 133 320 ₽",["$","span",null,{"className":"muted","children":[" ","· ","8 сент. 2026 г., 06:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[10,", до ","3 066 660 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"6 814 800 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"681 480 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"27 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"31 авг. 2026 г., 06:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"20 окт. 2026 г., 06:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"44 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"20 окт. 2026 г., 06:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Новосибирская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230826-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Дом 185,8 кв.м. и земельный участок 1442+/-13 кв.м. в Новосибирской обл. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

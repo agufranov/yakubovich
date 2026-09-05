@@ -1,0 +1,427 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--227170-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--227170-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--227170-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=64","children":"Саратовская обл."}]]]}],["$","h1",null,{"children":"Mercedes-Benz S-Класс, 2021 года, 249 лс, 85000 км, полный привод, АКПП"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268608078/268608078_thumb_0.jpg","alt":"Mercedes-Benz S-Класс, 2021 года, 249 лс, 85000 км, полный привод, АКПП"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268608089/268608089_thumb_0.jpg",{"href":"https://m-ets.ru/download/268608089/268608089_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268608089/268608089_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268608082/268608082_thumb_0.jpg",{"href":"https://m-ets.ru/download/268608082/268608082_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268608082/268608082_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268608086/268608086_thumb_0.jpg",{"href":"https://m-ets.ru/download/268608086/268608086_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268608086/268608086_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268608081/268608081_thumb_0.jpg",{"href":"https://m-ets.ru/download/268608081/268608081_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268608081/268608081_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268608079/268608079_thumb_0.jpg",{"href":"https://m-ets.ru/download/268608079/268608079_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268608079/268608079_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268608088/268608088_thumb_0.jpg",{"href":"https://m-ets.ru/download/268608088/268608088_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268608088/268608088_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268608080/268608080_thumb_0.jpg",{"href":"https://m-ets.ru/download/268608080/268608080_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268608080/268608080_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268608083/268608083_thumb_0.jpg",{"href":"https://m-ets.ru/download/268608083/268608083_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268608083/268608083_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268608075/268608075_thumb_0.jpg",{"href":"https://m-ets.ru/download/268608075/268608075_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268608075/268608075_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268608087/268608087_thumb_0.jpg",{"href":"https://m-ets.ru/download/268608087/268608087_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268608087/268608087_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268608090/268608090_thumb_0.jpg",{"href":"https://m-ets.ru/download/268608090/268608090_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268608090/268608090_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",2," ","фотографии"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268608084/268608084_thumb_0.jpg",{"href":"https://m-ets.ru/download/268608084/268608084_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268608084/268608084_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268608085/268608085_thumb_0.jpg",{"href":"https://m-ets.ru/download/268608085/268608085_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268608085/268608085_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль, марка: МЕРСЕДЕС-БЕНЦ, модель: S 350 D 4MATIC, год изготовления: 2021, цвет: Черный, VIN: W1K2231311A027786,, г/н: В426КУ797. Автомобиль находится на хранении у финансового управляющего, ПТС электронный, один комплект ключей, технически исправен, без каких либо нюансов."}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Mercedes-Benz",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["S-Класс",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2021",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["85 000"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["249"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Дизель",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Полный",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Автоматическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["W1K2231311A027786",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24141991",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Москвы",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["16.12.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомиться с порядком продажи имущества, получить дополнительную информацию об имуществе можно в рабочие дни с 10:00 до 18:00 часов по предварительной договоренности с организатором торгов о дне и времени такого осмотра по телефону 89372255202, е-mail: yurist-demin@bk.ru.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["12 авг. 2026 г., 10:00 (МСК)"," —"," ","19 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"9 629 100 ₽"}],["$","td",null,{"children":"962 910 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["19 авг. 2026 г., 10:00 (МСК)"," —"," ","26 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"9 484 664 ₽"}],["$","td",null,{"children":"948 466,40 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 10:00 (МСК)"," —"," ","2 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"9 340 228 ₽"}],["$","td",null,{"children":"934 022,80 ₽"}]]}],["$","tr","4",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 10:00 (МСК)"," —"," ","9 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"9 195 792 ₽"}],["$","td",null,{"children":"919 579,20 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["9 сент. 2026 г., 10:00 (МСК)"," —"," ","16 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"9 051 356 ₽"}],["$","td",null,{"children":"905 135,60 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["16 сент. 2026 г., 10:00 (МСК)"," —"," ","23 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"8 906 920 ₽"}],["$","td",null,{"children":"890 692 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["23 сент. 2026 г., 10:00 (МСК)"," —"," ","30 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"8 762 484 ₽"}],["$","td",null,{"children":"876 248,40 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["30 сент. 2026 г., 10:00 (МСК)"," —"," ","7 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"8 618 048 ₽"}],["$","td",null,{"children":"861 804,80 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["7 окт. 2026 г., 10:00 (МСК)"," —"," ","14 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"8 473 612 ₽"}],["$","td",null,{"children":"847 361,20 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["14 окт. 2026 г., 10:00 (МСК)"," —"," ","21 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"8 329 176 ₽"}],["$","td",null,{"children":"832 917,60 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["21 окт. 2026 г., 10:00 (МСК)"," —"," ","28 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"8 184 740 ₽"}],["$","td",null,{"children":"818 474 ₽"}]]}],["$","tr","12",{"className":"","children":[["$","td",null,{"children":["28 окт. 2026 г., 10:00 (МСК)"," —"," ","5 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"8 040 304 ₽"}],["$","td",null,{"children":"804 030,40 ₽"}]]}],["$","tr","13",{"className":"","children":[["$","td",null,{"children":["5 нояб. 2026 г., 10:00 (МСК)"," —"," ","12 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"7 895 868 ₽"}],["$","td",null,{"children":"789 586,80 ₽"}]]}],["$","tr","14",{"className":"","children":[["$","td",null,{"children":["12 нояб. 2026 г., 10:00 (МСК)"," —"," ","19 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"7 751 432 ₽"}],["$","td",null,{"children":"775 143,20 ₽"}]]}],["$","tr","15",{"className":"","children":[["$","td",null,{"children":["19 нояб. 2026 г., 10:00 (МСК)"," —"," ","26 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"7 606 996 ₽"}],["$","td",null,{"children":"760 699,60 ₽"}]]}],["$","tr","16",{"className":"","children":[["$","td",null,{"children":["26 нояб. 2026 г., 10:00 (МСК)"," —"," ","3 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"7 462 560 ₽"}],["$","td",null,{"children":"746 256 ₽"}]]}],["$","tr","17",{"className":"","children":[["$","td",null,{"children":["3 дек. 2026 г., 10:00 (МСК)"," —"," ","10 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"7 318 124 ₽"}],["$","td",null,{"children":"731 812,40 ₽"}]]}],["$","tr","18",{"className":"","children":[["$","td",null,{"children":["10 дек. 2026 г., 10:00 (МСК)"," —"," ","17 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"7 173 688 ₽"}],["$","td",null,{"children":"717 368,80 ₽"}]]}],["$","tr","19",{"className":"","children":[["$","td",null,{"children":["17 дек. 2026 г., 10:00 (МСК)"," —"," ","24 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"7 029 252 ₽"}],["$","td",null,{"children":"702 925,20 ₽"}]]}],"$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24"]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Назаров Максим Эдуардович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=504105852740","children":"Назаров Максим Эдуардович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","504105852740"]}],"$undefined"]}]]}],["$","tr","manager:Демин Юрий Тимофеевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=644404237325","children":"Демин Юрий Тимофеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","644404237325"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Собр\""]}]]}]]}],["$","tr","organizer:Демин Юрий Тимофеевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=644404237325","children":"Демин Юрий Тимофеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","644404237325"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-258749%2F2024","children":"А40-258749/2024"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Саратовская область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268608076/684%20%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0_%D0%9F%D0%9F_.pdf",{"href":"https://m-ets.ru/download/268608076/684%20%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0_%D0%9F%D0%9F_.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","684 Справка_ПП_.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268608091/A40-275005-2024_20250715_Reshenija_i_postanovlenija.pdf",{"href":"https://m-ets.ru/download/268608091/A40-275005-2024_20250715_Reshenija_i_postanovlenija.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-275005-2024_20250715_Reshenija_i_postanovlenija.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268608093/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf",{"href":"https://m-ets.ru/download/268608093/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_автомобиля.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268608095/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0_(%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%A1%D0%9A).pdf",{"href":"https://m-ets.ru/download/268608095/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0_(%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%A1%D0%9A).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о реализации имущества_(утвержденное СК).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268609422/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268609422/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+25:T32e6,{
+  "id": "etp-mets:227170-1",
+  "sourceCode": "etp-mets",
+  "externalId": "227170-1",
+  "sourceUrl": "https://m-ets.ru/227170-1",
+  "title": "Mercedes-Benz S-Класс, 2021 года, 249 лс, 85000 км, полный привод, АКПП",
+  "description": "Легковой автомобиль, марка: МЕРСЕДЕС-БЕНЦ, модель: S 350 D 4MATIC, год изготовления: 2021, цвет: Черный, VIN: W1K2231311A027786,, г/н: В426КУ797. Автомобиль находится на хранении у финансового управляющего, ПТС электронный, один комплект ключей, технически исправен, без каких либо нюансов.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "64",
+  "address": "Саратовская область",
+  "priceStart": "9629100",
+  "priceMin": "5729314.50",
+  "deposit": "962910.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-11T00:00:00+03:00",
+  "biddStartAt": "2026-08-12T10:00:00+03:00",
+  "biddEndAt": "2027-03-05T10:00:00+03:00",
+  "auctionAt": "2027-03-05T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-258749/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Назаров Максим Эдуардович",
+      "inn": "504105852740",
+      "efrsbId": "8be853ae8d583c6912a43c12af8ca039"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Демин Юрий Тимофеевич",
+      "inn": "644404237325",
+      "sro": "ААУ \"Собр\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Демин Юрий Тимофеевич",
+      "inn": "644404237325",
+      "email": "yurist-demin@bk.ru",
+      "phone": "+7 (937) 225 52 02"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-12T10:00:00+03:00",
+      "endAt": "2026-08-19T10:00:00+03:00",
+      "price": "9629100.00",
+      "deposit": "962910.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-19T10:00:00+03:00",
+      "endAt": "2026-08-26T10:00:00+03:00",
+      "price": "9484664.00",
+      "deposit": "948466.40"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-26T10:00:00+03:00",
+      "endAt": "2026-09-02T10:00:00+03:00",
+      "price": "9340228.00",
+      "deposit": "934022.80"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-02T10:00:00+03:00",
+      "endAt": "2026-09-09T10:00:00+03:00",
+      "price": "9195792.00",
+      "deposit": "919579.20"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-09T10:00:00+03:00",
+      "endAt": "2026-09-16T10:00:00+03:00",
+      "price": "9051356.00",
+      "deposit": "905135.60"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-16T10:00:00+03:00",
+      "endAt": "2026-09-23T10:00:00+03:00",
+      "price": "8906920.00",
+      "deposit": "890692.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-23T10:00:00+03:00",
+      "endAt": "2026-09-30T10:00:00+03:00",
+      "price": "8762484.00",
+      "deposit": "876248.40"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-30T10:00:00+03:00",
+      "endAt": "2026-10-07T10:00:00+03:00",
+      "price": "8618048.00",
+      "deposit": "861804.80"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-07T10:00:00+03:00",
+      "endAt": "2026-10-14T10:00:00+03:00",
+      "price": "8473612.00",
+      "deposit": "847361.20"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-10-14T10:00:00+03:00",
+      "endAt": "2026-10-21T10:00:00+03:00",
+      "price": "8329176.00",
+      "deposit": "832917.60"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-10-21T10:00:00+03:00",
+      "endAt": "2026-10-28T10:00:00+03:00",
+      "price": "8184740.00",
+      "deposit": "818474.00"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-10-28T10:00:00+03:00",
+      "endAt": "2026-11-05T10:00:00+03:00",
+      "price": "8040304.00",
+      "deposit": "804030.40"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-11-05T10:00:00+03:00",
+      "endAt": "2026-11-12T10:00:00+03:00",
+      "price": "7895868.00",
+      "deposit": "789586.80"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-11-12T10:00:00+03:00",
+      "endAt": "2026-11-19T10:00:00+03:00",
+      "price": "7751432.00",
+      "deposit": "775143.20"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-11-19T10:00:00+03:00",
+      "endAt": "2026-11-26T10:00:00+03:00",
+      "price": "7606996.00",
+      "deposit": "760699.60"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-11-26T10:00:00+03:00",
+      "endAt": "2026-12-03T10:00:00+03:00",
+      "price": "7462560.00",
+      "deposit": "746256.00"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-12-03T10:00:00+03:00",
+      "endAt": "2026-12-10T10:00:00+03:00",
+      "price": "7318124.00",
+      "deposit": "731812.40"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-12-10T10:00:00+03:00",
+      "endAt": "2026-12-17T10:00:00+03:00",
+      "price": "7173688.00",
+      "deposit": "717368.80"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-12-17T10:00:00+03:00",
+      "endAt": "2026-12-24T10:00:00+03:00",
+      "price": "7029252.00",
+      "deposit": "702925.20"
+    },
+    {
+      "no": 20,
+      "startAt": "2026-12-24T10:00:00+03:00",
+      "endAt": "2027-01-01T10:00:00+03:00",
+      "price": "6884816.00",
+      "deposit": "688481.60"
+    },
+    {
+      "no": 21,
+      "startAt": "2027-01-01T10:00:00+03:00",
+      "endAt": "2027-01-08T10:00:00+03:00",
+      "price": "6740380.00",
+      "deposit": "674038.00"
+    },
+    {
+      "no": 22,
+      "startAt": "2027-01-08T10:00:00+03:00",
+      "endAt": "2027-01-15T10:00:00+03:00",
+      "price": "6595944.00",
+      "deposit": "659594.40"
+    },
+    {
+      "no": 23,
+      "startAt": "2027-01-15T10:00:00+03:00",
+      "endAt": "2027-01-22T10:00:00+03:00",
+      "price": "6451508.00",
+      "deposit": "645150.80"
+    },
+    {
+      "no": 24,
+      "startAt": "2027-01-22T10:00:00+03:00",
+      "endAt": "2027-01-29T10:00:00+03:00",
+      "price": "6307072.00",
+      "deposit": "630707.20"
+    },
+    {
+      "no": 25,
+      "startAt": "2027-01-29T10:00:00+03:00",
+      "endAt": "2027-02-05T10:00:00+03:00",
+      "price": "6162636.00",
+      "deposit": "616263.60"
+    },
+    {
+      "no": 26,
+      "startAt": "2027-02-05T10:00:00+03:00",
+      "endAt": "2027-02-12T10:00:00+03:00",
+      "price": "6018200.00",
+      "deposit": "601820.00"
+    },
+    {
+      "no": 27,
+      "startAt": "2027-02-12T10:00:00+03:00",
+      "endAt": "2027-02-19T10:00:00+03:00",
+      "price": "5873764.00",
+      "deposit": "587376.40"
+    },
+    {
+      "no": 28,
+      "startAt": "2027-02-19T10:00:00+03:00",
+      "endAt": "2027-02-26T10:00:00+03:00",
+      "price": "5729328.00",
+      "deposit": "572932.80"
+    },
+    {
+      "no": 29,
+      "startAt": "2027-02-26T10:00:00+03:00",
+      "endAt": "2027-03-05T10:00:00+03:00",
+      "price": "5729314.50",
+      "deposit": "572931.45"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268608078/268608078_thumb_0.jpg",
+    "https://m-ets.ru/download/268608089/268608089_thumb_0.jpg",
+    "https://m-ets.ru/download/268608082/268608082_thumb_0.jpg",
+    "https://m-ets.ru/download/268608086/268608086_thumb_0.jpg",
+    "https://m-ets.ru/download/268608081/268608081_thumb_0.jpg",
+    "https://m-ets.ru/download/268608079/268608079_thumb_0.jpg",
+    "https://m-ets.ru/download/268608088/268608088_thumb_0.jpg",
+    "https://m-ets.ru/download/268608080/268608080_thumb_0.jpg",
+    "https://m-ets.ru/download/268608083/268608083_thumb_0.jpg",
+    "https://m-ets.ru/download/268608075/268608075_thumb_0.jpg",
+    "https://m-ets.ru/download/268608087/268608087_thumb_0.jpg",
+    "https://m-ets.ru/download/268608090/268608090_thumb_0.jpg",
+    "https://m-ets.ru/download/268608084/268608084_thumb_0.jpg",
+    "https://m-ets.ru/download/268608085/268608085_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268608076/684%20%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0_%D0%9F%D0%9F_.pdf",
+      "name": "684 Справка_ПП_.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268608091/A40-275005-2024_20250715_Reshenija_i_postanovlenija.pdf",
+      "name": "A40-275005-2024_20250715_Reshenija_i_postanovlenija.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268608093/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf",
+      "name": "Проект_договора_купли_продажи_автомобиля.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268608095/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0_(%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%A1%D0%9A).pdf",
+      "name": "Положение о реализации имущества_(утвержденное СК).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268609422/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Mercedes-Benz",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "S-Класс",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2021",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "85 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "249",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Дизель",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Полный",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Автоматическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "W1K2231311A027786",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24141991",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "16.12.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомиться с порядком продажи имущества, получить дополнительную информацию об имуществе можно в рабочие дни с 10:00 до 18:00 часов по предварительной договоренности с организатором торгов о дне и времени такого осмотра по телефону 89372255202, е-mail: yurist-demin@bk.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:40:13.186Z",
+  "lastSeenAt": "2026-08-31T17:40:13.186Z",
+  "contentHash": "2fc2d42daa26b29d1bd367fcfff6920ba37cead92c9f5e20dfa8d7da070a63af"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$25"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"9 195 792 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["9 051 356 ₽",["$","span",null,{"className":"muted","children":[" ","· ","9 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[25,", до ","5 729 314,50 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"9 629 100 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"962 910 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"10 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"12 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"5 мар. 2027 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"180 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"5 мар. 2027 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Саратовская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/227170-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1b:["$","tr","20",{"className":"","children":[["$","td",null,{"children":["24 дек. 2026 г., 10:00 (МСК)"," —"," ","1 янв. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 884 816 ₽"}],["$","td",null,{"children":"688 481,60 ₽"}]]}]
+1c:["$","tr","21",{"className":"","children":[["$","td",null,{"children":["1 янв. 2027 г., 10:00 (МСК)"," —"," ","8 янв. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 740 380 ₽"}],["$","td",null,{"children":"674 038 ₽"}]]}]
+1d:["$","tr","22",{"className":"","children":[["$","td",null,{"children":["8 янв. 2027 г., 10:00 (МСК)"," —"," ","15 янв. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 595 944 ₽"}],["$","td",null,{"children":"659 594,40 ₽"}]]}]
+1e:["$","tr","23",{"className":"","children":[["$","td",null,{"children":["15 янв. 2027 г., 10:00 (МСК)"," —"," ","22 янв. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 451 508 ₽"}],["$","td",null,{"children":"645 150,80 ₽"}]]}]
+1f:["$","tr","24",{"className":"","children":[["$","td",null,{"children":["22 янв. 2027 г., 10:00 (МСК)"," —"," ","29 янв. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 307 072 ₽"}],["$","td",null,{"children":"630 707,20 ₽"}]]}]
+20:["$","tr","25",{"className":"","children":[["$","td",null,{"children":["29 янв. 2027 г., 10:00 (МСК)"," —"," ","5 февр. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 162 636 ₽"}],["$","td",null,{"children":"616 263,60 ₽"}]]}]
+21:["$","tr","26",{"className":"","children":[["$","td",null,{"children":["5 февр. 2027 г., 10:00 (МСК)"," —"," ","12 февр. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 018 200 ₽"}],["$","td",null,{"children":"601 820 ₽"}]]}]
+22:["$","tr","27",{"className":"","children":[["$","td",null,{"children":["12 февр. 2027 г., 10:00 (МСК)"," —"," ","19 февр. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"5 873 764 ₽"}],["$","td",null,{"children":"587 376,40 ₽"}]]}]
+23:["$","tr","28",{"className":"","children":[["$","td",null,{"children":["19 февр. 2027 г., 10:00 (МСК)"," —"," ","26 февр. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"5 729 328 ₽"}],["$","td",null,{"children":"572 932,80 ₽"}]]}]
+24:["$","tr","29",{"className":"","children":[["$","td",null,{"children":["26 февр. 2027 г., 10:00 (МСК)"," —"," ","5 мар. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"5 729 314,50 ₽"}],["$","td",null,{"children":"572 931,45 ₽"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Mercedes-Benz S-Класс, 2021 года, 249 лс, 85000 км, полный привод, АКПП — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

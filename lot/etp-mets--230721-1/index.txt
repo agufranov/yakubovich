@@ -1,0 +1,244 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230721-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230721-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230721-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Volkswagen Polo, 2017 года, 110 лс, 329000 км, АКПП"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268632655/268632655_thumb_0.jpg","alt":"Volkswagen Polo, 2017 года, 110 лс, 329000 км, АКПП"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268632658/268632658_thumb_0.jpg",{"href":"https://m-ets.ru/download/268632658/268632658_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268632658/268632658_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268632654/268632654_thumb_0.jpg",{"href":"https://m-ets.ru/download/268632654/268632654_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268632654/268632654_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268632653/268632653_thumb_0.jpg",{"href":"https://m-ets.ru/download/268632653/268632653_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268632653/268632653_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268632652/268632652_thumb_0.jpg",{"href":"https://m-ets.ru/download/268632652/268632652_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268632652/268632652_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268632656/268632656_thumb_0.jpg",{"href":"https://m-ets.ru/download/268632656/268632656_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268632656/268632656_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268632660/268632660_thumb_0.jpg",{"href":"https://m-ets.ru/download/268632660/268632660_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268632660/268632660_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268632666/268632666_thumb_0.jpg",{"href":"https://m-ets.ru/download/268632666/268632666_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268632666/268632666_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268632661/268632661_thumb_0.jpg",{"href":"https://m-ets.ru/download/268632661/268632661_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268632661/268632661_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268632663/268632663_thumb_0.jpg",{"href":"https://m-ets.ru/download/268632663/268632663_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268632663/268632663_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268632657/268632657_thumb_0.jpg",{"href":"https://m-ets.ru/download/268632657/268632657_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268632657/268632657_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268632662/268632662_thumb_0.jpg",{"href":"https://m-ets.ru/download/268632662/268632662_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268632662/268632662_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",3," ","фотографии"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268632659/268632659_thumb_0.jpg",{"href":"https://m-ets.ru/download/268632659/268632659_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268632659/268632659_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268632651/268632651_thumb_0.jpg",{"href":"https://m-ets.ru/download/268632651/268632651_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268632651/268632651_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268632664/268632664_thumb_0.jpg",{"href":"https://m-ets.ru/download/268632664/268632664_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268632664/268632664_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль ФОЛЬКСВАГЕН ПОЛО, 2017 г.в., VIN: XW8ZZZ61ZHG035672, цвет: белый, состояние: удовлетворительное."}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Volkswagen",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Polo",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2017",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["329 000"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["110"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Автоматическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XW8ZZZ61ZHG035672",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24384033",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Краснодарского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["02.06.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество является предметом залога: ПАО Сбербанк",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом производится с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи по телефону: 8-918-410-11-45 или направив запрос на эл. почту: bankrot.krd23@mail.ru.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 10:00 (МСК)"," —"," ","10 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"989 100 ₽"}],["$","td",null,{"children":"98 910 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 10:00 (МСК)"," —"," ","20 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"974 264 ₽"}],["$","td",null,{"children":"97 426,40 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["20 сент. 2026 г., 10:00 (МСК)"," —"," ","30 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"959 427 ₽"}],["$","td",null,{"children":"95 942,70 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["30 сент. 2026 г., 10:00 (МСК)"," —"," ","10 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"944 591 ₽"}],["$","td",null,{"children":"94 459,10 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["10 окт. 2026 г., 10:00 (МСК)"," —"," ","20 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"929 754 ₽"}],["$","td",null,{"children":"92 975,40 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Назаренко Сергей Михайлович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=231009748870","children":"Назаренко Сергей Михайлович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","231009748870"]}],"$undefined"]}]]}],["$","tr","manager:Иванова Валерия Васильевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=231125608023","children":"Иванова Валерия Васильевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","231125608023"]}],["$","span",null,{"className":"muted","children":[" · ","САМРО \"Ассоциация антикризисных управляющих\""]}]]}]]}],["$","tr","organizer:Иванова Валерия Васильевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=231125608023","children":"Иванова Валерия Васильевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","231125608023"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9032-18398%2F2025","children":"А32-18398/2025"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Краснодарский край"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268632667/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf",{"href":"https://m-ets.ru/download/268632667/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_автомобиля.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268885193/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268885193/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T1f4b,{
+  "id": "etp-mets:230721-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230721-1",
+  "sourceUrl": "https://m-ets.ru/230721-1",
+  "title": "Volkswagen Polo, 2017 года, 110 лс, 329000 км, АКПП",
+  "description": "Легковой автомобиль ФОЛЬКСВАГЕН ПОЛО, 2017 г.в., VIN: XW8ZZZ61ZHG035672, цвет: белый, состояние: удовлетворительное.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "23",
+  "address": "Краснодарский край",
+  "priceStart": "989100",
+  "priceMin": "929754.00",
+  "deposit": "98910.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-28T00:00:00+03:00",
+  "biddStartAt": "2026-08-31T10:00:00+03:00",
+  "biddEndAt": "2026-10-20T10:00:00+03:00",
+  "auctionAt": "2026-10-21T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А32-18398/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Назаренко Сергей Михайлович",
+      "inn": "231009748870",
+      "efrsbId": "47719f47c46d158bf404f69a9996967e"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Иванова Валерия Васильевна",
+      "inn": "231125608023",
+      "sro": "САМРО \"Ассоциация антикризисных управляющих\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Иванова Валерия Васильевна",
+      "inn": "231125608023",
+      "email": "bankrot.krd23@mail.ru",
+      "phone": "+7 (918) 410 11 45"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-31T10:00:00+03:00",
+      "endAt": "2026-09-10T10:00:00+03:00",
+      "price": "989100.00",
+      "deposit": "98910.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-10T10:00:00+03:00",
+      "endAt": "2026-09-20T10:00:00+03:00",
+      "price": "974264.00",
+      "deposit": "97426.40"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-20T10:00:00+03:00",
+      "endAt": "2026-09-30T10:00:00+03:00",
+      "price": "959427.00",
+      "deposit": "95942.70"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-30T10:00:00+03:00",
+      "endAt": "2026-10-10T10:00:00+03:00",
+      "price": "944591.00",
+      "deposit": "94459.10"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-10-10T10:00:00+03:00",
+      "endAt": "2026-10-20T10:00:00+03:00",
+      "price": "929754.00",
+      "deposit": "92975.40"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268632655/268632655_thumb_0.jpg",
+    "https://m-ets.ru/download/268632658/268632658_thumb_0.jpg",
+    "https://m-ets.ru/download/268632654/268632654_thumb_0.jpg",
+    "https://m-ets.ru/download/268632653/268632653_thumb_0.jpg",
+    "https://m-ets.ru/download/268632652/268632652_thumb_0.jpg",
+    "https://m-ets.ru/download/268632656/268632656_thumb_0.jpg",
+    "https://m-ets.ru/download/268632660/268632660_thumb_0.jpg",
+    "https://m-ets.ru/download/268632666/268632666_thumb_0.jpg",
+    "https://m-ets.ru/download/268632661/268632661_thumb_0.jpg",
+    "https://m-ets.ru/download/268632663/268632663_thumb_0.jpg",
+    "https://m-ets.ru/download/268632657/268632657_thumb_0.jpg",
+    "https://m-ets.ru/download/268632662/268632662_thumb_0.jpg",
+    "https://m-ets.ru/download/268632659/268632659_thumb_0.jpg",
+    "https://m-ets.ru/download/268632651/268632651_thumb_0.jpg",
+    "https://m-ets.ru/download/268632664/268632664_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268632667/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf",
+      "name": "Проект_договора_купли_продажи_автомобиля.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268885193/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Volkswagen",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Polo",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2017",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "329 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "110",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Автоматическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XW8ZZZ61ZHG035672",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24384033",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Краснодарского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "02.06.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество является предметом залога: ПАО Сбербанк",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом производится с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи по телефону: 8-918-410-11-45 или направив запрос на эл. почту: bankrot.krd23@mail.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:43:00.665Z",
+  "lastSeenAt": "2026-08-31T19:43:00.665Z",
+  "contentHash": "9a19be37021146be9ea926637a7bed1e41a4dbbe6131a609cf3fb4dd4d5a4c29"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"989 100 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["974 264 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[4,", до ","929 754 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"989 100 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"98 910 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"27 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"31 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"20 окт. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"44 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"21 окт. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230721-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Volkswagen Polo, 2017 года, 110 лс, 329000 км, АКПП — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

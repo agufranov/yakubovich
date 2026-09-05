@@ -1,0 +1,129 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--225227-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--225227-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--225227-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=38","children":"Иркутская обл."}]]]}],["$","h1",null,{"children":"1/2 доля квартиры в Иркутске"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Квартира"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"½ доли в праве собственности на жилое помещение кадастровый номер: 38:36:000034:18096 , 70,9 кв.м., по адресу: г.Иркутск, ул.Марата, дом 29, квартира 26. Начальная цена лота-6 972 972,50 руб."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24014361",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["арбитражного суда Иркутской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["04.12.2024",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["348 648,63 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Неустранимых обременений нет.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с лотом не представляется возможным в связи с его не передачей финансовому управляющему.",""]}]]}]]}]}]]}],"$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Куличков Денис Анатольевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=380800324645","children":"Куличков Денис Анатольевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","380800324645"]}],"$undefined"]}]]}],["$","tr","manager:Квашнин Денис Владимирович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=543956616092","children":"Квашнин Денис Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","543956616092"]}],["$","span",null,{"className":"muted","children":[" · ","САУ «Авангард»"]}]]}]]}],["$","tr","organizer:Квашнин Денис Владимирович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=543956616092","children":"Квашнин Денис Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","543956616092"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9019-14984%2F2024","children":"А19-14984/2024"}]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Иркутская область"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268440950/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx",{"href":"https://m-ets.ru/download/268440950/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268440952/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA-%D0%BF.docx",{"href":"https://m-ets.ru/download/268440952/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA-%D0%BF.docx","target":"_blank","rel":"noopener","children":["$L11","$L12"]}]]}]]}],false,"$L13"]}],"$L14"]}]]}]
+11:["$","span",null,{"children":["📎 ","Договор к-п.docx"]}]
+12:["$","span",null,{"className":"size","children":"$undefined"}]
+15:T107b,{
+  "id": "etp-mets:225227-1",
+  "sourceCode": "etp-mets",
+  "externalId": "225227-1",
+  "sourceUrl": "https://m-ets.ru/225227-1",
+  "title": "1/2 доля квартиры в Иркутске",
+  "description": "½ доли в праве собственности на жилое помещение кадастровый номер: 38:36:000034:18096 , 70,9 кв.м., по адресу: г.Иркутск, ул.Марата, дом 29, квартира 26. Начальная цена лота-6 972 972,50 руб.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "36",
+  "categoryName": "Квартира",
+  "regionCode": "38",
+  "address": "Иркутская область",
+  "priceStart": "6972972.50",
+  "priceStep": "348648.63",
+  "deposit": "1045945.88",
+  "currency": "RUB",
+  "publishedAt": "2026-08-02T00:00:00+03:00",
+  "biddStartAt": "2026-08-03T10:00:00+03:00",
+  "biddEndAt": "2026-09-08T10:00:00+03:00",
+  "auctionAt": "2026-09-09T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А19-14984/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Куличков Денис Анатольевич",
+      "inn": "380800324645",
+      "efrsbId": "74436ad65e0932b99c646a16d02b1b32"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Квашнин Денис Владимирович",
+      "inn": "543956616092",
+      "sro": "САУ «Авангард»"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Квашнин Денис Владимирович",
+      "inn": "543956616092",
+      "email": "kvashnin_d@mail.ru",
+      "phone": "+7 (923) 125 49 12"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268440950/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx",
+      "name": "Договор о задатке.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268440952/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA-%D0%BF.docx",
+      "name": "Договор к-п.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24014361",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "арбитражного суда Иркутской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "04.12.2024",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "348 648,63 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Неустранимых обременений нет.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с лотом не представляется возможным в связи с его не передачей финансовому управляющему.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:04:13.705Z",
+  "lastSeenAt": "2026-08-31T18:04:13.705Z",
+  "contentHash": "a9028f5844cd52fdde1e629b539bd822181051d43bd7ef71ca420c77599fdb65"
+}13:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$15"}]]}]
+14:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"6 972 972,50 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"348 648,63 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"1 045 945,88 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"1 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"3 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"hot","children":"8 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"hot","children":"2 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"9 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Иркутская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/225227-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"1/2 доля квартиры в Иркутске — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

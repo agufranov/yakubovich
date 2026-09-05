@@ -1,0 +1,200 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--226912-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--226912-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--226912-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=64","children":"Саратовская обл."}]]]}],["$","h1",null,{"children":"Lada Vesta, 2021 года, 78 лс, 31701 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268586523/268586523_thumb_0.jpg","alt":"Lada Vesta, 2021 года, 78 лс, 31701 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268586526/268586526_thumb_0.jpg",{"href":"https://m-ets.ru/download/268586526/268586526_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268586526/268586526_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268586529/268586529_thumb_0.jpg",{"href":"https://m-ets.ru/download/268586529/268586529_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268586529/268586529_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268586525/268586525_thumb_0.jpg",{"href":"https://m-ets.ru/download/268586525/268586525_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268586525/268586525_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268586528/268586528_thumb_0.jpg",{"href":"https://m-ets.ru/download/268586528/268586528_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268586528/268586528_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268586531/268586531_thumb_0.jpg",{"href":"https://m-ets.ru/download/268586531/268586531_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268586531/268586531_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268586530/268586530_thumb_0.jpg",{"href":"https://m-ets.ru/download/268586530/268586530_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268586530/268586530_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268586527/268586527_thumb_0.jpg",{"href":"https://m-ets.ru/download/268586527/268586527_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268586527/268586527_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль, марка: LADA, модель: VESTA, год изготовления: 2021, цвет: серый, VIN: XTAGFK110MY531834, ПТС: ЭЛЕКТРОННАЯ ПТС 164301020667014, г/н: В656УХ164, изготовитель (страна): РОССИЯ, модель двигателя: 21129 4553348, тип двигателя: четырехтактный, с искровым зажиганием, двигатель №: 21129, мощность двигателя, л. с. (кВт): 78, рабочий объем двигателя, куб. см: 1596, шасси (рама) № Отсутствует, кузов №: XTAGFK110MY531834, экологический класс: пятый, разрешенная максимальная масса 1730 кг, масса без нагрузки 1350 кг, организация изготовитель ТС: АКЦИОНЕРНОЕ ОБЩЕСТВО \"АВТОВАЗ\". Имущество находится в собственности бывшего супруга должника. 1 комплект ключей. Согласно данным сайта https://www.reestrzalogov.ru/search/index на транспортное средство залогов не обнаружено."}]]}],"$L11","$undefined","$L12","$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Lada (ВАЗ)",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Vesta",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2021",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["31 701"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["78"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XTAGFK110MY531834",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24124671",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Саратовской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["09.07.2024",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["52 070,40 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление заинтересованных лиц с составом имущества должника, условиями его продажи, а также иной имеющейся у организатора торгов информацией о выставленном на продажу имуществе, в том числе об обременениях, (в том числе путем осмотра, фотографирования указанного имущества и копирования правоустанавливающих документов) производится с даты опубликования сообщения о проведении торгов в рабочие дни ... Показать полностью с понедельника по пятницу с 09:00 ч. до 11:00 ч. по местному времени (UTC +4) по предварительной записи по адресу электронной почты, указанной в реквизитах арбитражного управляющего (запросы на ознакомление с имуществом, документами на имущество принимаются на адрес электронной почты строго в рабочие дни с 09:00 ч. до 18:00 ч. по местному времени (UTC +4). Ознакомление возможно до даты окончания приема заявок. За пределами рабочего времени заявки на осмотр имущества и документов на него не принимаются.",""]}]]}]]}]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Ермакова Людмила Александровна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=643803032906","children":"Ермакова Людмила Александровна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","643803032906"]}],"$undefined"]}]]}],["$","tr","manager:Гришкина Марина Валентиновна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=645210143045","children":"Гришкина Марина Валентиновна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","645210143045"]}],["$","span",null,{"className":"muted","children":[" · ","Союз АУ \"Возрождение\""]}]]}]]}],["$","tr","organizer:Гришкина Марина Валентиновна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=645210143045","children":"Гришкина Марина Валентиновна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","645210143045"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9057-14946%2F2024","children":"А57-14946/2024"}]}]]}]]}]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Саратовская область"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268586566/.%D0%90%D0%BA%D1%82%20%D0%95%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20(LADA%20VESTA).pdf",{"href":"https://m-ets.ru/download/268586566/.%D0%90%D0%BA%D1%82%20%D0%95%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20(LADA%20VESTA).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ",".Акт Ермаков (LADA VESTA).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268586564/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268586564/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268587119/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268587119/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи движимого имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+17:T23a8,{
+  "id": "etp-mets:226912-1",
+  "sourceCode": "etp-mets",
+  "externalId": "226912-1",
+  "sourceUrl": "https://m-ets.ru/226912-1",
+  "title": "Lada Vesta, 2021 года, 78 лс, 31701 км",
+  "description": "Легковой автомобиль, марка: LADA, модель: VESTA, год изготовления: 2021, цвет: серый, VIN: XTAGFK110MY531834, ПТС: ЭЛЕКТРОННАЯ ПТС 164301020667014, г/н: В656УХ164, изготовитель (страна): РОССИЯ, модель двигателя: 21129 4553348, тип двигателя: четырехтактный, с искровым зажиганием, двигатель №: 21129, мощность двигателя, л. с. (кВт): 78, рабочий объем двигателя, куб. см: 1596, шасси (рама) № Отсутствует, кузов №: XTAGFK110MY531834, экологический класс: пятый, разрешенная максимальная масса 1730 кг, масса без нагрузки 1350 кг, организация изготовитель ТС: АКЦИОНЕРНОЕ ОБЩЕСТВО \"АВТОВАЗ\". Имущество находится в собственности бывшего супруга должника. 1 комплект ключей. Согласно данным сайта https://www.reestrzalogov.ru/search/index на транспортное средство залогов не обнаружено.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "64",
+  "address": "Саратовская область",
+  "priceStart": "1041408",
+  "priceStep": "52070.40",
+  "deposit": "104140.80",
+  "currency": "RUB",
+  "publishedAt": "2026-08-10T00:00:00+03:00",
+  "biddStartAt": "2026-08-17T09:00:00+03:00",
+  "biddEndAt": "2026-09-22T09:00:00+03:00",
+  "auctionAt": "2026-09-23T13:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А57-14946/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Ермакова Людмила Александровна",
+      "inn": "643803032906",
+      "efrsbId": "29e19ce945b8f67b2e64878aaba8612e"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Гришкина Марина Валентиновна",
+      "inn": "645210143045",
+      "sro": "Союз АУ \"Возрождение\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Гришкина Марина Валентиновна",
+      "inn": "645210143045",
+      "email": "gmarinaau@gmail.com",
+      "phone": "+7 (937) 802 52 31"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268586523/268586523_thumb_0.jpg",
+    "https://m-ets.ru/download/268586526/268586526_thumb_0.jpg",
+    "https://m-ets.ru/download/268586529/268586529_thumb_0.jpg",
+    "https://m-ets.ru/download/268586525/268586525_thumb_0.jpg",
+    "https://m-ets.ru/download/268586528/268586528_thumb_0.jpg",
+    "https://m-ets.ru/download/268586531/268586531_thumb_0.jpg",
+    "https://m-ets.ru/download/268586530/268586530_thumb_0.jpg",
+    "https://m-ets.ru/download/268586527/268586527_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268586566/.%D0%90%D0%BA%D1%82%20%D0%95%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20(LADA%20VESTA).pdf",
+      "name": ".Акт Ермаков (LADA VESTA).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268586564/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268587119/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "Договор купли-продажи движимого имущества.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Lada (ВАЗ)",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Vesta",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2021",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "31 701",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "78",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XTAGFK110MY531834",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24124671",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Саратовской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "09.07.2024",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "52 070,40 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление заинтересованных лиц с составом имущества должника, условиями его продажи, а также иной имеющейся у организатора торгов информацией о выставленном на продажу имуществе, в том числе об обременениях, (в том числе путем осмотра, фотографирования указанного имущества и копирования правоустанавливающих документов) производится с даты опубликования сообщения о проведении торгов в рабочие дни ... Показать полностью с понедельника по пятницу с 09:00 ч. до 11:00 ч. по местному времени (UTC +4) по предварительной записи по адресу электронной почты, указанной в реквизитах арбитражного управляющего (запросы на ознакомление с имуществом, документами на имущество принимаются на адрес электронной почты строго в рабочие дни с 09:00 ч. до 18:00 ч. по местному времени (UTC +4). Ознакомление возможно до даты окончания приема заявок. За пределами рабочего времени заявки на осмотр имущества и документов на него не принимаются.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:41:16.970Z",
+  "lastSeenAt": "2026-08-31T19:41:16.970Z",
+  "contentHash": "a1bd2c3087edab0793a121bde3007af2127c84d267fc8e6cd3a64d6a76737d43"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$17"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 041 408 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"52 070,40 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"104 140,80 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"9 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"17 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"16 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"23 сент. 2026 г., 13:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Саратовская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/226912-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Lada Vesta, 2021 года, 78 лс, 31701 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

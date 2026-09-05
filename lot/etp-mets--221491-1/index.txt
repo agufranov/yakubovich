@@ -1,0 +1,208 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--221491-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--221491-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--221491-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=30","children":"Астраханская обл."}]]]}],["$","h1",null,{"children":"Смешанная задолженность"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Смешанная задолженность"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Право требования к: АО «ТЭЦ-Северная» ИНН 3018013285 в размере 511 616 130,51 руб.; ИП ХЛЕБЦОВ А.К. ИНН 301501076970 в размере 1 550 000 руб.; АО «Кислородмонтаж» ИНН 7734005245 в размере 46 232 073,67 руб."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23755177",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Астраханской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["17.03.2021",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с полным составом имущественных прав, его характеристиками, документами, подтверждающими права требования, документацией по торгам, производится в рабочие дни с 10.00 до 16.00 в период приёма заявок, предварительно согласовав дату и время с организатором торгов по телефону +7 988 001 96 13 или путем направления запроса на электронную почту организатора торгов Aleksandr-7-7@rambler.ru, в этом случае документы предоставляются в электронном виде.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["20 июл. 2026 г., 00:00 (МСК)"," —"," ","23 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"503 540 283,76 ₽"}],["$","td",null,{"children":"50 354 028,38 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["23 июл. 2026 г., 00:00 (МСК)"," —"," ","28 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"453 186 255,38 ₽"}],["$","td",null,{"children":"45 318 625,54 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["28 июл. 2026 г., 00:00 (МСК)"," —"," ","31 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"402 832 227,01 ₽"}],["$","td",null,{"children":"40 283 222,70 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["31 июл. 2026 г., 00:00 (МСК)"," —"," ","5 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"352 478 198,63 ₽"}],["$","td",null,{"children":"35 247 819,86 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["5 авг. 2026 г., 00:00 (МСК)"," —"," ","10 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"302 124 170,26 ₽"}],["$","td",null,{"children":"30 212 417,03 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 00:00 (МСК)"," —"," ","13 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"251 770 141,88 ₽"}],["$","td",null,{"children":"25 177 014,19 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["13 авг. 2026 г., 00:00 (МСК)"," —"," ","18 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"201 416 113,50 ₽"}],"$L11"]}],"$L12","$L13","$L14","$L15"]}]]}]]}],"$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","td",null,{"children":"20 141 611,35 ₽"}]
+12:["$","tr","8",{"className":"","children":[["$","td",null,{"children":["18 авг. 2026 г., 00:00 (МСК)"," —"," ","21 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"151 062 085,13 ₽"}],["$","td",null,{"children":"15 106 208,51 ₽"}]]}]
+13:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 00:00 (МСК)"," —"," ","26 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"100 708 056,75 ₽"}],["$","td",null,{"children":"10 070 805,68 ₽"}]]}]
+14:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 00:00 (МСК)"," —"," ","31 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"50 354 028,38 ₽"}],["$","td",null,{"children":"5 035 402,84 ₽"}]]}]
+15:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["31 авг. 2026 г., 00:00 (МСК)"," —"," ","2 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"50 354,03 ₽"}],["$","td",null,{"children":"5 035,40 ₽"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭНЕРГОСИСТЕМА\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=3018317501","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭНЕРГОСИСТЕМА\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","3018317501"]}],"$undefined"]}]]}],["$","tr","manager:Шкарупин Александр Вячеславович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=344502900888","children":"Шкарупин Александр Вячеславович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","344502900888"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"ЦФОП АПК\""]}]]}]]}],["$","tr","organizer:Шкарупин Александр Вячеславович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=344502900888","children":"Шкарупин Александр Вячеславович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","344502900888"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9006-4952%2F2020","children":"А06-4952/2020"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Астраханская область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268060917/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.docx",{"href":"https://m-ets.ru/download/268060917/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект Договора уступки права требования.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268150266/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268150266/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T1b86,{
+  "id": "etp-mets:221491-1",
+  "sourceCode": "etp-mets",
+  "externalId": "221491-1",
+  "sourceUrl": "https://m-ets.ru/221491-1",
+  "title": "Смешанная задолженность",
+  "description": "Право требования к: АО «ТЭЦ-Северная» ИНН 3018013285 в размере 511 616 130,51 руб.; ИП ХЛЕБЦОВ А.К. ИНН 301501076970 в размере 1 550 000 руб.; АО «Кислородмонтаж» ИНН 7734005245 в размере 46 232 073,67 руб.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "other",
+  "categoryCode": "26",
+  "categoryName": "Смешанная задолженность",
+  "regionCode": "30",
+  "address": "Астраханская область",
+  "priceStart": "503540283.76",
+  "priceMin": "50354.03",
+  "deposit": "50354028.38",
+  "currency": "RUB",
+  "publishedAt": "2026-07-15T00:00:00+03:00",
+  "biddStartAt": "2026-07-20T00:00:00+03:00",
+  "biddEndAt": "2026-09-02T23:59:00+03:00",
+  "auctionAt": "2026-09-02T23:59:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А06-4952/2020",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭНЕРГОСИСТЕМА\"",
+      "inn": "3018317501",
+      "ogrn": "1103023000190"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Шкарупин Александр Вячеславович",
+      "inn": "344502900888",
+      "sro": "ААУ \"ЦФОП АПК\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Шкарупин Александр Вячеславович",
+      "inn": "344502900888",
+      "email": "aleksandr-7-7@rambler.ru",
+      "phone": "+7 (919) 982 00 87"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-20T00:00:00+03:00",
+      "endAt": "2026-07-23T00:00:00+03:00",
+      "price": "503540283.76",
+      "deposit": "50354028.38"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-23T00:00:00+03:00",
+      "endAt": "2026-07-28T00:00:00+03:00",
+      "price": "453186255.38",
+      "deposit": "45318625.54"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-07-28T00:00:00+03:00",
+      "endAt": "2026-07-31T00:00:00+03:00",
+      "price": "402832227.01",
+      "deposit": "40283222.70"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-07-31T00:00:00+03:00",
+      "endAt": "2026-08-05T00:00:00+03:00",
+      "price": "352478198.63",
+      "deposit": "35247819.86"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-05T00:00:00+03:00",
+      "endAt": "2026-08-10T00:00:00+03:00",
+      "price": "302124170.26",
+      "deposit": "30212417.03"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-10T00:00:00+03:00",
+      "endAt": "2026-08-13T00:00:00+03:00",
+      "price": "251770141.88",
+      "deposit": "25177014.19"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-13T00:00:00+03:00",
+      "endAt": "2026-08-18T00:00:00+03:00",
+      "price": "201416113.50",
+      "deposit": "20141611.35"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-18T00:00:00+03:00",
+      "endAt": "2026-08-21T00:00:00+03:00",
+      "price": "151062085.13",
+      "deposit": "15106208.51"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-08-21T00:00:00+03:00",
+      "endAt": "2026-08-26T00:00:00+03:00",
+      "price": "100708056.75",
+      "deposit": "10070805.68"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-08-26T00:00:00+03:00",
+      "endAt": "2026-08-31T00:00:00+03:00",
+      "price": "50354028.38",
+      "deposit": "5035402.84"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-08-31T00:00:00+03:00",
+      "endAt": "2026-09-02T23:59:00+03:00",
+      "price": "50354.03",
+      "deposit": "5035.40"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268060917/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.docx",
+      "name": "Проект Договора уступки права требования.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268150266/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23755177",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Астраханской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "17.03.2021",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с полным составом имущественных прав, его характеристиками, документами, подтверждающими права требования, документацией по торгам, производится в рабочие дни с 10.00 до 16.00 в период приёма заявок, предварительно согласовав дату и время с организатором торгов по телефону +7 988 001 96 13 или путем направления запроса на электронную почту организатора торгов Aleksandr-7-7@rambler.ru, в этом случае документы предоставляются в электронном виде.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:47:35.047Z",
+  "lastSeenAt": "2026-08-31T17:47:35.047Z",
+  "contentHash": "b79717376eabfd0b6928329a678f2d7a967caa5165afbf1e386e068422789bd6"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"503 540 283,76 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[11,", до ","50 354,03 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"50 354 028,38 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"14 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"20 июл. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"2 сент. 2026 г., 23:59 (МСК)"}]],false,[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"2 сент. 2026 г., 23:59 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Астраханская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/221491-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Смешанная задолженность — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,289 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--218988-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--218988-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--218988-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=receivable","children":"Права требования"}],[" · ",["$","$L4",null,{"href":"/?region=15","children":"Северная Осетия"}]]]}],["$","h1",null,{"children":"Дебиторская задолженность к Джигаевой Марианне Эльбрусовне"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Задолженность физ. лиц"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Дебиторская задолженность – право требования по субсидиарной ответственности по обязательствам должника - ООО «Лея» к Джигаевой Марианне Эльбрусовне (Определение Арбитражного суда РСО-Алания от 15.10.2024 по делу №А61-3134/2015)"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23598472",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд РСО-Алания",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["16.06.2016",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С документацией можно ознакомиться у организатора торгов в рабочие дни по адресу: 361514, Кабардино-Балкарская Респ, Баксанский р-н, село Верхний Куркужин, ул Бабгоева, д 27, тел. +79034900082, с 10 до 16 часов местного времени.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["3 июл. 2026 г., 12:00 (МСК)"," —"," ","8 июл. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"480 109 620,25 ₽"}],["$","td",null,{"children":"48 010 962,03 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["8 июл. 2026 г., 12:00 (МСК)"," —"," ","13 июл. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"456 104 139,24 ₽"}],["$","td",null,{"children":"45 610 413,92 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["13 июл. 2026 г., 12:00 (МСК)"," —"," ","18 июл. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"432 098 658,23 ₽"}],["$","td",null,{"children":"43 209 865,82 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["18 июл. 2026 г., 12:00 (МСК)"," —"," ","23 июл. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"408 093 177,21 ₽"}],["$","td",null,{"children":"40 809 317,72 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["23 июл. 2026 г., 12:00 (МСК)"," —"," ","28 июл. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"384 087 696,20 ₽"}],["$","td",null,{"children":"38 408 769,62 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["28 июл. 2026 г., 12:00 (МСК)"," —"," ","2 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"360 082 215,19 ₽"}],["$","td",null,{"children":"36 008 221,52 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["2 авг. 2026 г., 12:00 (МСК)"," —"," ","7 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"336 076 734,18 ₽"}],["$","td",null,{"children":"33 607 673,42 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["7 авг. 2026 г., 12:00 (МСК)"," —"," ","12 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"312 071 253,16 ₽"}],"$L11"]}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d"]}]]}]]}],"$L1e","$L1f","$L20",false,"$L21"]}],"$L22"]}]]}]
+11:["$","td",null,{"children":"31 207 125,32 ₽"}]
+12:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["12 авг. 2026 г., 12:00 (МСК)"," —"," ","17 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"288 065 772,15 ₽"}],["$","td",null,{"children":"28 806 577,22 ₽"}]]}]
+13:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 12:00 (МСК)"," —"," ","22 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"264 060 291,14 ₽"}],["$","td",null,{"children":"26 406 029,11 ₽"}]]}]
+14:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["22 авг. 2026 г., 12:00 (МСК)"," —"," ","27 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"240 054 810,13 ₽"}],["$","td",null,{"children":"24 005 481,01 ₽"}]]}]
+15:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 12:00 (МСК)"," —"," ","1 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"216 049 329,11 ₽"}],["$","td",null,{"children":"21 604 932,91 ₽"}]]}]
+16:["$","tr","13",{"className":"now","children":[["$","td",null,{"children":["1 сент. 2026 г., 12:00 (МСК)"," —"," ","6 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"192 043 848,10 ₽"}],["$","td",null,{"children":"19 204 384,81 ₽"}]]}]
+17:["$","tr","14",{"className":"","children":[["$","td",null,{"children":["6 сент. 2026 г., 12:00 (МСК)"," —"," ","11 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"9 602 192,41 ₽"}],["$","td",null,{"children":"960 219,24 ₽"}]]}]
+18:["$","tr","15",{"className":"","children":[["$","td",null,{"children":["11 сент. 2026 г., 12:00 (МСК)"," —"," ","16 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"4 801 096,20 ₽"}],["$","td",null,{"children":"480 109,62 ₽"}]]}]
+19:["$","tr","16",{"className":"","children":[["$","td",null,{"children":["16 сент. 2026 г., 12:00 (МСК)"," —"," ","21 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"2 400 548,10 ₽"}],["$","td",null,{"children":"240 054,81 ₽"}]]}]
+1a:["$","tr","17",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 12:00 (МСК)"," —"," ","26 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"960 219,24 ₽"}],["$","td",null,{"children":"96 021,92 ₽"}]]}]
+1b:["$","tr","18",{"className":"","children":[["$","td",null,{"children":["26 сент. 2026 г., 12:00 (МСК)"," —"," ","1 окт. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"480 109,62 ₽"}],["$","td",null,{"children":"48 010,96 ₽"}]]}]
+1c:["$","tr","19",{"className":"","children":[["$","td",null,{"children":["1 окт. 2026 г., 12:00 (МСК)"," —"," ","6 окт. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"240 054,81 ₽"}],["$","td",null,{"children":"24 005,48 ₽"}]]}]
+1d:["$","tr","20",{"className":"","children":[["$","td",null,{"children":["6 окт. 2026 г., 12:00 (МСК)"," —"," ","12 окт. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"48 010,96 ₽"}],["$","td",null,{"children":"4 801,10 ₽"}]]}]
+1e:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЛЕЯ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=1504034642","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЛЕЯ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","1504034642"]}],"$undefined"]}]]}],["$","tr","manager:Пшуков Тимур Хазраилович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=070103794543","children":"Пшуков Тимур Хазраилович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","070103794543"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСРО \"Содействие\""]}]]}]]}],["$","tr","organizer:Пшуков Тимур Хазраилович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=070103794543","children":"Пшуков Тимур Хазраилович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","070103794543"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9061-3413%2F2015","children":"А61-3413/2015"}]}]]}]]}]}]]}]
+1f:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Республика Северная Осетия - Алания"}]]}]
+20:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/267936611/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%2C%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20(%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)_%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%8F.pdf",{"href":"https://m-ets.ru/download/267936611/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%2C%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20(%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)_%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%8F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о порядке, сроках, условиях продажи имущества (публичное предложение)_ООО Лея.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267936613/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%8F.doc",{"href":"https://m-ets.ru/download/267936613/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%8F.doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор уступки права требования_ООО Лея.doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267936615/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5_%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%8F.doc",{"href":"https://m-ets.ru/download/267936615/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5_%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%8F.doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке_ООО Лея.doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267959224/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%8F.docx",{"href":"https://m-ets.ru/download/267959224/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%8F.docx","target":"_blank","rel":"noopener","children":["$L23","$L24"]}]]}]]}]
+25:T255b,{
+  "id": "etp-mets:218988-1",
+  "sourceCode": "etp-mets",
+  "externalId": "218988-1",
+  "sourceUrl": "https://m-ets.ru/218988-1",
+  "title": "Дебиторская задолженность к Джигаевой Марианне Эльбрусовне",
+  "description": "Дебиторская задолженность – право требования по субсидиарной ответственности по обязательствам должника - ООО «Лея» к Джигаевой Марианне Эльбрусовне (Определение Арбитражного суда РСО-Алания от 15.10.2024 по делу №А61-3134/2015)",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "receivable",
+  "categoryCode": "24",
+  "categoryName": "Задолженность физ. лиц",
+  "regionCode": "15",
+  "address": "Республика Северная Осетия - Алания",
+  "priceStart": "480109620.25",
+  "priceMin": "48010.96",
+  "deposit": "48010962.03",
+  "currency": "RUB",
+  "publishedAt": "2026-07-02T00:00:00+03:00",
+  "biddStartAt": "2026-07-03T12:00:00+03:00",
+  "biddEndAt": "2026-10-12T12:00:00+03:00",
+  "auctionAt": "2026-10-12T15:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А61-3413/2015",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЛЕЯ\"",
+      "inn": "1504034642",
+      "ogrn": "1021500770818"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Пшуков Тимур Хазраилович",
+      "inn": "070103794543",
+      "sro": "Ассоциация МСРО \"Содействие\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Пшуков Тимур Хазраилович",
+      "inn": "070103794543",
+      "email": "pshuktim@mail.ru",
+      "phone": "+7 (903) 490 00 82"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-03T12:00:00+03:00",
+      "endAt": "2026-07-08T12:00:00+03:00",
+      "price": "480109620.25",
+      "deposit": "48010962.03"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-08T12:00:00+03:00",
+      "endAt": "2026-07-13T12:00:00+03:00",
+      "price": "456104139.24",
+      "deposit": "45610413.92"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-07-13T12:00:00+03:00",
+      "endAt": "2026-07-18T12:00:00+03:00",
+      "price": "432098658.23",
+      "deposit": "43209865.82"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-07-18T12:00:00+03:00",
+      "endAt": "2026-07-23T12:00:00+03:00",
+      "price": "408093177.21",
+      "deposit": "40809317.72"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-07-23T12:00:00+03:00",
+      "endAt": "2026-07-28T12:00:00+03:00",
+      "price": "384087696.20",
+      "deposit": "38408769.62"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-07-28T12:00:00+03:00",
+      "endAt": "2026-08-02T12:00:00+03:00",
+      "price": "360082215.19",
+      "deposit": "36008221.52"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-02T12:00:00+03:00",
+      "endAt": "2026-08-07T12:00:00+03:00",
+      "price": "336076734.18",
+      "deposit": "33607673.42"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-07T12:00:00+03:00",
+      "endAt": "2026-08-12T12:00:00+03:00",
+      "price": "312071253.16",
+      "deposit": "31207125.32"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-08-12T12:00:00+03:00",
+      "endAt": "2026-08-17T12:00:00+03:00",
+      "price": "288065772.15",
+      "deposit": "28806577.22"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-08-17T12:00:00+03:00",
+      "endAt": "2026-08-22T12:00:00+03:00",
+      "price": "264060291.14",
+      "deposit": "26406029.11"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-08-22T12:00:00+03:00",
+      "endAt": "2026-08-27T12:00:00+03:00",
+      "price": "240054810.13",
+      "deposit": "24005481.01"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-08-27T12:00:00+03:00",
+      "endAt": "2026-09-01T12:00:00+03:00",
+      "price": "216049329.11",
+      "deposit": "21604932.91"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-09-01T12:00:00+03:00",
+      "endAt": "2026-09-06T12:00:00+03:00",
+      "price": "192043848.10",
+      "deposit": "19204384.81"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-09-06T12:00:00+03:00",
+      "endAt": "2026-09-11T12:00:00+03:00",
+      "price": "9602192.41",
+      "deposit": "960219.24"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-09-11T12:00:00+03:00",
+      "endAt": "2026-09-16T12:00:00+03:00",
+      "price": "4801096.20",
+      "deposit": "480109.62"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-09-16T12:00:00+03:00",
+      "endAt": "2026-09-21T12:00:00+03:00",
+      "price": "2400548.10",
+      "deposit": "240054.81"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-09-21T12:00:00+03:00",
+      "endAt": "2026-09-26T12:00:00+03:00",
+      "price": "960219.24",
+      "deposit": "96021.92"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-09-26T12:00:00+03:00",
+      "endAt": "2026-10-01T12:00:00+03:00",
+      "price": "480109.62",
+      "deposit": "48010.96"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-10-01T12:00:00+03:00",
+      "endAt": "2026-10-06T12:00:00+03:00",
+      "price": "240054.81",
+      "deposit": "24005.48"
+    },
+    {
+      "no": 20,
+      "startAt": "2026-10-06T12:00:00+03:00",
+      "endAt": "2026-10-12T12:00:00+03:00",
+      "price": "48010.96",
+      "deposit": "4801.10"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/267936611/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%2C%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20(%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)_%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%8F.pdf",
+      "name": "Положение о порядке, сроках, условиях продажи имущества (публичное предложение)_ООО Лея.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267936613/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%8F.doc",
+      "name": "Договор уступки права требования_ООО Лея.doc"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267936615/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5_%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%8F.doc",
+      "name": "Договор о задатке_ООО Лея.doc"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267959224/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%8F.docx",
+      "name": "Дополнение к Положению о порядке, сроках и условиях реализации имущества ООО Лея.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23598472",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд РСО-Алания",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "16.06.2016",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С документацией можно ознакомиться у организатора торгов в рабочие дни по адресу: 361514, Кабардино-Балкарская Респ, Баксанский р-н, село Верхний Куркужин, ул Бабгоева, д 27, тел. +79034900082, с 10 до 16 часов местного времени.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T20:02:57.071Z",
+  "lastSeenAt": "2026-08-31T20:02:57.071Z",
+  "contentHash": "4b31cc6fd888b45504173eb6fdb2747e3ec5fc2b36dfca64f83a6e8fdd6e6d7e"
+}21:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$25"}]]}]
+22:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"192 043 848,10 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["9 602 192,41 ₽",["$","span",null,{"className":"muted","children":[" ","· ","6 сент. 2026 г., 12:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[7,", до ","48 010,96 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"480 109 620,25 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"48 010 962,03 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"1 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"3 июл. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"12 окт. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"36 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"12 окт. 2026 г., 15:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Северная Осетия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/218988-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+23:["$","span",null,{"children":["📎 ","Дополнение к Положению о порядке, сроках и условиях реализации имущества ООО Лея.docx"]}]
+24:["$","span",null,{"className":"size","children":"$undefined"}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Дебиторская задолженность к Джигаевой Марианне Эльбрусовне — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

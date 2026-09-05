@@ -1,0 +1,255 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--224040-3",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--224040-3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--224040-3","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=10","children":"Карелия"}]]]}],["$","h1",null,{"children":"ПАЗ 320402-05, 2013 года"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Коммерческий транспорт и спецтехника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268358363/268358363_thumb_0.jpg","alt":"ПАЗ 320402-05, 2013 года"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268358365/268358365_thumb_0.jpg",{"href":"https://m-ets.ru/download/268358365/268358365_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268358365/268358365_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268358361/268358361_thumb_0.jpg",{"href":"https://m-ets.ru/download/268358361/268358361_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268358361/268358361_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268358364/268358364_thumb_0.jpg",{"href":"https://m-ets.ru/download/268358364/268358364_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268358364/268358364_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268358362/268358362_thumb_0.jpg",{"href":"https://m-ets.ru/download/268358362/268358362_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268358362/268358362_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Автобус, марка: ПАЗ, модель: 320402-05, VIN: X1M32042RD0000124, гос. рег. номер: Н373НК10, год изготовления: 2013"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2013",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23946130",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Республики Карелия",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["06.11.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На момент опубликования объявления о проведении торгов по лоту №3 - обременения имеются. Ограничение от 10.03.2026 Тип ограничения Запрет на снятие с учета Кем наложено ограничение Судебный пристав VIN X1M32042RD0000124 Марка/Модель ПАЗ 320402-05 Телефон инициатора Нет данных Подробности Документ: 1048707019/1001 от 30.12.2025, Веденикова Наталья Александровна, СПИ: 86012043849384, ИП: 437733/25/10001-ИП ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью от 09.12.2025 В соответствии с абз. 4 п. 5 ст. 213.25 ФЗ «О несостоятельности (банкротстве)» от 26 октября 2002 г. № 127-ФЗ с даты признания гражданина банкротом снимаются ранее наложенные аресты на имущество гражданина и иные ограничения распоряжения имуществом гражданина.",""]}]]}],"$L11"]}]}]]}],"$L12","$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+18:Ta29,С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Карелия Респ, Прионежский р-н, Ужесельга д, Зеленая ул, дом № 12, предварительно согласовав время с Финансовым управляющим по тел. +79823058977, либо путем направления запроса на электронную почту krylosov.anton96@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. С ЛОТОМ №2 можно ознакомиться по месту его ... Показать полностью нахождения: Респ Карелия, г Петрозаводск, р-н Железнодорожный, ул Путейская, д 5, предварительно согласовав время с Финансовым управляющим по тел. +79823058977, либо путем направления запроса на электронную почту krylosov.anton96@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. С ЛОТОМ №3 можно ознакомиться по месту его нахождения: Респ Карелия, г Петрозаводск, р-н Железнодорожный, ул Путейская, д 5, предварительно согласовав время с Финансовым управляющим по тел. +79823058977, либо путем направления запроса на электронную почту krylosov.anton96@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).11:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["$18",""]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["31 июл. 2026 г., 09:00 (МСК)"," —"," ","4 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"312 459,97 ₽"}],["$","td",null,{"children":"31 246 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["4 авг. 2026 г., 09:00 (МСК)"," —"," ","8 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"265 590,97 ₽"}],["$","td",null,{"children":"26 559,10 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["8 авг. 2026 г., 09:00 (МСК)"," —"," ","12 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"218 721,98 ₽"}],["$","td",null,{"children":"21 872,20 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["12 авг. 2026 г., 09:00 (МСК)"," —"," ","16 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"171 852,98 ₽"}],["$","td",null,{"children":"17 185,30 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["16 авг. 2026 г., 09:00 (МСК)"," —"," ","20 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"124 983,99 ₽"}],["$","td",null,{"children":"12 498,40 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["20 авг. 2026 г., 09:00 (МСК)"," —"," ","24 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"78 114,99 ₽"}],["$","td",null,{"children":"7 811,50 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 09:00 (МСК)"," —"," ","28 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"31 246 ₽"}],["$","td",null,{"children":"3 124,60 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["28 авг. 2026 г., 09:00 (МСК)"," —"," ","1 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"10 000 ₽"}],["$","td",null,{"children":"1 000 ₽"}]]}]]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Тараненко Василий Александрович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=102001802370","children":"Тараненко Василий Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","102001802370"]}],"$undefined"]}]]}],["$","tr","manager:Крылосов Антон Александрович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=745703215370","children":"Крылосов Антон Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","745703215370"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:КРЫЛОСОВ АНТОН АЛЕКСАНДРОВИЧ",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=745703215370","children":"КРЫЛОСОВ АНТОН АЛЕКСАНДРОВИЧ"}],["$","span",null,{"className":"muted","children":[" · ИНН ","745703215370"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9026-8415%2F2025","children":"А26-8415/2025"}]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Республика Карелия"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",14,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268795597/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20224040-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268795597/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20224040-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 224040-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268795599/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20224040-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268795599/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20224040-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 224040-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268358366/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80.%20%D0%BF%D0%BE%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%83%20%E2%84%961%2C%20%E2%84%962%2C%20%E2%84%963.pdf",{"href":"https://m-ets.ru/download/268358366/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80.%20%D0%BF%D0%BE%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%83%20%E2%84%961%2C%20%E2%84%962%2C%20%E2%84%963.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","АУ Положение о реализации имущества свыше 100т.р. по вопросу №1, №2, №3.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268358368/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%9F%D0%90%D0%97%20%D0%9D293%D0%9D%D0%9010.pdf",{"href":"https://m-ets.ru/download/268358368/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%9F%D0%90%D0%97%20%D0%9D293%D0%9D%D0%9010.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Фото ПАЗ Н293НА10.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268358370/%D0%A1%D0%A2%D0%A1%20%D0%BF%D0%B0%D0%B7.pdf",{"href":"https://m-ets.ru/download/268358370/%D0%A1%D0%A2%D0%A1%20%D0%BF%D0%B0%D0%B7.pdf","target":"_blank","rel":"noopener","children":["$L19","$L1a"]}],"$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]]}]
+24:T32b6,{
+  "id": "etp-mets:224040-3",
+  "sourceCode": "etp-mets",
+  "externalId": "224040-3",
+  "sourceUrl": "https://m-ets.ru/224040-3",
+  "title": "ПАЗ 320402-05, 2013 года",
+  "description": "Автобус, марка: ПАЗ, модель: 320402-05, VIN: X1M32042RD0000124, гос. рег. номер: Н373НК10, год изготовления: 2013",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "3",
+  "categoryName": "Коммерческий транспорт и спецтехника",
+  "regionCode": "10",
+  "address": "Республика Карелия",
+  "priceStart": "312459.97",
+  "priceMin": "10000.00",
+  "deposit": "31246.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-28T00:00:00+03:00",
+  "biddStartAt": "2026-07-31T09:00:00+03:00",
+  "biddEndAt": "2026-09-01T09:00:00+03:00",
+  "auctionAt": "2026-09-01T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А26-8415/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Тараненко Василий Александрович",
+      "inn": "102001802370",
+      "efrsbId": "3b93835be37df6dbca8424c4c19fac69"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Крылосов Антон Александрович",
+      "inn": "745703215370",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "КРЫЛОСОВ АНТОН АЛЕКСАНДРОВИЧ",
+      "inn": "745703215370",
+      "email": "krylosov.anton96@mail.ru",
+      "phone": "+7 (982) 305 89 77"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-31T09:00:00+03:00",
+      "endAt": "2026-08-04T09:00:00+03:00",
+      "price": "312459.97",
+      "deposit": "31246.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-04T09:00:00+03:00",
+      "endAt": "2026-08-08T09:00:00+03:00",
+      "price": "265590.97",
+      "deposit": "26559.10"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-08T09:00:00+03:00",
+      "endAt": "2026-08-12T09:00:00+03:00",
+      "price": "218721.98",
+      "deposit": "21872.20"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-12T09:00:00+03:00",
+      "endAt": "2026-08-16T09:00:00+03:00",
+      "price": "171852.98",
+      "deposit": "17185.30"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-16T09:00:00+03:00",
+      "endAt": "2026-08-20T09:00:00+03:00",
+      "price": "124983.99",
+      "deposit": "12498.40"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-20T09:00:00+03:00",
+      "endAt": "2026-08-24T09:00:00+03:00",
+      "price": "78114.99",
+      "deposit": "7811.50"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-24T09:00:00+03:00",
+      "endAt": "2026-08-28T09:00:00+03:00",
+      "price": "31246.00",
+      "deposit": "3124.60"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-28T09:00:00+03:00",
+      "endAt": "2026-09-01T09:00:00+03:00",
+      "price": "10000.00",
+      "deposit": "1000.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268358363/268358363_thumb_0.jpg",
+    "https://m-ets.ru/download/268358365/268358365_thumb_0.jpg",
+    "https://m-ets.ru/download/268358361/268358361_thumb_0.jpg",
+    "https://m-ets.ru/download/268358364/268358364_thumb_0.jpg",
+    "https://m-ets.ru/download/268358362/268358362_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268795597/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20224040-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Протокол определения участников торгов 224040-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268795599/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20224040-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 224040-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268358366/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80.%20%D0%BF%D0%BE%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%83%20%E2%84%961%2C%20%E2%84%962%2C%20%E2%84%963.pdf",
+      "name": "АУ Положение о реализации имущества свыше 100т.р. по вопросу №1, №2, №3.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268358368/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%9F%D0%90%D0%97%20%D0%9D293%D0%9D%D0%9010.pdf",
+      "name": "Фото ПАЗ Н293НА10.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268358370/%D0%A1%D0%A2%D0%A1%20%D0%BF%D0%B0%D0%B7.pdf",
+      "name": "СТС паз.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268358372/%D0%9F%D0%90%D0%97%20%201702262717%20(1).pdf",
+      "name": "ПАЗ 1702262717 (1).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268358374/%D0%9F%D0%90%D0%97%20%200203260117%20(1).pdf",
+      "name": "ПАЗ 0203260117 (1).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268358376/%D0%93%D0%90%D0%97%203302%20%200303260300%20(1).pdf",
+      "name": "ГАЗ 3302 0303260300 (1).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268358378/%D0%A1%D0%A2%D0%A1.pdf",
+      "name": "СТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268358380/%D0%A1%D0%A2%D0%A1%20%D0%93%D0%90%D0%97.pdf",
+      "name": "СТС ГАЗ.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268358382/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%9F%D0%90%D0%97%20%D0%9D373%D0%9D%D0%9A10.pdf",
+      "name": "Фото ПАЗ Н373НК10.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268358384/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%93%D0%90%D0%97%20%D0%9A661%D0%A1%D0%A110.pdf",
+      "name": "Фото ГАЗ К661СС10.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268358386/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D0%B1%D0%B5%D0%B7%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0).docx",
+      "name": "Проект ДКП на ЭТП (ТС без залога).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268358489/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2013",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23946130",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Республики Карелия",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "06.11.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На момент опубликования объявления о проведении торгов по лоту №3 - обременения имеются. Ограничение от 10.03.2026 Тип ограничения Запрет на снятие с учета Кем наложено ограничение Судебный пристав VIN X1M32042RD0000124 Марка/Модель ПАЗ 320402-05 Телефон инициатора Нет данных Подробности Документ: 1048707019/1001 от 30.12.2025, Веденикова Наталья Александровна, СПИ: 86012043849384, ИП: 437733/25/10001-ИП ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью от 09.12.2025 В соответствии с абз. 4 п. 5 ст. 213.25 ФЗ «О несостоятельности (банкротстве)» от 26 октября 2002 г. № 127-ФЗ с даты признания гражданина банкротом снимаются ранее наложенные аресты на имущество гражданина и иные ограничения распоряжения имуществом гражданина.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Карелия Респ, Прионежский р-н, Ужесельга д, Зеленая ул, дом № 12, предварительно согласовав время с Финансовым управляющим по тел. +79823058977, либо путем направления запроса на электронную почту krylosov.anton96@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. С ЛОТОМ №2 можно ознакомиться по месту его ... Показать полностью нахождения: Респ Карелия, г Петрозаводск, р-н Железнодорожный, ул Путейская, д 5, предварительно согласовав время с Финансовым управляющим по тел. +79823058977, либо путем направления запроса на электронную почту krylosov.anton96@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. С ЛОТОМ №3 можно ознакомиться по месту его нахождения: Респ Карелия, г Петрозаводск, р-н Железнодорожный, ул Путейская, д 5, предварительно согласовав время с Финансовым управляющим по тел. +79823058977, либо путем направления запроса на электронную почту krylosov.anton96@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:57:46.960Z",
+  "lastSeenAt": "2026-08-31T17:57:46.960Z",
+  "contentHash": "7732a19369c0bbcaef214cec4d9868f353dd40c521403e7517cf2ea9e13d1087"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$24"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"312 459,97 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[8,", до ","10 000 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"31 246 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"27 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"31 июл. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"1 сент. 2026 г., 09:00 (МСК)"}]],false,[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"1 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Карелия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/224040-3","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+19:["$","span",null,{"children":["📎 ","СТС паз.pdf"]}]
+1a:["$","span",null,{"className":"size","children":"$undefined"}]
+1b:["$","a","https://m-ets.ru/download/268358372/%D0%9F%D0%90%D0%97%20%201702262717%20(1).pdf",{"href":"https://m-ets.ru/download/268358372/%D0%9F%D0%90%D0%97%20%201702262717%20(1).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ПАЗ 1702262717 (1).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1c:["$","a","https://m-ets.ru/download/268358374/%D0%9F%D0%90%D0%97%20%200203260117%20(1).pdf",{"href":"https://m-ets.ru/download/268358374/%D0%9F%D0%90%D0%97%20%200203260117%20(1).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ПАЗ 0203260117 (1).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1d:["$","a","https://m-ets.ru/download/268358376/%D0%93%D0%90%D0%97%203302%20%200303260300%20(1).pdf",{"href":"https://m-ets.ru/download/268358376/%D0%93%D0%90%D0%97%203302%20%200303260300%20(1).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ГАЗ 3302 0303260300 (1).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1e:["$","a","https://m-ets.ru/download/268358378/%D0%A1%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/268358378/%D0%A1%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","СТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1f:["$","a","https://m-ets.ru/download/268358380/%D0%A1%D0%A2%D0%A1%20%D0%93%D0%90%D0%97.pdf",{"href":"https://m-ets.ru/download/268358380/%D0%A1%D0%A2%D0%A1%20%D0%93%D0%90%D0%97.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","СТС ГАЗ.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+20:["$","a","https://m-ets.ru/download/268358382/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%9F%D0%90%D0%97%20%D0%9D373%D0%9D%D0%9A10.pdf",{"href":"https://m-ets.ru/download/268358382/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%9F%D0%90%D0%97%20%D0%9D373%D0%9D%D0%9A10.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Фото ПАЗ Н373НК10.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+21:["$","a","https://m-ets.ru/download/268358384/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%93%D0%90%D0%97%20%D0%9A661%D0%A1%D0%A110.pdf",{"href":"https://m-ets.ru/download/268358384/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%93%D0%90%D0%97%20%D0%9A661%D0%A1%D0%A110.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Фото ГАЗ К661СС10.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+22:["$","a","https://m-ets.ru/download/268358386/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D0%B1%D0%B5%D0%B7%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0).docx",{"href":"https://m-ets.ru/download/268358386/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D0%B1%D0%B5%D0%B7%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП на ЭТП (ТС без залога).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+23:["$","a","https://m-ets.ru/download/268358489/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268358489/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"ПАЗ 320402-05, 2013 года — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,196 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--225436-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--225436-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--225436-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=63","children":"Самарская обл."}]]]}],["$","h1",null,{"children":"Гараж 19,4 кв.м. и земельный участок 22 кв.м. в Самарской обл."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Состоялся"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Прочие постройки"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268460665/268460665_thumb_0.jpg","alt":"Гараж 19,4 кв.м. и земельный участок 22 кв.м. в Самарской обл."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268460667/268460667_thumb_0.jpg",{"href":"https://m-ets.ru/download/268460667/268460667_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268460667/268460667_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268460668/268460668_thumb_0.jpg",{"href":"https://m-ets.ru/download/268460668/268460668_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268460668/268460668_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268460666/268460666_thumb_0.jpg",{"href":"https://m-ets.ru/download/268460666/268460666_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268460666/268460666_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268460664/268460664_thumb_0.jpg",{"href":"https://m-ets.ru/download/268460664/268460664_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268460664/268460664_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"нежилое здание, площадь: 19,4кв.м., кадастровый номер: 63:05:0105028:470 и земельный участок , площадь: 22кв.м., категория земель: Земли населенных пунктов, разрешенное использование: Для гаража, кадастровый номер: 63:05:0105028:94 , Адрес (местоположение): Российская Федерация, Самарская область, городской округ Октябрьск, г. Октябрьск, территория ГМ № 44, строение № 1137"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24027824",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Самарской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["26.11.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Российская Федерация, Самарская область, городской округ Октябрьск, г. Октябрьск, территория ГМ № 44, строение № 1137, предварительно согласовав время с Финансовым управляющим по тел. +79191263160, либо путем направления запроса на электронную почту samonina_ve@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. ... Показать полностью Во избежание претензий к Арбитражному управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",""]}]]}]]}]}]]}],"$L11","$L12","$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 09:00 (МСК)"," —"," ","14 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"162 000 ₽"}],["$","td",null,{"children":"16 200 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["14 авг. 2026 г., 09:00 (МСК)"," —"," ","18 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"137 700 ₽"}],["$","td",null,{"children":"13 770 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["18 авг. 2026 г., 09:00 (МСК)"," —"," ","22 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"113 400 ₽"}],["$","td",null,{"children":"11 340 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["22 авг. 2026 г., 09:00 (МСК)"," —"," ","26 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"89 100 ₽"}],["$","td",null,{"children":"8 910 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 09:00 (МСК)"," —"," ","30 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"64 800 ₽"}],["$","td",null,{"children":"6 480 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["30 авг. 2026 г., 09:00 (МСК)"," —"," ","3 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"40 500 ₽"}],["$","td",null,{"children":"4 050 ₽"}]]}],["$","tr","7",{"className":"now","children":[["$","td",null,{"children":["3 сент. 2026 г., 09:00 (МСК)"," —"," ","7 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"40 000 ₽"}],["$","td",null,{"children":"4 000 ₽"}]]}]]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Перерва Максим Сергеевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=632514892140","children":"Перерва Максим Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","632514892140"]}],"$undefined"]}]]}],["$","tr","manager:Самонина Валерия Эдуардовна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=744845313477","children":"Самонина Валерия Эдуардовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","744845313477"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:Самонина Валерия Эдуардовна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=744845313477","children":"Самонина Валерия Эдуардовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","744845313477"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9055-37358%2F2025","children":"А55-37358/2025"}]}]]}]]}]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Самарская область"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268912073/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20225436-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268912073/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20225436-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 225436-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268912075/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20225436-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268912075/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20225436-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 225436-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268460670/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80.pdf",{"href":"https://m-ets.ru/download/268460670/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","АУ Положение о реализации имущества свыше 100т.р.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268460672/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%20%D0%B1%D0%B5%D0%B7%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0.docx",{"href":"https://m-ets.ru/download/268460672/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%20%D0%B1%D0%B5%D0%B7%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП недвиж без залога.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268460740/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268460740/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":["$L17","$L18"]}]]}]]}]
+19:T22d5,{
+  "id": "etp-mets:225436-1",
+  "sourceCode": "etp-mets",
+  "externalId": "225436-1",
+  "sourceUrl": "https://m-ets.ru/225436-1",
+  "title": "Гараж 19,4 кв.м. и земельный участок 22 кв.м. в Самарской обл.",
+  "description": "нежилое здание, площадь: 19,4кв.м., кадастровый номер: 63:05:0105028:470 и земельный участок , площадь: 22кв.м., категория земель: Земли населенных пунктов, разрешенное использование: Для гаража, кадастровый номер: 63:05:0105028:94 , Адрес (местоположение): Российская Федерация, Самарская область, городской округ Октябрьск, г. Октябрьск, территория ГМ № 44, строение № 1137",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "finished",
+  "statusRaw": "Торги завершены",
+  "kind": "land",
+  "categoryCode": "39",
+  "categoryName": "Прочие постройки",
+  "regionCode": "63",
+  "address": "Самарская область",
+  "priceStart": "162000",
+  "priceMin": "40000.00",
+  "deposit": "16200.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-03T00:00:00+03:00",
+  "biddStartAt": "2026-08-10T09:00:00+03:00",
+  "biddEndAt": "2026-09-07T09:00:00+03:00",
+  "auctionAt": "2026-09-07T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А55-37358/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Перерва Максим Сергеевич",
+      "inn": "632514892140",
+      "efrsbId": "4e59add8a38cc96961c465cba68bc0ac"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Самонина Валерия Эдуардовна",
+      "inn": "744845313477",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Самонина Валерия Эдуардовна",
+      "inn": "744845313477",
+      "email": "samonina_ve@mail.ru",
+      "phone": "+7 (919) 126 31 60"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-10T09:00:00+03:00",
+      "endAt": "2026-08-14T09:00:00+03:00",
+      "price": "162000.00",
+      "deposit": "16200.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-14T09:00:00+03:00",
+      "endAt": "2026-08-18T09:00:00+03:00",
+      "price": "137700.00",
+      "deposit": "13770.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-18T09:00:00+03:00",
+      "endAt": "2026-08-22T09:00:00+03:00",
+      "price": "113400.00",
+      "deposit": "11340.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-22T09:00:00+03:00",
+      "endAt": "2026-08-26T09:00:00+03:00",
+      "price": "89100.00",
+      "deposit": "8910.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-26T09:00:00+03:00",
+      "endAt": "2026-08-30T09:00:00+03:00",
+      "price": "64800.00",
+      "deposit": "6480.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-30T09:00:00+03:00",
+      "endAt": "2026-09-03T09:00:00+03:00",
+      "price": "40500.00",
+      "deposit": "4050.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-03T09:00:00+03:00",
+      "endAt": "2026-09-07T09:00:00+03:00",
+      "price": "40000.00",
+      "deposit": "4000.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268460665/268460665_thumb_0.jpg",
+    "https://m-ets.ru/download/268460667/268460667_thumb_0.jpg",
+    "https://m-ets.ru/download/268460668/268460668_thumb_0.jpg",
+    "https://m-ets.ru/download/268460666/268460666_thumb_0.jpg",
+    "https://m-ets.ru/download/268460664/268460664_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268912073/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20225436-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Протокол определения участников торгов 225436-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268912075/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20225436-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 225436-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268460670/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80.pdf",
+      "name": "АУ Положение о реализации имущества свыше 100т.р.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268460672/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%20%D0%B1%D0%B5%D0%B7%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0.docx",
+      "name": "Проект ДКП недвиж без залога.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268460740/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24027824",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Самарской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "26.11.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Российская Федерация, Самарская область, городской округ Октябрьск, г. Октябрьск, территория ГМ № 44, строение № 1137, предварительно согласовав время с Финансовым управляющим по тел. +79191263160, либо путем направления запроса на электронную почту samonina_ve@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. ... Показать полностью Во избежание претензий к Арбитражному управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:05:28.483Z",
+  "lastSeenAt": "2026-08-31T18:05:28.483Z",
+  "contentHash": "dd1f3f70e10aad1931c215655234c6d2917c9cfeb6578cbbbd84dc0b8b6fd48c"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"40 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"162 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"16 200 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"2 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"10 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"hot","children":"7 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"hot","children":"1 день"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"7 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Самарская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/225436-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+17:["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}]
+18:["$","span",null,{"className":"size","children":"$undefined"}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Гараж 19,4 кв.м. и земельный участок 22 кв.м. в Самарской обл. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,192 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--222074-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--222074-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--222074-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=26","children":"Ставропольский край"}]]]}],["$","h1",null,{"children":"Земельный участок в Ставропольском крае, 1200 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок, общей площадью 1 200 кв.м., расположенный по адресу: Ставропольский край, Георгиевский р-н, ст-ца Лысогорская, д. 25, с кадастровым номером: 26:25:081512:120 . Имущество находится в залоге у ПАО СБЕРБАНК, реализовывается в соответствии с утвержденным положением о порядке, сроках и условиях продажи имущества Никогосян Э.Р. от 20.04.2026"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23806567",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Решение Арбитражного суда Новосибирской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["20.10.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге у ПАО СБЕРБАНК, реализовывается в соответствии с утвержденным положением о порядке, сроках и условиях продажи имущества Никогосян Э.Р. от 20.04.2026 В отношении указанного имущества могут возникать запреты на регистрационные действия, наложенные приставами. В случае их возникновения данные запреты снимаются покупателем самостоятельно после приобретения имущества.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом проводится в месте нахождения имущества по предварительной договоренности, один раз в неделю. Заявки на ознакомление финансовому управляющему с приложением копии паспорта лица, кто будет ознакамливаться, также направляются по адресу: 630102, г. Новосибирск, а/я 67. эл. почта: golotvines@gmail.com, к.т. 8-923-496-5142",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["20 июл. 2026 г., 12:00 (МСК)"," —"," ","27 июл. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"760 500 ₽"}],["$","td",null,{"children":"76 050 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["27 июл. 2026 г., 12:00 (МСК)"," —"," ","3 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"722 475 ₽"}],["$","td",null,{"children":"72 247,50 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 12:00 (МСК)"," —"," ","10 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"684 450 ₽"}],["$","td",null,{"children":"68 445 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 12:00 (МСК)"," —"," ","17 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"646 425 ₽"}],["$","td",null,{"children":"64 642,50 ₽"}]]}],"$L11","$L12","$L13"]}]]}]]}],"$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","tr","5",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 12:00 (МСК)"," —"," ","24 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"608 400 ₽"}],["$","td",null,{"children":"60 840 ₽"}]]}]
+12:["$","tr","6",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 12:00 (МСК)"," —"," ","31 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"570 375 ₽"}],["$","td",null,{"children":"57 037,50 ₽"}]]}]
+13:["$","tr","7",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 12:00 (МСК)"," —"," ","7 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"532 350 ₽"}],["$","td",null,{"children":"53 235 ₽"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Никогосян Эрик Робертович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=540440342075","children":"Никогосян Эрик Робертович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","540440342075"]}],"$undefined"]}]]}],["$","tr","manager:Голотвин Егор Сергеевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=420540768626","children":"Голотвин Егор Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","420540768626"]}],["$","span",null,{"className":"muted","children":[" · ","Союз \"СРО АУ СЗ\""]}]]}]]}],["$","tr","organizer:Голотвин Егор Сергеевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=420540768626","children":"Голотвин Егор Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","420540768626"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9045-32584%2F2025","children":"А45-32584/2025"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Ставропольский край"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268191078/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B8%D0%BA%D0%BE%D0%B3%D0%BE%D1%81%D1%8F%D0%BD_%D1%84%D1%83%20(1).pdf",{"href":"https://m-ets.ru/download/268191078/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B8%D0%BA%D0%BE%D0%B3%D0%BE%D1%81%D1%8F%D0%BD_%D1%84%D1%83%20(1).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","положение_Никогосян_фу (1).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268191080/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B0.pdf",{"href":"https://m-ets.ru/download/268191080/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_зем_участка.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268191082/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%202%20(1).pdf",{"href":"https://m-ets.ru/download/268191082/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%202%20(1).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 2 (1).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268191219/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268191219/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+19:T1e6d,{
+  "id": "etp-mets:222074-1",
+  "sourceCode": "etp-mets",
+  "externalId": "222074-1",
+  "sourceUrl": "https://m-ets.ru/222074-1",
+  "title": "Земельный участок в Ставропольском крае, 1200 кв.м.",
+  "description": "Земельный участок, общей площадью 1 200 кв.м., расположенный по адресу: Ставропольский край, Георгиевский р-н, ст-ца Лысогорская, д. 25, с кадастровым номером: 26:25:081512:120 . Имущество находится в залоге у ПАО СБЕРБАНК, реализовывается в соответствии с утвержденным положением о порядке, сроках и условиях продажи имущества Никогосян Э.Р. от 20.04.2026",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "26",
+  "address": "Ставропольский край",
+  "priceStart": "760500",
+  "priceMin": "532350.00",
+  "deposit": "76050.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-17T00:00:00+03:00",
+  "biddStartAt": "2026-07-20T12:00:00+03:00",
+  "biddEndAt": "2026-09-07T12:00:00+03:00",
+  "auctionAt": "2026-09-07T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А45-32584/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Никогосян Эрик Робертович",
+      "inn": "540440342075",
+      "efrsbId": "a88c6e6f470d0a38ef0443e804759523"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Голотвин Егор Сергеевич",
+      "inn": "420540768626",
+      "sro": "Союз \"СРО АУ СЗ\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Голотвин Егор Сергеевич",
+      "inn": "420540768626",
+      "email": "golotvines@gmail.com",
+      "phone": "+7 (923) 496 51 42"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-20T12:00:00+03:00",
+      "endAt": "2026-07-27T12:00:00+03:00",
+      "price": "760500.00",
+      "deposit": "76050.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-27T12:00:00+03:00",
+      "endAt": "2026-08-03T12:00:00+03:00",
+      "price": "722475.00",
+      "deposit": "72247.50"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-03T12:00:00+03:00",
+      "endAt": "2026-08-10T12:00:00+03:00",
+      "price": "684450.00",
+      "deposit": "68445.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-10T12:00:00+03:00",
+      "endAt": "2026-08-17T12:00:00+03:00",
+      "price": "646425.00",
+      "deposit": "64642.50"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-17T12:00:00+03:00",
+      "endAt": "2026-08-24T12:00:00+03:00",
+      "price": "608400.00",
+      "deposit": "60840.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-24T12:00:00+03:00",
+      "endAt": "2026-08-31T12:00:00+03:00",
+      "price": "570375.00",
+      "deposit": "57037.50"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-31T12:00:00+03:00",
+      "endAt": "2026-09-07T12:00:00+03:00",
+      "price": "532350.00",
+      "deposit": "53235.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268191078/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9D%D0%B8%D0%BA%D0%BE%D0%B3%D0%BE%D1%81%D1%8F%D0%BD_%D1%84%D1%83%20(1).pdf",
+      "name": "положение_Никогосян_фу (1).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268191080/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B0.pdf",
+      "name": "Проект_договора_купли_продажи_зем_участка.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268191082/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%202%20(1).pdf",
+      "name": "Выписка из ЕГРН 2 (1).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268191219/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23806567",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Решение Арбитражного суда Новосибирской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "20.10.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге у ПАО СБЕРБАНК, реализовывается в соответствии с утвержденным положением о порядке, сроках и условиях продажи имущества Никогосян Э.Р. от 20.04.2026 В отношении указанного имущества могут возникать запреты на регистрационные действия, наложенные приставами. В случае их возникновения данные запреты снимаются покупателем самостоятельно после приобретения имущества.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом проводится в месте нахождения имущества по предварительной договоренности, один раз в неделю. Заявки на ознакомление финансовому управляющему с приложением копии паспорта лица, кто будет ознакамливаться, также направляются по адресу: 630102, г. Новосибирск, а/я 67. эл. почта: golotvines@gmail.com, к.т. 8-923-496-5142",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:57:58.434Z",
+  "lastSeenAt": "2026-08-31T18:57:58.434Z",
+  "contentHash": "fb83afbe49984015c74c16097f2c7bd0bff605f5b97d418f872fecafd05824f3"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"532 350 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"760 500 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"76 050 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"16 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"20 июл. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"hot","children":"7 сент. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"hot","children":"1 день"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"7 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Ставропольский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/222074-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Ставропольском крае, 1200 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

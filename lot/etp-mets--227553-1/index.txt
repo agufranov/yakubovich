@@ -1,0 +1,146 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--227553-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--227553-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--227553-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=27","children":"Хабаровский край"}]]]}],["$","h1",null,{"children":"Квартира в Амурске, 42,9 кв.м, 3 комн."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Квартира"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Трёхкомнатная квартира, квартира общей площадью 42,9 кв. м., с кадастровым номером 27:18:0000012:865 , расположенная по адресу: Хабаровский край, город Амурск, Комсомольский проспект, д. 32, кв. 39"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24166452",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Хабаровского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["27.10.2025",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["66 750 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: находится в залоге у ПАО \"ДОМ.РФ\", Ипотека в силу закона № 27:18:0000012:865-27/020/2023-3 от 25.05.2023 г.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Для получения всей имеющейся информации о лоте (в том числе фото) необходимо направить запрос на адрес эл. почты (в теме письма указать ФИО должника): rudnichenko.torg2025@yandex.ru либо по телефону +79132116832 Обращаю внимание, что на имущество зарегистрированы следующие ограничения: находится в залоге у ПАО \"ДОМ.РФ\", Ипотека в силу закона № 27:18:0000012:865-27/020/2023-3 от 25.05.2023 г. Объект ... Показать полностью недвижимости, в связи с отсутствием доступа внутрь жилого помещения, передается покупателю по передаточному акту без ключей от входной двери. Информация о зарегистрированных в квартире отсутствует. В связи с отсутствием доступа в помещение, возможен только внешний (со стороны улицы), самостоятельный осмотр Имущества по месту его нахождения, без возможности внутреннего осмотра. Доступ к имуществу (смена замков, передача личных вещей бывшему собственнику и т.д.) после перехода права собственности осуществляется покупателем своими силами и за свой счет.",""]}]]}]]}]}]]}],"$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Батурина Анжелика Ивановна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=810301018024","children":"Батурина Анжелика Ивановна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","810301018024"]}],"$undefined"]}]]}],["$","tr","manager:Пасько Ольга Николаевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=775107525349","children":"Пасько Ольга Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","775107525349"]}],["$","span",null,{"className":"muted","children":[" · ","АПАУ \"Гарант\""]}]]}]]}],"$L11","$L12"],"$L13"]}]}]]}],"$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","tr","organizer:Пасько Ольга Николаевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=775107525349","children":"Пасько Ольга Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","775107525349"]}],"$undefined"]}]]}]
+12:["$","tr","pledgee:ПАО ДОМ.РФ",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7729355614","children":"ПАО ДОМ.РФ"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7729355614"]}],"$undefined"]}]]}]
+13:["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9073-16193%2F2025","children":"А73-16193/2025"}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Хабаровский край"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268634543/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268634543/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268634545/%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx",{"href":"https://m-ets.ru/download/268634545/%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДКП недвижимого имущества.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268634547/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%B0%D1%82%D1%83%D1%80%D0%B8%D0%BD%D0%B0%20%D0%90_%D0%98.pdf",{"href":"https://m-ets.ru/download/268634547/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%B0%D1%82%D1%83%D1%80%D0%B8%D0%BD%D0%B0%20%D0%90_%D0%98.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","положение_Батурина А_И.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268634549/%D0%9E%D0%9F%D0%A0%D0%95%D0%94%D0%95%D0%9B%D0%95%D0%9D%D0%98%D0%95%20%D0%BE%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%BE%D0%B2%20%D0%BE%D1%82%2005%20%D0%BC%D0%B0%D1%80%D1%82%D0%B0%202026%20%D0%B3%D0%BE%D0%B4%D0%B0.pdf",{"href":"https://m-ets.ru/download/268634549/%D0%9E%D0%9F%D0%A0%D0%95%D0%94%D0%95%D0%9B%D0%95%D0%9D%D0%98%D0%95%20%D0%BE%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%BE%D0%B2%20%D0%BE%D1%82%2005%20%D0%BC%D0%B0%D1%80%D1%82%D0%B0%202026%20%D0%B3%D0%BE%D0%B4%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ОПРЕДЕЛЕНИЕ о включении требований в реестр требований кредиторов от 05 марта 2026 года.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T1ca0,{
+  "id": "etp-mets:227553-1",
+  "sourceCode": "etp-mets",
+  "externalId": "227553-1",
+  "sourceUrl": "https://m-ets.ru/227553-1",
+  "title": "Квартира в Амурске, 42,9 кв.м, 3 комн.",
+  "description": "Трёхкомнатная квартира, квартира общей площадью 42,9 кв. м., с кадастровым номером 27:18:0000012:865 , расположенная по адресу: Хабаровский край, город Амурск, Комсомольский проспект, д. 32, кв. 39",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "36",
+  "categoryName": "Квартира",
+  "regionCode": "27",
+  "address": "Хабаровский край",
+  "priceStart": "1335000",
+  "priceStep": "66750",
+  "deposit": "133500",
+  "currency": "RUB",
+  "publishedAt": "2026-08-12T00:00:00+03:00",
+  "biddStartAt": "2026-08-13T09:00:00+03:00",
+  "biddEndAt": "2026-09-17T09:00:00+03:00",
+  "auctionAt": "2026-09-21T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А73-16193/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Батурина Анжелика Ивановна",
+      "inn": "810301018024",
+      "efrsbId": "1e8e7a864046171b4704eacf562ec580"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Пасько Ольга Николаевна",
+      "inn": "775107525349",
+      "sro": "АПАУ \"Гарант\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Пасько Ольга Николаевна",
+      "inn": "775107525349",
+      "email": "pasko.arbitr@mail.ru",
+      "phone": "+7 (916) 909 71 81"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО ДОМ.РФ",
+      "inn": "7729355614"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268634543/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268634545/%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx",
+      "name": "ДКП недвижимого имущества.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268634547/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%B0%D1%82%D1%83%D1%80%D0%B8%D0%BD%D0%B0%20%D0%90_%D0%98.pdf",
+      "name": "положение_Батурина А_И.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268634549/%D0%9E%D0%9F%D0%A0%D0%95%D0%94%D0%95%D0%9B%D0%95%D0%9D%D0%98%D0%95%20%D0%BE%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%BE%D0%B2%20%D0%BE%D1%82%2005%20%D0%BC%D0%B0%D1%80%D1%82%D0%B0%202026%20%D0%B3%D0%BE%D0%B4%D0%B0.pdf",
+      "name": "ОПРЕДЕЛЕНИЕ о включении требований в реестр требований кредиторов от 05 марта 2026 года.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24166452",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Хабаровского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "27.10.2025",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "66 750 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: находится в залоге у ПАО \"ДОМ.РФ\", Ипотека в силу закона № 27:18:0000012:865-27/020/2023-3 от 25.05.2023 г.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Для получения всей имеющейся информации о лоте (в том числе фото) необходимо направить запрос на адрес эл. почты (в теме письма указать ФИО должника): rudnichenko.torg2025@yandex.ru либо по телефону +79132116832 Обращаю внимание, что на имущество зарегистрированы следующие ограничения: находится в залоге у ПАО \"ДОМ.РФ\", Ипотека в силу закона № 27:18:0000012:865-27/020/2023-3 от 25.05.2023 г. Объект ... Показать полностью недвижимости, в связи с отсутствием доступа внутрь жилого помещения, передается покупателю по передаточному акту без ключей от входной двери. Информация о зарегистрированных в квартире отсутствует. В связи с отсутствием доступа в помещение, возможен только внешний (со стороны улицы), самостоятельный осмотр Имущества по месту его нахождения, без возможности внутреннего осмотра. Доступ к имуществу (смена замков, передача личных вещей бывшему собственнику и т.д.) после перехода права собственности осуществляется покупателем своими силами и за свой счет.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:19:41.735Z",
+  "lastSeenAt": "2026-08-31T18:19:41.735Z",
+  "contentHash": "1366d014f5147404ef9cf99304c5542416859d58ccf0298b9cef8717271b5ba2"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 335 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"66 750 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"133 500 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"11 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"13 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"17 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"11 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"21 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Хабаровский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/227553-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Квартира в Амурске, 42,9 кв.м, 3 комн. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

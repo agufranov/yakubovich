@@ -1,0 +1,230 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230957-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230957-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230957-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=38","children":"Иркутская обл."}]]]}],["$","h1",null,{"children":"1/4 доля квартиры в Иркутской обл."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Квартира"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"¼ доли в праве на жилое помещение (квартира) кад.№ 38:02:030101:1326 , общей площадью 49кв.м, адрес: Иркутская обл., Братский р-н, с.Кобляково, ул.Новая, д.4, кв.1. Квартира оснащена печным отоплением, электричеством"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24401775",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Иркутской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["28.08.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомиться с документами по имуществу и правилами проведения торгов можно у организатора торгов по адресу: г.Иркутск, ул. Дальневосточная, 55Б-1. тел. 8964-35-95-306, e-mail: analitikaliga@mail.ru. Ефаров Андрей Владимирович тел.+7(914) 010-04-01",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["30 авг. 2026 г., 00:00 (МСК)"," —"," ","4 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"45 000 ₽"}],["$","td",null,{"children":"4 500 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["4 сент. 2026 г., 00:00 (МСК)"," —"," ","9 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"42 750 ₽"}],["$","td",null,{"children":"4 275 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["9 сент. 2026 г., 00:00 (МСК)"," —"," ","14 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"40 500 ₽"}],["$","td",null,{"children":"4 050 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 00:00 (МСК)"," —"," ","19 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"38 250 ₽"}],["$","td",null,{"children":"3 825 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["19 сент. 2026 г., 00:00 (МСК)"," —"," ","24 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"36 000 ₽"}],["$","td",null,{"children":"3 600 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["24 сент. 2026 г., 00:00 (МСК)"," —"," ","29 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"33 750 ₽"}],["$","td",null,{"children":"3 375 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["29 сент. 2026 г., 00:00 (МСК)"," —"," ","4 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"31 500 ₽"}],["$","td",null,{"children":"3 150 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["4 окт. 2026 г., 00:00 (МСК)"," —"," ","9 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"29 250 ₽"}],["$","td",null,{"children":"2 925 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["9 окт. 2026 г., 00:00 (МСК)"," —"," ","14 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"27 000 ₽"}],"$L11"]}],"$L12","$L13","$L14","$L15"]}]]}]]}],"$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","td",null,{"children":"2 700 ₽"}]
+12:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["14 окт. 2026 г., 00:00 (МСК)"," —"," ","19 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"24 750 ₽"}],["$","td",null,{"children":"2 475 ₽"}]]}]
+13:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["19 окт. 2026 г., 00:00 (МСК)"," —"," ","24 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"22 500 ₽"}],["$","td",null,{"children":"2 250 ₽"}]]}]
+14:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["24 окт. 2026 г., 00:00 (МСК)"," —"," ","29 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"20 250 ₽"}],["$","td",null,{"children":"2 025 ₽"}]]}]
+15:["$","tr","13",{"className":"","children":[["$","td",null,{"children":["29 окт. 2026 г., 00:00 (МСК)"," —"," ","3 нояб. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"18 000 ₽"}],["$","td",null,{"children":"1 800 ₽"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Ефаров Андрей Владимирович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=380507810403","children":"Ефаров Андрей Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","380507810403"]}],"$undefined"]}]]}],["$","tr","manager:Лопина Ольга Борисовна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=381000581282","children":"Лопина Ольга Борисовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","381000581282"]}],["$","span",null,{"className":"muted","children":[" · ","МСО ПАУ"]}]]}]]}],["$","tr","organizer:Лопина Ольга Борисовна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=381000581282","children":"Лопина Ольга Борисовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","381000581282"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9019-24172%2F2023","children":"А19-24172/2023"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Иркутская область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268902142/25_169_%D0%B5%D1%84%D0%B0%D1%80%D0%BE%D0%B2.pdf",{"href":"https://m-ets.ru/download/268902142/25_169_%D0%B5%D1%84%D0%B0%D1%80%D0%BE%D0%B2.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","25_169_ефаров.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268902144/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9E%20%D0%97%D0%90%D0%94%D0%90%D0%A2%D0%9A%D0%95.pdf",{"href":"https://m-ets.ru/download/268902144/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9E%20%D0%97%D0%90%D0%94%D0%90%D0%A2%D0%9A%D0%95.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДОГОВОР О ЗАДАТКЕ.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268902146/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5.pdf",{"href":"https://m-ets.ru/download/268902146/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о продаже.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268902148/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268902148/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","проект ДКП недвижимого имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T1af4,{
+  "id": "etp-mets:230957-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230957-1",
+  "sourceUrl": "https://m-ets.ru/230957-1",
+  "title": "1/4 доля квартиры в Иркутской обл.",
+  "description": "¼ доли в праве на жилое помещение (квартира) кад.№ 38:02:030101:1326 , общей площадью 49кв.м, адрес: Иркутская обл., Братский р-н, с.Кобляково, ул.Новая, д.4, кв.1. Квартира оснащена печным отоплением, электричеством",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "36",
+  "categoryName": "Квартира",
+  "regionCode": "38",
+  "address": "Иркутская область",
+  "priceStart": "45000",
+  "priceMin": "18000.00",
+  "deposit": "4500.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-29T00:00:00+03:00",
+  "biddStartAt": "2026-08-30T00:00:00+03:00",
+  "biddEndAt": "2026-11-03T00:00:00+03:00",
+  "auctionAt": "2026-11-03T00:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А19-24172/2023",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Ефаров Андрей Владимирович",
+      "inn": "380507810403",
+      "efrsbId": "9c5b1730f846a6e9ff24f4517d221490"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Лопина Ольга Борисовна",
+      "inn": "381000581282",
+      "sro": "МСО ПАУ"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Лопина Ольга Борисовна",
+      "inn": "381000581282",
+      "email": "analitikaliga@mail.ru",
+      "phone": "+7 (964) 359 53 06"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-30T00:00:00+03:00",
+      "endAt": "2026-09-04T00:00:00+03:00",
+      "price": "45000.00",
+      "deposit": "4500.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-04T00:00:00+03:00",
+      "endAt": "2026-09-09T00:00:00+03:00",
+      "price": "42750.00",
+      "deposit": "4275.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-09T00:00:00+03:00",
+      "endAt": "2026-09-14T00:00:00+03:00",
+      "price": "40500.00",
+      "deposit": "4050.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-14T00:00:00+03:00",
+      "endAt": "2026-09-19T00:00:00+03:00",
+      "price": "38250.00",
+      "deposit": "3825.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-19T00:00:00+03:00",
+      "endAt": "2026-09-24T00:00:00+03:00",
+      "price": "36000.00",
+      "deposit": "3600.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-24T00:00:00+03:00",
+      "endAt": "2026-09-29T00:00:00+03:00",
+      "price": "33750.00",
+      "deposit": "3375.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-29T00:00:00+03:00",
+      "endAt": "2026-10-04T00:00:00+03:00",
+      "price": "31500.00",
+      "deposit": "3150.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-04T00:00:00+03:00",
+      "endAt": "2026-10-09T00:00:00+03:00",
+      "price": "29250.00",
+      "deposit": "2925.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-09T00:00:00+03:00",
+      "endAt": "2026-10-14T00:00:00+03:00",
+      "price": "27000.00",
+      "deposit": "2700.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-10-14T00:00:00+03:00",
+      "endAt": "2026-10-19T00:00:00+03:00",
+      "price": "24750.00",
+      "deposit": "2475.00"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-10-19T00:00:00+03:00",
+      "endAt": "2026-10-24T00:00:00+03:00",
+      "price": "22500.00",
+      "deposit": "2250.00"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-10-24T00:00:00+03:00",
+      "endAt": "2026-10-29T00:00:00+03:00",
+      "price": "20250.00",
+      "deposit": "2025.00"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-10-29T00:00:00+03:00",
+      "endAt": "2026-11-03T00:00:00+03:00",
+      "price": "18000.00",
+      "deposit": "1800.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268902142/25_169_%D0%B5%D1%84%D0%B0%D1%80%D0%BE%D0%B2.pdf",
+      "name": "25_169_ефаров.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268902144/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9E%20%D0%97%D0%90%D0%94%D0%90%D0%A2%D0%9A%D0%95.pdf",
+      "name": "ДОГОВОР О ЗАДАТКЕ.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268902146/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5.pdf",
+      "name": "Положение о продаже.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268902148/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "проект ДКП недвижимого имущества.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24401775",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Иркутской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "28.08.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомиться с документами по имуществу и правилами проведения торгов можно у организатора торгов по адресу: г.Иркутск, ул. Дальневосточная, 55Б-1. тел. 8964-35-95-306, e-mail: analitikaliga@mail.ru. Ефаров Андрей Владимирович тел.+7(914) 010-04-01",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:28:57.176Z",
+  "lastSeenAt": "2026-08-31T19:28:57.176Z",
+  "contentHash": "5c9b07e90b97db924a7075aeb7c6e03542497ddd3056e9d565144ac11b03b881"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"42 750 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["40 500 ₽",["$","span",null,{"className":"muted","children":[" ","· ","9 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[11,", до ","18 000 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"45 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"4 500 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"28 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"30 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"3 нояб. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"58 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"3 нояб. 2026 г., 00:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Иркутская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230957-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"1/4 доля квартиры в Иркутской обл. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

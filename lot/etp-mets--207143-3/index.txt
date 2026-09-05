@@ -1,0 +1,307 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--207143-3",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--207143-3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--207143-3","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=69","children":"Тверская обл."}]]]}],["$","h1",null,{"children":"Земельный участок в Тверской обл., 33000 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Тверская область, р-н. Кимрский, с/п. Стоянцевское, д. Лосевка, кадастровый (условный) номер: 69:14:0000016:144"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["22670475",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Москвы",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["18.07.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с документами по имуществу, с имуществом осуществляет финансовый управляющий (его представитель) в рабочие дни по предварительной договоренности по тел.: 8(926)-574-97-04, эл. почта: martynov.torgi@gmail.com. Место нахождения имущества по адресу: Тверская область, р-н. Кимрский, с/п. Стоянцевское, д. Лосево",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["30 апр. 2026 г., 10:00 (МСК)"," —"," ","7 мая 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"205 227 ₽"}],["$","td",null,{"children":"20 522,70 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["7 мая 2026 г., 10:00 (МСК)"," —"," ","14 мая 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"194 965,65 ₽"}],["$","td",null,{"children":"19 496,57 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["14 мая 2026 г., 10:00 (МСК)"," —"," ","21 мая 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"184 704,30 ₽"}],["$","td",null,{"children":"18 470,43 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["21 мая 2026 г., 10:00 (МСК)"," —"," ","28 мая 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"174 442,95 ₽"}],["$","td",null,{"children":"17 444,30 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["28 мая 2026 г., 10:00 (МСК)"," —"," ","4 июн. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"164 181,60 ₽"}],["$","td",null,{"children":"16 418,16 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["4 июн. 2026 г., 10:00 (МСК)"," —"," ","11 июн. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"153 920,25 ₽"}],["$","td",null,{"children":"15 392,03 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["11 июн. 2026 г., 10:00 (МСК)"," —"," ","18 июн. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"143 658,90 ₽"}],["$","td",null,{"children":"14 365,89 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["18 июн. 2026 г., 10:00 (МСК)"," —"," ","25 июн. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"133 397,55 ₽"}],["$","td",null,{"children":"13 339,76 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["25 июн. 2026 г., 10:00 (МСК)"," —"," ","2 июл. 2026 г., 10:00 (МСК)"]}],"$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e"]}]]}]]}],"$L1f","$L20","$L21",false,"$L22"]}],"$L23"]}]]}]
+11:["$","td",null,{"children":"123 136,20 ₽"}]
+12:["$","td",null,{"children":"12 313,62 ₽"}]
+13:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["2 июл. 2026 г., 10:00 (МСК)"," —"," ","9 июл. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"112 874,85 ₽"}],["$","td",null,{"children":"11 287,49 ₽"}]]}]
+14:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["9 июл. 2026 г., 10:00 (МСК)"," —"," ","16 июл. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"102 613,50 ₽"}],["$","td",null,{"children":"10 261,35 ₽"}]]}]
+15:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["16 июл. 2026 г., 10:00 (МСК)"," —"," ","23 июл. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"92 352,15 ₽"}],["$","td",null,{"children":"9 235,22 ₽"}]]}]
+16:["$","tr","13",{"className":"","children":[["$","td",null,{"children":["23 июл. 2026 г., 10:00 (МСК)"," —"," ","30 июл. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"82 090,80 ₽"}],["$","td",null,{"children":"8 209,08 ₽"}]]}]
+17:["$","tr","14",{"className":"","children":[["$","td",null,{"children":["30 июл. 2026 г., 10:00 (МСК)"," —"," ","6 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"71 829,45 ₽"}],["$","td",null,{"children":"7 182,95 ₽"}]]}]
+18:["$","tr","15",{"className":"","children":[["$","td",null,{"children":["6 авг. 2026 г., 10:00 (МСК)"," —"," ","13 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"61 568,10 ₽"}],["$","td",null,{"children":"6 156,81 ₽"}]]}]
+19:["$","tr","16",{"className":"","children":[["$","td",null,{"children":["13 авг. 2026 г., 10:00 (МСК)"," —"," ","20 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"51 306,75 ₽"}],["$","td",null,{"children":"5 130,68 ₽"}]]}]
+1a:["$","tr","17",{"className":"","children":[["$","td",null,{"children":["20 авг. 2026 г., 10:00 (МСК)"," —"," ","27 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"41 045,40 ₽"}],["$","td",null,{"children":"4 104,54 ₽"}]]}]
+1b:["$","tr","18",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 10:00 (МСК)"," —"," ","3 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"30 784,05 ₽"}],["$","td",null,{"children":"3 078,41 ₽"}]]}]
+1c:["$","tr","19",{"className":"now","children":[["$","td",null,{"children":["3 сент. 2026 г., 10:00 (МСК)"," —"," ","10 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"20 522,70 ₽"}],["$","td",null,{"children":"2 052,27 ₽"}]]}]
+1d:["$","tr","20",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 10:00 (МСК)"," —"," ","17 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"10 261,35 ₽"}],["$","td",null,{"children":"1 026,14 ₽"}]]}]
+1e:["$","tr","21",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 10:00 (МСК)"," —"," ","24 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"10 000 ₽"}],["$","td",null,{"children":"1 000 ₽"}]]}]
+1f:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Данчук Михаил Романович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=390805671720","children":"Данчук Михаил Романович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","390805671720"]}],"$undefined"]}]]}],["$","tr","manager:Мартынов Вячеслав Васильевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=507503623311","children":"Мартынов Вячеслав Васильевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","507503623311"]}],["$","span",null,{"className":"muted","children":[" · ","ПАУ ЦФО"]}]]}]]}],["$","tr","organizer:Мартынов Вячеслав Васильевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=507503623311","children":"Мартынов Вячеслав Васильевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","507503623311"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-155885%2F2023","children":"А40-155885/2023"}]}]]}]]}]}]]}]
+20:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Тверская область"}]]}]
+21:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/266987375/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%2C%20%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%95%D0%93%D0%A0%D0%9D%20-27%D0%BB.pdf",{"href":"https://m-ets.ru/download/266987375/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%2C%20%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%95%D0%93%D0%A0%D0%9D%20-27%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение об оценке имущества должника, выписки ЕГРН -27л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/266988205/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%2C%20%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%95%D0%93%D0%A0%D0%9D%20-27%D0%BB.pdf",{"href":"https://m-ets.ru/download/266988205/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%2C%20%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%95%D0%93%D0%A0%D0%9D%20-27%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение об оценке имущества должника, выписки ЕГРН -27л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/266988466/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%2C%20%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%95%D0%93%D0%A0%D0%9D%20-27%D0%BB.pdf",{"href":"https://m-ets.ru/download/266988466/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%2C%20%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%95%D0%93%D0%A0%D0%9D%20-27%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение об оценке имущества должника, выписки ЕГРН -27л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/266987369/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/266987369/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":["$L24","$L25"]}],"$L26","$L27"]}]]}]
+28:T2859,{
+  "id": "etp-mets:207143-3",
+  "sourceCode": "etp-mets",
+  "externalId": "207143-3",
+  "sourceUrl": "https://m-ets.ru/207143-3",
+  "title": "Земельный участок в Тверской обл., 33000 кв.м.",
+  "description": "Тверская область, р-н. Кимрский, с/п. Стоянцевское, д. Лосевка, кадастровый (условный) номер: 69:14:0000016:144",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "69",
+  "address": "Тверская область",
+  "priceStart": "205227",
+  "priceMin": "10000.00",
+  "deposit": "20522.70",
+  "currency": "RUB",
+  "publishedAt": "2026-04-29T00:00:00+03:00",
+  "biddStartAt": "2026-04-30T10:00:00+03:00",
+  "biddEndAt": "2026-09-24T10:00:00+03:00",
+  "auctionAt": "2026-09-24T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-155885/2023",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Данчук Михаил Романович",
+      "inn": "390805671720",
+      "efrsbId": "aca1e6c43c0447aa61443831ea8b0b38"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Мартынов Вячеслав Васильевич",
+      "inn": "507503623311",
+      "sro": "ПАУ ЦФО"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Мартынов Вячеслав Васильевич",
+      "inn": "507503623311",
+      "email": "martynov.torgi@gmail.com",
+      "phone": "+7 (926) 574 97 04"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-04-30T10:00:00+03:00",
+      "endAt": "2026-05-07T10:00:00+03:00",
+      "price": "205227.00",
+      "deposit": "20522.70"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-05-07T10:00:00+03:00",
+      "endAt": "2026-05-14T10:00:00+03:00",
+      "price": "194965.65",
+      "deposit": "19496.57"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-05-14T10:00:00+03:00",
+      "endAt": "2026-05-21T10:00:00+03:00",
+      "price": "184704.30",
+      "deposit": "18470.43"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-05-21T10:00:00+03:00",
+      "endAt": "2026-05-28T10:00:00+03:00",
+      "price": "174442.95",
+      "deposit": "17444.30"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-05-28T10:00:00+03:00",
+      "endAt": "2026-06-04T10:00:00+03:00",
+      "price": "164181.60",
+      "deposit": "16418.16"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-06-04T10:00:00+03:00",
+      "endAt": "2026-06-11T10:00:00+03:00",
+      "price": "153920.25",
+      "deposit": "15392.03"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-06-11T10:00:00+03:00",
+      "endAt": "2026-06-18T10:00:00+03:00",
+      "price": "143658.90",
+      "deposit": "14365.89"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-06-18T10:00:00+03:00",
+      "endAt": "2026-06-25T10:00:00+03:00",
+      "price": "133397.55",
+      "deposit": "13339.76"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-06-25T10:00:00+03:00",
+      "endAt": "2026-07-02T10:00:00+03:00",
+      "price": "123136.20",
+      "deposit": "12313.62"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-07-02T10:00:00+03:00",
+      "endAt": "2026-07-09T10:00:00+03:00",
+      "price": "112874.85",
+      "deposit": "11287.49"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-07-09T10:00:00+03:00",
+      "endAt": "2026-07-16T10:00:00+03:00",
+      "price": "102613.50",
+      "deposit": "10261.35"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-07-16T10:00:00+03:00",
+      "endAt": "2026-07-23T10:00:00+03:00",
+      "price": "92352.15",
+      "deposit": "9235.22"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-07-23T10:00:00+03:00",
+      "endAt": "2026-07-30T10:00:00+03:00",
+      "price": "82090.80",
+      "deposit": "8209.08"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-07-30T10:00:00+03:00",
+      "endAt": "2026-08-06T10:00:00+03:00",
+      "price": "71829.45",
+      "deposit": "7182.95"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-08-06T10:00:00+03:00",
+      "endAt": "2026-08-13T10:00:00+03:00",
+      "price": "61568.10",
+      "deposit": "6156.81"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-08-13T10:00:00+03:00",
+      "endAt": "2026-08-20T10:00:00+03:00",
+      "price": "51306.75",
+      "deposit": "5130.68"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-08-20T10:00:00+03:00",
+      "endAt": "2026-08-27T10:00:00+03:00",
+      "price": "41045.40",
+      "deposit": "4104.54"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-08-27T10:00:00+03:00",
+      "endAt": "2026-09-03T10:00:00+03:00",
+      "price": "30784.05",
+      "deposit": "3078.41"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-09-03T10:00:00+03:00",
+      "endAt": "2026-09-10T10:00:00+03:00",
+      "price": "20522.70",
+      "deposit": "2052.27"
+    },
+    {
+      "no": 20,
+      "startAt": "2026-09-10T10:00:00+03:00",
+      "endAt": "2026-09-17T10:00:00+03:00",
+      "price": "10261.35",
+      "deposit": "1026.14"
+    },
+    {
+      "no": 21,
+      "startAt": "2026-09-17T10:00:00+03:00",
+      "endAt": "2026-09-24T10:00:00+03:00",
+      "price": "10000.00",
+      "deposit": "1000.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/266987375/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%2C%20%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%95%D0%93%D0%A0%D0%9D%20-27%D0%BB.pdf",
+      "name": "Решение об оценке имущества должника, выписки ЕГРН -27л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/266988205/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%2C%20%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%95%D0%93%D0%A0%D0%9D%20-27%D0%BB.pdf",
+      "name": "Решение об оценке имущества должника, выписки ЕГРН -27л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/266988466/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%2C%20%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%D0%95%D0%93%D0%A0%D0%9D%20-27%D0%BB.pdf",
+      "name": "Решение об оценке имущества должника, выписки ЕГРН -27л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/266987369/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/266987371/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20)..pdf",
+      "name": "Договор купли-продажи недвижимого имущества (проект )..pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/266987373/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%94%D0%B0%D0%BD%D1%87%D1%83%D0%BA%20%D0%9C.%D0%A0.%20(%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B8)doc.pdf",
+      "name": "Положение о продаже имущества Данчук М.Р. (Земельные участки)doc.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "22670475",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "18.07.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с документами по имуществу, с имуществом осуществляет финансовый управляющий (его представитель) в рабочие дни по предварительной договоренности по тел.: 8(926)-574-97-04, эл. почта: martynov.torgi@gmail.com. Место нахождения имущества по адресу: Тверская область, р-н. Кимрский, с/п. Стоянцевское, д. Лосево",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:29:13.428Z",
+  "lastSeenAt": "2026-08-31T19:29:13.428Z",
+  "contentHash": "568a5767f2c1ad2b13c820865847ccc8644b4baa003872eca25cb61b46030879"
+}22:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$28"}]]}]
+23:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"20 522,70 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["10 261,35 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[2,", до ","10 000 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"205 227 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"20 522,70 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"28 апр. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"30 апр. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"24 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"18 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"24 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Тверская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/207143-3","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+24:["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}]
+25:["$","span",null,{"className":"size","children":"$undefined"}]
+26:["$","a","https://m-ets.ru/download/266987371/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20)..pdf",{"href":"https://m-ets.ru/download/266987371/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20)..pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи недвижимого имущества (проект )..pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+27:["$","a","https://m-ets.ru/download/266987373/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%94%D0%B0%D0%BD%D1%87%D1%83%D0%BA%20%D0%9C.%D0%A0.%20(%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B8)doc.pdf",{"href":"https://m-ets.ru/download/266987373/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%94%D0%B0%D0%BD%D1%87%D1%83%D0%BA%20%D0%9C.%D0%A0.%20(%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B8)doc.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о продаже имущества Данчук М.Р. (Земельные участки)doc.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Тверской обл., 33000 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,467 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--207440-27",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--207440-27","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--207440-27","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"Картина Натурщица с копьем, 1913 года, С.Лобанов."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Товарно-материальные ценности"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/267010642/267010642_thumb_0.jpg","alt":"Картина Натурщица с копьем, 1913 года, С.Лобанов."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/267010641/267010641_thumb_0.jpg",{"href":"https://m-ets.ru/download/267010641/267010641_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267010641/267010641_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Картина Натурщица с копьем, 1913 С.Лобанов"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["22703460",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Москвы",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["18.12.2019",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с лотами будет производиться каждую рабочую пятницу в период с 01.05.2026 по 01.07.2026. по предварительной записи по электронной почте: 6946959@mail/ru",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["25 мая 2026 г., 12:00 (МСК)"," —"," ","30 июл. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"225 000 ₽"}],["$","td",null,{"children":"22 500 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["30 июл. 2026 г., 12:00 (МСК)"," —"," ","6 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"202 500 ₽"}],["$","td",null,{"children":"22 500 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["6 авг. 2026 г., 12:00 (МСК)"," —"," ","13 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"180 000 ₽"}],["$","td",null,{"children":"22 500 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["13 авг. 2026 г., 12:00 (МСК)"," —"," ","20 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"157 500 ₽"}],["$","td",null,{"children":"22 500 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["20 авг. 2026 г., 12:00 (МСК)"," —"," ","27 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"135 000 ₽"}],["$","td",null,{"children":"22 500 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 12:00 (МСК)"," —"," ","3 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"112 500 ₽"}],["$","td",null,{"children":"22 500 ₽"}]]}]]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Бельчанская Марианна Геннадьевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":["$L11","$L12","$undefined"]}]]}],"$L13","$L14"],"$L15"]}]}]]}],"$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","$L4",null,{"href":"/?q=772812396314","children":"Бельчанская Марианна Геннадьевна"}]
+12:["$","span",null,{"className":"muted","children":[" · ИНН ","772812396314"]}]
+13:["$","tr","manager:Новиков Владимир Валерьевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=212503069029","children":"Новиков Владимир Валерьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","212503069029"]}],["$","span",null,{"className":"muted","children":[" · ","САУ «Авангард»"]}]]}]]}]
+14:["$","tr","organizer:Новиков Владимир Валерьевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=212503069029","children":"Новиков Владимир Валерьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","212503069029"]}],"$undefined"]}]]}]
+15:["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-280381%2F2019%20109-308","children":"А40-280381/2019 109-308"}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",61,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/267400371/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400371/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268276949/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276949/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267400375/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400375/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268276952/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276952/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267400379/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400379/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268276955/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276955/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267400383/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400383/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":["$L1a","$L1b"]}],"$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51"]}]]}]
+52:T6013,{
+  "id": "etp-mets:207440-27",
+  "sourceCode": "etp-mets",
+  "externalId": "207440-27",
+  "sourceUrl": "https://m-ets.ru/207440-27",
+  "title": "Картина Натурщица с копьем, 1913 года, С.Лобанов.",
+  "description": "Картина Натурщица с копьем, 1913 С.Лобанов",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги (конкурс) посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "other",
+  "categoryCode": "27",
+  "categoryName": "Товарно-материальные ценности",
+  "regionCode": "77",
+  "address": "г. Москва",
+  "priceStart": "225000",
+  "priceMin": "112500.00",
+  "deposit": "22500.00",
+  "currency": "RUB",
+  "publishedAt": "2026-05-01T00:00:00+03:00",
+  "biddStartAt": "2026-05-25T12:00:00+03:00",
+  "biddEndAt": "2026-09-03T12:00:00+03:00",
+  "auctionAt": "2026-09-03T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-280381/2019 109-308",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Бельчанская Марианна Геннадьевна",
+      "inn": "772812396314",
+      "efrsbId": "cf9f6e2db2ad268956a4f5b3b8bca514"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Новиков Владимир Валерьевич",
+      "inn": "212503069029",
+      "sro": "САУ «Авангард»"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Новиков Владимир Валерьевич",
+      "inn": "212503069029",
+      "email": "6946959@mail.ru",
+      "phone": "+7 (968) 709 13 05"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-05-25T12:00:00+03:00",
+      "endAt": "2026-07-30T12:00:00+03:00",
+      "price": "225000.00",
+      "deposit": "22500.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-30T12:00:00+03:00",
+      "endAt": "2026-08-06T12:00:00+03:00",
+      "price": "202500.00",
+      "deposit": "22500.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-06T12:00:00+03:00",
+      "endAt": "2026-08-13T12:00:00+03:00",
+      "price": "180000.00",
+      "deposit": "22500.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-13T12:00:00+03:00",
+      "endAt": "2026-08-20T12:00:00+03:00",
+      "price": "157500.00",
+      "deposit": "22500.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-20T12:00:00+03:00",
+      "endAt": "2026-08-27T12:00:00+03:00",
+      "price": "135000.00",
+      "deposit": "22500.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-27T12:00:00+03:00",
+      "endAt": "2026-09-03T12:00:00+03:00",
+      "price": "112500.00",
+      "deposit": "22500.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/267010642/267010642_thumb_0.jpg",
+    "https://m-ets.ru/download/267010641/267010641_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/267400371/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276949/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400375/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276952/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400379/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276955/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400383/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276958/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400387/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276961/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400391/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276964/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400395/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276967/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400399/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276970/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400403/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276973/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400407/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276976/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400411/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276979/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400415/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276982/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400419/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276985/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400423/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276988/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400427/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276991/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400431/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276994/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400435/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268276997/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400439/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268277000/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268404120/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20207440-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2020.pdf",
+      "name": "Протокол определения участников торгов 207440-МЭТС по лоту 20.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268404122/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20207440-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2020.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 207440-МЭТС по лоту 20.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400443/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268277003/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268404544/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20207440-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2021.pdf",
+      "name": "Протокол определения участников торгов 207440-МЭТС по лоту 21.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268404546/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20207440-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2021.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 207440-МЭТС по лоту 21.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400447/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268277006/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400451/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268277009/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400455/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268277012/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400459/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268277015/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400463/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268277019/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400467/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268277022/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400471/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268277025/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267400475/A40-280381-2019_20260522_Opredelenie.pdf",
+      "name": "A40-280381-2019_20260522_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268277028/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",
+      "name": "Определение об отмене обеспечительных мер A40-280381-2019.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267010652/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%2029%20%D0%BB%D0%BE%D1%82%D0%BE%D0%B2%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%20%D0%BE%D1%82%2020.12.2024%D0%B3.%20%D0%B2%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%B0.docx",
+      "name": "Положение 29 лотов о порядке продажи от 20.12.2024г. в редакции кредитора.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267010654/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%91%D0%B5%D0%BB%D1%8C%D1%87%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)%20(1).doc",
+      "name": "Договор о задатке Бельчанская (проект) (1).doc"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267010683/29.%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%91%D0%B5%D0%BB%D1%8C%D1%87%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).docx",
+      "name": "29. Договор купли-продажи имущества Образец Бельчанская (проект).docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "22703460",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "18.12.2019",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с лотами будет производиться каждую рабочую пятницу в период с 01.05.2026 по 01.07.2026. по предварительной записи по электронной почте: 6946959@mail/ru",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:29:19.374Z",
+  "lastSeenAt": "2026-08-31T19:29:19.374Z",
+  "contentHash": "2ceb86d61141edc999a4aa0a09a9428b6e7b7fd04f70e2c74cbbf867f10170aa"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$52"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"225 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[6,", до ","112 500 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"22 500 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"30 апр. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 мая 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"3 сент. 2026 г., 12:00 (МСК)"}]],false,[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"3 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/207440-27","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1a:["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}]
+1b:["$","span",null,{"className":"size","children":"$undefined"}]
+1c:["$","a","https://m-ets.ru/download/268276958/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276958/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1d:["$","a","https://m-ets.ru/download/267400387/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400387/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1e:["$","a","https://m-ets.ru/download/268276961/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276961/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1f:["$","a","https://m-ets.ru/download/267400391/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400391/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+20:["$","a","https://m-ets.ru/download/268276964/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276964/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+21:["$","a","https://m-ets.ru/download/267400395/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400395/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+22:["$","a","https://m-ets.ru/download/268276967/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276967/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+23:["$","a","https://m-ets.ru/download/267400399/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400399/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+24:["$","a","https://m-ets.ru/download/268276970/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276970/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+25:["$","a","https://m-ets.ru/download/267400403/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400403/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+26:["$","a","https://m-ets.ru/download/268276973/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276973/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+27:["$","a","https://m-ets.ru/download/267400407/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400407/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+28:["$","a","https://m-ets.ru/download/268276976/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276976/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+29:["$","a","https://m-ets.ru/download/267400411/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400411/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2a:["$","a","https://m-ets.ru/download/268276979/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276979/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2b:["$","a","https://m-ets.ru/download/267400415/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400415/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2c:["$","a","https://m-ets.ru/download/268276982/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276982/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2d:["$","a","https://m-ets.ru/download/267400419/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400419/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2e:["$","a","https://m-ets.ru/download/268276985/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276985/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2f:["$","a","https://m-ets.ru/download/267400423/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400423/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+30:["$","a","https://m-ets.ru/download/268276988/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276988/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+31:["$","a","https://m-ets.ru/download/267400427/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400427/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+32:["$","a","https://m-ets.ru/download/268276991/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276991/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+33:["$","a","https://m-ets.ru/download/267400431/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400431/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+34:["$","a","https://m-ets.ru/download/268276994/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276994/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+35:["$","a","https://m-ets.ru/download/267400435/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400435/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+36:["$","a","https://m-ets.ru/download/268276997/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268276997/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+37:["$","a","https://m-ets.ru/download/267400439/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400439/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+38:["$","a","https://m-ets.ru/download/268277000/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268277000/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+39:["$","a","https://m-ets.ru/download/268404120/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20207440-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2020.pdf",{"href":"https://m-ets.ru/download/268404120/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20207440-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2020.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 207440-МЭТС по лоту 20.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+3a:["$","a","https://m-ets.ru/download/268404122/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20207440-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2020.pdf",{"href":"https://m-ets.ru/download/268404122/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20207440-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2020.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 207440-МЭТС по лоту 20.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+3b:["$","a","https://m-ets.ru/download/267400443/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400443/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+3c:["$","a","https://m-ets.ru/download/268277003/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268277003/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+3d:["$","a","https://m-ets.ru/download/268404544/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20207440-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2021.pdf",{"href":"https://m-ets.ru/download/268404544/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20207440-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2021.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 207440-МЭТС по лоту 21.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+3e:["$","a","https://m-ets.ru/download/268404546/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20207440-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2021.pdf",{"href":"https://m-ets.ru/download/268404546/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20207440-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2021.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 207440-МЭТС по лоту 21.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+3f:["$","a","https://m-ets.ru/download/267400447/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400447/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+40:["$","a","https://m-ets.ru/download/268277006/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268277006/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+41:["$","a","https://m-ets.ru/download/267400451/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400451/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+42:["$","a","https://m-ets.ru/download/268277009/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268277009/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+43:["$","a","https://m-ets.ru/download/267400455/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400455/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+44:["$","a","https://m-ets.ru/download/268277012/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268277012/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+45:["$","a","https://m-ets.ru/download/267400459/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400459/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+46:["$","a","https://m-ets.ru/download/268277015/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268277015/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+47:["$","a","https://m-ets.ru/download/267400463/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400463/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+48:["$","a","https://m-ets.ru/download/268277019/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268277019/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+49:["$","a","https://m-ets.ru/download/267400467/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400467/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+4a:["$","a","https://m-ets.ru/download/268277022/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268277022/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+4b:["$","a","https://m-ets.ru/download/267400471/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400471/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+4c:["$","a","https://m-ets.ru/download/268277025/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268277025/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+4d:["$","a","https://m-ets.ru/download/267400475/A40-280381-2019_20260522_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267400475/A40-280381-2019_20260522_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A40-280381-2019_20260522_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+4e:["$","a","https://m-ets.ru/download/268277028/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf",{"href":"https://m-ets.ru/download/268277028/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%80%20A40-280381-2019.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение об отмене обеспечительных мер A40-280381-2019.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+4f:["$","a","https://m-ets.ru/download/267010652/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%2029%20%D0%BB%D0%BE%D1%82%D0%BE%D0%B2%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%20%D0%BE%D1%82%2020.12.2024%D0%B3.%20%D0%B2%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%B0.docx",{"href":"https://m-ets.ru/download/267010652/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%2029%20%D0%BB%D0%BE%D1%82%D0%BE%D0%B2%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%20%D0%BE%D1%82%2020.12.2024%D0%B3.%20%D0%B2%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение 29 лотов о порядке продажи от 20.12.2024г. в редакции кредитора.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+50:["$","a","https://m-ets.ru/download/267010654/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%91%D0%B5%D0%BB%D1%8C%D1%87%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)%20(1).doc",{"href":"https://m-ets.ru/download/267010654/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%91%D0%B5%D0%BB%D1%8C%D1%87%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)%20(1).doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке Бельчанская (проект) (1).doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+51:["$","a","https://m-ets.ru/download/267010683/29.%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%91%D0%B5%D0%BB%D1%8C%D1%87%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).docx",{"href":"https://m-ets.ru/download/267010683/29.%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%91%D0%B5%D0%BB%D1%8C%D1%87%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","29. Договор купли-продажи имущества Образец Бельчанская (проект).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Картина Натурщица с копьем, 1913 года, С.Лобанов. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

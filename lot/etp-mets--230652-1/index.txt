@@ -1,0 +1,234 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230652-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230652-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230652-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=78","children":"Санкт-Петербург"}]]]}],["$","h1",null,{"children":"Volkswagen Polo, 2014 года, 105 лс, 256000 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268871401/268871401_thumb_0.jpg","alt":"Volkswagen Polo, 2014 года, 105 лс, 256000 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268871402/268871402_thumb_0.jpg",{"href":"https://m-ets.ru/download/268871402/268871402_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268871402/268871402_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268871403/268871403_thumb_0.jpg",{"href":"https://m-ets.ru/download/268871403/268871403_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268871403/268871403_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268871395/268871395_thumb_0.jpg",{"href":"https://m-ets.ru/download/268871395/268871395_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268871395/268871395_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268871404/268871404_thumb_0.jpg",{"href":"https://m-ets.ru/download/268871404/268871404_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268871404/268871404_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268871396/268871396_thumb_0.jpg",{"href":"https://m-ets.ru/download/268871396/268871396_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268871396/268871396_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268871398/268871398_thumb_0.jpg",{"href":"https://m-ets.ru/download/268871398/268871398_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268871398/268871398_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268871397/268871397_thumb_0.jpg",{"href":"https://m-ets.ru/download/268871397/268871397_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268871397/268871397_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268871394/268871394_thumb_0.jpg",{"href":"https://m-ets.ru/download/268871394/268871394_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268871394/268871394_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268871400/268871400_thumb_0.jpg",{"href":"https://m-ets.ru/download/268871400/268871400_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268871400/268871400_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268871393/268871393_thumb_0.jpg",{"href":"https://m-ets.ru/download/268871393/268871393_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268871393/268871393_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268871399/268871399_thumb_0.jpg",{"href":"https://m-ets.ru/download/268871399/268871399_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],false]}],"$L12","$L13","$L14","$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268871399/268871399_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Транспортное средство марки ФОЛЬКСВАГЕН РОLО 2014 года выпуска, идентификационный номер ХW8ZZZ61ZЕG070033, государственные регистрационные знаки: Х262СО47. Залогодержатель: АО Ингосстрах Банк (АО Банк Инго, ИНН 7714056040)"}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Volkswagen",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Polo",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2014",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["256 000"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["105"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XW8ZZZ61ZEG070033",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24372951",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["АС г. Санкт-Петербурга и Ленинградской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["08.10.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Транспортное средство находится в залоге у кредитора АО Банк Инго ИНН 7714056040. В отношении указанного залога применяются положения подпункта 4 пункта 1 статьи 352 Гражданского кодекса Российской Федерации. Залоговый кредитор вправе оставить предмет залога за собой на любом этапе снижения цены при отсутствии заявок на участие в торгах по цене, установленной для этого этапа снижения цены.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с документами об имуществе и о торгах осуществляется в период приема заявок в рабочие дни с 11.00 ч. до 18.00 ч. (время местное) по адресу: г. Красноярск, ул. Карла Маркса, 73А, 4-й этаж, каб. 4-02 по предварительной (не менее чем за 24 часа) записи по тел. +7 (962) 078 14 79 или путем запроса цифровых копий по адресу электронной почты: shuhanov_denis-arb@bk.ru. По вопросу осмотра имущества ... Показать полностью обращаться по тел. +7 (962) 078 14 79 или по e-mail: shuhanov_denis-arb@bk.ru. Осмотр имущества осуществляется в рабочие дни по предварительной записи, осуществляемой не позднее чем за 5 рабочих дней до осмотра.",""]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 00:00 (МСК)"," —"," ","15 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"434 535,03 ₽"}],["$","td",null,{"children":"21 726,75 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["15 сент. 2026 г., 00:00 (МСК)"," —"," ","30 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"412 808,28 ₽"}],["$","td",null,{"children":"20 640,41 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["30 сент. 2026 г., 00:00 (МСК)"," —"," ","15 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"391 081,53 ₽"}],["$","td",null,{"children":"19 554,08 ₽"}]]}]]}]]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Акберов Фарид Тариел Оглы",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=471009700406","children":"Акберов Фарид Тариел Оглы"}],["$","span",null,{"className":"muted","children":[" · ИНН ","471009700406"]}],"$undefined"]}]]}],["$","tr","manager:Суханов Денис Сергеевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=243300711837","children":"Суханов Денис Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","243300711837"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация \"ДМСО\""]}]]}]]}],["$","tr","organizer:Суханов Денис Сергеевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=243300711837","children":"Суханов Денис Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","243300711837"]}],"$undefined"]}]]}],["$","tr","pledgee:АО БАНК ИНГО",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7714056040","children":"АО БАНК ИНГО"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7714056040"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9056-76182%2F2024","children":"А56-76182/2024"}]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Санкт-Петербург"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268871412/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%90%D0%BA%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%20%D0%A4.%20%D0%A2..docx",{"href":"https://m-ets.ru/download/268871412/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%90%D0%BA%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%20%D0%A4.%20%D0%A2..docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи Акберов Ф. Т..docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268871414/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%90%D0%9E%20%D0%91%D0%B0%D0%BD%D0%BA%20%D0%98%D0%BD%D0%B3%D0%BE%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20Volkswagen%20Polo.pdf",{"href":"https://m-ets.ru/download/268871414/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%90%D0%9E%20%D0%91%D0%B0%D0%BD%D0%BA%20%D0%98%D0%BD%D0%B3%D0%BE%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20Volkswagen%20Polo.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение АО Банк Инго залог Volkswagen Polo.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268879802/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268879802/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268879804/%D0%90%D0%BA%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%20%D0%A4.%D0%A2.%D0%BE.%20%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%E2%84%96%204%20%D0%B2%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.pdf",{"href":"https://m-ets.ru/download/268879804/%D0%90%D0%BA%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%20%D0%A4.%D0%A2.%D0%BE.%20%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%E2%84%96%204%20%D0%B2%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Акберов Ф.Т.о. Изменения № 4 в Положение.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1a:T257e,{
+  "id": "etp-mets:230652-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230652-1",
+  "sourceUrl": "https://m-ets.ru/230652-1",
+  "title": "Volkswagen Polo, 2014 года, 105 лс, 256000 км",
+  "description": "Транспортное средство марки ФОЛЬКСВАГЕН РОLО 2014 года выпуска, идентификационный номер ХW8ZZZ61ZЕG070033, государственные регистрационные знаки: Х262СО47. Залогодержатель: АО Ингосстрах Банк (АО Банк Инго, ИНН 7714056040)",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "78",
+  "address": "г. Санкт-Петербург",
+  "priceStart": "434535.03",
+  "priceMin": "391081.53",
+  "deposit": "21726.75",
+  "currency": "RUB",
+  "publishedAt": "2026-06-25T00:00:00+03:00",
+  "biddStartAt": "2026-08-31T00:00:00+03:00",
+  "biddEndAt": "2026-10-15T00:00:00+03:00",
+  "auctionAt": "2026-10-15T00:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А56-76182/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Акберов Фарид Тариел Оглы",
+      "inn": "471009700406",
+      "efrsbId": "0eaeb7e4dd37b77992f490e639267925"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Суханов Денис Сергеевич",
+      "inn": "243300711837",
+      "sro": "Ассоциация \"ДМСО\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Суханов Денис Сергеевич",
+      "inn": "243300711837",
+      "email": "shuhanov_denis-arb@bk.ru",
+      "phone": "+7 (962) 078 14 79"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "АО БАНК ИНГО",
+      "inn": "7714056040"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-31T00:00:00+03:00",
+      "endAt": "2026-09-15T00:00:00+03:00",
+      "price": "434535.03",
+      "deposit": "21726.75"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-15T00:00:00+03:00",
+      "endAt": "2026-09-30T00:00:00+03:00",
+      "price": "412808.28",
+      "deposit": "20640.41"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-30T00:00:00+03:00",
+      "endAt": "2026-10-15T00:00:00+03:00",
+      "price": "391081.53",
+      "deposit": "19554.08"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268871401/268871401_thumb_0.jpg",
+    "https://m-ets.ru/download/268871402/268871402_thumb_0.jpg",
+    "https://m-ets.ru/download/268871403/268871403_thumb_0.jpg",
+    "https://m-ets.ru/download/268871395/268871395_thumb_0.jpg",
+    "https://m-ets.ru/download/268871404/268871404_thumb_0.jpg",
+    "https://m-ets.ru/download/268871396/268871396_thumb_0.jpg",
+    "https://m-ets.ru/download/268871398/268871398_thumb_0.jpg",
+    "https://m-ets.ru/download/268871397/268871397_thumb_0.jpg",
+    "https://m-ets.ru/download/268871394/268871394_thumb_0.jpg",
+    "https://m-ets.ru/download/268871400/268871400_thumb_0.jpg",
+    "https://m-ets.ru/download/268871393/268871393_thumb_0.jpg",
+    "https://m-ets.ru/download/268871399/268871399_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268871412/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%90%D0%BA%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%20%D0%A4.%20%D0%A2..docx",
+      "name": "Проект договора купли-продажи Акберов Ф. Т..docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268871414/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%90%D0%9E%20%D0%91%D0%B0%D0%BD%D0%BA%20%D0%98%D0%BD%D0%B3%D0%BE%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20Volkswagen%20Polo.pdf",
+      "name": "Положение АО Банк Инго залог Volkswagen Polo.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268879802/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268879804/%D0%90%D0%BA%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%20%D0%A4.%D0%A2.%D0%BE.%20%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%E2%84%96%204%20%D0%B2%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.pdf",
+      "name": "Акберов Ф.Т.о. Изменения № 4 в Положение.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Volkswagen",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Polo",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2014",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "256 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "105",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XW8ZZZ61ZEG070033",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24372951",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "АС г. Санкт-Петербурга и Ленинградской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "08.10.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Транспортное средство находится в залоге у кредитора АО Банк Инго ИНН 7714056040. В отношении указанного залога применяются положения подпункта 4 пункта 1 статьи 352 Гражданского кодекса Российской Федерации. Залоговый кредитор вправе оставить предмет залога за собой на любом этапе снижения цены при отсутствии заявок на участие в торгах по цене, установленной для этого этапа снижения цены.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с документами об имуществе и о торгах осуществляется в период приема заявок в рабочие дни с 11.00 ч. до 18.00 ч. (время местное) по адресу: г. Красноярск, ул. Карла Маркса, 73А, 4-й этаж, каб. 4-02 по предварительной (не менее чем за 24 часа) записи по тел. +7 (962) 078 14 79 или путем запроса цифровых копий по адресу электронной почты: shuhanov_denis-arb@bk.ru. По вопросу осмотра имущества ... Показать полностью обращаться по тел. +7 (962) 078 14 79 или по e-mail: shuhanov_denis-arb@bk.ru. Осмотр имущества осуществляется в рабочие дни по предварительной записи, осуществляемой не позднее чем за 5 рабочих дней до осмотра.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:43:57.015Z",
+  "lastSeenAt": "2026-08-31T17:43:57.015Z",
+  "contentHash": "76d4799043362d5eb1294f2e77d916489e50c88d4d99dfcaec93b5843b9dcd13"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"434 535,03 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["412 808,28 ₽",["$","span",null,{"className":"muted","children":[" ","· ","15 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[2,", до ","391 081,53 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"434 535,03 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"21 726,75 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 июн. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"31 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"15 окт. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"39 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"15 окт. 2026 г., 00:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Санкт-Петербург"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230652-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Volkswagen Polo, 2014 года, 105 лс, 256000 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

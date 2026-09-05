@@ -1,0 +1,141 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--225656-5",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--225656-5","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--225656-5","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=24","children":"Красноярский край"}]]]}],["$","h1",null,{"children":"Полуприцеп ТОНАР 9888, 2022 года"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Коммерческий транспорт и спецтехника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Полуприцеп ТОНАР 9888 X0T988800N0002534, 2022 г. вып., СТС 9945 09977"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2022",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24041890",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Красноярского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["12.02.2026",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["67 050 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление: г. Красноярск, ул. Маерчака 65-401 тел: 89620755637, e-mail: apl.74@mail.ru",""]}]]}]]}]}]]}],"$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ СТРОИТЕЛЬНАЯ КОМПАНИЯ \"АВАНГАРД\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=2466177617","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ СТРОИТЕЛЬНАЯ КОМПАНИЯ \"АВАНГАРД\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","2466177617"]}],"$undefined"]}]]}],["$","tr","manager:Павлюк Алексей Леонидович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=246000358302","children":"Павлюк Алексей Леонидович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","246000358302"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСРО \"Содействие\""]}]]}]]}],["$","tr","organizer:Павлюк Алексей Леонидович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=246000358302","children":"Павлюк Алексей Леонидович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","246000358302"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9033-15765%2F2025","children":"А33-15765/2025"}]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Красноярский край"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268476835/%D0%A1%D0%BA%D0%B0%D0%BD-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%D0%B0%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%E2%84%9625.16-%D0%A7%D0%9F%D0%9E%20%D0%BE%D1%82%2017.04.2025%20%D0%B3.%20(%D0%9D%D0%B5%D0%B6%D0%B8%D0%BB%D0%BE%D0%B5%20%D0%BF%D0%BE%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5).pdf",{"href":"https://m-ets.ru/download/268476835/%D0%A1%D0%BA%D0%B0%D0%BD-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%D0%B0%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%E2%84%9625.16-%D0%A7%D0%9F%D0%9E%20%D0%BE%D1%82%2017.04.2025%20%D0%B3.%20(%D0%9D%D0%B5%D0%B6%D0%B8%D0%BB%D0%BE%D0%B5%20%D0%BF%D0%BE%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5).pdf","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13","$L14"]}]]}],false,"$L15"]}],"$L16"]}]]}]
+11:["$","span",null,{"children":["📎 ","Скан-копия Отчета об оценке №25.16-ЧПО от 17.04.2025 г. (Нежилое помещение).pdf"]}]
+12:["$","span",null,{"className":"size","children":"$undefined"}]
+13:["$","a","https://m-ets.ru/download/268476306/%D0%9A%D0%BF%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%90%D0%B2%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B4.pdf",{"href":"https://m-ets.ru/download/268476306/%D0%9A%D0%BF%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%90%D0%B2%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B4.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Кп проект Авангард.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+14:["$","a","https://m-ets.ru/download/268476308/%D0%90%D0%B2%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B4%20%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf",{"href":"https://m-ets.ru/download/268476308/%D0%90%D0%B2%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B4%20%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Авангард задаток проект.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+17:T1262,{
+  "id": "etp-mets:225656-5",
+  "sourceCode": "etp-mets",
+  "externalId": "225656-5",
+  "sourceUrl": "https://m-ets.ru/225656-5",
+  "title": "Полуприцеп ТОНАР 9888, 2022 года",
+  "description": "Полуприцеп ТОНАР 9888 X0T988800N0002534, 2022 г. вып., СТС 9945 09977",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "3",
+  "categoryName": "Коммерческий транспорт и спецтехника",
+  "regionCode": "24",
+  "address": "Красноярский край",
+  "priceStart": "1341000",
+  "priceStep": "67050",
+  "deposit": "134100",
+  "currency": "RUB",
+  "publishedAt": "2026-08-04T00:00:00+03:00",
+  "biddStartAt": "2026-08-10T06:00:00+03:00",
+  "biddEndAt": "2026-09-14T06:00:00+03:00",
+  "auctionAt": "2026-09-16T07:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А33-15765/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ СТРОИТЕЛЬНАЯ КОМПАНИЯ \"АВАНГАРД\"",
+      "inn": "2466177617",
+      "ogrn": "1162468124895"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Павлюк Алексей Леонидович",
+      "inn": "246000358302",
+      "sro": "Ассоциация МСРО \"Содействие\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Павлюк Алексей Леонидович",
+      "inn": "246000358302",
+      "email": "apl74@list.ru",
+      "phone": "+7 (962) 075 56 37"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268476835/%D0%A1%D0%BA%D0%B0%D0%BD-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%D0%B0%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%E2%84%9625.16-%D0%A7%D0%9F%D0%9E%20%D0%BE%D1%82%2017.04.2025%20%D0%B3.%20(%D0%9D%D0%B5%D0%B6%D0%B8%D0%BB%D0%BE%D0%B5%20%D0%BF%D0%BE%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5).pdf",
+      "name": "Скан-копия Отчета об оценке №25.16-ЧПО от 17.04.2025 г. (Нежилое помещение).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268476306/%D0%9A%D0%BF%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%90%D0%B2%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B4.pdf",
+      "name": "Кп проект Авангард.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268476308/%D0%90%D0%B2%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B4%20%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf",
+      "name": "Авангард задаток проект.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2022",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24041890",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Красноярского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "12.02.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "67 050 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление: г. Красноярск, ул. Маерчака 65-401 тел: 89620755637, e-mail: apl.74@mail.ru",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T20:11:27.933Z",
+  "lastSeenAt": "2026-08-31T20:11:27.933Z",
+  "contentHash": "c258465a6bec2598e9aae8b1342faa8dfa8be0f4219fd9cf768c5a136bdf06d7"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$17"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 341 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"67 050 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"134 100 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"3 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"10 авг. 2026 г., 06:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"14 сент. 2026 г., 06:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"8 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"16 сент. 2026 г., 07:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Красноярский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/225656-5","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Полуприцеп ТОНАР 9888, 2022 года — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

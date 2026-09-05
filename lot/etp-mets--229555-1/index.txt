@@ -1,0 +1,146 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229555-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229555-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229555-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=43","children":"Кировская обл."}]]]}],["$","h1",null,{"children":"Квартира в Кирове, 50,6 кв.м, 2 комн."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Квартира"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"квартира, площадью 50,6 кв.м., расположенная по адресу: Кировская область, г.о. город Киров, г Киров, проезд Ф.И.Шаляпина, д.5, кв.125. Кадастровый номер: 43:40:000021:681"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24310077",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Кировской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["09.12.2025",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["421 440 руб. (10%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На Имущество зарегистрировано ограничение (обременение) права: находится в залоге у ПАО \"Сбербанк России\".",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Для получения всей имеющейся информации о лоте (в том числе фото) необходимо направить запрос на адрес эл. почты (в теме письма указать ФИО должника): pasko.torg80@yandex.ru либо по телефону +7(916) 909-71-81 На Имущество зарегистрировано ограничение (обременение) права: находится в залоге у ПАО \"Сбербанк России\". Объект недвижимости, в связи с отсутствием доступа внутрь жилого помещения, передается ... Показать полностью покупателю по передаточному акту без ключей от входной двери. Информация о зарегистрированных в квартире отсутствует. В связи с отсутствием доступа в помещение, возможен только внешний (со стороны улицы), самостоятельный осмотр Имущества по месту его нахождения, без возможности внутреннего осмотра. Доступ к имуществу (смена замков, передача личных вещей бывшему собственнику и т.д.) после перехода права собственности осуществляется покупателем своими силами и за свой счет.",""]}]]}]]}]}]]}],"$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Сумароков Иван Александрович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=434596226700","children":"Сумароков Иван Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","434596226700"]}],"$undefined"]}]]}],["$","tr","manager:Пасько Ольга Николаевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=775107525349","children":"Пасько Ольга Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","775107525349"]}],["$","span",null,{"className":"muted","children":[" · ","АПАУ \"Гарант\""]}]]}]]}],["$","tr","organizer:Пасько Ольга Николаевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=775107525349","children":"Пасько Ольга Николаевна"}],"$L11","$undefined"]}]]}],"$L12"],"$L13"]}]}]]}],"$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","span",null,{"className":"muted","children":[" · ИНН ","775107525349"]}]
+12:["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]
+13:["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9028-11758%2F2025","children":"А28-11758/2025"}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Кировская область"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268800411/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268800411/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268800413/%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx",{"href":"https://m-ets.ru/download/268800413/%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДКП недвижимого имущества.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268800415/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A1%D1%83%D0%BC%D0%B0%D1%80%D0%BE%D0%BA%D0%BE%D0%B2_%D1%84%D1%83.pdf",{"href":"https://m-ets.ru/download/268800415/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A1%D1%83%D0%BC%D0%B0%D1%80%D0%BE%D0%BA%D0%BE%D0%B2_%D1%84%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","положение_Сумароков_фу.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268800417/A28-11758-2025_20260708_Opredelenie_v_vide_rezoljutivnoj_chasti_(st._229_APK%2C_st._60_FZ_O_nesostojatelnosti).pdf",{"href":"https://m-ets.ru/download/268800417/A28-11758-2025_20260708_Opredelenie_v_vide_rezoljutivnoj_chasti_(st._229_APK%2C_st._60_FZ_O_nesostojatelnosti).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A28-11758-2025_20260708_Opredelenie_v_vide_rezoljutivnoj_chasti_(st._229_APK,_st._60_FZ_O_nesostojatelnosti).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T1ab1,{
+  "id": "etp-mets:229555-1",
+  "sourceCode": "etp-mets",
+  "externalId": "229555-1",
+  "sourceUrl": "https://m-ets.ru/229555-1",
+  "title": "Квартира в Кирове, 50,6 кв.м, 2 комн.",
+  "description": "квартира, площадью 50,6 кв.м., расположенная по адресу: Кировская область, г.о. город Киров, г Киров, проезд Ф.И.Шаляпина, д.5, кв.125. Кадастровый номер: 43:40:000021:681",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "36",
+  "categoryName": "Квартира",
+  "regionCode": "43",
+  "address": "Кировская область",
+  "priceStart": "4214400",
+  "priceStep": "421440",
+  "deposit": "421440",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T00:00:00+03:00",
+  "biddStartAt": "2026-08-25T09:00:00+03:00",
+  "biddEndAt": "2026-09-29T09:00:00+03:00",
+  "auctionAt": "2026-10-01T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А28-11758/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Сумароков Иван Александрович",
+      "inn": "434596226700",
+      "efrsbId": "88bfe5c4694ae2a94c145f81b677c26e"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Пасько Ольга Николаевна",
+      "inn": "775107525349",
+      "sro": "АПАУ \"Гарант\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Пасько Ольга Николаевна",
+      "inn": "775107525349",
+      "email": "pasko.arbitr@mail.ru",
+      "phone": "+7 (916) 909 71 81"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268800411/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268800413/%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx",
+      "name": "ДКП недвижимого имущества.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268800415/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A1%D1%83%D0%BC%D0%B0%D1%80%D0%BE%D0%BA%D0%BE%D0%B2_%D1%84%D1%83.pdf",
+      "name": "положение_Сумароков_фу.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268800417/A28-11758-2025_20260708_Opredelenie_v_vide_rezoljutivnoj_chasti_(st._229_APK%2C_st._60_FZ_O_nesostojatelnosti).pdf",
+      "name": "A28-11758-2025_20260708_Opredelenie_v_vide_rezoljutivnoj_chasti_(st._229_APK,_st._60_FZ_O_nesostojatelnosti).pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24310077",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Кировской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "09.12.2025",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "421 440 руб. (10%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На Имущество зарегистрировано ограничение (обременение) права: находится в залоге у ПАО \"Сбербанк России\".",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Для получения всей имеющейся информации о лоте (в том числе фото) необходимо направить запрос на адрес эл. почты (в теме письма указать ФИО должника): pasko.torg80@yandex.ru либо по телефону +7(916) 909-71-81 На Имущество зарегистрировано ограничение (обременение) права: находится в залоге у ПАО \"Сбербанк России\". Объект недвижимости, в связи с отсутствием доступа внутрь жилого помещения, передается ... Показать полностью покупателю по передаточному акту без ключей от входной двери. Информация о зарегистрированных в квартире отсутствует. В связи с отсутствием доступа в помещение, возможен только внешний (со стороны улицы), самостоятельный осмотр Имущества по месту его нахождения, без возможности внутреннего осмотра. Доступ к имуществу (смена замков, передача личных вещей бывшему собственнику и т.д.) после перехода права собственности осуществляется покупателем своими силами и за свой счет.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:34:48.457Z",
+  "lastSeenAt": "2026-08-31T18:34:48.457Z",
+  "contentHash": "210b7efd19e6159a7b604bd4ff912ab3cf3efb9cd646d607d9534cfbffd1edd0"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"4 214 400 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"421 440 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"421 440 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"23 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"29 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"23 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"1 окт. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Кировская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229555-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Квартира в Кирове, 50,6 кв.м, 2 комн. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

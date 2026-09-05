@@ -1,0 +1,236 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--222790-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--222790-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--222790-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=73","children":"Ульяновская обл."}]]]}],["$","h1",null,{"children":"УАЗ 390945, 2017 года"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Коммерческий транспорт и спецтехника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268245808/268245808_thumb_0.jpg","alt":"УАЗ 390945, 2017 года"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268245810/268245810_thumb_0.jpg",{"href":"https://m-ets.ru/download/268245810/268245810_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268245810/268245810_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268245809/268245809_thumb_0.jpg",{"href":"https://m-ets.ru/download/268245809/268245809_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268245809/268245809_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268245812/268245812_thumb_0.jpg",{"href":"https://m-ets.ru/download/268245812/268245812_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268245812/268245812_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Грузовой автомобиль УАЗ 390945, 2017г.в., VIN: XTT390945H1219226, модель, № двигателя: 409110*Н3020306, шасси №390940Н0412075, цвет: светло-серый (неисправен, требует ремонта двигателя)."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2017",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23851335",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Ульяновской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["02.12.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом возможно по предварительной записи в г.Ульяновск, ознакомление с регистрационными документами, а также с Положениями о порядке, сроках и условиях проведения торгов, проектами договоров задатка и купли-продажи возможно по адресу: г. Ульяновск, пр-кт Ульяновский, д. 10, 2 этаж, оф. 38 в будние дни с 14.00 ч. до 15.00 ч. и на сайте ЕФРСБ, а также - на сайте ЭТП - www.m-ets.ru.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 09:00 (МСК)"," —"," ","13 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"411 300 ₽"}],["$","td",null,{"children":"82 260 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["13 авг. 2026 г., 09:00 (МСК)"," —"," ","23 авг. 2026 г., 09:00 (МСК)"]}],"$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a"]}]]}]]}],"$L1b","$L1c","$L1d",false,"$L1e"]}],"$L1f"]}]]}]
+11:["$","td",null,{"children":"390 735 ₽"}]
+12:["$","td",null,{"children":"82 260 ₽"}]
+13:["$","tr","3",{"className":"","children":[["$","td",null,{"children":["23 авг. 2026 г., 09:00 (МСК)"," —"," ","2 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"370 170 ₽"}],["$","td",null,{"children":"82 260 ₽"}]]}]
+14:["$","tr","4",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 09:00 (МСК)"," —"," ","12 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"349 605 ₽"}],["$","td",null,{"children":"82 260 ₽"}]]}]
+15:["$","tr","5",{"className":"","children":[["$","td",null,{"children":["12 сент. 2026 г., 09:00 (МСК)"," —"," ","22 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"329 040 ₽"}],["$","td",null,{"children":"82 260 ₽"}]]}]
+16:["$","tr","6",{"className":"","children":[["$","td",null,{"children":["22 сент. 2026 г., 09:00 (МСК)"," —"," ","2 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"308 475 ₽"}],["$","td",null,{"children":"82 260 ₽"}]]}]
+17:["$","tr","7",{"className":"","children":[["$","td",null,{"children":["2 окт. 2026 г., 09:00 (МСК)"," —"," ","12 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"287 910 ₽"}],["$","td",null,{"children":"82 260 ₽"}]]}]
+18:["$","tr","8",{"className":"","children":[["$","td",null,{"children":["12 окт. 2026 г., 09:00 (МСК)"," —"," ","22 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"267 345 ₽"}],["$","td",null,{"children":"82 260 ₽"}]]}]
+19:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["22 окт. 2026 г., 09:00 (МСК)"," —"," ","1 нояб. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"246 780 ₽"}],["$","td",null,{"children":"82 260 ₽"}]]}]
+1a:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["1 нояб. 2026 г., 09:00 (МСК)"," —"," ","10 нояб. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"226 215 ₽"}],["$","td",null,{"children":"82 260 ₽"}]]}]
+1b:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНВЕСТСПЕЦСТРОЙ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7325116138","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНВЕСТСПЕЦСТРОЙ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7325116138"]}],"$undefined"]}]]}],["$","tr","manager:Семьянова Ольга Владимировна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=732804834858","children":"Семьянова Ольга Владимировна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","732804834858"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация СРО \"ЦААУ\""]}]]}]]}],["$","tr","organizer:Семьянова Ольга Владимировна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=732804834858","children":"Семьянова Ольга Владимировна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","732804834858"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9072-2461%2F2023","children":"А72-2461/2023"}]}]]}]]}]}]]}]
+1c:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Ульяновская область"}]]}]
+1d:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268245806/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5.pdf",{"href":"https://m-ets.ru/download/268245806/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет об оценке.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268730166/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20222790-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2003.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2013.08.2026%2009%3A00%3A00%20.docx",{"href":"https://m-ets.ru/download/268730166/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20222790-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2003.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2013.08.2026%2009%3A00%3A00%20.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 222790-МЭТС по лоту 1 за период c 03.08.2026 09:00:00 по 13.08.2026 09:00:00 .docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268245813/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2-%20%D1%86%D0%B5%D1%81%D0%B8%D0%B8.pdf",{"href":"https://m-ets.ru/download/268245813/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2-%20%D1%86%D0%B5%D1%81%D0%B8%D0%B8.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора о результатах торгов- цесии.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268245815/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D1%81%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%BE%D0%B9%20%D0%A3%D0%90%D0%97%20%D0%B0%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD.pdf",{"href":"https://m-ets.ru/download/268245815/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D1%81%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%BE%D0%B9%20%D0%A3%D0%90%D0%97%20%D0%B0%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о торгах Инвестспецстрой УАЗ аукцион.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268245817/%D0%9F%D0%A0%D0%9E%D0%A2%D0%9E%D0%9A%D0%9E%D0%9B%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%BE%D0%B2%2001.04.26.pdf",{"href":"https://m-ets.ru/download/268245817/%D0%9F%D0%A0%D0%9E%D0%A2%D0%9E%D0%9A%D0%9E%D0%9B%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%BE%D0%B2%2001.04.26.pdf","target":"_blank","rel":"noopener","children":["$L20","$L21"]}],"$L22"]}]]}]
+23:T216f,{
+  "id": "etp-mets:222790-1",
+  "sourceCode": "etp-mets",
+  "externalId": "222790-1",
+  "sourceUrl": "https://m-ets.ru/222790-1",
+  "title": "УАЗ 390945, 2017 года",
+  "description": "Грузовой автомобиль УАЗ 390945, 2017г.в., VIN: XTT390945H1219226, модель, № двигателя: 409110*Н3020306, шасси №390940Н0412075, цвет: светло-серый (неисправен, требует ремонта двигателя).",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "3",
+  "categoryName": "Коммерческий транспорт и спецтехника",
+  "regionCode": "73",
+  "address": "Ульяновская область",
+  "priceStart": "411300",
+  "priceMin": "226215.00",
+  "deposit": "82260.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-21T00:00:00+03:00",
+  "biddStartAt": "2026-08-03T09:00:00+03:00",
+  "biddEndAt": "2026-11-10T09:00:00+03:00",
+  "auctionAt": "2026-11-10T09:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А72-2461/2023",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНВЕСТСПЕЦСТРОЙ\"",
+      "inn": "7325116138",
+      "ogrn": "1127325006335"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Семьянова Ольга Владимировна",
+      "inn": "732804834858",
+      "sro": "Ассоциация СРО \"ЦААУ\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Семьянова Ольга Владимировна",
+      "inn": "732804834858",
+      "email": "kanaeva.75@mail.ru",
+      "phone": "+7 (951) 099 29 33"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-03T09:00:00+03:00",
+      "endAt": "2026-08-13T09:00:00+03:00",
+      "price": "411300.00",
+      "deposit": "82260.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-13T09:00:00+03:00",
+      "endAt": "2026-08-23T09:00:00+03:00",
+      "price": "390735.00",
+      "deposit": "82260.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-23T09:00:00+03:00",
+      "endAt": "2026-09-02T09:00:00+03:00",
+      "price": "370170.00",
+      "deposit": "82260.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-02T09:00:00+03:00",
+      "endAt": "2026-09-12T09:00:00+03:00",
+      "price": "349605.00",
+      "deposit": "82260.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-12T09:00:00+03:00",
+      "endAt": "2026-09-22T09:00:00+03:00",
+      "price": "329040.00",
+      "deposit": "82260.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-22T09:00:00+03:00",
+      "endAt": "2026-10-02T09:00:00+03:00",
+      "price": "308475.00",
+      "deposit": "82260.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-02T09:00:00+03:00",
+      "endAt": "2026-10-12T09:00:00+03:00",
+      "price": "287910.00",
+      "deposit": "82260.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-12T09:00:00+03:00",
+      "endAt": "2026-10-22T09:00:00+03:00",
+      "price": "267345.00",
+      "deposit": "82260.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-22T09:00:00+03:00",
+      "endAt": "2026-11-01T09:00:00+03:00",
+      "price": "246780.00",
+      "deposit": "82260.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-11-01T09:00:00+03:00",
+      "endAt": "2026-11-10T09:00:00+03:00",
+      "price": "226215.00",
+      "deposit": "82260.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268245808/268245808_thumb_0.jpg",
+    "https://m-ets.ru/download/268245810/268245810_thumb_0.jpg",
+    "https://m-ets.ru/download/268245809/268245809_thumb_0.jpg",
+    "https://m-ets.ru/download/268245812/268245812_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268245806/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5.pdf",
+      "name": "Отчет об оценке.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268730166/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20222790-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2003.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2013.08.2026%2009%3A00%3A00%20.docx",
+      "name": "Протокол определения участников торгов 222790-МЭТС по лоту 1 за период c 03.08.2026 09:00:00 по 13.08.2026 09:00:00 .docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268245813/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2-%20%D1%86%D0%B5%D1%81%D0%B8%D0%B8.pdf",
+      "name": "Проект договора о результатах торгов- цесии.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268245815/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D1%81%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%BE%D0%B9%20%D0%A3%D0%90%D0%97%20%D0%B0%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD.pdf",
+      "name": "Положение о торгах Инвестспецстрой УАЗ аукцион.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268245817/%D0%9F%D0%A0%D0%9E%D0%A2%D0%9E%D0%9A%D0%9E%D0%9B%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%BE%D0%B2%2001.04.26.pdf",
+      "name": "ПРОТОКОЛ собрания кредиторов 01.04.26.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268245819/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.pdf",
+      "name": "Проект договора о задатке.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2017",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23851335",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Ульяновской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "02.12.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом возможно по предварительной записи в г.Ульяновск, ознакомление с регистрационными документами, а также с Положениями о порядке, сроках и условиях проведения торгов, проектами договоров задатка и купли-продажи возможно по адресу: г. Ульяновск, пр-кт Ульяновский, д. 10, 2 этаж, оф. 38 в будние дни с 14.00 ч. до 15.00 ч. и на сайте ЕФРСБ, а также - на сайте ЭТП - www.m-ets.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:51:37.336Z",
+  "lastSeenAt": "2026-08-31T17:51:37.336Z",
+  "contentHash": "03eff2a9840148819e701398f70759daf01cec15ea7ec41eaee7b83980e9c0c8"
+}1e:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$23"}]]}]
+1f:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"349 605 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["329 040 ₽",["$","span",null,{"className":"muted","children":[" ","· ","12 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[6,", до ","226 215 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"411 300 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"82 260 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"20 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"3 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"10 нояб. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"65 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"10 нояб. 2026 г., 09:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Ульяновская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/222790-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+20:["$","span",null,{"children":["📎 ","ПРОТОКОЛ собрания кредиторов 01.04.26.pdf"]}]
+21:["$","span",null,{"className":"size","children":"$undefined"}]
+22:["$","a","https://m-ets.ru/download/268245819/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.pdf",{"href":"https://m-ets.ru/download/268245819/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора о задатке.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"УАЗ 390945, 2017 года — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

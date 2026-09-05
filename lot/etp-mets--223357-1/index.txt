@@ -1,0 +1,196 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--223357-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--223357-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--223357-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=2","children":"Башкортостан"}]]]}],["$","h1",null,{"children":"Дом 35,3 кв.м. и земельный участок 3982 кв.м. в Башкортостане"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Состоялся"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Жилой дом "}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268292040/268292040_thumb_0.jpg","alt":"Дом 35,3 кв.м. и земельный участок 3982 кв.м. в Башкортостане"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268292044/268292044_thumb_0.jpg",{"href":"https://m-ets.ru/download/268292044/268292044_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268292044/268292044_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268292047/268292047_thumb_0.jpg",{"href":"https://m-ets.ru/download/268292047/268292047_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268292047/268292047_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268292049/268292049_thumb_0.jpg",{"href":"https://m-ets.ru/download/268292049/268292049_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268292049/268292049_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268292042/268292042_thumb_0.jpg",{"href":"https://m-ets.ru/download/268292042/268292042_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268292042/268292042_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268292045/268292045_thumb_0.jpg",{"href":"https://m-ets.ru/download/268292045/268292045_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268292045/268292045_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268292048/268292048_thumb_0.jpg",{"href":"https://m-ets.ru/download/268292048/268292048_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268292048/268292048_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268292051/268292051_thumb_0.jpg",{"href":"https://m-ets.ru/download/268292051/268292051_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268292051/268292051_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268292053/268292053_thumb_0.jpg",{"href":"https://m-ets.ru/download/268292053/268292053_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268292053/268292053_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268292052/268292052_thumb_0.jpg",{"href":"https://m-ets.ru/download/268292052/268292052_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268292052/268292052_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268292054/268292054_thumb_0.jpg",{"href":"https://m-ets.ru/download/268292054/268292054_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268292054/268292054_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268292050/268292050_thumb_0.jpg",{"href":"https://m-ets.ru/download/268292050/268292050_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268292050/268292050_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",3," ","фотографии"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268292046/268292046_thumb_0.jpg",{"href":"https://m-ets.ru/download/268292046/268292046_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268292046/268292046_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268292055/268292055_thumb_0.jpg",{"href":"https://m-ets.ru/download/268292055/268292055_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268292055/268292055_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268292041/268292041_thumb_0.jpg",{"href":"https://m-ets.ru/download/268292041/268292041_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268292041/268292041_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок, общей площадью 3982 м2, кадастровый (условный) номер: 02:52:100201:22 , Жилой дом, площадью 35,3 м2, кадастровый (условный) номер: 02:52:100201:238 , расположенные по адресу: Республика Башкортостан, муниципальный район Чишминский, сельское поселение Новотроицкий сельсовет, деревня Александровка, улица Полевая, дом 9"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23897313",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Республики Башкортостан",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["13.02.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Требования Конкурсного кредитора ПАО Сбербанк признаны обоснованными и включены в третью очередь реестра требований кредиторов КАЛКАМАНОВА РУСТАМА РАУФОВИЧА определением Арбитражного суда Республики Башкортостан от 26.06.2025 г. по делу №А07-43041/2024, как обязательство, обеспеченное залогом Имущества Должника.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С имуществом по лоту № 1 можно ознакомиться по адресу: Россия, Респ Башкортостан, р-н Чишминский, с/с Новотроицкий, д. Александровка, ул. Полевая, дом 9 по предварительной записи у организатора торгов по телефону 89649648008.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["27 июл. 2026 г., 09:00 (МСК)"," —"," ","3 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 148 490 ₽"}],["$","td",null,{"children":"114 849 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 09:00 (МСК)"," —"," ","10 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 066 455 ₽"}],["$","td",null,{"children":"106 645,50 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 09:00 (МСК)"," —"," ","17 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"984 420 ₽"}],["$","td",null,{"children":"98 442 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 09:00 (МСК)"," —"," ","24 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"902 385 ₽"}],["$","td",null,{"children":"90 238,50 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 09:00 (МСК)"," —"," ","31 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"820 350 ₽"}],["$","td",null,{"children":"82 035 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Калкаманов Рустам Рауфович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=025000766686","children":"Калкаманов Рустам Рауфович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","025000766686"]}],"$undefined"]}]]}],["$","tr","manager:Хабибова Гульназ Маратовна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=027005598630","children":"Хабибова Гульназ Маратовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","027005598630"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Собр\""]}]]}]]}],["$","tr","organizer:Хабибова Гульназ Маратовна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=027005598630","children":"Хабибова Гульназ Маратовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","027005598630"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9007-43041%2F2024","children":"А07-43041/2024"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Республика Башкортостан"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268914805/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223357-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268914805/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223357-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 223357-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268914807/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BD%D0%B5%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%B2%D1%88%D0%B8%D0%BC%D0%B8%D1%81%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223357-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268914807/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BD%D0%B5%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%B2%D1%88%D0%B8%D0%BC%D0%B8%D1%81%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223357-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение о признании несостоявшимися торгов 223357-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268292697/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268292697/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268292699/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F.pdf",{"href":"https://m-ets.ru/download/268292699/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T2073,{
+  "id": "etp-mets:223357-1",
+  "sourceCode": "etp-mets",
+  "externalId": "223357-1",
+  "sourceUrl": "https://m-ets.ru/223357-1",
+  "title": "Дом 35,3 кв.м. и земельный участок 3982 кв.м. в Башкортостане",
+  "description": "Земельный участок, общей площадью 3982 м2, кадастровый (условный) номер: 02:52:100201:22 , Жилой дом, площадью 35,3 м2, кадастровый (условный) номер: 02:52:100201:238 , расположенные по адресу: Республика Башкортостан, муниципальный район Чишминский, сельское поселение Новотроицкий сельсовет, деревня Александровка, улица Полевая, дом 9",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "finished",
+  "statusRaw": "Торги завершены",
+  "kind": "land",
+  "categoryCode": "34",
+  "categoryName": "Жилой дом ",
+  "regionCode": "2",
+  "address": "Республика Башкортостан",
+  "priceStart": "1148490",
+  "priceMin": "820350.00",
+  "deposit": "114849.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-24T00:00:00+03:00",
+  "biddStartAt": "2026-07-27T09:00:00+03:00",
+  "biddEndAt": "2026-08-31T09:00:00+03:00",
+  "auctionAt": "2026-08-31T09:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А07-43041/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Калкаманов Рустам Рауфович",
+      "inn": "025000766686",
+      "efrsbId": "3e44fb91736df5bbbe14d3683e76b2e7"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Хабибова Гульназ Маратовна",
+      "inn": "027005598630",
+      "sro": "ААУ \"Собр\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Хабибова Гульназ Маратовна",
+      "inn": "027005598630",
+      "email": "rgm1105@ya.ru",
+      "phone": "+7 (964) 964 80 08"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-27T09:00:00+03:00",
+      "endAt": "2026-08-03T09:00:00+03:00",
+      "price": "1148490.00",
+      "deposit": "114849.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-03T09:00:00+03:00",
+      "endAt": "2026-08-10T09:00:00+03:00",
+      "price": "1066455.00",
+      "deposit": "106645.50"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-10T09:00:00+03:00",
+      "endAt": "2026-08-17T09:00:00+03:00",
+      "price": "984420.00",
+      "deposit": "98442.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-17T09:00:00+03:00",
+      "endAt": "2026-08-24T09:00:00+03:00",
+      "price": "902385.00",
+      "deposit": "90238.50"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-24T09:00:00+03:00",
+      "endAt": "2026-08-31T09:00:00+03:00",
+      "price": "820350.00",
+      "deposit": "82035.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268292040/268292040_thumb_0.jpg",
+    "https://m-ets.ru/download/268292044/268292044_thumb_0.jpg",
+    "https://m-ets.ru/download/268292047/268292047_thumb_0.jpg",
+    "https://m-ets.ru/download/268292049/268292049_thumb_0.jpg",
+    "https://m-ets.ru/download/268292042/268292042_thumb_0.jpg",
+    "https://m-ets.ru/download/268292045/268292045_thumb_0.jpg",
+    "https://m-ets.ru/download/268292048/268292048_thumb_0.jpg",
+    "https://m-ets.ru/download/268292051/268292051_thumb_0.jpg",
+    "https://m-ets.ru/download/268292053/268292053_thumb_0.jpg",
+    "https://m-ets.ru/download/268292052/268292052_thumb_0.jpg",
+    "https://m-ets.ru/download/268292054/268292054_thumb_0.jpg",
+    "https://m-ets.ru/download/268292050/268292050_thumb_0.jpg",
+    "https://m-ets.ru/download/268292046/268292046_thumb_0.jpg",
+    "https://m-ets.ru/download/268292055/268292055_thumb_0.jpg",
+    "https://m-ets.ru/download/268292041/268292041_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268914805/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223357-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Протокол определения участников торгов 223357-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268914807/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BD%D0%B5%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%B2%D1%88%D0%B8%D0%BC%D0%B8%D1%81%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223357-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Решение о признании несостоявшимися торгов 223357-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268292697/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268292699/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F.pdf",
+      "name": "Проект ДКП.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23897313",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Республики Башкортостан",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "13.02.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Требования Конкурсного кредитора ПАО Сбербанк признаны обоснованными и включены в третью очередь реестра требований кредиторов КАЛКАМАНОВА РУСТАМА РАУФОВИЧА определением Арбитражного суда Республики Башкортостан от 26.06.2025 г. по делу №А07-43041/2024, как обязательство, обеспеченное залогом Имущества Должника.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С имуществом по лоту № 1 можно ознакомиться по адресу: Россия, Респ Башкортостан, р-н Чишминский, с/с Новотроицкий, д. Александровка, ул. Полевая, дом 9 по предварительной записи у организатора торгов по телефону 89649648008.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T20:06:13.763Z",
+  "lastSeenAt": "2026-08-31T20:06:13.763Z",
+  "contentHash": "9dc03d53616e9b8b4c1182f05767827b71b5706f63222cb2880dcf72d0db85ba"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 148 490 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[5,", до ","820 350 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"114 849 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"23 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 июл. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"31 авг. 2026 г., 09:00 (МСК)"}]],false,[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"31 авг. 2026 г., 09:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Башкортостан"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/223357-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Дом 35,3 кв.м. и земельный участок 3982 кв.м. в Башкортостане — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

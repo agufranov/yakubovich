@@ -1,0 +1,208 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--223325-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--223325-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--223325-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=receivable","children":"Права требования"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"Дебиторская задолженность АО \"АНТИПИНСКИЙ НЕФТЕПЕРЕРАБАТЫВАЮЩИЙ ЗАВОД\""}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Задолженность юр. лиц"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"дебиторская задолженность АО \"АНТИПИНСКИЙ НЕФТЕПЕРЕРАБАТЫВАЮЩИЙ ЗАВОД\" ИНН 7204084481. Сумма задолженности 429 747 руб."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23613934",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["арбитражный суд города Москвы",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["17.05.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["по предварительной договоренности по электронной почте rezvan1969@mail.ru",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["24 июл. 2026 г., 12:00 (МСК)"," —"," ","28 июл. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"343 797,60 ₽"}],["$","td",null,{"children":"34 379,76 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["28 июл. 2026 г., 12:00 (МСК)"," —"," ","1 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"309 417,84 ₽"}],["$","td",null,{"children":"30 941,78 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["1 авг. 2026 г., 12:00 (МСК)"," —"," ","5 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"275 038,08 ₽"}],["$","td",null,{"children":"27 503,81 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["5 авг. 2026 г., 12:00 (МСК)"," —"," ","9 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"240 658,32 ₽"}],["$","td",null,{"children":"24 065,83 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["9 авг. 2026 г., 12:00 (МСК)"," —"," ","13 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"206 278,56 ₽"}],["$","td",null,{"children":"20 627,86 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["13 авг. 2026 г., 12:00 (МСК)"," —"," ","17 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"171 898,80 ₽"}],["$","td",null,{"children":"17 189,88 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 12:00 (МСК)"," —"," ","21 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"137 519,04 ₽"}],["$","td",null,{"children":"13 751,90 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 12:00 (МСК)"," —"," ","25 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"103 139,28 ₽"}],["$","td",null,{"children":"10 313,93 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["25 авг. 2026 г., 12:00 (МСК)"," —"," ","29 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"68 759,52 ₽"}],["$","td",null,{"children":"6 875,95 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["29 авг. 2026 г., 12:00 (МСК)"," —"," ","2 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"34 379,76 ₽"}],["$","td",null,{"children":"3 437,98 ₽"}]]}],"$L11"]}]]}]]}],"$L12","$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","tr","11",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 12:00 (МСК)"," —"," ","6 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"4 297,47 ₽"}],["$","td",null,{"children":"429,75 ₽"}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"БРОКЕРСКИЙ АЛЬЯНС НЕЗАВИСИМЫХ ТРЕЙДЕРОВ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7726691270","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"БРОКЕРСКИЙ АЛЬЯНС НЕЗАВИСИМЫХ ТРЕЙДЕРОВ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7726691270"]}],"$undefined"]}]]}],["$","tr","manager:Резван Павел Александрович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=344305950030","children":"Резван Павел Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","344305950030"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация СРО \"ЦААУ\""]}]]}]]}],["$","tr","organizer:Резван Павел Александрович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=344305950030","children":"Резван Павел Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","344305950030"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-232855%2F2022%20187-81%20%C2%AB%D0%91%C2%BB","children":"А40-232855/2022 187-81 «Б»"}]}]]}]]}]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/267971227/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D1%89%D0%B8%D0%BA%D0%B0(5)_compressed.pdf",{"href":"https://m-ets.ru/download/267971227/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D1%89%D0%B8%D0%BA%D0%B0(5)_compressed.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет оценщика(5)_compressed.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267971229/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0.docx",{"href":"https://m-ets.ru/download/267971229/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДОГОВОР.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268018000/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268018000/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+17:T1885,{
+  "id": "etp-mets:223325-1",
+  "sourceCode": "etp-mets",
+  "externalId": "223325-1",
+  "sourceUrl": "https://m-ets.ru/223325-1",
+  "title": "Дебиторская задолженность АО \"АНТИПИНСКИЙ НЕФТЕПЕРЕРАБАТЫВАЮЩИЙ ЗАВОД\"",
+  "description": "дебиторская задолженность АО \"АНТИПИНСКИЙ НЕФТЕПЕРЕРАБАТЫВАЮЩИЙ ЗАВОД\" ИНН 7204084481. Сумма задолженности 429 747 руб.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "receivable",
+  "categoryCode": "25",
+  "categoryName": "Задолженность юр. лиц",
+  "regionCode": "77",
+  "address": "г. Москва",
+  "priceStart": "343797.60",
+  "priceMin": "4297.47",
+  "deposit": "34379.76",
+  "currency": "RUB",
+  "publishedAt": "2026-07-03T00:00:00+03:00",
+  "biddStartAt": "2026-07-24T12:00:00+03:00",
+  "biddEndAt": "2026-09-06T12:00:00+03:00",
+  "auctionAt": "2026-09-07T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-232855/2022 187-81 «Б»",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"БРОКЕРСКИЙ АЛЬЯНС НЕЗАВИСИМЫХ ТРЕЙДЕРОВ\"",
+      "inn": "7726691270",
+      "ogrn": "1127746093001"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Резван Павел Александрович",
+      "inn": "344305950030",
+      "sro": "Ассоциация СРО \"ЦААУ\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Резван Павел Александрович",
+      "inn": "344305950030",
+      "email": "rezvan1969@mail.ru",
+      "phone": "+7 (905) 390 12 29"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-24T12:00:00+03:00",
+      "endAt": "2026-07-28T12:00:00+03:00",
+      "price": "343797.60",
+      "deposit": "34379.76"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-28T12:00:00+03:00",
+      "endAt": "2026-08-01T12:00:00+03:00",
+      "price": "309417.84",
+      "deposit": "30941.78"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-01T12:00:00+03:00",
+      "endAt": "2026-08-05T12:00:00+03:00",
+      "price": "275038.08",
+      "deposit": "27503.81"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-05T12:00:00+03:00",
+      "endAt": "2026-08-09T12:00:00+03:00",
+      "price": "240658.32",
+      "deposit": "24065.83"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-09T12:00:00+03:00",
+      "endAt": "2026-08-13T12:00:00+03:00",
+      "price": "206278.56",
+      "deposit": "20627.86"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-13T12:00:00+03:00",
+      "endAt": "2026-08-17T12:00:00+03:00",
+      "price": "171898.80",
+      "deposit": "17189.88"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-17T12:00:00+03:00",
+      "endAt": "2026-08-21T12:00:00+03:00",
+      "price": "137519.04",
+      "deposit": "13751.90"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-21T12:00:00+03:00",
+      "endAt": "2026-08-25T12:00:00+03:00",
+      "price": "103139.28",
+      "deposit": "10313.93"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-08-25T12:00:00+03:00",
+      "endAt": "2026-08-29T12:00:00+03:00",
+      "price": "68759.52",
+      "deposit": "6875.95"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-08-29T12:00:00+03:00",
+      "endAt": "2026-09-02T12:00:00+03:00",
+      "price": "34379.76",
+      "deposit": "3437.98"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-09-02T12:00:00+03:00",
+      "endAt": "2026-09-06T12:00:00+03:00",
+      "price": "4297.47",
+      "deposit": "429.75"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/267971227/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D1%89%D0%B8%D0%BA%D0%B0(5)_compressed.pdf",
+      "name": "Отчет оценщика(5)_compressed.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267971229/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0.docx",
+      "name": "ДОГОВОР.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268018000/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23613934",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "арбитражный суд города Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "17.05.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "по предварительной договоренности по электронной почте rezvan1969@mail.ru",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:56:50.777Z",
+  "lastSeenAt": "2026-08-31T18:56:50.777Z",
+  "contentHash": "85c53ce212032110fc6a6eb5ce52fabdee36ae6dd19059dd4f8ff91e41e20776"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$17"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"4 297,47 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"343 797,60 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"34 379,76 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"2 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"24 июл. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"hot","children":"6 сент. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"hot","children":"меньше дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"7 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/223325-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Дебиторская задолженность АО \"АНТИПИНСКИЙ НЕФТЕПЕРЕРАБАТЫВАЮЩИЙ ЗАВОД\" — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

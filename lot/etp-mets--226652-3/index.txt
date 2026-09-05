@@ -1,0 +1,320 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--226652-3",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--226652-3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--226652-3","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=50","children":"Московская обл."}]]]}],["$","h1",null,{"children":"Имущественный (производственный) комплекс в Московской обл."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Имущественный комплекс"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268548733/268548733_thumb_0.jpg","alt":"Имущественный (производственный) комплекс в Московской обл."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268548723/268548723_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548723/268548723_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548723/268548723_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548720/268548720_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548720/268548720_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548720/268548720_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548736/268548736_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548736/268548736_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548736/268548736_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548731/268548731_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548731/268548731_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548731/268548731_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548732/268548732_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548732/268548732_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548732/268548732_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548734/268548734_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548734/268548734_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548734/268548734_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548744/268548744_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548744/268548744_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548744/268548744_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548738/268548738_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548738/268548738_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548738/268548738_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548743/268548743_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548743/268548743_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548743/268548743_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548725/268548725_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548725/268548725_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548725/268548725_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548737/268548737_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548737/268548737_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268548737/268548737_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",17," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268548739/268548739_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548739/268548739_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548739/268548739_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548748/268548748_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548748/268548748_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548748/268548748_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548724/268548724_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548724/268548724_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548724/268548724_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548726/268548726_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548726/268548726_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548726/268548726_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548751/268548751_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548751/268548751_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548751/268548751_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548740/268548740_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548740/268548740_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548740/268548740_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548749/268548749_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548749/268548749_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548749/268548749_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548730/268548730_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548730/268548730_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548730/268548730_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548728/268548728_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548728/268548728_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548728/268548728_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548746/268548746_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548746/268548746_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548746/268548746_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548745/268548745_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548745/268548745_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548745/268548745_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548735/268548735_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548735/268548735_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548735/268548735_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548729/268548729_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548729/268548729_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548729/268548729_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268548747/268548747_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548747/268548747_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L1b"}],"$L1c","$L1d","$L1e"]}]]}]
+1f:Tfd5,3.1. Земельный участок, кадастровый номер: 50:15:0071001:12 , площадь 888 кв.м., адрес: Московская обл., р-н Балашихинский, п. Купавна, ул. Проектная, дом 71; Задаток: 10% от начальной цены. 3.2. Здание нежилое, кадастровый номер: 50:15:0071001:896 , площадь 204,8 кв.м., адрес: Российская Федерация, Московская область, Балашихинский район, п. Купавна, ул. Проектная; Задаток: 10% от начальной цены. 3.3. Здание нежилое, кадастровый номер: 50:15:0071001:561 , площадь 129,2 кв.м., адрес: Российская Федерация, Московская область, Балашихинский район, п. Купавна, ул. Проектная; Задаток: 10% от начальной цены. 3.4. Здание нежилое, кадастровый номер: 50:15:0071001:562 , площадь 220,5 кв.м., адрес: Российская Федерация, Московская область, Балашихинский район, п. Купавна, ул. Проектная; Задаток: 10% от начальной цены. 3.5. Цех по изготовлению мясных полуфабрикатов, кадастровый номер: 50:15:0000000:4290 , площадь 651,6 кв.м., адрес: Московская область, р-н Балашихинский, д Черное, ул Проектная, д 71; Задаток: 10% от начальной цены. 3.6. Коммунально-складское здание, кадастровый номер: 50:15:0071001:136 , площадь 105,0 кв.м., адрес: Московская ... Показать сведения об имуществе полностью область, Городской округ Балашиха, Город Балашиха, микрорайон Купавна, Улица Проектная, д 71; Задаток: 10% от начальной цены. 3.7. Газопровод кадастровый номер: 50:15:0000000:134853 , протяженность 177 м., адрес: Московская область, Балашихинский район, дер. Черное, ул.Проектная, д.71; Задаток: 10% от начальной цены. 3.8. Гаражный бокс, кадастровый номер: 50:15:0000000:132321 , площадь 24.5 кв.м., адрес: Московская область, г. Балашиха, д. Черное, ул. Проектная, ГСК "Якорь", бокс 200; Задаток: 10% от начальной цены. 3.9 Гаражный бокс, кадастровый номер: 50:15:0000000:153082 , площадь 24.3 кв.м., адрес: Московская область, г. Балашиха, д. Черное, ул. Проектная, бокс 199, ГСК "Якорь"; Задаток: 10% от начальной цены. 3.10.Газопроводная система (счетчик газа 32221035); Задаток: 10% от начальной цены. 3.11. Строительные материалы, сложенные определенным образом. Задаток: 10% от начальной цены. ВНИМАНИЕ! В Арбитражном суде Московской области рассматривается дело № А41-75976/2023, которым заявлены требования к недвижимым объектам ООО "КОРС" по признанию их самовольными и сносу. Государственной экспертизой выявлен ряд устранимых недостатков, которые приведены в заключении. Копия заключения прилагается к публикации.13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"$1f"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24103540",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Московской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["03.10.2022",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Для ознакомления необходимо оставить заявку на электронную почту: info@estvaind.ru, с указанием наименования лота.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["8 авг. 2026 г., 09:00 (МСК)"," —"," ","11 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"62 600 399,70 ₽"}],["$","td",null,{"children":"6 260 039,97 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["11 авг. 2026 г., 09:00 (МСК)"," —"," ","14 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"59 470 379,72 ₽"}],["$","td",null,{"children":"5 947 037,97 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["14 авг. 2026 г., 09:00 (МСК)"," —"," ","17 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"56 340 359,73 ₽"}],["$","td",null,{"children":"5 634 035,97 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 09:00 (МСК)"," —"," ","20 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"53 210 339,75 ₽"}],["$","td",null,{"children":"5 321 033,98 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["20 авг. 2026 г., 09:00 (МСК)"," —"," ","23 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"50 080 319,76 ₽"}],["$","td",null,{"children":"5 008 031,98 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["23 авг. 2026 г., 09:00 (МСК)"," —"," ","26 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"46 950 299,78 ₽"}],["$","td",null,{"children":"4 695 029,98 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 09:00 (МСК)"," —"," ","29 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"43 820 279,79 ₽"}],["$","td",null,{"children":"4 382 027,98 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["29 авг. 2026 г., 09:00 (МСК)"," —"," ","1 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"40 690 259,81 ₽"}],["$","td",null,{"children":"4 069 025,98 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["1 сент. 2026 г., 09:00 (МСК)"," —"," ","4 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"37 560 239,82 ₽"}],["$","td",null,{"children":"3 756 023,98 ₽"}]]}],["$","tr","10",{"className":"now","children":[["$","td",null,{"children":["4 сент. 2026 г., 09:00 (МСК)"," —"," ","7 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"34 430 219,84 ₽"}],["$","td",null,{"children":"3 443 021,98 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 09:00 (МСК)"," —"," ","10 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"31 300 199,85 ₽"}],["$","td",null,{"children":"3 130 019,99 ₽"}]]}],["$","tr","12",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 09:00 (МСК)"," —"," ","13 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"28 170 179,87 ₽"}],["$","td",null,{"children":"2 817 017,99 ₽"}]]}],["$","tr","13",{"className":"","children":[["$","td",null,{"children":["13 сент. 2026 г., 09:00 (МСК)"," —"," ","16 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"25 040 159,88 ₽"}],["$","td",null,{"children":"2 504 015,99 ₽"}]]}],["$","tr","14",{"className":"","children":[["$","td",null,{"children":["16 сент. 2026 г., 09:00 (МСК)"," —"," ","19 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"21 910 139,90 ₽"}],["$","td",null,{"children":"2 191 013,99 ₽"}]]}],["$","tr","15",{"className":"","children":[["$","td",null,{"children":["19 сент. 2026 г., 09:00 (МСК)"," —"," ","22 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"18 780 119,91 ₽"}],["$","td",null,{"children":"1 878 011,99 ₽"}]]}],["$","tr","16",{"className":"","children":[["$","td",null,{"children":["22 сент. 2026 г., 09:00 (МСК)"," —"," ","25 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"15 650 099,93 ₽"}],["$","td",null,{"children":"1 565 009,99 ₽"}]]}],["$","tr","17",{"className":"","children":[["$","td",null,{"children":["25 сент. 2026 г., 09:00 (МСК)"," —"," ","28 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"12 520 079,94 ₽"}],["$","td",null,{"children":"1 252 007,99 ₽"}]]}],["$","tr","18",{"className":"","children":[["$","td",null,{"children":["28 сент. 2026 г., 09:00 (МСК)"," —"," ","1 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"9 390 059,96 ₽"}],["$","td",null,{"children":"939 006 ₽"}]]}],["$","tr","19",{"className":"","children":["$L20","$L21","$L22"]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КОРС\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=5001106841","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КОРС\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","5001106841"]}],"$undefined"]}]]}],["$","tr","manager:Петров Павел Иванович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=101700955811","children":"Петров Павел Иванович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","101700955811"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Солидарность\""]}]]}]]}],["$","tr","organizer:Петров Павел Иванович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=101700955811","children":"Петров Павел Иванович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","101700955811"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9041-57707%2F2021","children":"А41-57707/2021"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Московская область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268548718/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%D0%B8%D0%B7%D0%B0%20%D0%9A%D0%9E%D0%A0%D0%A12_compressed%20(1).pdf",{"href":"https://m-ets.ru/download/268548718/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%D0%B8%D0%B7%D0%B0%20%D0%9A%D0%9E%D0%A0%D0%A12_compressed%20(1).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Экспертиза КОРС2_compressed (1).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268548721/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D1%89%D0%B8%D0%BA%D0%B0%20%E2%84%96%2002-01-23%20%D0%9E%D0%9E%D0%9E%20%D0%9A%D0%9E%D0%A0%D0%A1%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2011.05.2023_compressed.pdf",{"href":"https://m-ets.ru/download/268548721/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D1%89%D0%B8%D0%BA%D0%B0%20%E2%84%96%2002-01-23%20%D0%9E%D0%9E%D0%9E%20%D0%9A%D0%9E%D0%A0%D0%A1%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2011.05.2023_compressed.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет оценщика № 02-01-23 ООО КОРС недвижимого имущества от 11.05.2023_compressed.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268548752/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%83%D0%B4%D0%B0%20%D0%BE%D0%B1%20%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B0%20%D0%9A%D0%9E%D0%A0%D0%A1%20(1).pdf",{"href":"https://m-ets.ru/download/268548752/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%83%D0%B4%D0%B0%20%D0%BE%D0%B1%20%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B0%20%D0%9A%D0%9E%D0%A0%D0%A1%20(1).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение суда об утверждении порядка КОРС (1).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268548754/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9A%D0%9E%D0%A0%D0%A1%20(%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5)%20(1).pdf",{"href":"https://m-ets.ru/download/268548754/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9A%D0%9E%D0%A0%D0%A1%20(%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5)%20(1).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Порядок продажи имущества КОРС (утвержденное) (1).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268548756/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9A%D0%9E%D0%A0%D0%A1%20(1).docx",{"href":"https://m-ets.ru/download/268548756/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9A%D0%9E%D0%A0%D0%A1%20(1).docx","target":"_blank","rel":"noopener","children":["$L23","$L24"]}],"$L25"]}]]}]
+26:T3a39,{
+  "id": "etp-mets:226652-3",
+  "sourceCode": "etp-mets",
+  "externalId": "226652-3",
+  "sourceUrl": "https://m-ets.ru/226652-3",
+  "title": "Имущественный (производственный) комплекс в Московской обл.",
+  "description": "3.1. Земельный участок, кадастровый номер: 50:15:0071001:12 , площадь 888 кв.м., адрес: Московская обл., р-н Балашихинский, п. Купавна, ул. Проектная, дом 71; Задаток: 10% от начальной цены. 3.2. Здание нежилое, кадастровый номер: 50:15:0071001:896 , площадь 204,8 кв.м., адрес: Российская Федерация, Московская область, Балашихинский район, п. Купавна, ул. Проектная; Задаток: 10% от начальной цены. 3.3. Здание нежилое, кадастровый номер: 50:15:0071001:561 , площадь 129,2 кв.м., адрес: Российская Федерация, Московская область, Балашихинский район, п. Купавна, ул. Проектная; Задаток: 10% от начальной цены. 3.4. Здание нежилое, кадастровый номер: 50:15:0071001:562 , площадь 220,5 кв.м., адрес: Российская Федерация, Московская область, Балашихинский район, п. Купавна, ул. Проектная; Задаток: 10% от начальной цены. 3.5. Цех по изготовлению мясных полуфабрикатов, кадастровый номер: 50:15:0000000:4290 , площадь 651,6 кв.м., адрес: Московская область, р-н Балашихинский, д Черное, ул Проектная, д 71; Задаток: 10% от начальной цены. 3.6. Коммунально-складское здание, кадастровый номер: 50:15:0071001:136 , площадь 105,0 кв.м., адрес: Московская ... Показать сведения об имуществе полностью область, Городской округ Балашиха, Город Балашиха, микрорайон Купавна, Улица Проектная, д 71; Задаток: 10% от начальной цены. 3.7. Газопровод кадастровый номер: 50:15:0000000:134853 , протяженность 177 м., адрес: Московская область, Балашихинский район, дер. Черное, ул.Проектная, д.71; Задаток: 10% от начальной цены. 3.8. Гаражный бокс, кадастровый номер: 50:15:0000000:132321 , площадь 24.5 кв.м., адрес: Московская область, г. Балашиха, д. Черное, ул. Проектная, ГСК \"Якорь\", бокс 200; Задаток: 10% от начальной цены. 3.9 Гаражный бокс, кадастровый номер: 50:15:0000000:153082 , площадь 24.3 кв.м., адрес: Московская область, г. Балашиха, д. Черное, ул. Проектная, бокс 199, ГСК \"Якорь\"; Задаток: 10% от начальной цены. 3.10.Газопроводная система (счетчик газа 32221035); Задаток: 10% от начальной цены. 3.11. Строительные материалы, сложенные определенным образом. Задаток: 10% от начальной цены. ВНИМАНИЕ! В Арбитражном суде Московской области рассматривается дело № А41-75976/2023, которым заявлены требования к недвижимым объектам ООО \"КОРС\" по признанию их самовольными и сносу. Государственной экспертизой выявлен ряд устранимых недостатков, которые приведены в заключении. Копия заключения прилагается к публикации.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "other",
+  "categoryCode": "28",
+  "categoryName": "Имущественный комплекс",
+  "regionCode": "50",
+  "address": "Московская область",
+  "priceStart": "62600399.70",
+  "priceMin": "6260039.97",
+  "deposit": "6260039.97",
+  "currency": "RUB",
+  "publishedAt": "2026-08-07T00:00:00+03:00",
+  "biddStartAt": "2026-08-08T09:00:00+03:00",
+  "biddEndAt": "2026-10-04T09:00:00+03:00",
+  "auctionAt": "2026-10-05T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А41-57707/2021",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КОРС\"",
+      "inn": "5001106841",
+      "ogrn": "1165001050213"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Петров Павел Иванович",
+      "inn": "101700955811",
+      "sro": "ААУ \"Солидарность\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Петров Павел Иванович",
+      "inn": "101700955811",
+      "email": "pashacompetent@yandex.ru",
+      "phone": "+7 (915) 183 87 75"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-08T09:00:00+03:00",
+      "endAt": "2026-08-11T09:00:00+03:00",
+      "price": "62600399.70",
+      "deposit": "6260039.97"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-11T09:00:00+03:00",
+      "endAt": "2026-08-14T09:00:00+03:00",
+      "price": "59470379.72",
+      "deposit": "5947037.97"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-14T09:00:00+03:00",
+      "endAt": "2026-08-17T09:00:00+03:00",
+      "price": "56340359.73",
+      "deposit": "5634035.97"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-17T09:00:00+03:00",
+      "endAt": "2026-08-20T09:00:00+03:00",
+      "price": "53210339.75",
+      "deposit": "5321033.98"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-20T09:00:00+03:00",
+      "endAt": "2026-08-23T09:00:00+03:00",
+      "price": "50080319.76",
+      "deposit": "5008031.98"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-23T09:00:00+03:00",
+      "endAt": "2026-08-26T09:00:00+03:00",
+      "price": "46950299.78",
+      "deposit": "4695029.98"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-26T09:00:00+03:00",
+      "endAt": "2026-08-29T09:00:00+03:00",
+      "price": "43820279.79",
+      "deposit": "4382027.98"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-29T09:00:00+03:00",
+      "endAt": "2026-09-01T09:00:00+03:00",
+      "price": "40690259.81",
+      "deposit": "4069025.98"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-01T09:00:00+03:00",
+      "endAt": "2026-09-04T09:00:00+03:00",
+      "price": "37560239.82",
+      "deposit": "3756023.98"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-09-04T09:00:00+03:00",
+      "endAt": "2026-09-07T09:00:00+03:00",
+      "price": "34430219.84",
+      "deposit": "3443021.98"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-09-07T09:00:00+03:00",
+      "endAt": "2026-09-10T09:00:00+03:00",
+      "price": "31300199.85",
+      "deposit": "3130019.99"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-09-10T09:00:00+03:00",
+      "endAt": "2026-09-13T09:00:00+03:00",
+      "price": "28170179.87",
+      "deposit": "2817017.99"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-09-13T09:00:00+03:00",
+      "endAt": "2026-09-16T09:00:00+03:00",
+      "price": "25040159.88",
+      "deposit": "2504015.99"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-09-16T09:00:00+03:00",
+      "endAt": "2026-09-19T09:00:00+03:00",
+      "price": "21910139.90",
+      "deposit": "2191013.99"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-09-19T09:00:00+03:00",
+      "endAt": "2026-09-22T09:00:00+03:00",
+      "price": "18780119.91",
+      "deposit": "1878011.99"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-09-22T09:00:00+03:00",
+      "endAt": "2026-09-25T09:00:00+03:00",
+      "price": "15650099.93",
+      "deposit": "1565009.99"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-09-25T09:00:00+03:00",
+      "endAt": "2026-09-28T09:00:00+03:00",
+      "price": "12520079.94",
+      "deposit": "1252007.99"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-09-28T09:00:00+03:00",
+      "endAt": "2026-10-01T09:00:00+03:00",
+      "price": "9390059.96",
+      "deposit": "939006.00"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-10-01T09:00:00+03:00",
+      "endAt": "2026-10-04T09:00:00+03:00",
+      "price": "6260039.97",
+      "deposit": "626004.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268548733/268548733_thumb_0.jpg",
+    "https://m-ets.ru/download/268548723/268548723_thumb_0.jpg",
+    "https://m-ets.ru/download/268548720/268548720_thumb_0.jpg",
+    "https://m-ets.ru/download/268548736/268548736_thumb_0.jpg",
+    "https://m-ets.ru/download/268548731/268548731_thumb_0.jpg",
+    "https://m-ets.ru/download/268548732/268548732_thumb_0.jpg",
+    "https://m-ets.ru/download/268548734/268548734_thumb_0.jpg",
+    "https://m-ets.ru/download/268548744/268548744_thumb_0.jpg",
+    "https://m-ets.ru/download/268548738/268548738_thumb_0.jpg",
+    "https://m-ets.ru/download/268548743/268548743_thumb_0.jpg",
+    "https://m-ets.ru/download/268548725/268548725_thumb_0.jpg",
+    "https://m-ets.ru/download/268548737/268548737_thumb_0.jpg",
+    "https://m-ets.ru/download/268548739/268548739_thumb_0.jpg",
+    "https://m-ets.ru/download/268548748/268548748_thumb_0.jpg",
+    "https://m-ets.ru/download/268548724/268548724_thumb_0.jpg",
+    "https://m-ets.ru/download/268548726/268548726_thumb_0.jpg",
+    "https://m-ets.ru/download/268548751/268548751_thumb_0.jpg",
+    "https://m-ets.ru/download/268548740/268548740_thumb_0.jpg",
+    "https://m-ets.ru/download/268548749/268548749_thumb_0.jpg",
+    "https://m-ets.ru/download/268548730/268548730_thumb_0.jpg",
+    "https://m-ets.ru/download/268548728/268548728_thumb_0.jpg",
+    "https://m-ets.ru/download/268548746/268548746_thumb_0.jpg",
+    "https://m-ets.ru/download/268548745/268548745_thumb_0.jpg",
+    "https://m-ets.ru/download/268548735/268548735_thumb_0.jpg",
+    "https://m-ets.ru/download/268548729/268548729_thumb_0.jpg",
+    "https://m-ets.ru/download/268548747/268548747_thumb_0.jpg",
+    "https://m-ets.ru/download/268548742/268548742_thumb_0.jpg",
+    "https://m-ets.ru/download/268548727/268548727_thumb_0.jpg",
+    "https://m-ets.ru/download/268548750/268548750_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268548718/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%D0%B8%D0%B7%D0%B0%20%D0%9A%D0%9E%D0%A0%D0%A12_compressed%20(1).pdf",
+      "name": "Экспертиза КОРС2_compressed (1).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268548721/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D1%89%D0%B8%D0%BA%D0%B0%20%E2%84%96%2002-01-23%20%D0%9E%D0%9E%D0%9E%20%D0%9A%D0%9E%D0%A0%D0%A1%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2011.05.2023_compressed.pdf",
+      "name": "Отчет оценщика № 02-01-23 ООО КОРС недвижимого имущества от 11.05.2023_compressed.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268548752/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%83%D0%B4%D0%B0%20%D0%BE%D0%B1%20%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B0%20%D0%9A%D0%9E%D0%A0%D0%A1%20(1).pdf",
+      "name": "Определение суда об утверждении порядка КОРС (1).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268548754/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9A%D0%9E%D0%A0%D0%A1%20(%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5)%20(1).pdf",
+      "name": "Порядок продажи имущества КОРС (утвержденное) (1).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268548756/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9A%D0%9E%D0%A0%D0%A1%20(1).docx",
+      "name": "Проект договора купли-продажи КОРС (1).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268548758/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9E%D0%9E%D0%9E%20%D0%9A%D0%9E%D0%A0%D0%A1.docx",
+      "name": "Договор о задатке ООО КОРС.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24103540",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Московской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "03.10.2022",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Для ознакомления необходимо оставить заявку на электронную почту: info@estvaind.ru, с указанием наименования лота.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:13:07.737Z",
+  "lastSeenAt": "2026-08-31T18:13:07.737Z",
+  "contentHash": "686158de378e8410df9ea339f81e769916b04adbda857776e8c858db62754af8"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$26"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"34 430 219,84 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["31 300 199,85 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[9,", до ","6 260 039,97 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"62 600 399,70 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"6 260 039,97 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"6 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"8 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"4 окт. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"28 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"5 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Московская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/226652-3","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1b:["$","img",null,{"src":"https://m-ets.ru/download/268548747/268548747_thumb_0.jpg","alt":"","loading":"lazy"}]
+1c:["$","a","https://m-ets.ru/download/268548742/268548742_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548742/268548742_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548742/268548742_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1d:["$","a","https://m-ets.ru/download/268548727/268548727_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548727/268548727_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548727/268548727_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1e:["$","a","https://m-ets.ru/download/268548750/268548750_thumb_0.jpg",{"href":"https://m-ets.ru/download/268548750/268548750_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268548750/268548750_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+20:["$","td",null,{"children":["1 окт. 2026 г., 09:00 (МСК)"," —"," ","4 окт. 2026 г., 09:00 (МСК)"]}]
+21:["$","td",null,{"children":"6 260 039,97 ₽"}]
+22:["$","td",null,{"children":"626 004 ₽"}]
+23:["$","span",null,{"children":["📎 ","Проект договора купли-продажи КОРС (1).docx"]}]
+24:["$","span",null,{"className":"size","children":"$undefined"}]
+25:["$","a","https://m-ets.ru/download/268548758/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9E%D0%9E%D0%9E%20%D0%9A%D0%9E%D0%A0%D0%A1.docx",{"href":"https://m-ets.ru/download/268548758/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9E%D0%9E%D0%9E%20%D0%9A%D0%9E%D0%A0%D0%A1.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке ООО КОРС.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Имущественный (производственный) комплекс в Московской обл. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

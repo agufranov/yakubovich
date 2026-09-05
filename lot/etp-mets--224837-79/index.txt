@@ -1,0 +1,169 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--224837-79",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--224837-79","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--224837-79","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=74","children":"Челябинская обл."}]]]}],["$","h1",null,{"children":"Погрузчик ПУМ – 500."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Иной транспорт и техника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Лот № 79.1 - Погрузчик ПУМ – 500. (сост. - не рабочее) Имущество, обременено залогом в пользу ПАО Национальный банк \"Траст\"."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23962346",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Челябинской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["01.11.2017",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["9 250 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с характеристиками имущества и документацией осуществляется по предварительной записи по адресу эл. почты организатора торгов по рабочим дням в течение срока подачи заявок.",""]}]]}]]}]}]]}],"$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"УФАЛЕЙНИКЕЛЬ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7402001769","children":"ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"УФАЛЕЙНИКЕЛЬ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7402001769"]}],"$undefined"]}]]}],["$","tr","manager:Гутников Кирилл Александрович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=324105307100","children":"Гутников Кирилл Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","324105307100"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация СРО \"МЦПУ\""]}]]}]]}],["$","tr","organizer:Гутников Кирилл Александрович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=324105307100","children":"Гутников Кирилл Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","324105307100"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9076-26407%2F2017","children":"А76-26407/2017"}]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Челябинская область"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",10,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268409471/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20(3).pdf",{"href":"https://m-ets.ru/download/268409471/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20(3).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект Договора о задатке (3).pdf"]}],"$L11"]}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a"]}]]}],false,"$L1b"]}],"$L1c"]}]]}]
+11:["$","span",null,{"className":"size","children":"$undefined"}]
+12:["$","a","https://m-ets.ru/download/268409473/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%9D%D0%B5_%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3.docx",{"href":"https://m-ets.ru/download/268409473/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%9D%D0%B5_%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_Договора_купли_продажи_Не_залог.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+13:["$","a","https://m-ets.ru/download/268409475/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_502.docx",{"href":"https://m-ets.ru/download/268409475/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_502.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Имущество,_входящее_в_состав_лота_502.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+14:["$","a","https://m-ets.ru/download/268409477/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_503.docx",{"href":"https://m-ets.ru/download/268409477/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_503.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Имущество,_входящее_в_состав_лота_503.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+15:["$","a","https://m-ets.ru/download/268409479/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_504.docx",{"href":"https://m-ets.ru/download/268409479/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_504.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Имущество,_входящее_в_состав_лота_504.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+16:["$","a","https://m-ets.ru/download/268409481/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_505.docx",{"href":"https://m-ets.ru/download/268409481/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_505.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Имущество,_входящее_в_состав_лота_505.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+17:["$","a","https://m-ets.ru/download/268409483/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_506.docx",{"href":"https://m-ets.ru/download/268409483/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_506.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Имущество,_входящее_в_состав_лота_506.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+18:["$","a","https://m-ets.ru/download/268409485/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_507.docx",{"href":"https://m-ets.ru/download/268409485/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_507.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Имущество,_входящее_в_состав_лота_507.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+19:["$","a","https://m-ets.ru/download/268409487/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_508.docx",{"href":"https://m-ets.ru/download/268409487/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_508.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Имущество,_входящее_в_состав_лота_508.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1a:["$","a","https://m-ets.ru/download/268409489/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_509.docx",{"href":"https://m-ets.ru/download/268409489/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_509.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Имущество,_входящее_в_состав_лота_509.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1d:T1bf5,{
+  "id": "etp-mets:224837-79",
+  "sourceCode": "etp-mets",
+  "externalId": "224837-79",
+  "sourceUrl": "https://m-ets.ru/224837-79",
+  "title": "Погрузчик ПУМ – 500.",
+  "description": "Лот № 79.1 - Погрузчик ПУМ – 500. (сост. - не рабочее) Имущество, обременено залогом в пользу ПАО Национальный банк \"Траст\".",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "8",
+  "categoryName": "Иной транспорт и техника",
+  "regionCode": "74",
+  "address": "Челябинская область",
+  "priceStart": "185000",
+  "priceStep": "9250",
+  "deposit": "18500",
+  "currency": "RUB",
+  "publishedAt": "2026-07-30T00:00:00+03:00",
+  "biddStartAt": "2026-08-03T00:00:00+03:00",
+  "biddEndAt": "2026-09-04T23:59:00+03:00",
+  "auctionAt": "2026-09-07T16:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А76-26407/2017",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"УФАЛЕЙНИКЕЛЬ\"",
+      "inn": "7402001769",
+      "ogrn": "1027400543664"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Гутников Кирилл Александрович",
+      "inn": "324105307100",
+      "sro": "Ассоциация СРО \"МЦПУ\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Гутников Кирилл Александрович",
+      "inn": "324105307100",
+      "email": "gutnikov96@mail.ru",
+      "phone": "+7 (996) 449 59 80"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268409471/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20(3).pdf",
+      "name": "Проект Договора о задатке (3).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268409473/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%9D%D0%B5_%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3.docx",
+      "name": "Проект_Договора_купли_продажи_Не_залог.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268409475/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_502.docx",
+      "name": "Имущество,_входящее_в_состав_лота_502.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268409477/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_503.docx",
+      "name": "Имущество,_входящее_в_состав_лота_503.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268409479/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_504.docx",
+      "name": "Имущество,_входящее_в_состав_лота_504.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268409481/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_505.docx",
+      "name": "Имущество,_входящее_в_состав_лота_505.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268409483/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_506.docx",
+      "name": "Имущество,_входящее_в_состав_лота_506.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268409485/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_507.docx",
+      "name": "Имущество,_входящее_в_состав_лота_507.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268409487/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_508.docx",
+      "name": "Имущество,_входящее_в_состав_лота_508.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268409489/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%2C_%D0%B2%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%BB%D0%BE%D1%82%D0%B0_509.docx",
+      "name": "Имущество,_входящее_в_состав_лота_509.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23962346",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Челябинской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "01.11.2017",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "9 250 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с характеристиками имущества и документацией осуществляется по предварительной записи по адресу эл. почты организатора торгов по рабочим дням в течение срока подачи заявок.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:35:33.934Z",
+  "lastSeenAt": "2026-08-31T19:35:33.934Z",
+  "contentHash": "f91efe89f300f1bd6d4aea8aaac203bb2fba7eeb1942be066300f6c7e9c81eb2"
+}1b:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1d"}]]}]
+1c:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"185 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"9 250 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"18 500 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"29 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"3 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"4 сент. 2026 г., 23:59 (МСК)"}]],false,[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"7 сент. 2026 г., 16:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Челябинская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/224837-79","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Погрузчик ПУМ – 500. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

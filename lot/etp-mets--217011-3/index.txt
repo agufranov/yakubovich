@@ -1,0 +1,316 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--217011-3",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--217011-3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--217011-3","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=equipment","children":"Оборудование и техника"}],[" · ",["$","$L4",null,{"href":"/?region=59","children":"Пермский край"}]]]}],["$","h1",null,{"children":"Аппарат плазменной резки с пневмоподжигом, 2017 года"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Состоялся"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Другое оборудование"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Аппарат плазменной резки с пневмоподжигом, 2017 г.в."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23376986",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Пермского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["16.01.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с составом имущества, его характеристиками, документами, подтверждающими права Должника, документацией по торгам, производится в рабочие дни в период приема заявок по предварительно согласованной с организатором торгов дате и времени или путем направления запроса на электронную почту организатора торгов. Местонахождение организатора торгов: 614007, г.Пермь, ул.Белинского, 31-214, телефон: 8(342)2183558, электронная почта: bankrotperm@ya.ru.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["29 июн. 2026 г., 09:00 (МСК)"," —"," ","6 июл. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"49 500 ₽"}],["$","td",null,{"children":"9 900 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["6 июл. 2026 г., 09:00 (МСК)"," —"," ","13 июл. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"47 025 ₽"}],["$","td",null,{"children":"9 405 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["13 июл. 2026 г., 09:00 (МСК)"," —"," ","20 июл. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"44 550 ₽"}],["$","td",null,{"children":"8 910 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["20 июл. 2026 г., 09:00 (МСК)"," —"," ","27 июл. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"42 075 ₽"}],["$","td",null,{"children":"8 415 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["27 июл. 2026 г., 09:00 (МСК)"," —"," ","3 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"39 600 ₽"}],["$","td",null,{"children":"7 920 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 09:00 (МСК)"," —"," ","10 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"37 125 ₽"}],["$","td",null,{"children":"7 425 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 09:00 (МСК)"," —"," ","17 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"34 650 ₽"}],["$","td",null,{"children":"6 930 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 09:00 (МСК)"," —"," ","24 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"32 175 ₽"}],["$","td",null,{"children":"6 435 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 09:00 (МСК)"," —"," ","31 авг. 2026 г., 09:00 (МСК)"]}],"$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c"]}]]}]]}],"$L1d","$L1e","$L1f",false,"$L20"]}],"$L21"]}]]}]
+11:["$","td",null,{"children":"29 700 ₽"}]
+12:["$","td",null,{"children":"5 940 ₽"}]
+13:["$","tr","10",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 09:00 (МСК)"," —"," ","7 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"27 225 ₽"}],["$","td",null,{"children":"5 445 ₽"}]]}]
+14:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 09:00 (МСК)"," —"," ","14 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"24 750 ₽"}],["$","td",null,{"children":"4 950 ₽"}]]}]
+15:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 09:00 (МСК)"," —"," ","21 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"22 275 ₽"}],["$","td",null,{"children":"4 455 ₽"}]]}]
+16:["$","tr","13",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 09:00 (МСК)"," —"," ","28 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"19 800 ₽"}],["$","td",null,{"children":"3 960 ₽"}]]}]
+17:["$","tr","14",{"className":"","children":[["$","td",null,{"children":["28 сент. 2026 г., 09:00 (МСК)"," —"," ","5 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"17 325 ₽"}],["$","td",null,{"children":"3 465 ₽"}]]}]
+18:["$","tr","15",{"className":"","children":[["$","td",null,{"children":["5 окт. 2026 г., 09:00 (МСК)"," —"," ","12 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"14 850 ₽"}],["$","td",null,{"children":"2 970 ₽"}]]}]
+19:["$","tr","16",{"className":"","children":[["$","td",null,{"children":["12 окт. 2026 г., 09:00 (МСК)"," —"," ","19 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"12 375 ₽"}],["$","td",null,{"children":"2 475 ₽"}]]}]
+1a:["$","tr","17",{"className":"","children":[["$","td",null,{"children":["19 окт. 2026 г., 09:00 (МСК)"," —"," ","26 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"9 900 ₽"}],["$","td",null,{"children":"1 980 ₽"}]]}]
+1b:["$","tr","18",{"className":"","children":[["$","td",null,{"children":["26 окт. 2026 г., 09:00 (МСК)"," —"," ","2 нояб. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"7 425 ₽"}],["$","td",null,{"children":"1 485 ₽"}]]}]
+1c:["$","tr","19",{"className":"","children":[["$","td",null,{"children":["2 нояб. 2026 г., 09:00 (МСК)"," —"," ","9 нояб. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"4 950 ₽"}],["$","td",null,{"children":"990 ₽"}]]}]
+1d:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РОЗАС\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=5947015639","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РОЗАС\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","5947015639"]}],"$undefined"]}]]}],["$","tr","manager:Леонгардт Мария Алексеевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=590400941557","children":"Леонгардт Мария Алексеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","590400941557"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСРО \"Содействие\""]}]]}]]}],["$","tr","organizer:Леонгардт Мария Алексеевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=590400941557","children":"Леонгардт Мария Алексеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","590400941557"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9050-22513%2F2023","children":"А50-22513/2023"}]}]]}]]}]}]]}]
+1e:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Пермский край"}]]}]
+1f:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",11,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268912353/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",{"href":"https://m-ets.ru/download/268912353/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 217011-МЭТС по лоту 3.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268912355/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",{"href":"https://m-ets.ru/download/268912355/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 217011-МЭТС по лоту 3.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268573525/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%204.pdf",{"href":"https://m-ets.ru/download/268573525/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%204.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 217011-МЭТС по лоту 4.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268573527/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%204.pdf",{"href":"https://m-ets.ru/download/268573527/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%204.pdf","target":"_blank","rel":"noopener","children":["$L22","$L23"]}],"$L24","$L25","$L26","$L27","$L28","$L29","$L2a"]}]]}]
+2b:T2db5,{
+  "id": "etp-mets:217011-3",
+  "sourceCode": "etp-mets",
+  "externalId": "217011-3",
+  "sourceUrl": "https://m-ets.ru/217011-3",
+  "title": "Аппарат плазменной резки с пневмоподжигом, 2017 года",
+  "description": "Аппарат плазменной резки с пневмоподжигом, 2017 г.в.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "finished",
+  "statusRaw": "Торги завершены",
+  "kind": "equipment",
+  "categoryCode": "23",
+  "categoryName": "Другое оборудование",
+  "regionCode": "59",
+  "address": "Пермский край",
+  "priceStart": "49500",
+  "priceMin": "4950.00",
+  "deposit": "9900.00",
+  "currency": "RUB",
+  "publishedAt": "2026-06-23T00:00:00+03:00",
+  "biddStartAt": "2026-06-29T09:00:00+03:00",
+  "biddEndAt": "2026-11-09T09:00:00+03:00",
+  "auctionAt": "2026-11-09T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А50-22513/2023",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РОЗАС\"",
+      "inn": "5947015639",
+      "ogrn": "1065947003627"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Леонгардт Мария Алексеевна",
+      "inn": "590400941557",
+      "sro": "Ассоциация МСРО \"Содействие\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Леонгардт Мария Алексеевна",
+      "inn": "590400941557",
+      "email": "bankrotperm@ya.ru",
+      "phone": "(342)218-35-58"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-06-29T09:00:00+03:00",
+      "endAt": "2026-07-06T09:00:00+03:00",
+      "price": "49500.00",
+      "deposit": "9900.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-06T09:00:00+03:00",
+      "endAt": "2026-07-13T09:00:00+03:00",
+      "price": "47025.00",
+      "deposit": "9405.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-07-13T09:00:00+03:00",
+      "endAt": "2026-07-20T09:00:00+03:00",
+      "price": "44550.00",
+      "deposit": "8910.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-07-20T09:00:00+03:00",
+      "endAt": "2026-07-27T09:00:00+03:00",
+      "price": "42075.00",
+      "deposit": "8415.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-07-27T09:00:00+03:00",
+      "endAt": "2026-08-03T09:00:00+03:00",
+      "price": "39600.00",
+      "deposit": "7920.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-03T09:00:00+03:00",
+      "endAt": "2026-08-10T09:00:00+03:00",
+      "price": "37125.00",
+      "deposit": "7425.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-10T09:00:00+03:00",
+      "endAt": "2026-08-17T09:00:00+03:00",
+      "price": "34650.00",
+      "deposit": "6930.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-17T09:00:00+03:00",
+      "endAt": "2026-08-24T09:00:00+03:00",
+      "price": "32175.00",
+      "deposit": "6435.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-08-24T09:00:00+03:00",
+      "endAt": "2026-08-31T09:00:00+03:00",
+      "price": "29700.00",
+      "deposit": "5940.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-08-31T09:00:00+03:00",
+      "endAt": "2026-09-07T09:00:00+03:00",
+      "price": "27225.00",
+      "deposit": "5445.00"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-09-07T09:00:00+03:00",
+      "endAt": "2026-09-14T09:00:00+03:00",
+      "price": "24750.00",
+      "deposit": "4950.00"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-09-14T09:00:00+03:00",
+      "endAt": "2026-09-21T09:00:00+03:00",
+      "price": "22275.00",
+      "deposit": "4455.00"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-09-21T09:00:00+03:00",
+      "endAt": "2026-09-28T09:00:00+03:00",
+      "price": "19800.00",
+      "deposit": "3960.00"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-09-28T09:00:00+03:00",
+      "endAt": "2026-10-05T09:00:00+03:00",
+      "price": "17325.00",
+      "deposit": "3465.00"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-10-05T09:00:00+03:00",
+      "endAt": "2026-10-12T09:00:00+03:00",
+      "price": "14850.00",
+      "deposit": "2970.00"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-10-12T09:00:00+03:00",
+      "endAt": "2026-10-19T09:00:00+03:00",
+      "price": "12375.00",
+      "deposit": "2475.00"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-10-19T09:00:00+03:00",
+      "endAt": "2026-10-26T09:00:00+03:00",
+      "price": "9900.00",
+      "deposit": "1980.00"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-10-26T09:00:00+03:00",
+      "endAt": "2026-11-02T09:00:00+03:00",
+      "price": "7425.00",
+      "deposit": "1485.00"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-11-02T09:00:00+03:00",
+      "endAt": "2026-11-09T09:00:00+03:00",
+      "price": "4950.00",
+      "deposit": "990.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268912353/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",
+      "name": "Протокол определения участников торгов 217011-МЭТС по лоту 3.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268912355/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 217011-МЭТС по лоту 3.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268573525/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%204.pdf",
+      "name": "Протокол определения участников торгов 217011-МЭТС по лоту 4.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268573527/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%204.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 217011-МЭТС по лоту 4.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268806008/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207.pdf",
+      "name": "Протокол определения участников торгов 217011-МЭТС по лоту 7.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268806010/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 217011-МЭТС по лоту 7.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267718751/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%A2%D0%A1.docx",
+      "name": "Договор купли-продажи_ТС.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267718753/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%9E%D0%A1.pdf",
+      "name": "Положение о продаже ОС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267718755/A50-22513-2023_20260219_Opredeleni.pdf",
+      "name": "A50-22513-2023_20260219_Opredeleni.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267718757/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx",
+      "name": "Договор о задатке_проект.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267718759/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4.docx",
+      "name": "Договор купли-продажи_Оборуд.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23376986",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Пермского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "16.01.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с составом имущества, его характеристиками, документами, подтверждающими права Должника, документацией по торгам, производится в рабочие дни в период приема заявок по предварительно согласованной с организатором торгов дате и времени или путем направления запроса на электронную почту организатора торгов. Местонахождение организатора торгов: 614007, г.Пермь, ул.Белинского, 31-214, телефон: 8(342)2183558, электронная почта: bankrotperm@ya.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:45:52.540Z",
+  "lastSeenAt": "2026-08-31T17:45:52.540Z",
+  "contentHash": "0b4cf502f3126cf25c7ad9a3c181b2396ce6a1edd33b0e9d1e87b1586f28db17"
+}20:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$2b"}]]}]
+21:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"27 225 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["24 750 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[9,", до ","4 950 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"49 500 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"9 900 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"22 июн. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"29 июн. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"9 нояб. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"64 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"9 нояб. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Пермский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/217011-3","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+22:["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 217011-МЭТС по лоту 4.pdf"]}]
+23:["$","span",null,{"className":"size","children":"$undefined"}]
+24:["$","a","https://m-ets.ru/download/268806008/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207.pdf",{"href":"https://m-ets.ru/download/268806008/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 217011-МЭТС по лоту 7.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+25:["$","a","https://m-ets.ru/download/268806010/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207.pdf",{"href":"https://m-ets.ru/download/268806010/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217011-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 217011-МЭТС по лоту 7.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+26:["$","a","https://m-ets.ru/download/267718751/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%A2%D0%A1.docx",{"href":"https://m-ets.ru/download/267718751/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%A2%D0%A1.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи_ТС.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+27:["$","a","https://m-ets.ru/download/267718753/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%9E%D0%A1.pdf",{"href":"https://m-ets.ru/download/267718753/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%9E%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о продаже ОС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+28:["$","a","https://m-ets.ru/download/267718755/A50-22513-2023_20260219_Opredeleni.pdf",{"href":"https://m-ets.ru/download/267718755/A50-22513-2023_20260219_Opredeleni.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A50-22513-2023_20260219_Opredeleni.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+29:["$","a","https://m-ets.ru/download/267718757/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx",{"href":"https://m-ets.ru/download/267718757/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке_проект.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2a:["$","a","https://m-ets.ru/download/267718759/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4.docx",{"href":"https://m-ets.ru/download/267718759/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи_Оборуд.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Аппарат плазменной резки с пневмоподжигом, 2017 года — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

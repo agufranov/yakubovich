@@ -1,0 +1,234 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--213027-31",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--213027-31","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--213027-31","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=equipment","children":"Оборудование и техника"}],[" · ",["$","$L4",null,{"href":"/?region=11","children":"Коми"}]]]}],["$","h1",null,{"children":"Бараночная машина Б4-58-Д сушка \"Малютка\""}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Промышленное оборудование"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Бараночная машина Б4-58-Д сушка \"Малютка\" 35/23"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23013997",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Республики Коми",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["25.02.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["обратиться к конкурсному управляющему",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["7 июл. 2026 г., 09:00 (МСК)"," —"," ","17 июл. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"49 034 ₽"}],["$","td",null,{"children":"4 903,40 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["17 июл. 2026 г., 09:00 (МСК)"," —"," ","27 июл. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"44 130,60 ₽"}],["$","td",null,{"children":"4 903,40 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["27 июл. 2026 г., 09:00 (МСК)"," —"," ","6 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"39 227,20 ₽"}],["$","td",null,{"children":"4 903,40 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["6 авг. 2026 г., 09:00 (МСК)"," —"," ","16 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"34 323,80 ₽"}],["$","td",null,{"children":"4 903,40 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["16 авг. 2026 г., 09:00 (МСК)"," —"," ","26 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"29 420,40 ₽"}],["$","td",null,{"children":"4 903,40 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 09:00 (МСК)"," —"," ","5 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"24 517 ₽"}],["$","td",null,{"children":"4 903,40 ₽"}]]}]]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОЛОКО\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=1102003370","children":"ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОЛОКО\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","1102003370"]}],"$undefined"]}]]}],["$","tr","manager:Паролло Александр Владимирович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=110101741244","children":"Паролло Александр Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","110101741244"]}],["$","span",null,{"className":"muted","children":[" · ","Союз АУ НЦРБ"]}]]}]]}],["$","tr","organizer:Паролло Александр Владимирович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=110101741244","children":"Паролло Александр Владимирович"}],"$L11","$undefined"]}]]}]],"$L12"]}]}]]}],"$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","span",null,{"className":"muted","children":[" · ИНН ","110101741244"]}]
+12:["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9029-3972%2F2024","children":"А29-3972/2024"}]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Республика Коми"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",15,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/267107794/01040425%D0%93%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/267107794/01040425%D0%93%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","01040425Г Отчет оценки имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268676625/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx",{"href":"https://m-ets.ru/download/268676625/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 213027-МЭТС по лоту 2 за период c 06.08.2026 09:00:00 по 16.08.2026 09:00:00 .docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267107803/01040425%D0%93%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/267107803/01040425%D0%93%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","01040425Г Отчет оценки имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268676629/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%204%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx",{"href":"https://m-ets.ru/download/268676629/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%204%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx","target":"_blank","rel":"noopener","children":["$L17","$L18"]}],"$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]]}]
+24:T2c29,{
+  "id": "etp-mets:213027-31",
+  "sourceCode": "etp-mets",
+  "externalId": "213027-31",
+  "sourceUrl": "https://m-ets.ru/213027-31",
+  "title": "Бараночная машина Б4-58-Д сушка \"Малютка\"",
+  "description": "Бараночная машина Б4-58-Д сушка \"Малютка\" 35/23",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "equipment",
+  "categoryCode": "15",
+  "categoryName": "Промышленное оборудование",
+  "regionCode": "11",
+  "address": "Республика Коми",
+  "priceStart": "49034",
+  "priceMin": "24517.00",
+  "deposit": "4903.40",
+  "currency": "RUB",
+  "publishedAt": "2026-05-24T00:00:00+03:00",
+  "biddStartAt": "2026-07-07T09:00:00+03:00",
+  "biddEndAt": "2026-09-05T09:00:00+03:00",
+  "auctionAt": "2026-09-05T13:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А29-3972/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОЛОКО\"",
+      "inn": "1102003370",
+      "ogrn": "1021100733928"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Паролло Александр Владимирович",
+      "inn": "110101741244",
+      "sro": "Союз АУ НЦРБ"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Паролло Александр Владимирович",
+      "inn": "110101741244",
+      "email": "aleksandr-parollo@yandex.ru",
+      "phone": "+7 (904) 271 12 50"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-07T09:00:00+03:00",
+      "endAt": "2026-07-17T09:00:00+03:00",
+      "price": "49034.00",
+      "deposit": "4903.40"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-17T09:00:00+03:00",
+      "endAt": "2026-07-27T09:00:00+03:00",
+      "price": "44130.60",
+      "deposit": "4903.40"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-07-27T09:00:00+03:00",
+      "endAt": "2026-08-06T09:00:00+03:00",
+      "price": "39227.20",
+      "deposit": "4903.40"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-06T09:00:00+03:00",
+      "endAt": "2026-08-16T09:00:00+03:00",
+      "price": "34323.80",
+      "deposit": "4903.40"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-16T09:00:00+03:00",
+      "endAt": "2026-08-26T09:00:00+03:00",
+      "price": "29420.40",
+      "deposit": "4903.40"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-26T09:00:00+03:00",
+      "endAt": "2026-09-05T09:00:00+03:00",
+      "price": "24517.00",
+      "deposit": "4903.40"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/267107794/01040425%D0%93%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "01040425Г Отчет оценки имущества.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268676625/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx",
+      "name": "Протокол определения участников торгов 213027-МЭТС по лоту 2 за период c 06.08.2026 09:00:00 по 16.08.2026 09:00:00 .docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267107803/01040425%D0%93%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "01040425Г Отчет оценки имущества.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268676629/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%204%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx",
+      "name": "Протокол определения участников торгов 213027-МЭТС по лоту 4 за период c 06.08.2026 09:00:00 по 16.08.2026 09:00:00 .docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267107809/01040425%D0%93%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "01040425Г Отчет оценки имущества.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268676636/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%205%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx",
+      "name": "Протокол определения участников торгов 213027-МЭТС по лоту 5 за период c 06.08.2026 09:00:00 по 16.08.2026 09:00:00 .docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268676640/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%206%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx",
+      "name": "Протокол определения участников торгов 213027-МЭТС по лоту 6 за период c 06.08.2026 09:00:00 по 16.08.2026 09:00:00 .docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268676649/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx",
+      "name": "Протокол определения участников торгов 213027-МЭТС по лоту 7 за период c 06.08.2026 09:00:00 по 16.08.2026 09:00:00 .docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268676618/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%208.pdf",
+      "name": "Протокол определения участников торгов 213027-МЭТС по лоту 8.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268676620/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%208.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 213027-МЭТС по лоту 8.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268676653/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2025%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx",
+      "name": "Протокол определения участников торгов 213027-МЭТС по лоту 25 за период c 06.08.2026 09:00:00 по 16.08.2026 09:00:00 .docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267107843/01-040425%D0%91%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf",
+      "name": "01-040425Б Отчет оборудование.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267107848/01-040425%D0%91%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf",
+      "name": "01-040425Б Отчет оборудование.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267107850/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9E%20%D0%97%D0%90%D0%94%D0%90%D0%A2%D0%9A%D0%95.doc",
+      "name": "ДОГОВОР О ЗАДАТКЕ.doc"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267107852/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0.pdf",
+      "name": "Проект ДОГОВОР.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23013997",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Республики Коми",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "25.02.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "обратиться к конкурсному управляющему",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T20:01:53.641Z",
+  "lastSeenAt": "2026-08-31T20:01:53.641Z",
+  "contentHash": "c9d7802a4d3a2f6f4ff6722a9fa37ec019d8054b766a480d0566005284302fa7"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$24"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"49 034 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[6,", до ","24 517 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"4 903,40 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"23 мая 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"7 июл. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"5 сент. 2026 г., 09:00 (МСК)"}]],false,[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"5 сент. 2026 г., 13:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Коми"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/213027-31","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+17:["$","span",null,{"children":["📎 ","Протокол определения участников торгов 213027-МЭТС по лоту 4 за период c 06.08.2026 09:00:00 по 16.08.2026 09:00:00 .docx"]}]
+18:["$","span",null,{"className":"size","children":"$undefined"}]
+19:["$","a","https://m-ets.ru/download/267107809/01040425%D0%93%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/267107809/01040425%D0%93%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","01040425Г Отчет оценки имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1a:["$","a","https://m-ets.ru/download/268676636/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%205%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx",{"href":"https://m-ets.ru/download/268676636/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%205%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 213027-МЭТС по лоту 5 за период c 06.08.2026 09:00:00 по 16.08.2026 09:00:00 .docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1b:["$","a","https://m-ets.ru/download/268676640/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%206%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx",{"href":"https://m-ets.ru/download/268676640/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%206%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 213027-МЭТС по лоту 6 за период c 06.08.2026 09:00:00 по 16.08.2026 09:00:00 .docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1c:["$","a","https://m-ets.ru/download/268676649/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx",{"href":"https://m-ets.ru/download/268676649/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%207%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 213027-МЭТС по лоту 7 за период c 06.08.2026 09:00:00 по 16.08.2026 09:00:00 .docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1d:["$","a","https://m-ets.ru/download/268676618/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%208.pdf",{"href":"https://m-ets.ru/download/268676618/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%208.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 213027-МЭТС по лоту 8.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1e:["$","a","https://m-ets.ru/download/268676620/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%208.pdf",{"href":"https://m-ets.ru/download/268676620/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%208.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 213027-МЭТС по лоту 8.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1f:["$","a","https://m-ets.ru/download/268676653/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2025%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx",{"href":"https://m-ets.ru/download/268676653/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20213027-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%2025%20%D0%B7%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%20c%2006.08.2026%2009%3A00%3A00%20%D0%BF%D0%BE%2016.08.2026%2009%3A00%3A00%20.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 213027-МЭТС по лоту 25 за период c 06.08.2026 09:00:00 по 16.08.2026 09:00:00 .docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+20:["$","a","https://m-ets.ru/download/267107843/01-040425%D0%91%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf",{"href":"https://m-ets.ru/download/267107843/01-040425%D0%91%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","01-040425Б Отчет оборудование.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+21:["$","a","https://m-ets.ru/download/267107848/01-040425%D0%91%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf",{"href":"https://m-ets.ru/download/267107848/01-040425%D0%91%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","01-040425Б Отчет оборудование.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+22:["$","a","https://m-ets.ru/download/267107850/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9E%20%D0%97%D0%90%D0%94%D0%90%D0%A2%D0%9A%D0%95.doc",{"href":"https://m-ets.ru/download/267107850/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9E%20%D0%97%D0%90%D0%94%D0%90%D0%A2%D0%9A%D0%95.doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДОГОВОР О ЗАДАТКЕ.doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+23:["$","a","https://m-ets.ru/download/267107852/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0.pdf",{"href":"https://m-ets.ru/download/267107852/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДОГОВОР.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Бараночная машина Б4-58-Д сушка \"Малютка\" — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

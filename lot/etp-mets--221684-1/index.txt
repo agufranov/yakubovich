@@ -1,0 +1,204 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--221684-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--221684-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--221684-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=22","children":"Алтайский край"}]]]}],["$","h1",null,{"children":"ГАЗ-330253, 2013 года"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Коммерческий транспорт и спецтехника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Марка и(или) модель: ГАЗ-330253, Год выпуска: 2013, Идентификационный номер (VIN): Х96330253D2534549, Номер шасси (рамы): отсутствует, Номер кузова (кабины):- 330230D0156261, Цвет кузова (кабины): БЕЛЫЙ, Номер двигателя: отсутствует, Рабочий объем 2890 кв.см., Мощность (кВт/л.с.): 73/100.0,Экологический класс: отсутствует, Тип транспортного средства: БОРТОВОЙ"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2013",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23742381",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Алтайского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["27.05.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом осуществляются в течение срока приема заявок по предварительной записи по телефону 8 905 985 34 33.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["20 июл. 2026 г., 00:00 (МСК)"," —"," ","27 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"720 000 ₽"}],["$","td",null,{"children":"72 000 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["27 июл. 2026 г., 00:00 (МСК)"," —"," ","3 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"648 000 ₽"}],["$","td",null,{"children":"64 800 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 00:00 (МСК)"," —"," ","10 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"576 000 ₽"}],["$","td",null,{"children":"57 600 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 00:00 (МСК)"," —"," ","17 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"504 000 ₽"}],["$","td",null,{"children":"50 400 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 00:00 (МСК)"," —"," ","24 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"432 000 ₽"}],["$","td",null,{"children":"43 200 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 00:00 (МСК)"," —"," ","31 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"360 000 ₽"}],["$","td",null,{"children":"36 000 ₽"}]]}],["$","tr","7",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 00:00 (МСК)"," —"," ","7 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"288 000 ₽"}],["$","td",null,{"children":"28 800 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 00:00 (МСК)"," —"," ","14 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"216 000 ₽"}],["$","td",null,{"children":"21 600 ₽"}]]}],"$L11","$L12"]}]]}]]}],"$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 00:00 (МСК)"," —"," ","21 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"144 000 ₽"}],["$","td",null,{"children":"14 400 ₽"}]]}]
+12:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 00:00 (МСК)"," —"," ","28 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"72 000 ₽"}],["$","td",null,{"children":"7 200 ₽"}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Кладеев Дмитрий Николаевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=222106335672","children":"Кладеев Дмитрий Николаевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","222106335672"]}],"$undefined"]}]]}],["$","tr","manager:Горин Андрей Владимирович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=222506323375","children":"Горин Андрей Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","222506323375"]}],["$","span",null,{"className":"muted","children":[" · ","НП СОПАУ \"Альянс управляющих\""]}]]}]]}],["$","tr","organizer:Горин Андрей Владимирович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=222506323375","children":"Горин Андрей Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","222506323375"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9003-11397%2F2023","children":"А03-11397/2023"}]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Алтайский край"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268034721/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268034721/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268163738/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.docx",{"href":"https://m-ets.ru/download/268163738/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_автомобиля.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T19bb,{
+  "id": "etp-mets:221684-1",
+  "sourceCode": "etp-mets",
+  "externalId": "221684-1",
+  "sourceUrl": "https://m-ets.ru/221684-1",
+  "title": "ГАЗ-330253, 2013 года",
+  "description": "Марка и(или) модель: ГАЗ-330253, Год выпуска: 2013, Идентификационный номер (VIN): Х96330253D2534549, Номер шасси (рамы): отсутствует, Номер кузова (кабины):- 330230D0156261, Цвет кузова (кабины): БЕЛЫЙ, Номер двигателя: отсутствует, Рабочий объем 2890 кв.см., Мощность (кВт/л.с.): 73/100.0,Экологический класс: отсутствует, Тип транспортного средства: БОРТОВОЙ",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "3",
+  "categoryName": "Коммерческий транспорт и спецтехника",
+  "regionCode": "22",
+  "address": "Алтайский край",
+  "priceStart": "720000",
+  "priceMin": "72000.00",
+  "deposit": "72000.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-16T00:00:00+03:00",
+  "biddStartAt": "2026-07-20T00:00:00+03:00",
+  "biddEndAt": "2026-09-28T00:00:00+03:00",
+  "auctionAt": "2026-09-28T00:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А03-11397/2023",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Кладеев Дмитрий Николаевич",
+      "inn": "222106335672",
+      "efrsbId": "2dbf7d6c82dab5f905b4da0e5b773efc"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Горин Андрей Владимирович",
+      "inn": "222506323375",
+      "sro": "НП СОПАУ \"Альянс управляющих\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Горин Андрей Владимирович",
+      "inn": "222506323375",
+      "email": "a.gorin22@mail.ru",
+      "phone": "+7 (905) 985 34 33"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-20T00:00:00+03:00",
+      "endAt": "2026-07-27T00:00:00+03:00",
+      "price": "720000.00",
+      "deposit": "72000.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-27T00:00:00+03:00",
+      "endAt": "2026-08-03T00:00:00+03:00",
+      "price": "648000.00",
+      "deposit": "64800.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-03T00:00:00+03:00",
+      "endAt": "2026-08-10T00:00:00+03:00",
+      "price": "576000.00",
+      "deposit": "57600.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-10T00:00:00+03:00",
+      "endAt": "2026-08-17T00:00:00+03:00",
+      "price": "504000.00",
+      "deposit": "50400.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-17T00:00:00+03:00",
+      "endAt": "2026-08-24T00:00:00+03:00",
+      "price": "432000.00",
+      "deposit": "43200.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-24T00:00:00+03:00",
+      "endAt": "2026-08-31T00:00:00+03:00",
+      "price": "360000.00",
+      "deposit": "36000.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-31T00:00:00+03:00",
+      "endAt": "2026-09-07T00:00:00+03:00",
+      "price": "288000.00",
+      "deposit": "28800.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-07T00:00:00+03:00",
+      "endAt": "2026-09-14T00:00:00+03:00",
+      "price": "216000.00",
+      "deposit": "21600.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-14T00:00:00+03:00",
+      "endAt": "2026-09-21T00:00:00+03:00",
+      "price": "144000.00",
+      "deposit": "14400.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-09-21T00:00:00+03:00",
+      "endAt": "2026-09-28T00:00:00+03:00",
+      "price": "72000.00",
+      "deposit": "7200.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268034721/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268163738/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.docx",
+      "name": "Проект_договора_купли_продажи_автомобиля.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2013",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23742381",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Алтайского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "27.05.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом осуществляются в течение срока приема заявок по предварительной записи по телефону 8 905 985 34 33.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:57:13.641Z",
+  "lastSeenAt": "2026-08-31T18:57:13.641Z",
+  "contentHash": "05680ead74ada1d7ef5b06b15aee90abb90e0ace516a244f421cf0b89edd8e9c"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"288 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["216 000 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[3,", до ","72 000 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"720 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"72 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"15 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"20 июл. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"28 сент. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"22 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"28 сент. 2026 г., 00:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Алтайский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/221684-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"ГАЗ-330253, 2013 года — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

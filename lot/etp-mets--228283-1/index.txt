@@ -1,0 +1,162 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--228283-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--228283-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--228283-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=72","children":"Тюменская обл."}]]]}],["$","h1",null,{"children":"Снегоход БУРАН А, 2013 года"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Иной транспорт и техника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268700053/268700053_thumb_0.jpg","alt":"Снегоход БУРАН А, 2013 года"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268700055/268700055_thumb_0.jpg",{"href":"https://m-ets.ru/download/268700055/268700055_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268700055/268700055_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268700057/268700057_thumb_0.jpg",{"href":"https://m-ets.ru/download/268700057/268700057_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268700057/268700057_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268700060/268700060_thumb_0.jpg",{"href":"https://m-ets.ru/download/268700060/268700060_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268700060/268700060_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268700058/268700058_thumb_0.jpg",{"href":"https://m-ets.ru/download/268700058/268700058_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268700058/268700058_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268700059/268700059_thumb_0.jpg",{"href":"https://m-ets.ru/download/268700059/268700059_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268700059/268700059_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268700054/268700054_thumb_0.jpg",{"href":"https://m-ets.ru/download/268700054/268700054_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268700054/268700054_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268700052/268700052_thumb_0.jpg",{"href":"https://m-ets.ru/download/268700052/268700052_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268700052/268700052_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268700056/268700056_thumb_0.jpg",{"href":"https://m-ets.ru/download/268700056/268700056_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268700056/268700056_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Снегоход, марка: БУРАН, модель: А, год изготовления: 2013, идентификационный номер: 1113010161. Имущество как целый объект является составом наследственной массы умершего супруга должница Помазкина Дмитрия Владимировича. Должница обладает правом собственности на объект в размере доли: 6/10. Оставшиеся доли принадлежат несовершеннолетним детям, а также иным лицам, не оформивших свое право на имущество в установленном порядке."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","year",{"children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18"]}]}]]}],"$undefined","$L19","$L1a","$L1b",false,"$L1c"]}],"$L1d"]}]]}]
+11:["$","td",null,{"children":"Год выпуска транспорта"}]
+12:["$","td",null,{"children":["2013",""]}]
+13:["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24226173",""]}]]}]
+14:["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Тюменской области",""]}]]}]
+15:["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["26.02.2026",""]}]]}]
+16:["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["23 600 руб. (10%)",""]}]]}]
+17:["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Информация отсутствует",""]}]]}]
+18:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С имуществом, являющимся предметом торгов, можно ознакомиться по адресу Тюменская обл., Тюменский р-он, п.Винзили, мкр.Южный, д.312 по предварительной записи у организатора торгов по телефону 89504832284 в рабочие дни с 9ч.00мин до 17ч.00 мин. кроме выходных и праздничных дней.",""]}]]}]
+19:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Помазкина Надежда Владимировна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=722410293892","children":"Помазкина Надежда Владимировна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","722410293892"]}],"$undefined"]}]]}],["$","tr","manager:Ренёва Татьяна Михайловна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=720213157618","children":"Ренёва Татьяна Михайловна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","720213157618"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Солидарность\""]}]]}]]}],["$","tr","organizer:Ренёва Татьяна Михайловна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=720213157618","children":"Ренёва Татьяна Михайловна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","720213157618"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9070-644%2F2026","children":"А70-644/2026"}]}]]}]]}]}]]}]
+1a:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Тюменская область"}]]}]
+1b:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268700705/8.%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%81%D0%BD%D0%B5%D0%B3%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%20%D0%BD%D0%B0%208%D0%BB..pdf",{"href":"https://m-ets.ru/download/268700705/8.%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%81%D0%BD%D0%B5%D0%B3%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%20%D0%BD%D0%B0%208%D0%BB..pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","8. Отчет об оценке снегохода на 8л..pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268700699/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268700699/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268700701/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F.pdf",{"href":"https://m-ets.ru/download/268700701/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268700703/10.%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2023.05.2026%D0%B3.%20%D0%BD%D0%B0%207%D0%BB..pdf",{"href":"https://m-ets.ru/download/268700703/10.%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2023.05.2026%D0%B3.%20%D0%BD%D0%B0%207%D0%BB..pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","10. Положение о порядке, об условиях и о сроках реализации имущества от 23.05.2026г. на 7л..pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1e:T1a93,{
+  "id": "etp-mets:228283-1",
+  "sourceCode": "etp-mets",
+  "externalId": "228283-1",
+  "sourceUrl": "https://m-ets.ru/228283-1",
+  "title": "Снегоход БУРАН А, 2013 года",
+  "description": "Снегоход, марка: БУРАН, модель: А, год изготовления: 2013, идентификационный номер: 1113010161. Имущество как целый объект является составом наследственной массы умершего супруга должница Помазкина Дмитрия Владимировича. Должница обладает правом собственности на объект в размере доли: 6/10. Оставшиеся доли принадлежат несовершеннолетним детям, а также иным лицам, не оформивших свое право на имущество в установленном порядке.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "8",
+  "categoryName": "Иной транспорт и техника",
+  "regionCode": "72",
+  "address": "Тюменская область",
+  "priceStart": "236000",
+  "priceStep": "23600",
+  "deposit": "23600",
+  "currency": "RUB",
+  "publishedAt": "2026-08-17T00:00:00+03:00",
+  "biddStartAt": "2026-08-18T10:00:00+03:00",
+  "biddEndAt": "2026-09-22T10:00:00+03:00",
+  "auctionAt": "2026-09-23T11:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А70-644/2026",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Помазкина Надежда Владимировна",
+      "inn": "722410293892",
+      "efrsbId": "40f1c3bdfb01166b662445ca3c8e1b12"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Ренёва Татьяна Михайловна",
+      "inn": "720213157618",
+      "sro": "ААУ \"Солидарность\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Ренёва Татьяна Михайловна",
+      "inn": "720213157618",
+      "email": "reneva.tatyana@mail.ru",
+      "phone": "+7 (950) 483 22 84"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268700053/268700053_thumb_0.jpg",
+    "https://m-ets.ru/download/268700055/268700055_thumb_0.jpg",
+    "https://m-ets.ru/download/268700057/268700057_thumb_0.jpg",
+    "https://m-ets.ru/download/268700060/268700060_thumb_0.jpg",
+    "https://m-ets.ru/download/268700058/268700058_thumb_0.jpg",
+    "https://m-ets.ru/download/268700059/268700059_thumb_0.jpg",
+    "https://m-ets.ru/download/268700054/268700054_thumb_0.jpg",
+    "https://m-ets.ru/download/268700052/268700052_thumb_0.jpg",
+    "https://m-ets.ru/download/268700056/268700056_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268700705/8.%20%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%81%D0%BD%D0%B5%D0%B3%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%20%D0%BD%D0%B0%208%D0%BB..pdf",
+      "name": "8. Отчет об оценке снегохода на 8л..pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268700699/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268700701/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F.pdf",
+      "name": "Проект ДКП.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268700703/10.%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2023.05.2026%D0%B3.%20%D0%BD%D0%B0%207%D0%BB..pdf",
+      "name": "10. Положение о порядке, об условиях и о сроках реализации имущества от 23.05.2026г. на 7л..pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2013",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24226173",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Тюменской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "26.02.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "23 600 руб. (10%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Информация отсутствует",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С имуществом, являющимся предметом торгов, можно ознакомиться по адресу Тюменская обл., Тюменский р-он, п.Винзили, мкр.Южный, д.312 по предварительной записи у организатора торгов по телефону 89504832284 в рабочие дни с 9ч.00мин до 17ч.00 мин. кроме выходных и праздничных дней.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:24:46.735Z",
+  "lastSeenAt": "2026-08-31T18:24:46.735Z",
+  "contentHash": "7531283c9656bce85bfec8562222a34902de7dd575198c078ef0603bc45ee2e3"
+}1c:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1e"}]]}]
+1d:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"236 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"23 600 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"23 600 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"16 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"18 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"16 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"23 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Тюменская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/228283-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Снегоход БУРАН А, 2013 года — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

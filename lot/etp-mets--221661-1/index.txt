@@ -1,0 +1,236 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--221661-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--221661-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--221661-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=42","children":"Кемеровская обл."}]]]}],["$","h1",null,{"children":"Помещение в Кемерово, 285,4 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Нежилое помещение"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268159627/268159627_thumb_0.jpg","alt":"Помещение в Кемерово, 285,4 кв.м."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268159633/268159633_thumb_0.jpg",{"href":"https://m-ets.ru/download/268159633/268159633_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268159633/268159633_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268159639/268159639_thumb_0.jpg",{"href":"https://m-ets.ru/download/268159639/268159639_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268159639/268159639_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268159634/268159634_thumb_0.jpg",{"href":"https://m-ets.ru/download/268159634/268159634_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268159634/268159634_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268159629/268159629_thumb_0.jpg",{"href":"https://m-ets.ru/download/268159629/268159629_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268159629/268159629_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268159638/268159638_thumb_0.jpg",{"href":"https://m-ets.ru/download/268159638/268159638_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268159638/268159638_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268159636/268159636_thumb_0.jpg",{"href":"https://m-ets.ru/download/268159636/268159636_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268159636/268159636_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268159643/268159643_thumb_0.jpg",{"href":"https://m-ets.ru/download/268159643/268159643_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268159643/268159643_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268159640/268159640_thumb_0.jpg",{"href":"https://m-ets.ru/download/268159640/268159640_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268159640/268159640_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268159644/268159644_thumb_0.jpg",{"href":"https://m-ets.ru/download/268159644/268159644_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268159644/268159644_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268159637/268159637_thumb_0.jpg",{"href":"https://m-ets.ru/download/268159637/268159637_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268159637/268159637_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268159635/268159635_thumb_0.jpg",{"href":"https://m-ets.ru/download/268159635/268159635_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268159635/268159635_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",3," ","фотографии"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268159641/268159641_thumb_0.jpg",{"href":"https://m-ets.ru/download/268159641/268159641_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268159641/268159641_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268159642/268159642_thumb_0.jpg",{"href":"https://m-ets.ru/download/268159642/268159642_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268159642/268159642_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268159630/268159630_thumb_0.jpg",{"href":"https://m-ets.ru/download/268159630/268159630_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268159630/268159630_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"нежилое помещение"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23780338",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Кемеровской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["25.02.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом производится по адресу: Кемеровская область, Кемерово, ул. Потемкина 8, с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи по телефону: +79618600000.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["16 авг. 2026 г., 10:00 (МСК)"," —"," ","21 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"400 000 ₽"}],["$","td",null,{"children":"40 000 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 10:00 (МСК)"," —"," ","26 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"380 000 ₽"}],["$","td",null,{"children":"38 000 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 10:00 (МСК)"," —"," ","31 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"360 000 ₽"}],["$","td",null,{"children":"36 000 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["31 авг. 2026 г., 10:00 (МСК)"," —"," ","5 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"340 000 ₽"}],["$","td",null,{"children":"34 000 ₽"}]]}],["$","tr","5",{"className":"now","children":[["$","td",null,{"children":["5 сент. 2026 г., 10:00 (МСК)"," —"," ","10 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"320 000 ₽"}],["$","td",null,{"children":"32 000 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 10:00 (МСК)"," —"," ","15 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"300 000 ₽"}],["$","td",null,{"children":"30 000 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["15 сент. 2026 г., 10:00 (МСК)"," —"," ","20 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"280 000 ₽"}],["$","td",null,{"children":"28 000 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["20 сент. 2026 г., 10:00 (МСК)"," —"," ","25 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"260 000 ₽"}],["$","td",null,{"children":"26 000 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["25 сент. 2026 г., 10:00 (МСК)"," —"," ","30 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"240 000 ₽"}],["$","td",null,{"children":"24 000 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["30 сент. 2026 г., 10:00 (МСК)"," —"," ","5 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"220 000 ₽"}],["$","td",null,{"children":"22 000 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["5 окт. 2026 г., 10:00 (МСК)"," —"," ","10 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"200 000 ₽"}],["$","td",null,{"children":"20 000 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Колпаков Владимир Евгеньевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=420900355017","children":"Колпаков Владимир Евгеньевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","420900355017"]}],"$undefined"]}]]}],["$","tr","manager:Матолыгин Константин Викторович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=420107660010","children":"Матолыгин Константин Викторович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","420107660010"]}],["$","span",null,{"className":"muted","children":[" · ","ПАУ ЦФО"]}]]}]]}],["$","tr","organizer:Матолыгин Константин Викторович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=420107660010","children":"Матолыгин Константин Викторович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","420107660010"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9027-11472%2F2024%20%D0%A8%D1%83%D0%BB%D0%B8%D0%BA%20%D0%AE.%D0%A1.","children":"А27-11472/2024 Шулик Ю.С."}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Кемеровская область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268159631/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82%20%D0%9A%D0%BE%D0%BB%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2.pdf",{"href":"https://m-ets.ru/download/268159631/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82%20%D0%9A%D0%BE%D0%BB%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","технический паспорт Колпаков.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268159645/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268159645/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Расчет стоимости имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268159649/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_2025_12_25_639022866902269311.pdf",{"href":"https://m-ets.ru/download/268159649/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_2025_12_25_639022866902269311.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор_купли_продажи_2025_12_25_639022866902269311.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268159651/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%9A%D0%BE%D0%BB%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%20%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87-20251208.pdf",{"href":"https://m-ets.ru/download/268159651/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%9A%D0%BE%D0%BB%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%20%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87-20251208.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о торгах Колпаков Владимир Евгеньевич-20251208.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268159653/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5_2025_12_25_639022865362793804.pdf",{"href":"https://m-ets.ru/download/268159653/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5_2025_12_25_639022865362793804.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор_о_задатке_2025_12_25_639022865362793804.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T1f50,{
+  "id": "etp-mets:221661-1",
+  "sourceCode": "etp-mets",
+  "externalId": "221661-1",
+  "sourceUrl": "https://m-ets.ru/221661-1",
+  "title": "Помещение в Кемерово, 285,4 кв.м.",
+  "description": "нежилое помещение",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "37",
+  "categoryName": "Нежилое помещение",
+  "regionCode": "42",
+  "address": "Кемеровская область",
+  "priceStart": "400000",
+  "priceMin": "200000.00",
+  "deposit": "40000.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-16T00:00:00+03:00",
+  "biddStartAt": "2026-08-16T10:00:00+03:00",
+  "biddEndAt": "2026-10-10T10:00:00+03:00",
+  "auctionAt": "2026-10-10T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А27-11472/2024 Шулик Ю.С.",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Колпаков Владимир Евгеньевич",
+      "inn": "420900355017",
+      "efrsbId": "7e9920c195640eba39845310b975463b"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Матолыгин Константин Викторович",
+      "inn": "420107660010",
+      "sro": "ПАУ ЦФО"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Матолыгин Константин Викторович",
+      "inn": "420107660010",
+      "email": "i@kmatolygin.ru",
+      "phone": "+7 (961) 860 00 00"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-16T10:00:00+03:00",
+      "endAt": "2026-08-21T10:00:00+03:00",
+      "price": "400000.00",
+      "deposit": "40000.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-21T10:00:00+03:00",
+      "endAt": "2026-08-26T10:00:00+03:00",
+      "price": "380000.00",
+      "deposit": "38000.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-26T10:00:00+03:00",
+      "endAt": "2026-08-31T10:00:00+03:00",
+      "price": "360000.00",
+      "deposit": "36000.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-31T10:00:00+03:00",
+      "endAt": "2026-09-05T10:00:00+03:00",
+      "price": "340000.00",
+      "deposit": "34000.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-05T10:00:00+03:00",
+      "endAt": "2026-09-10T10:00:00+03:00",
+      "price": "320000.00",
+      "deposit": "32000.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-10T10:00:00+03:00",
+      "endAt": "2026-09-15T10:00:00+03:00",
+      "price": "300000.00",
+      "deposit": "30000.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-15T10:00:00+03:00",
+      "endAt": "2026-09-20T10:00:00+03:00",
+      "price": "280000.00",
+      "deposit": "28000.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-20T10:00:00+03:00",
+      "endAt": "2026-09-25T10:00:00+03:00",
+      "price": "260000.00",
+      "deposit": "26000.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-25T10:00:00+03:00",
+      "endAt": "2026-09-30T10:00:00+03:00",
+      "price": "240000.00",
+      "deposit": "24000.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-09-30T10:00:00+03:00",
+      "endAt": "2026-10-05T10:00:00+03:00",
+      "price": "220000.00",
+      "deposit": "22000.00"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-10-05T10:00:00+03:00",
+      "endAt": "2026-10-10T10:00:00+03:00",
+      "price": "200000.00",
+      "deposit": "20000.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268159627/268159627_thumb_0.jpg",
+    "https://m-ets.ru/download/268159633/268159633_thumb_0.jpg",
+    "https://m-ets.ru/download/268159639/268159639_thumb_0.jpg",
+    "https://m-ets.ru/download/268159634/268159634_thumb_0.jpg",
+    "https://m-ets.ru/download/268159629/268159629_thumb_0.jpg",
+    "https://m-ets.ru/download/268159638/268159638_thumb_0.jpg",
+    "https://m-ets.ru/download/268159636/268159636_thumb_0.jpg",
+    "https://m-ets.ru/download/268159643/268159643_thumb_0.jpg",
+    "https://m-ets.ru/download/268159640/268159640_thumb_0.jpg",
+    "https://m-ets.ru/download/268159644/268159644_thumb_0.jpg",
+    "https://m-ets.ru/download/268159637/268159637_thumb_0.jpg",
+    "https://m-ets.ru/download/268159635/268159635_thumb_0.jpg",
+    "https://m-ets.ru/download/268159641/268159641_thumb_0.jpg",
+    "https://m-ets.ru/download/268159642/268159642_thumb_0.jpg",
+    "https://m-ets.ru/download/268159630/268159630_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268159631/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82%20%D0%9A%D0%BE%D0%BB%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2.pdf",
+      "name": "технический паспорт Колпаков.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268159645/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "Расчет стоимости имущества.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268159649/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_2025_12_25_639022866902269311.pdf",
+      "name": "Договор_купли_продажи_2025_12_25_639022866902269311.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268159651/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%9A%D0%BE%D0%BB%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%20%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87-20251208.pdf",
+      "name": "Положение о торгах Колпаков Владимир Евгеньевич-20251208.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268159653/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5_2025_12_25_639022865362793804.pdf",
+      "name": "Договор_о_задатке_2025_12_25_639022865362793804.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23780338",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Кемеровской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "25.02.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом производится по адресу: Кемеровская область, Кемерово, ул. Потемкина 8, с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи по телефону: +79618600000.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:36:49.191Z",
+  "lastSeenAt": "2026-08-31T17:36:49.191Z",
+  "contentHash": "8e6ec936418385059a17caa188995fa9bf97c3515f494b76e991e76a73c393f5"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"320 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["300 000 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[6,", до ","200 000 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"400 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"40 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"15 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"16 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"10 окт. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"34 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"10 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Кемеровская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/221661-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Помещение в Кемерово, 285,4 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

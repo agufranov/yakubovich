@@ -1,0 +1,210 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--228065-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--228065-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--228065-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Квартира в Новороссийске, 60,9 кв.м, 3 комн."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Квартира"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268678730/268678730_thumb_0.jpg","alt":"Квартира в Новороссийске, 60,9 кв.м, 3 комн."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268678734/268678734_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678734/268678734_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678734/268678734_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268678728/268678728_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678728/268678728_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678728/268678728_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268678735/268678735_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678735/268678735_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678735/268678735_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268678736/268678736_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678736/268678736_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678736/268678736_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268678729/268678729_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678729/268678729_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678729/268678729_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268678742/268678742_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678742/268678742_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678742/268678742_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268678731/268678731_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678731/268678731_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678731/268678731_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268678737/268678737_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678737/268678737_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678737/268678737_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268678743/268678743_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678743/268678743_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678743/268678743_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268678727/268678727_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678727/268678727_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678727/268678727_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268678738/268678738_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678738/268678738_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268678738/268678738_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",5," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268678733/268678733_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678733/268678733_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678733/268678733_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268678732/268678732_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678732/268678732_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678732/268678732_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268678740/268678740_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678740/268678740_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678740/268678740_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268678739/268678739_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678739/268678739_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678739/268678739_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268678741/268678741_thumb_0.jpg",{"href":"https://m-ets.ru/download/268678741/268678741_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268678741/268678741_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Помещение (квартира), расположенное по адресу: Российская Федерация, Краснодарский край, г. Новороссийск, ул. Сухумийское шоссе, дом 74, квартира 6; общая площадь: 60,9 кв. м; назначение: жилое помещение; кадастровый (условный) номер: 23:47:0208016:51 ; вид собственности: совместная. Объект является предметом залога. Залогодержатель: ПАО «СБЕРБАНК РОССИИ». Отопления форсуночное. Жилое помещение признано непригодным для проживания Постановлением администрации муниципального образования город Новороссийск № 6389 от 22.12.2020 г. «О признании жилого помещения по адресу: город Новороссийск, ул. Сухумское шоссе, д. 74, кв. 6 непригодным для проживания», что подтверждается сведениями из Единого государственного реестра недвижимости."}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24207441",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Краснодарского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["29.08.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Покупатель после приобретения имущества самостоятельно и за свой счет решает вопросы, связанные с проживающими в помещении лицами, освобождением помещения, вселением, регистрационным учетом проживающих лиц, а также иными фактическими и юридическими препятствиями к пользованию объектом и реализацией своих прав собственника.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Адрес объекта: Российская Федерация, Краснодарский край, г. Новороссийск, ул. Сухумийское шоссе, д. 74, кв. 6. Ознакомление с объектом недвижимости осуществляется преимущественно по внешним признакам и на основании правоустанавливающих и технических документов (выписка из ЕГРН, кадастровый паспорт и иные имеющиеся материалы). Фактический осмотр объекта изнутри затруднителен. Ознакомиться с имуществом ... Показать полностью можно в рабочие дни по предварительной договоренности с организатором торгов о дне и времени такого осмотра по телефону 89188299049, е-mail: georgi_88@mail.ru. Иные обстоятельства, связанные с объектом, можно уточнить у финансового управляющего по телефону: +7‑918‑829‑90‑49 или по электронной почте: georgi_88@mail.ru.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["15 сент. 2026 г., 10:00 (МСК)"," —"," ","22 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"5 027 400 ₽"}],["$","td",null,{"children":"502 740 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["22 сент. 2026 г., 10:00 (МСК)"," —"," ","29 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 776 030 ₽"}],["$","td",null,{"children":"502 740 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["29 сент. 2026 г., 10:00 (МСК)"," —"," ","6 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 524 660 ₽"}],["$","td",null,{"children":"502 740 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["6 окт. 2026 г., 10:00 (МСК)"," —"," ","13 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 273 290 ₽"}],["$","td",null,{"children":"502 740 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["13 окт. 2026 г., 10:00 (МСК)"," —"," ","20 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 021 920 ₽"}],["$","td",null,{"children":"502 740 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["20 окт. 2026 г., 10:00 (МСК)"," —"," ","27 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"3 770 550 ₽"}],["$","td",null,{"children":"502 740 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["27 окт. 2026 г., 10:00 (МСК)"," —"," ","3 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"3 519 180 ₽"}],["$","td",null,{"children":"502 740 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Горицына Анастасия Владимировна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=231526182945","children":"Горицына Анастасия Владимировна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","231526182945"]}],"$undefined"]}]]}],["$","tr","manager:Кусраев Георгий Нодариевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=151504795578","children":"Кусраев Георгий Нодариевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","151504795578"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"ЦФОП АПК\""]}]]}]]}],["$","tr","organizer:Кусраев Георгий Нодариевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=151504795578","children":"Кусраев Георгий Нодариевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","151504795578"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9032-29121%2F2025","children":"А32-29121/2025"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Краснодарский край"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268678724/%D0%9E%D0%BD%D0%BB%D0%B0%D0%B8%CC%86%D0%BD-%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.pdf",{"href":"https://m-ets.ru/download/268678724/%D0%9E%D0%BD%D0%BB%D0%B0%D0%B8%CC%86%D0%BD-%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Онлайн-выписка помещение.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268678744/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.doc",{"href":"https://m-ets.ru/download/268678744/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке.doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268678746/%D0%9E%D0%BD%D0%BB%D0%B0%D0%B8%CC%86%D0%BD-%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.pdf",{"href":"https://m-ets.ru/download/268678746/%D0%9E%D0%BD%D0%BB%D0%B0%D0%B8%CC%86%D0%BD-%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Онлайн-выписка помещение.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268678748/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.doc",{"href":"https://m-ets.ru/download/268678748/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи.doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268678750/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%93%D0%BE%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D0%B0.pdf",{"href":"https://m-ets.ru/download/268678750/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%93%D0%BE%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение_Горицына.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T2703,{
+  "id": "etp-mets:228065-1",
+  "sourceCode": "etp-mets",
+  "externalId": "228065-1",
+  "sourceUrl": "https://m-ets.ru/228065-1",
+  "title": "Квартира в Новороссийске, 60,9 кв.м, 3 комн.",
+  "description": "Помещение (квартира), расположенное по адресу: Российская Федерация, Краснодарский край, г. Новороссийск, ул. Сухумийское шоссе, дом 74, квартира 6; общая площадь: 60,9 кв. м; назначение: жилое помещение; кадастровый (условный) номер: 23:47:0208016:51 ; вид собственности: совместная. Объект является предметом залога. Залогодержатель: ПАО «СБЕРБАНК РОССИИ». Отопления форсуночное. Жилое помещение признано непригодным для проживания Постановлением администрации муниципального образования город Новороссийск № 6389 от 22.12.2020 г. «О признании жилого помещения по адресу: город Новороссийск, ул. Сухумское шоссе, д. 74, кв. 6 непригодным для проживания», что подтверждается сведениями из Единого государственного реестра недвижимости.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "published",
+  "statusRaw": "Объявленные торги",
+  "kind": "realty",
+  "categoryCode": "36",
+  "categoryName": "Квартира",
+  "regionCode": "23",
+  "address": "Краснодарский край",
+  "priceStart": "5027400",
+  "priceMin": "3519180.00",
+  "deposit": "502740.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-16T00:00:00+03:00",
+  "biddStartAt": "2026-09-15T10:00:00+03:00",
+  "biddEndAt": "2026-11-03T10:00:00+03:00",
+  "auctionAt": "2026-11-03T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А32-29121/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Горицына Анастасия Владимировна",
+      "inn": "231526182945",
+      "efrsbId": "01a416510aba5feb8774504196c049f0"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Кусраев Георгий Нодариевич",
+      "inn": "151504795578",
+      "sro": "ААУ \"ЦФОП АПК\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Кусраев Георгий Нодариевич",
+      "inn": "151504795578",
+      "email": "georgi_88@mail.ru",
+      "phone": "+7 (918) 829 90 49"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-09-15T10:00:00+03:00",
+      "endAt": "2026-09-22T10:00:00+03:00",
+      "price": "5027400.00",
+      "deposit": "502740.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-22T10:00:00+03:00",
+      "endAt": "2026-09-29T10:00:00+03:00",
+      "price": "4776030.00",
+      "deposit": "502740.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-29T10:00:00+03:00",
+      "endAt": "2026-10-06T10:00:00+03:00",
+      "price": "4524660.00",
+      "deposit": "502740.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-10-06T10:00:00+03:00",
+      "endAt": "2026-10-13T10:00:00+03:00",
+      "price": "4273290.00",
+      "deposit": "502740.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-10-13T10:00:00+03:00",
+      "endAt": "2026-10-20T10:00:00+03:00",
+      "price": "4021920.00",
+      "deposit": "502740.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-10-20T10:00:00+03:00",
+      "endAt": "2026-10-27T10:00:00+03:00",
+      "price": "3770550.00",
+      "deposit": "502740.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-27T10:00:00+03:00",
+      "endAt": "2026-11-03T10:00:00+03:00",
+      "price": "3519180.00",
+      "deposit": "502740.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268678730/268678730_thumb_0.jpg",
+    "https://m-ets.ru/download/268678734/268678734_thumb_0.jpg",
+    "https://m-ets.ru/download/268678728/268678728_thumb_0.jpg",
+    "https://m-ets.ru/download/268678735/268678735_thumb_0.jpg",
+    "https://m-ets.ru/download/268678736/268678736_thumb_0.jpg",
+    "https://m-ets.ru/download/268678729/268678729_thumb_0.jpg",
+    "https://m-ets.ru/download/268678742/268678742_thumb_0.jpg",
+    "https://m-ets.ru/download/268678731/268678731_thumb_0.jpg",
+    "https://m-ets.ru/download/268678737/268678737_thumb_0.jpg",
+    "https://m-ets.ru/download/268678743/268678743_thumb_0.jpg",
+    "https://m-ets.ru/download/268678727/268678727_thumb_0.jpg",
+    "https://m-ets.ru/download/268678738/268678738_thumb_0.jpg",
+    "https://m-ets.ru/download/268678733/268678733_thumb_0.jpg",
+    "https://m-ets.ru/download/268678732/268678732_thumb_0.jpg",
+    "https://m-ets.ru/download/268678740/268678740_thumb_0.jpg",
+    "https://m-ets.ru/download/268678739/268678739_thumb_0.jpg",
+    "https://m-ets.ru/download/268678741/268678741_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268678724/%D0%9E%D0%BD%D0%BB%D0%B0%D0%B8%CC%86%D0%BD-%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.pdf",
+      "name": "Онлайн-выписка помещение.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268678744/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.doc",
+      "name": "Договор о задатке.doc"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268678746/%D0%9E%D0%BD%D0%BB%D0%B0%D0%B8%CC%86%D0%BD-%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.pdf",
+      "name": "Онлайн-выписка помещение.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268678748/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.doc",
+      "name": "Проект договора купли-продажи.doc"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268678750/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%93%D0%BE%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D0%B0.pdf",
+      "name": "Положение_Горицына.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24207441",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Краснодарского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "29.08.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Покупатель после приобретения имущества самостоятельно и за свой счет решает вопросы, связанные с проживающими в помещении лицами, освобождением помещения, вселением, регистрационным учетом проживающих лиц, а также иными фактическими и юридическими препятствиями к пользованию объектом и реализацией своих прав собственника.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Адрес объекта: Российская Федерация, Краснодарский край, г. Новороссийск, ул. Сухумийское шоссе, д. 74, кв. 6. Ознакомление с объектом недвижимости осуществляется преимущественно по внешним признакам и на основании правоустанавливающих и технических документов (выписка из ЕГРН, кадастровый паспорт и иные имеющиеся материалы). Фактический осмотр объекта изнутри затруднителен. Ознакомиться с имуществом ... Показать полностью можно в рабочие дни по предварительной договоренности с организатором торгов о дне и времени такого осмотра по телефону 89188299049, е-mail: georgi_88@mail.ru. Иные обстоятельства, связанные с объектом, можно уточнить у финансового управляющего по телефону: +7‑918‑829‑90‑49 или по электронной почте: georgi_88@mail.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:14:03.814Z",
+  "lastSeenAt": "2026-08-31T19:14:03.814Z",
+  "contentHash": "c5ce860f6502b15c9ff915d3dc9e14ba42057f96ce05fb464687a806beff7220"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"5 027 400 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["5 027 400 ₽",["$","span",null,{"className":"muted","children":[" ","· ","15 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[7,", до ","3 519 180 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"502 740 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"15 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"15 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"3 нояб. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"58 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"3 нояб. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/228065-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Квартира в Новороссийске, 60,9 кв.м, 3 комн. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

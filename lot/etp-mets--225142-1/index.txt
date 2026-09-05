@@ -1,0 +1,227 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--225142-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--225142-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--225142-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=86","children":"Ханты-Мансийский АО"}]]]}],["$","h1",null,{"children":"Mercedes-Benz C-Класс, 2008 года, 156 лс, АКПП"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268433634/268433634_thumb_0.jpg","alt":"Mercedes-Benz C-Класс, 2008 года, 156 лс, АКПП"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268433632/268433632_thumb_0.jpg",{"href":"https://m-ets.ru/download/268433632/268433632_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268433632/268433632_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Автомобиль марки Mercedes-Benz С180, VIN: WDD2040461A142195, год выпуска: 2008"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Mercedes-Benz",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["C-Класс",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2008",""]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["156"," л.с."]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Автоматическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["WDD2040461A142195",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24008363",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Ханты-Мансийского автономного округа-Югры",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["30.09.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На момент опубликования объявления о проведении торгов по лоту №1 - обременения имеются. Имущество находится в залоге в пользу БАНК ВТБ (ПАО), (ИНН 7702070139 ) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С ЛОТОМ №1 можно ознакомиться по месту его нахождения: ХМАО-Югра, г. Нефтеюганск, 9мкр 22 дом , предварительно согласовав время с Финансовым управляющим по тел. +79128007109, либо путем направления запроса на электронную почту ashchennikov1@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, относительно технического ... Показать полностью состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",""]}]]}]]}]}]]}],"$L11","$L12","$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["6 авг. 2026 г., 09:00 (МСК)"," —"," ","13 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"770 850 ₽"}],["$","td",null,{"children":"154 170 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["13 авг. 2026 г., 09:00 (МСК)"," —"," ","20 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"732 307,50 ₽"}],["$","td",null,{"children":"146 461,50 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["20 авг. 2026 г., 09:00 (МСК)"," —"," ","27 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"693 765 ₽"}],["$","td",null,{"children":"138 753 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 09:00 (МСК)"," —"," ","3 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"655 222,50 ₽"}],["$","td",null,{"children":"131 044,50 ₽"}]]}],["$","tr","5",{"className":"now","children":[["$","td",null,{"children":["3 сент. 2026 г., 09:00 (МСК)"," —"," ","10 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"616 680 ₽"}],["$","td",null,{"children":"123 336 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 09:00 (МСК)"," —"," ","17 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"578 137,50 ₽"}],["$","td",null,{"children":"115 627,50 ₽"}]]}]]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Нурзода Мирзосаид Мирзоюсуф",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=860413308100","children":"Нурзода Мирзосаид Мирзоюсуф"}],["$","span",null,{"className":"muted","children":[" · ИНН ","860413308100"]}],"$undefined"]}]]}],["$","tr","manager:Щенников Алексей Дмитриевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=744925237599","children":"Щенников Алексей Дмитриевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","744925237599"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:ЩЕННИКОВ АЛЕКСЕЙ ДМИТРИЕВИЧ",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=744925237599","children":"ЩЕННИКОВ АЛЕКСЕЙ ДМИТРИЕВИЧ"}],["$","span",null,{"className":"muted","children":[" · ИНН ","744925237599"]}],"$undefined"]}]]}],["$","tr","pledgee:БАНК ВТБ (ПАО)",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7702070139","children":"БАНК ВТБ (ПАО)"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7702070139"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9075-15978%2F2025","children":"А75-15978/2025"}]}]]}]]}]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Ханты-Мансийский АО"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268433635/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A2%D0%A1.docx",{"href":"https://m-ets.ru/download/268433635/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A2%D0%A1.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП залог ТС.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268433637/%D1%84%D0%BE%D1%82%D0%BE%20%D0%A2%D0%A1_compressed.pdf",{"href":"https://m-ets.ru/download/268433637/%D1%84%D0%BE%D1%82%D0%BE%20%D0%A2%D0%A1_compressed.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото ТС_compressed.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268433639/%D0%A1%D0%A2%D0%A1%20%D0%B8%20%D0%9F%D0%A2%D0%A1_compressed.pdf",{"href":"https://m-ets.ru/download/268433639/%D0%A1%D0%A2%D0%A1%20%D0%B8%20%D0%9F%D0%A2%D0%A1_compressed.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","СТС и ПТС_compressed.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268433641/%D0%9D%D1%83%D1%80%D0%B7%D0%BE%D0%B4%D0%B0%20%D0%9C%D0%9C%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_compressed.pdf",{"href":"https://m-ets.ru/download/268433641/%D0%9D%D1%83%D1%80%D0%B7%D0%BE%D0%B4%D0%B0%20%D0%9C%D0%9C%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_compressed.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Нурзода ММ Положение_compressed.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268433658/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268433658/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+17:T21e9,{
+  "id": "etp-mets:225142-1",
+  "sourceCode": "etp-mets",
+  "externalId": "225142-1",
+  "sourceUrl": "https://m-ets.ru/225142-1",
+  "title": "Mercedes-Benz C-Класс, 2008 года, 156 лс, АКПП",
+  "description": "Автомобиль марки Mercedes-Benz С180, VIN: WDD2040461A142195, год выпуска: 2008",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "86",
+  "address": "Ханты-Мансийский АО",
+  "priceStart": "770850",
+  "priceMin": "578137.50",
+  "deposit": "154170.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-31T00:00:00+03:00",
+  "biddStartAt": "2026-08-06T09:00:00+03:00",
+  "biddEndAt": "2026-09-17T09:00:00+03:00",
+  "auctionAt": "2026-09-17T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А75-15978/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Нурзода Мирзосаид Мирзоюсуф",
+      "inn": "860413308100",
+      "efrsbId": "e2e579feff09673823a4bdc1b9cf941d"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Щенников Алексей Дмитриевич",
+      "inn": "744925237599",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "ЩЕННИКОВ АЛЕКСЕЙ ДМИТРИЕВИЧ",
+      "inn": "744925237599",
+      "email": "ashchennikov1@mail.ru",
+      "phone": "+7 (912) 800 71 09"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "БАНК ВТБ (ПАО)",
+      "inn": "7702070139"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-06T09:00:00+03:00",
+      "endAt": "2026-08-13T09:00:00+03:00",
+      "price": "770850.00",
+      "deposit": "154170.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-13T09:00:00+03:00",
+      "endAt": "2026-08-20T09:00:00+03:00",
+      "price": "732307.50",
+      "deposit": "146461.50"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-20T09:00:00+03:00",
+      "endAt": "2026-08-27T09:00:00+03:00",
+      "price": "693765.00",
+      "deposit": "138753.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-27T09:00:00+03:00",
+      "endAt": "2026-09-03T09:00:00+03:00",
+      "price": "655222.50",
+      "deposit": "131044.50"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-03T09:00:00+03:00",
+      "endAt": "2026-09-10T09:00:00+03:00",
+      "price": "616680.00",
+      "deposit": "123336.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-10T09:00:00+03:00",
+      "endAt": "2026-09-17T09:00:00+03:00",
+      "price": "578137.50",
+      "deposit": "115627.50"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268433634/268433634_thumb_0.jpg",
+    "https://m-ets.ru/download/268433632/268433632_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268433635/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A2%D0%A1.docx",
+      "name": "Проект ДКП залог ТС.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268433637/%D1%84%D0%BE%D1%82%D0%BE%20%D0%A2%D0%A1_compressed.pdf",
+      "name": "фото ТС_compressed.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268433639/%D0%A1%D0%A2%D0%A1%20%D0%B8%20%D0%9F%D0%A2%D0%A1_compressed.pdf",
+      "name": "СТС и ПТС_compressed.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268433641/%D0%9D%D1%83%D1%80%D0%B7%D0%BE%D0%B4%D0%B0%20%D0%9C%D0%9C%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_compressed.pdf",
+      "name": "Нурзода ММ Положение_compressed.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268433658/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Mercedes-Benz",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "C-Класс",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2008",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "156",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Автоматическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "WDD2040461A142195",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24008363",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Ханты-Мансийского автономного округа-Югры",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "30.09.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На момент опубликования объявления о проведении торгов по лоту №1 - обременения имеются. Имущество находится в залоге в пользу БАНК ВТБ (ПАО), (ИНН 7702070139 ) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: ХМАО-Югра, г. Нефтеюганск, 9мкр 22 дом , предварительно согласовав время с Финансовым управляющим по тел. +79128007109, либо путем направления запроса на электронную почту ashchennikov1@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, относительно технического ... Показать полностью состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:03:52.325Z",
+  "lastSeenAt": "2026-08-31T18:03:52.325Z",
+  "contentHash": "766ceac87ef469efa697054c522be8e5a7fc75f6035d57f6587fa66726de1a5f"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$17"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"616 680 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["578 137,50 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[1,", до ","578 137,50 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"770 850 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"154 170 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"30 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"6 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"17 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"11 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"17 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Ханты-Мансийский АО"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/225142-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Mercedes-Benz C-Класс, 2008 года, 156 лс, АКПП — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

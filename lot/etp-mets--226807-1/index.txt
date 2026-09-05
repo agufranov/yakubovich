@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--226807-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--226807-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--226807-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=29","children":"Архангельская обл."}]]]}],["$","h1",null,{"children":"Доли квартиры в Архангельске"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Квартира"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268576567/268576567_thumb_0.jpg","alt":"Доли квартиры в Архангельске"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268576566/268576566_thumb_0.jpg",{"href":"https://m-ets.ru/download/268576566/268576566_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268576566/268576566_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268576565/268576565_thumb_0.jpg",{"href":"https://m-ets.ru/download/268576565/268576565_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268576565/268576565_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268576564/268576564_thumb_0.jpg",{"href":"https://m-ets.ru/download/268576564/268576564_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268576564/268576564_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"1/7 доля в квартире, площадь 27.7 кв.м., назначение: однокомнатная квартира, этаж: 6, адрес (местонахождение): Российская Федерация, Архангельская область, г.о. город Архангельск, г. Архангельск, ул. Комсомольская, д. 9 к. 1, кв. 33, кадастровый (условный) номер: 29:22:040713:561 . Совместная собственность супругов; 1/7 доля в квартире, площадь 27.7 кв.м., назначение: однокомнатная квартира, этаж: 6, адрес (местонахождение): Российская Федерация, Архангельская область, г.о. город Архангельск, г. Архангельск, ул. Комсомольская, д. 9 к. 1, кв. 33, кадастровый (условный) номер: 29:22:040713:561 . Совместная собственность супругов; 1/7 доля в квартире, площадь 27.7 кв.м., назначение: однокомнатная квартира, этаж: 6, адрес (местонахождение): Российская Федерация, Архангельская область, г.о. город Архангельск, г. Архангельск, ул. Комсомольская, д. 9 к. 1, кв. 33, кадастровый (условный) номер: 29:22:040713:561 . Доля супруга."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24117501",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Архангельской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["10.12.2025",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["48 600 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Для получения всей имеющейся информации о лоте (в том числе фото) необходимо направить запрос на адрес эл. почты (в теме письма указать ФИО должника): pasko.torg80@yandex.ru либо по телефону +7(916) 909-71-81 Обращаю внимание, что квартира расположена на 6 этаже девятиэтажного дома 1968 года постройки, жилая площадь 13,7 кв. м., имеется неблагоустроенный балкон (открытый), Ремонт последний раз делался в 2016 году.",""]}]]}]]}]}]]}],"$undefined","$L11","$L12","$L13",false,"$L14"]}],"$L15"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Мишукова Евдокия Евгеньевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=291700588181","children":"Мишукова Евдокия Евгеньевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","291700588181"]}],"$undefined"]}]]}],["$","tr","manager:Пасько Ольга Николаевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=775107525349","children":"Пасько Ольга Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","775107525349"]}],["$","span",null,{"className":"muted","children":[" · ","АПАУ \"Гарант\""]}]]}]]}],["$","tr","organizer:Пасько Ольга Николаевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=775107525349","children":"Пасько Ольга Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","775107525349"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9005-12672%2F2025","children":"А05-12672/2025"}]}]]}]]}]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Архангельская область"}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268576568/%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20.docx",{"href":"https://m-ets.ru/download/268576568/%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДКП недвижимого имущества .docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268576570/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268576570/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о реализации имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268577471/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268577471/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+16:T1ab2,{
+  "id": "etp-mets:226807-1",
+  "sourceCode": "etp-mets",
+  "externalId": "226807-1",
+  "sourceUrl": "https://m-ets.ru/226807-1",
+  "title": "Доли квартиры в Архангельске",
+  "description": "1/7 доля в квартире, площадь 27.7 кв.м., назначение: однокомнатная квартира, этаж: 6, адрес (местонахождение): Российская Федерация, Архангельская область, г.о. город Архангельск, г. Архангельск, ул. Комсомольская, д. 9 к. 1, кв. 33, кадастровый (условный) номер: 29:22:040713:561 . Совместная собственность супругов; 1/7 доля в квартире, площадь 27.7 кв.м., назначение: однокомнатная квартира, этаж: 6, адрес (местонахождение): Российская Федерация, Архангельская область, г.о. город Архангельск, г. Архангельск, ул. Комсомольская, д. 9 к. 1, кв. 33, кадастровый (условный) номер: 29:22:040713:561 . Совместная собственность супругов; 1/7 доля в квартире, площадь 27.7 кв.м., назначение: однокомнатная квартира, этаж: 6, адрес (местонахождение): Российская Федерация, Архангельская область, г.о. город Архангельск, г. Архангельск, ул. Комсомольская, д. 9 к. 1, кв. 33, кадастровый (условный) номер: 29:22:040713:561 . Доля супруга.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "36",
+  "categoryName": "Квартира",
+  "regionCode": "29",
+  "address": "Архангельская область",
+  "priceStart": "972000",
+  "priceStep": "48600",
+  "deposit": "97200",
+  "currency": "RUB",
+  "publishedAt": "2026-08-10T00:00:00+03:00",
+  "biddStartAt": "2026-08-11T09:00:00+03:00",
+  "biddEndAt": "2026-09-15T09:00:00+03:00",
+  "auctionAt": "2026-09-17T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А05-12672/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Мишукова Евдокия Евгеньевна",
+      "inn": "291700588181",
+      "efrsbId": "44a6ed033860749b2c743c9615684c7a"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Пасько Ольга Николаевна",
+      "inn": "775107525349",
+      "sro": "АПАУ \"Гарант\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Пасько Ольга Николаевна",
+      "inn": "775107525349",
+      "email": "pasko.arbitr@mail.ru",
+      "phone": "+7 (916) 909 71 81"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268576567/268576567_thumb_0.jpg",
+    "https://m-ets.ru/download/268576566/268576566_thumb_0.jpg",
+    "https://m-ets.ru/download/268576565/268576565_thumb_0.jpg",
+    "https://m-ets.ru/download/268576564/268576564_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268576568/%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20.docx",
+      "name": "ДКП недвижимого имущества .docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268576570/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "Положение о реализации имущества.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268577471/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24117501",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Архангельской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "10.12.2025",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "48 600 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Для получения всей имеющейся информации о лоте (в том числе фото) необходимо направить запрос на адрес эл. почты (в теме письма указать ФИО должника): pasko.torg80@yandex.ru либо по телефону +7(916) 909-71-81 Обращаю внимание, что квартира расположена на 6 этаже девятиэтажного дома 1968 года постройки, жилая площадь 13,7 кв. м., имеется неблагоустроенный балкон (открытый), Ремонт последний раз делался в 2016 году.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:40:41.694Z",
+  "lastSeenAt": "2026-08-31T19:40:41.694Z",
+  "contentHash": "e0fd7cdd2426b0af0db000200ec265ed7b10abd1d3b7cde0be23c0e157daee38"
+}14:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$16"}]]}]
+15:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"972 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"48 600 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"97 200 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"9 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"11 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"15 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"9 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"17 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Архангельская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/226807-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Доли квартиры в Архангельске — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

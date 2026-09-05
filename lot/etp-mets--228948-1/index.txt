@@ -1,0 +1,274 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--228948-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--228948-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--228948-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=22","children":"Алтайский край"}]]]}],["$","h1",null,{"children":"Погребная ячейка №54 в ПК 11 в Барнауле, 3,3 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Прочие постройки"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Погребная ячейка №54 в ПК 11, г. Барнаул, пр. Ленина, 42а, 3,3 кв.м., кадастровый номер 22:63:050113:344"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24268707",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Алтайского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["16.03.2026",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом, его характеристиками и документами, по согласованию с организатором торгов, тел. 8 (933) 933 2237",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 08:00 (МСК)"," —"," ","31 авг. 2026 г., 08:00 (МСК)"]}],["$","td",null,{"children":"108 000 ₽"}],["$","td",null,{"children":"21 600 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 08:00 (МСК)"," —"," ","10 сент. 2026 г., 08:00 (МСК)"]}],["$","td",null,{"children":"102 600 ₽"}],["$","td",null,{"children":"20 520 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 08:00 (МСК)"," —"," ","20 сент. 2026 г., 08:00 (МСК)"]}],["$","td",null,{"children":"97 200 ₽"}],["$","td",null,{"children":"19 440 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["20 сент. 2026 г., 08:00 (МСК)"," —"," ","30 сент. 2026 г., 08:00 (МСК)"]}],["$","td",null,{"children":"91 800 ₽"}],["$","td",null,{"children":"18 360 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["30 сент. 2026 г., 08:00 (МСК)"," —"," ","10 окт. 2026 г., 08:00 (МСК)"]}],["$","td",null,{"children":"86 400 ₽"}],["$","td",null,{"children":"17 280 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["10 окт. 2026 г., 08:00 (МСК)"," —"," ","20 окт. 2026 г., 08:00 (МСК)"]}],["$","td",null,{"children":"81 000 ₽"}],["$","td",null,{"children":"16 200 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["20 окт. 2026 г., 08:00 (МСК)"," —"," ","30 окт. 2026 г., 08:00 (МСК)"]}],["$","td",null,{"children":"75 600 ₽"}],["$","td",null,{"children":"15 120 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["30 окт. 2026 г., 08:00 (МСК)"," —"," ","9 нояб. 2026 г., 08:00 (МСК)"]}],["$","td",null,{"children":"70 200 ₽"}],["$","td",null,{"children":"14 040 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["9 нояб. 2026 г., 08:00 (МСК)"," —"," ","19 нояб. 2026 г., 08:00 (МСК)"]}],["$","td",null,{"children":"64 800 ₽"}],["$","td",null,{"children":"12 960 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["19 нояб. 2026 г., 08:00 (МСК)"," —"," ","29 нояб. 2026 г., 08:00 (МСК)"]}],["$","td",null,{"children":"59 400 ₽"}],["$","td",null,{"children":"11 880 ₽"}]]}],["$","tr","11",{"className":"","children":["$L11","$L12","$L13"]}],"$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]]}]]}],"$L1c","$L1d","$L1e",false,"$L1f"]}],"$L20"]}]]}]
+11:["$","td",null,{"children":["29 нояб. 2026 г., 08:00 (МСК)"," —"," ","9 дек. 2026 г., 08:00 (МСК)"]}]
+12:["$","td",null,{"children":"54 000 ₽"}]
+13:["$","td",null,{"children":"10 800 ₽"}]
+14:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["9 дек. 2026 г., 08:00 (МСК)"," —"," ","19 дек. 2026 г., 08:00 (МСК)"]}],["$","td",null,{"children":"48 600 ₽"}],["$","td",null,{"children":"9 720 ₽"}]]}]
+15:["$","tr","13",{"className":"","children":[["$","td",null,{"children":["19 дек. 2026 г., 08:00 (МСК)"," —"," ","29 дек. 2026 г., 08:00 (МСК)"]}],["$","td",null,{"children":"43 200 ₽"}],["$","td",null,{"children":"8 640 ₽"}]]}]
+16:["$","tr","14",{"className":"","children":[["$","td",null,{"children":["29 дек. 2026 г., 08:00 (МСК)"," —"," ","8 янв. 2027 г., 08:00 (МСК)"]}],["$","td",null,{"children":"37 800 ₽"}],["$","td",null,{"children":"7 560 ₽"}]]}]
+17:["$","tr","15",{"className":"","children":[["$","td",null,{"children":["8 янв. 2027 г., 08:00 (МСК)"," —"," ","18 янв. 2027 г., 08:00 (МСК)"]}],["$","td",null,{"children":"32 400 ₽"}],["$","td",null,{"children":"6 480 ₽"}]]}]
+18:["$","tr","16",{"className":"","children":[["$","td",null,{"children":["18 янв. 2027 г., 08:00 (МСК)"," —"," ","28 янв. 2027 г., 08:00 (МСК)"]}],["$","td",null,{"children":"27 000 ₽"}],["$","td",null,{"children":"5 400 ₽"}]]}]
+19:["$","tr","17",{"className":"","children":[["$","td",null,{"children":["28 янв. 2027 г., 08:00 (МСК)"," —"," ","7 февр. 2027 г., 08:00 (МСК)"]}],["$","td",null,{"children":"21 600 ₽"}],["$","td",null,{"children":"4 320 ₽"}]]}]
+1a:["$","tr","18",{"className":"","children":[["$","td",null,{"children":["7 февр. 2027 г., 08:00 (МСК)"," —"," ","17 февр. 2027 г., 08:00 (МСК)"]}],["$","td",null,{"children":"16 200 ₽"}],["$","td",null,{"children":"3 240 ₽"}]]}]
+1b:["$","tr","19",{"className":"","children":[["$","td",null,{"children":["17 февр. 2027 г., 08:00 (МСК)"," —"," ","1 мар. 2027 г., 08:00 (МСК)"]}],["$","td",null,{"children":"10 800 ₽"}],["$","td",null,{"children":"2 160 ₽"}]]}]
+1c:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Качусова Ольга Юрьевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=228900123174","children":"Качусова Ольга Юрьевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","228900123174"]}],"$undefined"]}]]}],["$","tr","manager:Середа Татьяна Сергеевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=222209414196","children":"Середа Татьяна Сергеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","222209414196"]}],["$","span",null,{"className":"muted","children":[" · ","СРО \"ААУ \"Паритет\""]}]]}]]}],["$","tr","organizer:Середа Татьяна Сергеевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=222209414196","children":"Середа Татьяна Сергеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","222209414196"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9003-3770%2F2025","children":"А03-3770/2025"}]}]]}]]}]}]]}]
+1d:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Алтайский край"}]]}]
+1e:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268748318/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).docx",{"href":"https://m-ets.ru/download/268748318/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи (проект).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268748320/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2022.03.2026%20%D0%B3..pdf",{"href":"https://m-ets.ru/download/268748320/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2022.03.2026%20%D0%B3..pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о порядке, об условиях и о сроках реализации имущества от 22.03.2026 г..pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268748740/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268748740/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+21:T1f8f,{
+  "id": "etp-mets:228948-1",
+  "sourceCode": "etp-mets",
+  "externalId": "228948-1",
+  "sourceUrl": "https://m-ets.ru/228948-1",
+  "title": "Погребная ячейка №54 в ПК 11 в Барнауле, 3,3 кв.м.",
+  "description": "Погребная ячейка №54 в ПК 11, г. Барнаул, пр. Ленина, 42а, 3,3 кв.м., кадастровый номер 22:63:050113:344",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "other",
+  "categoryCode": "39",
+  "categoryName": "Прочие постройки",
+  "regionCode": "22",
+  "address": "Алтайский край",
+  "priceStart": "108000",
+  "priceMin": "10800.00",
+  "deposit": "21600.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-20T00:00:00+03:00",
+  "biddStartAt": "2026-08-21T08:00:00+03:00",
+  "biddEndAt": "2027-03-01T08:00:00+03:00",
+  "auctionAt": "2027-03-01T09:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А03-3770/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Качусова Ольга Юрьевна",
+      "inn": "228900123174",
+      "efrsbId": "cf26c5bf60dd3f2ac4444a7ea0a892a4"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Середа Татьяна Сергеевна",
+      "inn": "222209414196",
+      "sro": "СРО \"ААУ \"Паритет\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Середа Татьяна Сергеевна",
+      "inn": "222209414196",
+      "email": "sts3107@mail.ru",
+      "phone": "+7 (933) 933 22 37"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-21T08:00:00+03:00",
+      "endAt": "2026-08-31T08:00:00+03:00",
+      "price": "108000.00",
+      "deposit": "21600.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-31T08:00:00+03:00",
+      "endAt": "2026-09-10T08:00:00+03:00",
+      "price": "102600.00",
+      "deposit": "20520.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-10T08:00:00+03:00",
+      "endAt": "2026-09-20T08:00:00+03:00",
+      "price": "97200.00",
+      "deposit": "19440.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-20T08:00:00+03:00",
+      "endAt": "2026-09-30T08:00:00+03:00",
+      "price": "91800.00",
+      "deposit": "18360.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-30T08:00:00+03:00",
+      "endAt": "2026-10-10T08:00:00+03:00",
+      "price": "86400.00",
+      "deposit": "17280.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-10-10T08:00:00+03:00",
+      "endAt": "2026-10-20T08:00:00+03:00",
+      "price": "81000.00",
+      "deposit": "16200.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-20T08:00:00+03:00",
+      "endAt": "2026-10-30T08:00:00+03:00",
+      "price": "75600.00",
+      "deposit": "15120.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-30T08:00:00+03:00",
+      "endAt": "2026-11-09T08:00:00+03:00",
+      "price": "70200.00",
+      "deposit": "14040.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-11-09T08:00:00+03:00",
+      "endAt": "2026-11-19T08:00:00+03:00",
+      "price": "64800.00",
+      "deposit": "12960.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-11-19T08:00:00+03:00",
+      "endAt": "2026-11-29T08:00:00+03:00",
+      "price": "59400.00",
+      "deposit": "11880.00"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-11-29T08:00:00+03:00",
+      "endAt": "2026-12-09T08:00:00+03:00",
+      "price": "54000.00",
+      "deposit": "10800.00"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-12-09T08:00:00+03:00",
+      "endAt": "2026-12-19T08:00:00+03:00",
+      "price": "48600.00",
+      "deposit": "9720.00"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-12-19T08:00:00+03:00",
+      "endAt": "2026-12-29T08:00:00+03:00",
+      "price": "43200.00",
+      "deposit": "8640.00"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-12-29T08:00:00+03:00",
+      "endAt": "2027-01-08T08:00:00+03:00",
+      "price": "37800.00",
+      "deposit": "7560.00"
+    },
+    {
+      "no": 15,
+      "startAt": "2027-01-08T08:00:00+03:00",
+      "endAt": "2027-01-18T08:00:00+03:00",
+      "price": "32400.00",
+      "deposit": "6480.00"
+    },
+    {
+      "no": 16,
+      "startAt": "2027-01-18T08:00:00+03:00",
+      "endAt": "2027-01-28T08:00:00+03:00",
+      "price": "27000.00",
+      "deposit": "5400.00"
+    },
+    {
+      "no": 17,
+      "startAt": "2027-01-28T08:00:00+03:00",
+      "endAt": "2027-02-07T08:00:00+03:00",
+      "price": "21600.00",
+      "deposit": "4320.00"
+    },
+    {
+      "no": 18,
+      "startAt": "2027-02-07T08:00:00+03:00",
+      "endAt": "2027-02-17T08:00:00+03:00",
+      "price": "16200.00",
+      "deposit": "3240.00"
+    },
+    {
+      "no": 19,
+      "startAt": "2027-02-17T08:00:00+03:00",
+      "endAt": "2027-03-01T08:00:00+03:00",
+      "price": "10800.00",
+      "deposit": "2160.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268748318/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).docx",
+      "name": "Договор купли-продажи (проект).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268748320/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2022.03.2026%20%D0%B3..pdf",
+      "name": "Положение о порядке, об условиях и о сроках реализации имущества от 22.03.2026 г..pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268748740/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24268707",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Алтайского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "16.03.2026",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом, его характеристиками и документами, по согласованию с организатором торгов, тел. 8 (933) 933 2237",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:29:43.959Z",
+  "lastSeenAt": "2026-08-31T18:29:43.959Z",
+  "contentHash": "dd497ec1d48e95fab20228c7ee7849c9008af355c9705bd6f54ea1d8819a7312"
+}1f:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$21"}]]}]
+20:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"102 600 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["97 200 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 08:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[17,", до ","10 800 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"108 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"21 600 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"19 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"21 авг. 2026 г., 08:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"1 мар. 2027 г., 08:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"176 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"1 мар. 2027 г., 09:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Алтайский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/228948-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Погребная ячейка №54 в ПК 11 в Барнауле, 3,3 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

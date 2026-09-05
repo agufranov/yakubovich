@@ -1,0 +1,178 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230180-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230180-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230180-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Opel Corsa, 2012 года, 86 лс, 178212 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268843507/268843507_thumb_0.jpg","alt":"Opel Corsa, 2012 года, 86 лс, 178212 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268843506/268843506_thumb_0.jpg",{"href":"https://m-ets.ru/download/268843506/268843506_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268843506/268843506_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268843509/268843509_thumb_0.jpg",{"href":"https://m-ets.ru/download/268843509/268843509_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268843509/268843509_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268843508/268843508_thumb_0.jpg",{"href":"https://m-ets.ru/download/268843508/268843508_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268843508/268843508_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268843504/268843504_thumb_0.jpg",{"href":"https://m-ets.ru/download/268843504/268843504_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268843504/268843504_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268843505/268843505_thumb_0.jpg",{"href":"https://m-ets.ru/download/268843505/268843505_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268843505/268843505_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль, модель: OPEL CORSA, год изготовления: 2012 г.в., цвет: БЕЛЫЙ, VIN: W0L0SDL68D4045497, мощность двигателя, л. с. (кВт): 63.24/86.0, рабочий объем двигателя, куб. см: 1229, кузов №: W0L0SDL68D4045497"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Opel",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Corsa",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2012",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["178 212"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["86"," л.с."]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["W0L0SDL68D4045497",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24307251",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражного суда Республики Адыгея",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["03.10.2024",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["19 400 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":["$L11","$L12"]}],"$L13"]}]}]]}],"$undefined","$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","td",null,{"children":"Обременения"}]
+19:Tafa,Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Адрес местонахождения: Краснодарский край, г. Туапсе, Фрунзе, д. 5. Номер для показа авто: 8(918)902-11-00 Анатолий Викторович Имущество принадлежит на праве собственности бывшему супругу должника Герастенкову А.В. Бывший супруг должника Герастенков А.В. имеет преимущественное право выкупа автомашины Opel Corsa по цене, установленной результатами торгов. Если к участию в торгах был допущен только один ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью участник и его предложение о цене не ниже установленной начальной цены продажи имущества, договор куплипродажи имущества заключается финансовым управляющим с этим участником торгов в соответствии с представленным им предложением о цене имущества в случае, если сособственник имущества Герастенков А.В. откажется от выкупа имущества по установленной в торгах цене. Обременения и ограничения на распоряжение и эксплуатацию Имущества, наложенные работниками службы судебных приставов, судебными органами, иными лицами, подлежат снятию/отмене финансовым управляющим в установленном законом порядке до проведения торгов по продаже Имущества или в ходе их проведения. В случае, если указанные обременения не были отменены – в соответствии с требованиями ч. 19 ст. 110 ФЗ «О несостоятельности (банкротстве)» финансовый управляющий указывает в договоре купли-продажи на их наличие и разъясняет Покупателю о необходимости их самостоятельного снятия/отмены.12:["$","td",null,{"children":["$19",""]}]
+13:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Прием заявок/задатков с 14:00 ч. 26.08.2026 до 14:00 ч. 01.10.2026 (мск.) на сайте https://www.m-ets.ru; знакомство с документами и имуществом в рабочие дни в тот же период по месту нахождения имущества по предварительной записи у организатора торгов по тел.+7 (905) 472 44 52.",""]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Герастенкова Нафиса Ринатовна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=232201939737","children":"Герастенкова Нафиса Ринатовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","232201939737"]}],"$undefined"]}]]}],["$","tr","manager:Коровкин Валерий Александрович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=230913738709","children":"Коровкин Валерий Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","230913738709"]}],["$","span",null,{"className":"muted","children":[" · ","НП СОПАУ \"Альянс управляющих\""]}]]}]]}],["$","tr","organizer:Коровкин Валерий Александрович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=230913738709","children":"Коровкин Валерий Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","230913738709"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9001-3879%2F2024","children":"А01-3879/2024"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Краснодарский край"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268847335/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268847335/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268847337/%D0%94%D0%9A%D0%9F_%D0%94%D0%B2%D0%B8%D0%B6_%D0%9A%D0%BE%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%D0%BD%20(56).docx",{"href":"https://m-ets.ru/download/268847337/%D0%94%D0%9A%D0%9F_%D0%94%D0%B2%D0%B8%D0%B6_%D0%9A%D0%BE%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%D0%BD%20(56).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДКП_Движ_Коровкин (56).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1a:T2216,{
+  "id": "etp-mets:230180-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230180-1",
+  "sourceUrl": "https://m-ets.ru/230180-1",
+  "title": "Opel Corsa, 2012 года, 86 лс, 178212 км",
+  "description": "Легковой автомобиль, модель: OPEL CORSA, год изготовления: 2012 г.в., цвет: БЕЛЫЙ, VIN: W0L0SDL68D4045497, мощность двигателя, л. с. (кВт): 63.24/86.0, рабочий объем двигателя, куб. см: 1229, кузов №: W0L0SDL68D4045497",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "23",
+  "address": "Краснодарский край",
+  "priceStart": "388000",
+  "priceStep": "19400",
+  "deposit": "38800",
+  "currency": "RUB",
+  "publishedAt": "2026-08-26T00:00:00+03:00",
+  "biddStartAt": "2026-08-26T14:00:00+03:00",
+  "biddEndAt": "2026-10-01T14:00:00+03:00",
+  "auctionAt": "2026-10-02T15:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А01-3879/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Герастенкова Нафиса Ринатовна",
+      "inn": "232201939737",
+      "efrsbId": "5a48d65c1dec058bbbf4e06f8fc136fd"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Коровкин Валерий Александрович",
+      "inn": "230913738709",
+      "sro": "НП СОПАУ \"Альянс управляющих\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Коровкин Валерий Александрович",
+      "inn": "230913738709",
+      "email": "kv_bankrot@mail.ru",
+      "phone": "+7 (905) 472 44 52"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268843507/268843507_thumb_0.jpg",
+    "https://m-ets.ru/download/268843506/268843506_thumb_0.jpg",
+    "https://m-ets.ru/download/268843509/268843509_thumb_0.jpg",
+    "https://m-ets.ru/download/268843508/268843508_thumb_0.jpg",
+    "https://m-ets.ru/download/268843504/268843504_thumb_0.jpg",
+    "https://m-ets.ru/download/268843505/268843505_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268847335/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268847337/%D0%94%D0%9A%D0%9F_%D0%94%D0%B2%D0%B8%D0%B6_%D0%9A%D0%BE%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%D0%BD%20(56).docx",
+      "name": "ДКП_Движ_Коровкин (56).docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Opel",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Corsa",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2012",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "178 212",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "86",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "W0L0SDL68D4045497",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24307251",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражного суда Республики Адыгея",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "03.10.2024",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "19 400 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Адрес местонахождения: Краснодарский край, г. Туапсе, Фрунзе, д. 5. Номер для показа авто: 8(918)902-11-00 Анатолий Викторович Имущество принадлежит на праве собственности бывшему супругу должника Герастенкову А.В. Бывший супруг должника Герастенков А.В. имеет преимущественное право выкупа автомашины Opel Corsa по цене, установленной результатами торгов. Если к участию в торгах был допущен только один ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью участник и его предложение о цене не ниже установленной начальной цены продажи имущества, договор куплипродажи имущества заключается финансовым управляющим с этим участником торгов в соответствии с представленным им предложением о цене имущества в случае, если сособственник имущества Герастенков А.В. откажется от выкупа имущества по установленной в торгах цене. Обременения и ограничения на распоряжение и эксплуатацию Имущества, наложенные работниками службы судебных приставов, судебными органами, иными лицами, подлежат снятию/отмене финансовым управляющим в установленном законом порядке до проведения торгов по продаже Имущества или в ходе их проведения. В случае, если указанные обременения не были отменены – в соответствии с требованиями ч. 19 ст. 110 ФЗ «О несостоятельности (банкротстве)» финансовый управляющий указывает в договоре купли-продажи на их наличие и разъясняет Покупателю о необходимости их самостоятельного снятия/отмены.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Прием заявок/задатков с 14:00 ч. 26.08.2026 до 14:00 ч. 01.10.2026 (мск.) на сайте https://www.m-ets.ru; знакомство с документами и имуществом в рабочие дни в тот же период по месту нахождения имущества по предварительной записи у организатора торгов по тел.+7 (905) 472 44 52.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:34:31.717Z",
+  "lastSeenAt": "2026-08-31T18:34:31.717Z",
+  "contentHash": "c7091ad68e9b14621ec795dc5f444d8d0f265854560cff1420f8d2724493f26e"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"388 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"19 400 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"38 800 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 14:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"1 окт. 2026 г., 14:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"25 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"2 окт. 2026 г., 15:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230180-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Opel Corsa, 2012 года, 86 лс, 178212 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,305 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--228063-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--228063-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--228063-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=67","children":"Смоленская обл."}]]]}],["$","h1",null,{"children":"Земельный участок в Смоленской обл., 1160 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок д. Семенково, кадастровый номер: 67:18:0050401:134 , площадь: 1160 кв.м., назначение: Земельный участок, адрес: Российская Федерация, Смоленская область, р-н Смоленский, с/п Талашкинское, д Семенково"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24207177",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Республики Северная Осетия-Алания",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["24.04.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Ипотека в силу закона",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом производится самостоятельно по адресу: Смоленская область, р-н Смоленский, с/п Талашкинское, д Семенково, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Для дополнительных вопрос телефон организатора: +7-918-829-90-49.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["15 сент. 2026 г., 10:00 (МСК)"," —"," ","18 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"123 750 ₽"}],["$","td",null,{"children":"12 375 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["18 сент. 2026 г., 10:00 (МСК)"," —"," ","21 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"117 562,50 ₽"}],["$","td",null,{"children":"11 756,25 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 10:00 (МСК)"," —"," ","24 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"111 375 ₽"}],["$","td",null,{"children":"11 137,50 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["24 сент. 2026 г., 10:00 (МСК)"," —"," ","27 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"105 187,50 ₽"}],["$","td",null,{"children":"10 518,75 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["27 сент. 2026 г., 10:00 (МСК)"," —"," ","30 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"99 000 ₽"}],["$","td",null,{"children":"9 900 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["30 сент. 2026 г., 10:00 (МСК)"," —"," ","3 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"92 812,50 ₽"}],["$","td",null,{"children":"9 281,25 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["3 окт. 2026 г., 10:00 (МСК)"," —"," ","6 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"86 625 ₽"}],["$","td",null,{"children":"8 662,50 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["6 окт. 2026 г., 10:00 (МСК)"," —"," ","9 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"80 437,50 ₽"}],"$L11"]}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c"]}]]}]]}],"$L1d","$L1e","$L1f",false,"$L20"]}],"$L21"]}]]}]
+11:["$","td",null,{"children":"8 043,75 ₽"}]
+12:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["9 окт. 2026 г., 10:00 (МСК)"," —"," ","12 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"74 250 ₽"}],["$","td",null,{"children":"7 425 ₽"}]]}]
+13:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["12 окт. 2026 г., 10:00 (МСК)"," —"," ","15 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"68 062,50 ₽"}],["$","td",null,{"children":"6 806,25 ₽"}]]}]
+14:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["15 окт. 2026 г., 10:00 (МСК)"," —"," ","18 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"61 875 ₽"}],["$","td",null,{"children":"6 187,50 ₽"}]]}]
+15:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["18 окт. 2026 г., 10:00 (МСК)"," —"," ","21 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"55 687,50 ₽"}],["$","td",null,{"children":"5 568,75 ₽"}]]}]
+16:["$","tr","13",{"className":"","children":[["$","td",null,{"children":["21 окт. 2026 г., 10:00 (МСК)"," —"," ","24 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"49 500 ₽"}],["$","td",null,{"children":"4 950 ₽"}]]}]
+17:["$","tr","14",{"className":"","children":[["$","td",null,{"children":["24 окт. 2026 г., 10:00 (МСК)"," —"," ","27 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"43 312,50 ₽"}],["$","td",null,{"children":"4 331,25 ₽"}]]}]
+18:["$","tr","15",{"className":"","children":[["$","td",null,{"children":["27 окт. 2026 г., 10:00 (МСК)"," —"," ","30 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"37 125 ₽"}],["$","td",null,{"children":"3 712,50 ₽"}]]}]
+19:["$","tr","16",{"className":"","children":[["$","td",null,{"children":["30 окт. 2026 г., 10:00 (МСК)"," —"," ","2 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"30 937,50 ₽"}],["$","td",null,{"children":"3 093,75 ₽"}]]}]
+1a:["$","tr","17",{"className":"","children":[["$","td",null,{"children":["2 нояб. 2026 г., 10:00 (МСК)"," —"," ","5 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"24 750 ₽"}],["$","td",null,{"children":"2 475 ₽"}]]}]
+1b:["$","tr","18",{"className":"","children":[["$","td",null,{"children":["5 нояб. 2026 г., 10:00 (МСК)"," —"," ","8 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"18 562,50 ₽"}],["$","td",null,{"children":"1 856,25 ₽"}]]}]
+1c:["$","tr","19",{"className":"","children":[["$","td",null,{"children":["8 нояб. 2026 г., 10:00 (МСК)"," —"," ","11 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"12 375 ₽"}],["$","td",null,{"children":"1 237,50 ₽"}]]}]
+1d:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Качмазов Марат Курбанович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=151304442670","children":"Качмазов Марат Курбанович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","151304442670"]}],"$undefined"]}]]}],["$","tr","manager:Кусраев Георгий Нодариевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=151504795578","children":"Кусраев Георгий Нодариевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","151504795578"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"ЦФОП АПК\""]}]]}]]}],["$","tr","organizer:Кусраев Георгий Нодариевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=151504795578","children":"Кусраев Георгий Нодариевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","151504795578"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9061-947%2F2025","children":"А61-947/2025"}]}]]}]]}]}]]}]
+1e:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Смоленская область"}]]}]
+1f:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",9,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268678468/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf",{"href":"https://m-ets.ru/download/268678468/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение об оценке имущества должника.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268678643/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf",{"href":"https://m-ets.ru/download/268678643/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке Качмазов Марат Курбанович.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268678645/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf",{"href":"https://m-ets.ru/download/268678645/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке Качмазов Марат Курбанович.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268678647/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%D0%B0%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B0.pdf",{"href":"https://m-ets.ru/download/268678647/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%D0%B0%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о порядке продажи имущества Качмазова Марата Курбановича.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268678470/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf",{"href":"https://m-ets.ru/download/268678470/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf","target":"_blank","rel":"noopener","children":["$L22","$L23"]}],"$L24","$L25","$L26","$L27"]}]]}]
+28:T2ae0,{
+  "id": "etp-mets:228063-1",
+  "sourceCode": "etp-mets",
+  "externalId": "228063-1",
+  "sourceUrl": "https://m-ets.ru/228063-1",
+  "title": "Земельный участок в Смоленской обл., 1160 кв.м.",
+  "description": "Земельный участок д. Семенково, кадастровый номер: 67:18:0050401:134 , площадь: 1160 кв.м., назначение: Земельный участок, адрес: Российская Федерация, Смоленская область, р-н Смоленский, с/п Талашкинское, д Семенково",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "published",
+  "statusRaw": "Объявленные торги",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "67",
+  "address": "Смоленская область",
+  "priceStart": "123750",
+  "priceMin": "12375.00",
+  "deposit": "12375.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-16T00:00:00+03:00",
+  "biddStartAt": "2026-09-15T10:00:00+03:00",
+  "biddEndAt": "2026-11-11T10:00:00+03:00",
+  "auctionAt": "2026-11-11T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А61-947/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Качмазов Марат Курбанович",
+      "inn": "151304442670",
+      "efrsbId": "facf7ae951471f6b17949ef35c205b20"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Кусраев Георгий Нодариевич",
+      "inn": "151504795578",
+      "sro": "ААУ \"ЦФОП АПК\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Кусраев Георгий Нодариевич",
+      "inn": "151504795578",
+      "email": "georgi_88@mail.ru",
+      "phone": "+7 (918) 829 90 49"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-09-15T10:00:00+03:00",
+      "endAt": "2026-09-18T10:00:00+03:00",
+      "price": "123750.00",
+      "deposit": "12375.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-18T10:00:00+03:00",
+      "endAt": "2026-09-21T10:00:00+03:00",
+      "price": "117562.50",
+      "deposit": "11756.25"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-21T10:00:00+03:00",
+      "endAt": "2026-09-24T10:00:00+03:00",
+      "price": "111375.00",
+      "deposit": "11137.50"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-24T10:00:00+03:00",
+      "endAt": "2026-09-27T10:00:00+03:00",
+      "price": "105187.50",
+      "deposit": "10518.75"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-27T10:00:00+03:00",
+      "endAt": "2026-09-30T10:00:00+03:00",
+      "price": "99000.00",
+      "deposit": "9900.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-30T10:00:00+03:00",
+      "endAt": "2026-10-03T10:00:00+03:00",
+      "price": "92812.50",
+      "deposit": "9281.25"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-03T10:00:00+03:00",
+      "endAt": "2026-10-06T10:00:00+03:00",
+      "price": "86625.00",
+      "deposit": "8662.50"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-06T10:00:00+03:00",
+      "endAt": "2026-10-09T10:00:00+03:00",
+      "price": "80437.50",
+      "deposit": "8043.75"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-09T10:00:00+03:00",
+      "endAt": "2026-10-12T10:00:00+03:00",
+      "price": "74250.00",
+      "deposit": "7425.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-10-12T10:00:00+03:00",
+      "endAt": "2026-10-15T10:00:00+03:00",
+      "price": "68062.50",
+      "deposit": "6806.25"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-10-15T10:00:00+03:00",
+      "endAt": "2026-10-18T10:00:00+03:00",
+      "price": "61875.00",
+      "deposit": "6187.50"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-10-18T10:00:00+03:00",
+      "endAt": "2026-10-21T10:00:00+03:00",
+      "price": "55687.50",
+      "deposit": "5568.75"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-10-21T10:00:00+03:00",
+      "endAt": "2026-10-24T10:00:00+03:00",
+      "price": "49500.00",
+      "deposit": "4950.00"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-10-24T10:00:00+03:00",
+      "endAt": "2026-10-27T10:00:00+03:00",
+      "price": "43312.50",
+      "deposit": "4331.25"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-10-27T10:00:00+03:00",
+      "endAt": "2026-10-30T10:00:00+03:00",
+      "price": "37125.00",
+      "deposit": "3712.50"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-10-30T10:00:00+03:00",
+      "endAt": "2026-11-02T10:00:00+03:00",
+      "price": "30937.50",
+      "deposit": "3093.75"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-11-02T10:00:00+03:00",
+      "endAt": "2026-11-05T10:00:00+03:00",
+      "price": "24750.00",
+      "deposit": "2475.00"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-11-05T10:00:00+03:00",
+      "endAt": "2026-11-08T10:00:00+03:00",
+      "price": "18562.50",
+      "deposit": "1856.25"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-11-08T10:00:00+03:00",
+      "endAt": "2026-11-11T10:00:00+03:00",
+      "price": "12375.00",
+      "deposit": "1237.50"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268678468/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf",
+      "name": "Решение об оценке имущества должника.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268678643/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf",
+      "name": "Договор о задатке Качмазов Марат Курбанович.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268678645/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf",
+      "name": "Договор о задатке Качмазов Марат Курбанович.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268678647/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%D0%B0%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B0.pdf",
+      "name": "Положение о порядке продажи имущества Качмазова Марата Курбановича.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268678470/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf",
+      "name": "Договор купли продажи.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268678472/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D0%B1%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B5.pdf",
+      "name": "Сведения об объекте.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268678474/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%D0%B0%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B0.pdf",
+      "name": "Положение о порядке продажи имущества Качмазова Марата Курбановича.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268678476/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf",
+      "name": "Договор о задатке Качмазов Марат Курбанович.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268678478/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf",
+      "name": "Решение об оценке имущества должника.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24207177",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Республики Северная Осетия-Алания",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "24.04.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Ипотека в силу закона",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом производится самостоятельно по адресу: Смоленская область, р-н Смоленский, с/п Талашкинское, д Семенково, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Для дополнительных вопрос телефон организатора: +7-918-829-90-49.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:22:43.682Z",
+  "lastSeenAt": "2026-08-31T18:22:43.682Z",
+  "contentHash": "49215ba031b1df6b59cadd2b5cf6bd2a1cb99d03c70a391b6a265b4717aa6c12"
+}20:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$28"}]]}]
+21:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"123 750 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["123 750 ₽",["$","span",null,{"className":"muted","children":[" ","· ","15 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[19,", до ","12 375 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"12 375 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"15 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"15 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"11 нояб. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"66 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"11 нояб. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Смоленская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/228063-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+22:["$","span",null,{"children":["📎 ","Договор купли продажи.pdf"]}]
+23:["$","span",null,{"className":"size","children":"$undefined"}]
+24:["$","a","https://m-ets.ru/download/268678472/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D0%B1%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B5.pdf",{"href":"https://m-ets.ru/download/268678472/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D0%B1%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Сведения об объекте.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+25:["$","a","https://m-ets.ru/download/268678474/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%D0%B0%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B0.pdf",{"href":"https://m-ets.ru/download/268678474/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%D0%B0%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о порядке продажи имущества Качмазова Марата Курбановича.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+26:["$","a","https://m-ets.ru/download/268678476/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf",{"href":"https://m-ets.ru/download/268678476/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9A%D0%B0%D1%87%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%20%D0%9C%D0%B0%D1%80%D0%B0%D1%82%20%D0%9A%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке Качмазов Марат Курбанович.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+27:["$","a","https://m-ets.ru/download/268678478/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf",{"href":"https://m-ets.ru/download/268678478/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение об оценке имущества должника.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Смоленской обл., 1160 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

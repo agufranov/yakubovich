@@ -1,0 +1,214 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--222718-2",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--222718-2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--222718-2","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=equipment","children":"Оборудование и техника"}],[" · ",["$","$L4",null,{"href":"/?region=61","children":"Ростовская обл."}]]]}],["$","h1",null,{"children":"Стеллажи металлические (5м*1,8м)"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Складское оборудование"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268223180/268223180_thumb_0.jpg","alt":"Стеллажи металлические (5м*1,8м)"}]}],false,false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Стеллажи металлические (5м*1,8м) 22 шт."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23834656",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Ростовской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["24.09.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с договором о задатке и проектом договора купли-продажи имущества осуществляются по адресу: https://m-ets.ru и https://bankrot.fedresurs.ru. Ознакомление с имуществом и документацией производится путем непосредственного осмотра по месту нахождения имущества. Ознакомление с имуществом осуществляется в рабочие дни в течение срока приема заявок на участие в торгах по предварительному согласованию ... Показать полностью даты и времени осмотра. Заявка на ознакомление составляется в произвольной письменной форме с указанием данных позволяющих идентифицировать интересанта, и подлежит направлению организатору торгов. По вопросам ознакомления с имуществом должника, описанием, составом и характеристиками продаваемого имущества, а также иной дополнительной информацией обращаться по тел.: 8-928-662-7182 по e-mail: 6627182@mail.ru в рабочие дни с 10-00 до 13-00, с 14-00 до 17-00 по мск.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["27 июл. 2026 г., 00:00 (МСК)"," —"," ","1 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"267 661,80 ₽"}],["$","td",null,{"children":"26 766,18 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["1 авг. 2026 г., 00:00 (МСК)"," —"," ","6 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"254 278,71 ₽"}],["$","td",null,{"children":"25 427,87 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["6 авг. 2026 г., 00:00 (МСК)"," —"," ","11 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"240 895,62 ₽"}],["$","td",null,{"children":"24 089,56 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["11 авг. 2026 г., 00:00 (МСК)"," —"," ","16 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"227 512,53 ₽"}],["$","td",null,{"children":"22 751,25 ₽"}]]}],["$","tr","5",{"className":"","children":["$L11","$L12","$L13"]}],"$L14","$L15","$L16","$L17","$L18","$L19"]}]]}]]}],"$L1a","$L1b","$L1c",false,"$L1d"]}],"$L1e"]}]]}]
+11:["$","td",null,{"children":["16 авг. 2026 г., 00:00 (МСК)"," —"," ","21 авг. 2026 г., 00:00 (МСК)"]}]
+12:["$","td",null,{"children":"214 129,44 ₽"}]
+13:["$","td",null,{"children":"21 412,94 ₽"}]
+14:["$","tr","6",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 00:00 (МСК)"," —"," ","26 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"200 746,35 ₽"}],["$","td",null,{"children":"20 074,64 ₽"}]]}]
+15:["$","tr","7",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 00:00 (МСК)"," —"," ","31 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"187 363,26 ₽"}],["$","td",null,{"children":"18 736,33 ₽"}]]}]
+16:["$","tr","8",{"className":"","children":[["$","td",null,{"children":["31 авг. 2026 г., 00:00 (МСК)"," —"," ","5 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"173 980,17 ₽"}],["$","td",null,{"children":"17 398,02 ₽"}]]}]
+17:["$","tr","9",{"className":"now","children":[["$","td",null,{"children":["5 сент. 2026 г., 00:00 (МСК)"," —"," ","10 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"160 597,08 ₽"}],["$","td",null,{"children":"16 059,71 ₽"}]]}]
+18:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 00:00 (МСК)"," —"," ","15 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"147 213,99 ₽"}],["$","td",null,{"children":"14 721,40 ₽"}]]}]
+19:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["15 сент. 2026 г., 00:00 (МСК)"," —"," ","19 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"133 830,90 ₽"}],["$","td",null,{"children":"13 383,09 ₽"}]]}]
+1a:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЛЕСАН МЕДИКА\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=6161056975","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЛЕСАН МЕДИКА\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","6161056975"]}],"$undefined"]}]]}],["$","tr","manager:Сулейманова Наталья Викторовна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=010512681670","children":"Сулейманова Наталья Викторовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","010512681670"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСРО \"Содействие\""]}]]}]]}],["$","tr","organizer:Сулейманова Наталья Викторовна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=010512681670","children":"Сулейманова Наталья Викторовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","010512681670"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%B053-5954%2F2025","children":"а53-5954/2025"}]}]]}]]}]}]]}]
+1b:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Ростовская область"}]]}]
+1c:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268223195/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%A2%D0%9C%D0%A6%2C_%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf",{"href":"https://m-ets.ru/download/268223195/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%A2%D0%9C%D0%A6%2C_%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_ТМЦ,_оборудования.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268223943/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%81%D0%B0%D0%BD%20%D0%9C%D0%B5%D0%B4%D0%B8%D0%BA%D0%B0.pdf",{"href":"https://m-ets.ru/download/268223943/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%81%D0%B0%D0%BD%20%D0%9C%D0%B5%D0%B4%D0%B8%D0%BA%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке ООО Лесан Медика.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1f:T1d36,{
+  "id": "etp-mets:222718-2",
+  "sourceCode": "etp-mets",
+  "externalId": "222718-2",
+  "sourceUrl": "https://m-ets.ru/222718-2",
+  "title": "Стеллажи металлические (5м*1,8м)",
+  "description": "Стеллажи металлические (5м*1,8м) 22 шт.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "equipment",
+  "categoryCode": "17",
+  "categoryName": "Складское оборудование",
+  "regionCode": "61",
+  "address": "Ростовская область",
+  "priceStart": "267661.80",
+  "priceMin": "133830.90",
+  "deposit": "26766.18",
+  "currency": "RUB",
+  "publishedAt": "2026-07-21T00:00:00+03:00",
+  "biddStartAt": "2026-07-27T00:00:00+03:00",
+  "biddEndAt": "2026-09-19T23:59:00+03:00",
+  "auctionAt": "2026-09-19T23:59:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "а53-5954/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЛЕСАН МЕДИКА\"",
+      "inn": "6161056975",
+      "ogrn": "1106193000792"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Сулейманова Наталья Викторовна",
+      "inn": "010512681670",
+      "sro": "Ассоциация МСРО \"Содействие\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Сулейманова Наталья Викторовна",
+      "inn": "010512681670",
+      "email": "6627182@mail.ru",
+      "phone": "+7 (928) 662 71 82"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-27T00:00:00+03:00",
+      "endAt": "2026-08-01T00:00:00+03:00",
+      "price": "267661.80",
+      "deposit": "26766.18"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-01T00:00:00+03:00",
+      "endAt": "2026-08-06T00:00:00+03:00",
+      "price": "254278.71",
+      "deposit": "25427.87"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-06T00:00:00+03:00",
+      "endAt": "2026-08-11T00:00:00+03:00",
+      "price": "240895.62",
+      "deposit": "24089.56"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-11T00:00:00+03:00",
+      "endAt": "2026-08-16T00:00:00+03:00",
+      "price": "227512.53",
+      "deposit": "22751.25"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-16T00:00:00+03:00",
+      "endAt": "2026-08-21T00:00:00+03:00",
+      "price": "214129.44",
+      "deposit": "21412.94"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-21T00:00:00+03:00",
+      "endAt": "2026-08-26T00:00:00+03:00",
+      "price": "200746.35",
+      "deposit": "20074.64"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-26T00:00:00+03:00",
+      "endAt": "2026-08-31T00:00:00+03:00",
+      "price": "187363.26",
+      "deposit": "18736.33"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-31T00:00:00+03:00",
+      "endAt": "2026-09-05T00:00:00+03:00",
+      "price": "173980.17",
+      "deposit": "17398.02"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-05T00:00:00+03:00",
+      "endAt": "2026-09-10T00:00:00+03:00",
+      "price": "160597.08",
+      "deposit": "16059.71"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-09-10T00:00:00+03:00",
+      "endAt": "2026-09-15T00:00:00+03:00",
+      "price": "147213.99",
+      "deposit": "14721.40"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-09-15T00:00:00+03:00",
+      "endAt": "2026-09-19T23:59:00+03:00",
+      "price": "133830.90",
+      "deposit": "13383.09"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268223180/268223180_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268223195/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%A2%D0%9C%D0%A6%2C_%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf",
+      "name": "Проект_договора_купли_продажи_ТМЦ,_оборудования.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268223943/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%9E%D0%9E%D0%9E%20%D0%9B%D0%B5%D1%81%D0%B0%D0%BD%20%D0%9C%D0%B5%D0%B4%D0%B8%D0%BA%D0%B0.pdf",
+      "name": "Договор о задатке ООО Лесан Медика.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23834656",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Ростовской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "24.09.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с договором о задатке и проектом договора купли-продажи имущества осуществляются по адресу: https://m-ets.ru и https://bankrot.fedresurs.ru. Ознакомление с имуществом и документацией производится путем непосредственного осмотра по месту нахождения имущества. Ознакомление с имуществом осуществляется в рабочие дни в течение срока приема заявок на участие в торгах по предварительному согласованию ... Показать полностью даты и времени осмотра. Заявка на ознакомление составляется в произвольной письменной форме с указанием данных позволяющих идентифицировать интересанта, и подлежит направлению организатору торгов. По вопросам ознакомления с имуществом должника, описанием, составом и характеристиками продаваемого имущества, а также иной дополнительной информацией обращаться по тел.: 8-928-662-7182 по e-mail: 6627182@mail.ru в рабочие дни с 10-00 до 13-00, с 14-00 до 17-00 по мск.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:58:16.123Z",
+  "lastSeenAt": "2026-08-31T18:58:16.123Z",
+  "contentHash": "cbc897adbbc2cd9c68837a3501acbfea8889e12154b17b8834481538d6f96e27"
+}1d:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1f"}]]}]
+1e:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"160 597,08 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["147 213,99 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[2,", до ","133 830,90 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"267 661,80 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"26 766,18 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"20 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 июл. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"19 сент. 2026 г., 23:59 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"14 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"19 сент. 2026 г., 23:59 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Ростовская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/222718-2","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Стеллажи металлические (5м*1,8м) — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

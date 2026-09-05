@@ -1,0 +1,278 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230917-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230917-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230917-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=50","children":"Московская обл."}]]]}],["$","h1",null,{"children":"Право требования к Петраковскому В. А. в размере 93 457 338,00 руб."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Задолженность физ. лиц"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Право требования Ковалева Олега Ивановича к Петраковскому Виталию Анатольевичу в размере 93 457 338,00 рублей"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24366089",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Московской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["25.01.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Контакты финансового управляющего: fin.upr77@gmail.com или по телефону 8 (982) 992-05-67.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 10:00 (МСК)"," —"," ","7 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"84 111 604,20 ₽"}],["$","td",null,{"children":"8 411 160,42 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 10:00 (МСК)"," —"," ","14 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"79 906 023,99 ₽"}],["$","td",null,{"children":"7 990 602,40 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 10:00 (МСК)"," —"," ","21 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"75 700 443,78 ₽"}],["$","td",null,{"children":"7 570 044,38 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 10:00 (МСК)"," —"," ","28 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"71 494 863,57 ₽"}],["$","td",null,{"children":"7 149 486,36 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["28 сент. 2026 г., 10:00 (МСК)"," —"," ","5 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"67 289 283,36 ₽"}],["$","td",null,{"children":"6 728 928,34 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["5 окт. 2026 г., 10:00 (МСК)"," —"," ","12 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"63 083 703,15 ₽"}],["$","td",null,{"children":"6 308 370,32 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["12 окт. 2026 г., 10:00 (МСК)"," —"," ","19 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"58 878 122,94 ₽"}],["$","td",null,{"children":"5 887 812,29 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["19 окт. 2026 г., 10:00 (МСК)"," —"," ","26 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"54 672 542,73 ₽"}],["$","td",null,{"children":"5 467 254,27 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["26 окт. 2026 г., 10:00 (МСК)"," —"," ","2 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"50 466 962,52 ₽"}],["$","td",null,{"children":"5 046 696,25 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["2 нояб. 2026 г., 10:00 (МСК)"," —"," ","10 нояб. 2026 г., 10:00 (МСК)"]}],"$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c"]}]]}]]}],"$L1d","$L1e","$L1f",false,"$L20"]}],"$L21"]}]]}]
+11:["$","td",null,{"children":"46 261 382,31 ₽"}]
+12:["$","td",null,{"children":"4 626 138,23 ₽"}]
+13:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["10 нояб. 2026 г., 10:00 (МСК)"," —"," ","17 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"42 055 802,10 ₽"}],["$","td",null,{"children":"4 205 580,21 ₽"}]]}]
+14:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["17 нояб. 2026 г., 10:00 (МСК)"," —"," ","24 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"37 850 221,89 ₽"}],["$","td",null,{"children":"3 785 022,19 ₽"}]]}]
+15:["$","tr","13",{"className":"","children":[["$","td",null,{"children":["24 нояб. 2026 г., 10:00 (МСК)"," —"," ","1 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"33 644 641,68 ₽"}],["$","td",null,{"children":"3 364 464,17 ₽"}]]}]
+16:["$","tr","14",{"className":"","children":[["$","td",null,{"children":["1 дек. 2026 г., 10:00 (МСК)"," —"," ","8 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"29 439 061,47 ₽"}],["$","td",null,{"children":"2 943 906,15 ₽"}]]}]
+17:["$","tr","15",{"className":"","children":[["$","td",null,{"children":["8 дек. 2026 г., 10:00 (МСК)"," —"," ","15 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"25 233 481,26 ₽"}],["$","td",null,{"children":"2 523 348,13 ₽"}]]}]
+18:["$","tr","16",{"className":"","children":[["$","td",null,{"children":["15 дек. 2026 г., 10:00 (МСК)"," —"," ","22 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"21 027 901,05 ₽"}],["$","td",null,{"children":"2 102 790,11 ₽"}]]}]
+19:["$","tr","17",{"className":"","children":[["$","td",null,{"children":["22 дек. 2026 г., 10:00 (МСК)"," —"," ","29 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"16 822 320,84 ₽"}],["$","td",null,{"children":"1 682 232,08 ₽"}]]}]
+1a:["$","tr","18",{"className":"","children":[["$","td",null,{"children":["29 дек. 2026 г., 10:00 (МСК)"," —"," ","14 янв. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"12 616 740,63 ₽"}],["$","td",null,{"children":"1 261 674,06 ₽"}]]}]
+1b:["$","tr","19",{"className":"","children":[["$","td",null,{"children":["14 янв. 2027 г., 10:00 (МСК)"," —"," ","21 янв. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"8 411 160,42 ₽"}],["$","td",null,{"children":"841 116,04 ₽"}]]}]
+1c:["$","tr","20",{"className":"","children":[["$","td",null,{"children":["21 янв. 2027 г., 10:00 (МСК)"," —"," ","27 янв. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 205 580,21 ₽"}],["$","td",null,{"children":"420 558,02 ₽"}]]}]
+1d:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Ковалев Олег Иванович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=501202511356","children":"Ковалев Олег Иванович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","501202511356"]}],"$undefined"]}]]}],["$","tr","manager:Коротаев Денис Валерьевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=772500409342","children":"Коротаев Денис Валерьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","772500409342"]}],["$","span",null,{"className":"muted","children":[" · ","СРО \"СМиАУ\""]}]]}]]}],["$","tr","organizer:Коротаев Денис Валерьевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=772500409342","children":"Коротаев Денис Валерьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","772500409342"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9041-99447%2F2023","children":"А41-99447/2023"}]}]]}]]}]}]]}]
+1e:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Московская область"}]]}]
+1f:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268805815/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%BF%D1%80%D0%B0%D0%B2%D0%B0_%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf",{"href":"https://m-ets.ru/download/268805815/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%BF%D1%80%D0%B0%D0%B2%D0%B0_%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_права_требования.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268896338/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268896338/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+22:T1eb5,{
+  "id": "etp-mets:230917-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230917-1",
+  "sourceUrl": "https://m-ets.ru/230917-1",
+  "title": "Право требования к Петраковскому В. А. в размере 93 457 338,00 руб.",
+  "description": "Право требования Ковалева Олега Ивановича к Петраковскому Виталию Анатольевичу в размере 93 457 338,00 рублей",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "other",
+  "categoryCode": "24",
+  "categoryName": "Задолженность физ. лиц",
+  "regionCode": "50",
+  "address": "Московская область",
+  "priceStart": "84111604.20",
+  "priceMin": "4205580.21",
+  "deposit": "8411160.42",
+  "currency": "RUB",
+  "publishedAt": "2026-08-28T00:00:00+03:00",
+  "biddStartAt": "2026-08-31T10:00:00+03:00",
+  "biddEndAt": "2027-01-27T10:00:00+03:00",
+  "auctionAt": "2027-01-27T14:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А41-99447/2023",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Ковалев Олег Иванович",
+      "inn": "501202511356",
+      "efrsbId": "38e248a4f31b452a32b4ca671a430bcd"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Коротаев Денис Валерьевич",
+      "inn": "772500409342",
+      "sro": "СРО \"СМиАУ\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Коротаев Денис Валерьевич",
+      "inn": "772500409342",
+      "email": "11korotaev11@gmail.com",
+      "phone": "+7 (982) 992 05 67"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-31T10:00:00+03:00",
+      "endAt": "2026-09-07T10:00:00+03:00",
+      "price": "84111604.20",
+      "deposit": "8411160.42"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-07T10:00:00+03:00",
+      "endAt": "2026-09-14T10:00:00+03:00",
+      "price": "79906023.99",
+      "deposit": "7990602.40"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-14T10:00:00+03:00",
+      "endAt": "2026-09-21T10:00:00+03:00",
+      "price": "75700443.78",
+      "deposit": "7570044.38"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-21T10:00:00+03:00",
+      "endAt": "2026-09-28T10:00:00+03:00",
+      "price": "71494863.57",
+      "deposit": "7149486.36"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-28T10:00:00+03:00",
+      "endAt": "2026-10-05T10:00:00+03:00",
+      "price": "67289283.36",
+      "deposit": "6728928.34"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-10-05T10:00:00+03:00",
+      "endAt": "2026-10-12T10:00:00+03:00",
+      "price": "63083703.15",
+      "deposit": "6308370.32"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-12T10:00:00+03:00",
+      "endAt": "2026-10-19T10:00:00+03:00",
+      "price": "58878122.94",
+      "deposit": "5887812.29"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-19T10:00:00+03:00",
+      "endAt": "2026-10-26T10:00:00+03:00",
+      "price": "54672542.73",
+      "deposit": "5467254.27"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-26T10:00:00+03:00",
+      "endAt": "2026-11-02T10:00:00+03:00",
+      "price": "50466962.52",
+      "deposit": "5046696.25"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-11-02T10:00:00+03:00",
+      "endAt": "2026-11-10T10:00:00+03:00",
+      "price": "46261382.31",
+      "deposit": "4626138.23"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-11-10T10:00:00+03:00",
+      "endAt": "2026-11-17T10:00:00+03:00",
+      "price": "42055802.10",
+      "deposit": "4205580.21"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-11-17T10:00:00+03:00",
+      "endAt": "2026-11-24T10:00:00+03:00",
+      "price": "37850221.89",
+      "deposit": "3785022.19"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-11-24T10:00:00+03:00",
+      "endAt": "2026-12-01T10:00:00+03:00",
+      "price": "33644641.68",
+      "deposit": "3364464.17"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-12-01T10:00:00+03:00",
+      "endAt": "2026-12-08T10:00:00+03:00",
+      "price": "29439061.47",
+      "deposit": "2943906.15"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-12-08T10:00:00+03:00",
+      "endAt": "2026-12-15T10:00:00+03:00",
+      "price": "25233481.26",
+      "deposit": "2523348.13"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-12-15T10:00:00+03:00",
+      "endAt": "2026-12-22T10:00:00+03:00",
+      "price": "21027901.05",
+      "deposit": "2102790.11"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-12-22T10:00:00+03:00",
+      "endAt": "2026-12-29T10:00:00+03:00",
+      "price": "16822320.84",
+      "deposit": "1682232.08"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-12-29T10:00:00+03:00",
+      "endAt": "2027-01-14T10:00:00+03:00",
+      "price": "12616740.63",
+      "deposit": "1261674.06"
+    },
+    {
+      "no": 19,
+      "startAt": "2027-01-14T10:00:00+03:00",
+      "endAt": "2027-01-21T10:00:00+03:00",
+      "price": "8411160.42",
+      "deposit": "841116.04"
+    },
+    {
+      "no": 20,
+      "startAt": "2027-01-21T10:00:00+03:00",
+      "endAt": "2027-01-27T10:00:00+03:00",
+      "price": "4205580.21",
+      "deposit": "420558.02"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268805815/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%BF%D1%80%D0%B0%D0%B2%D0%B0_%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf",
+      "name": "Проект_договора_купли_продажи_права_требования.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268896338/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24366089",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Московской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "25.01.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Контакты финансового управляющего: fin.upr77@gmail.com или по телефону 8 (982) 992-05-67.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:51:10.734Z",
+  "lastSeenAt": "2026-08-31T19:51:10.734Z",
+  "contentHash": "9611e651d39e6c3d0d42998e2265b9201bcf25c02be894573cf0fb86c6b1119e"
+}20:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$22"}]]}]
+21:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"84 111 604,20 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["79 906 023,99 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[19,", до ","4 205 580,21 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"84 111 604,20 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"8 411 160,42 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"27 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"31 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"27 янв. 2027 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"143 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"27 янв. 2027 г., 14:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Московская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230917-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Право требования к Петраковскому В. А. в размере 93 457 338,00 руб. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

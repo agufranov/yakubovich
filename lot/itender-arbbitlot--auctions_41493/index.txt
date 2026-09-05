@@ -1,0 +1,83 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","itender-arbbitlot--auctions_41493",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","itender-arbbitlot--auctions_41493","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","itender-arbbitlot--auctions_41493","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:T7a7,{
+  "id": "itender-arbbitlot:auctions_41493",
+  "sourceCode": "itender-arbbitlot",
+  "externalId": "auctions_41493",
+  "sourceUrl": "https://torgi.arbbitlot.ru/public/auctions/lots/view/41493/",
+  "title": "Легковой автомобиль, марка: ВАЗ, модель: 21214, год изготовления: 2004, цвет: сине-зеленый, VIN: XTA21214041744200, г/н: Н550УА68",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству (127-ФЗ)",
+  "tradeKind": "auction",
+  "tradeKindRaw": "auctions",
+  "status": "published",
+  "statusRaw": "Извещение опубликовано",
+  "kind": "vehicle",
+  "categoryName": "Автомобили",
+  "priceStart": "214200.00",
+  "priceStep": "10710.00",
+  "deposit": "21420.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-26T00:00:00+03:00",
+  "biddStartAt": "2026-08-31T10:00:00+03:00",
+  "biddEndAt": "2026-10-08T10:00:00+03:00",
+  "auctionAt": "2026-10-14T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "arbbitlot",
+  "images": [],
+  "attachments": [],
+  "attributes": [
+    {
+      "key": "efrsbMessageId",
+      "name": "Номер сообщения в ЕФРСБ",
+      "value": "23673562",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbClassifier",
+      "name": "Классификатор ЕФРСБ",
+      "value": "Автомобили",
+      "source": "structured"
+    },
+    {
+      "key": "repeatTrades",
+      "name": "Повторные торги",
+      "value": "Да",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Шаг, % от начальной цены",
+      "value": "5,00",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-26T18:41:57.781Z",
+  "lastSeenAt": "2026-08-26T18:41:57.781Z",
+  "contentHash": "2f228ab3a52b2415dffa23642b5900615624ee19490ba073f28469040bd0dbc4"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],"$undefined"]}],["$","h1",null,{"children":"Легковой автомобиль, марка: ВАЗ, модель: 21214, год изготовления: 2004, цвет: сине-зеленый, VIN: XTA21214041744200, г/н: Н550УА68"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined","$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbMessageId",{"children":[["$","td",null,{"children":"Номер сообщения в ЕФРСБ"}],["$","td",null,{"children":["23673562",""]}]]}],["$","tr","efrsbClassifier",{"children":[["$","td",null,{"children":"Классификатор ЕФРСБ"}],["$","td",null,{"children":["Автомобили",""]}]]}],["$","tr","repeatTrades",{"children":[["$","td",null,{"children":"Повторные торги"}],["$","td",null,{"children":["Да",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Шаг, % от начальной цены"}],["$","td",null,{"children":["5,00",""]}]]}]]}]}]]}],"$undefined","$undefined","$undefined",false,false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"214 200 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"10 710 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"21 420 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],"$L12","$L13","$L14","$L15"]}],"$L16","$L17","$L18","$L19"]}]}]]}]]}]
+12:[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"31 авг. 2026 г., 10:00 (МСК)"}]]
+13:[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"8 окт. 2026 г., 10:00 (МСК)"}]]
+14:[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"32 дня"}]]
+15:[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"14 окт. 2026 г., 10:00 (МСК)"}]]
+16:["$","hr",null,{"className":"divider"}]
+17:["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=arbbitlot","children":"Арббитлот"}]}]]]}]
+18:["$","a",null,{"className":"btn primary big","href":"https://torgi.arbbitlot.ru/public/auctions/lots/view/41493/","target":"_blank","rel":"noopener","children":["Смотреть на ","torgi.arbbitlot.ru"," →"]}]
+19:["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Легковой автомобиль, марка: ВАЗ, модель: 21214, год изготовления: 2004, цвет: сине-зеленый — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

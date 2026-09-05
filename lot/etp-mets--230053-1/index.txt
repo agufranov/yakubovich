@@ -1,0 +1,209 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230053-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230053-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230053-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=24","children":"Красноярский край"}]]]}],["$","h1",null,{"children":"Honda Accord, 2006 года, 155 лс"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268836986/268836986_thumb_0.jpg","alt":"Honda Accord, 2006 года, 155 лс"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268836990/268836990_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836990/268836990_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836990/268836990_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836988/268836988_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836988/268836988_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836988/268836988_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836987/268836987_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836987/268836987_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836987/268836987_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836992/268836992_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836992/268836992_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836992/268836992_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836989/268836989_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836989/268836989_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836989/268836989_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836993/268836993_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836993/268836993_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836993/268836993_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836972/268836972_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836972/268836972_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836972/268836972_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836973/268836973_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836973/268836973_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836973/268836973_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836977/268836977_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836977/268836977_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836977/268836977_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836979/268836979_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836979/268836979_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836979/268836979_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836981/268836981_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836981/268836981_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836981/268836981_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],"$L11"]}],"$L12","$L13","$undefined","$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",9," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268836980/268836980_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836980/268836980_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836980/268836980_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836985/268836985_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836985/268836985_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836985/268836985_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836976/268836976_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836976/268836976_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836976/268836976_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836984/268836984_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836984/268836984_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836984/268836984_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836974/268836974_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836974/268836974_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836974/268836974_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836983/268836983_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836983/268836983_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836983/268836983_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836978/268836978_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836978/268836978_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836978/268836978_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836975/268836975_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836975/268836975_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836975/268836975_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268836982/268836982_thumb_0.jpg",{"href":"https://m-ets.ru/download/268836982/268836982_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268836982/268836982_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Автомобиль легковой, марка: HONDA, модель: ACCORD, VIN: JHMCL76406C213885, гос. рег. номер: В316ММ19, год изготовления: 2006 Находится в залоге у Банк ВТБ (публичное акционерное общество)"}]]}]
+19:Tf11,Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На момент опубликования объявления о проведении торгов по лоту №1 - обременения имеются. Вид ограничения Запрет на регистрационные действия Документ: 417139311/1920 от 28.11.2025, Монгуш Сайлаана Константиновна, СПИ: 95201416884566, ИП: 360642/25/19020-ИП от 26.11.2025 Документ: 417100510/1920 от 28.11.2025, Монгуш Сайлаана Константиновна, СПИ: 95201416884566, ИП: 360642/25/19020-ИП от 26.11.2025 Документ: 418265035/1920 ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью от 08.12.2025, Смирнова Людмила Евгеньевна, СПИ: 95201417490588, ИП: 368671/25/19020-ИП от 05.12.2025 Документ: 431631394/1920 от 18.03.2026, Каюмова Анна Ивановна, СПИ: 95201428706818, ИП: 118766/26/19020-ИП от 27.02.2026 Документ: 431622667/1920 от 18.03.2026, Каюмова Анна Ивановна, СПИ: 95201428706818, ИП: 118766/26/19020-ИП от 27.02.2026 Документ: 434403688/1920 от 07.04.2026, Перетрухин Анатолий Анатольевич, СПИ: 95201434235562, ИП: 179618/26/19020-ИП от 06.04.2026 Основание Документ: 434661944/1920 от 09.04.2026, Перетрухин Анатолий Анатольевич, СПИ: 95201434418886, ИП: 181803/26/19020-ИП от 07.04.2026 Основание Документ: 437937692/1920 от 07.05.2026, Перетрухин Анатолий Анатольевич, СПИ: 95201437447357, ИП: 220612/26/19020-ИП от 05.05.2026 Документ: 438591134/1920 от 13.05.2026, Перетрухин Анатолий Анатольевич, СПИ: 95201438011219, ИП: 225935/26/19020-ИП от 07.05.2026 Документ: 440313311/1920 от 29.05.2026, Каюмова Анна Ивановна, СПИ: 95201421384550, ИП: 419162/25/19020-СД от 17.12.2025 Документ: 440284545/1920 от 29.05.2026, Калиновская Анастасия Павловна, СПИ: 95201440025693, ИП: 271651/26/19020-ИП от 28.05.2026 Документ: 442524547/1920 от 10.06.2026, Калиновская Анастасия Павловна, СПИ: 95201440025664, ИП: 271650/26/19020-ИП от 29.05.2026 Документ: 443043120/1920 от 16.06.2026, Калиновская Анастасия Павловна, СПИ: 95201439497300, ИП: 263817/26/19020-ИП от 22.05.2026 Документ: 443221326/1920 от 17.06.2026, Каюмова Анна Ивановна, СПИ: 95201442717968, ИП: 297163/26/19020-ИП от 11.06.2026 Документ: 446107109/1920 от 07.07.2026, Калиновская Анастасия Павловна, СПИ: 95201442947773, ИП: 300197/26/19020-ИП от 16.06.2026 Документ: 448770153/1920 от 28.07.2026, Середкин Константин Сергеевич, СПИ: 95201448256327, ИП: 354549/26/19020-ИП от 24.07.2026 В соответствии с абз. 4 п. 5 ст. 213.25 ФЗ «О несостоятельности (банкротстве)» от 26 октября 2002 г. № 127-ФЗ с даты признания гражданина банкротом снимаются ранее наложенные аресты на имущество гражданина и иные ограничения распоряжения имуществом гражданина.13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Honda",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Accord",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2006",""]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["155"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["JHMCL76406C213885",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24345265",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Краснодарского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["20.06.2025",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["24 400 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["$19",""]}]]}],"$L1a"]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Андреева Анастасия Вадимовна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=245305585139","children":"Андреева Анастасия Вадимовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","245305585139"]}],"$undefined"]}]]}],["$","tr","manager:Гущина Алина Алишеровна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=745701241833","children":"Гущина Алина Алишеровна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","745701241833"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:Гущина Алина Алишеровна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=745701241833","children":"Гущина Алина Алишеровна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","745701241833"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9032-28333%2F2025","children":"А32-28333/2025"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Красноярский край"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268837018/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268837018/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268837020/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A2%D0%A1%20(%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3).docx",{"href":"https://m-ets.ru/download/268837020/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A2%D0%A1%20(%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи ТС (залог).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268837022/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80..pdf",{"href":"https://m-ets.ru/download/268837022/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80..pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","АУ Положение о реализации имущества свыше 100т.р..pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268837024/%D0%9F%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/268837024/%D0%9F%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ПТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268837026/%D0%A1%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/268837026/%D0%A1%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","СТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268837028/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8.pdf",{"href":"https://m-ets.ru/download/268837028/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Фотографии.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T308c,{
+  "id": "etp-mets:230053-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230053-1",
+  "sourceUrl": "https://m-ets.ru/230053-1",
+  "title": "Honda Accord, 2006 года, 155 лс",
+  "description": "Автомобиль легковой, марка: HONDA, модель: ACCORD, VIN: JHMCL76406C213885, гос. рег. номер: В316ММ19, год изготовления: 2006 Находится в залоге у Банк ВТБ (публичное акционерное общество)",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "published",
+  "statusRaw": "Объявленные торги",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "24",
+  "address": "Красноярский край",
+  "priceStart": "488000",
+  "priceStep": "24400",
+  "deposit": "48800",
+  "currency": "RUB",
+  "publishedAt": "2026-08-26T00:00:00+03:00",
+  "biddStartAt": "2026-09-02T09:00:00+03:00",
+  "biddEndAt": "2026-10-07T09:00:00+03:00",
+  "auctionAt": "2026-10-07T11:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А32-28333/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Андреева Анастасия Вадимовна",
+      "inn": "245305585139",
+      "efrsbId": "e85ab38e5c95538be6d4bc9466c44ce3"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Гущина Алина Алишеровна",
+      "inn": "745701241833",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Гущина Алина Алишеровна",
+      "inn": "745701241833",
+      "email": "aakarimova@inbox.ru",
+      "phone": "+7 (982) 309 81 83"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268836986/268836986_thumb_0.jpg",
+    "https://m-ets.ru/download/268836990/268836990_thumb_0.jpg",
+    "https://m-ets.ru/download/268836988/268836988_thumb_0.jpg",
+    "https://m-ets.ru/download/268836987/268836987_thumb_0.jpg",
+    "https://m-ets.ru/download/268836992/268836992_thumb_0.jpg",
+    "https://m-ets.ru/download/268836989/268836989_thumb_0.jpg",
+    "https://m-ets.ru/download/268836993/268836993_thumb_0.jpg",
+    "https://m-ets.ru/download/268836972/268836972_thumb_0.jpg",
+    "https://m-ets.ru/download/268836973/268836973_thumb_0.jpg",
+    "https://m-ets.ru/download/268836977/268836977_thumb_0.jpg",
+    "https://m-ets.ru/download/268836979/268836979_thumb_0.jpg",
+    "https://m-ets.ru/download/268836981/268836981_thumb_0.jpg",
+    "https://m-ets.ru/download/268836980/268836980_thumb_0.jpg",
+    "https://m-ets.ru/download/268836985/268836985_thumb_0.jpg",
+    "https://m-ets.ru/download/268836976/268836976_thumb_0.jpg",
+    "https://m-ets.ru/download/268836984/268836984_thumb_0.jpg",
+    "https://m-ets.ru/download/268836974/268836974_thumb_0.jpg",
+    "https://m-ets.ru/download/268836983/268836983_thumb_0.jpg",
+    "https://m-ets.ru/download/268836978/268836978_thumb_0.jpg",
+    "https://m-ets.ru/download/268836975/268836975_thumb_0.jpg",
+    "https://m-ets.ru/download/268836982/268836982_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268837018/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268837020/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A2%D0%A1%20(%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3).docx",
+      "name": "Проект договора купли-продажи ТС (залог).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268837022/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80..pdf",
+      "name": "АУ Положение о реализации имущества свыше 100т.р..pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268837024/%D0%9F%D0%A2%D0%A1.pdf",
+      "name": "ПТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268837026/%D0%A1%D0%A2%D0%A1.pdf",
+      "name": "СТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268837028/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8.pdf",
+      "name": "Фотографии.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Honda",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Accord",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2006",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "155",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "JHMCL76406C213885",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24345265",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Краснодарского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "20.06.2025",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "24 400 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На момент опубликования объявления о проведении торгов по лоту №1 - обременения имеются. Вид ограничения Запрет на регистрационные действия Документ: 417139311/1920 от 28.11.2025, Монгуш Сайлаана Константиновна, СПИ: 95201416884566, ИП: 360642/25/19020-ИП от 26.11.2025 Документ: 417100510/1920 от 28.11.2025, Монгуш Сайлаана Константиновна, СПИ: 95201416884566, ИП: 360642/25/19020-ИП от 26.11.2025 Документ: 418265035/1920 ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью от 08.12.2025, Смирнова Людмила Евгеньевна, СПИ: 95201417490588, ИП: 368671/25/19020-ИП от 05.12.2025 Документ: 431631394/1920 от 18.03.2026, Каюмова Анна Ивановна, СПИ: 95201428706818, ИП: 118766/26/19020-ИП от 27.02.2026 Документ: 431622667/1920 от 18.03.2026, Каюмова Анна Ивановна, СПИ: 95201428706818, ИП: 118766/26/19020-ИП от 27.02.2026 Документ: 434403688/1920 от 07.04.2026, Перетрухин Анатолий Анатольевич, СПИ: 95201434235562, ИП: 179618/26/19020-ИП от 06.04.2026 Основание Документ: 434661944/1920 от 09.04.2026, Перетрухин Анатолий Анатольевич, СПИ: 95201434418886, ИП: 181803/26/19020-ИП от 07.04.2026 Основание Документ: 437937692/1920 от 07.05.2026, Перетрухин Анатолий Анатольевич, СПИ: 95201437447357, ИП: 220612/26/19020-ИП от 05.05.2026 Документ: 438591134/1920 от 13.05.2026, Перетрухин Анатолий Анатольевич, СПИ: 95201438011219, ИП: 225935/26/19020-ИП от 07.05.2026 Документ: 440313311/1920 от 29.05.2026, Каюмова Анна Ивановна, СПИ: 95201421384550, ИП: 419162/25/19020-СД от 17.12.2025 Документ: 440284545/1920 от 29.05.2026, Калиновская Анастасия Павловна, СПИ: 95201440025693, ИП: 271651/26/19020-ИП от 28.05.2026 Документ: 442524547/1920 от 10.06.2026, Калиновская Анастасия Павловна, СПИ: 95201440025664, ИП: 271650/26/19020-ИП от 29.05.2026 Документ: 443043120/1920 от 16.06.2026, Калиновская Анастасия Павловна, СПИ: 95201439497300, ИП: 263817/26/19020-ИП от 22.05.2026 Документ: 443221326/1920 от 17.06.2026, Каюмова Анна Ивановна, СПИ: 95201442717968, ИП: 297163/26/19020-ИП от 11.06.2026 Документ: 446107109/1920 от 07.07.2026, Калиновская Анастасия Павловна, СПИ: 95201442947773, ИП: 300197/26/19020-ИП от 16.06.2026 Документ: 448770153/1920 от 28.07.2026, Середкин Константин Сергеевич, СПИ: 95201448256327, ИП: 354549/26/19020-ИП от 24.07.2026 В соответствии с абз. 4 п. 5 ст. 213.25 ФЗ «О несостоятельности (банкротстве)» от 26 октября 2002 г. № 127-ФЗ с даты признания гражданина банкротом снимаются ранее наложенные аресты на имущество гражданина и иные ограничения распоряжения имуществом гражданина.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: г. Красноярск, ул. Ленина, д. 24А. , предварительно согласовав время с Финансовым управляющим по тел. +79823098183, либо путем направления запроса на электронную почту aakarimova@inbox.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, относительно технического ... Показать полностью состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:39:33.002Z",
+  "lastSeenAt": "2026-08-31T18:39:33.002Z",
+  "contentHash": "daddb0bc4b47b648e7739b59793a2b268317682fa71dfe44f73be9aa140ba212"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"488 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"24 400 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"48 800 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"2 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"7 окт. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"31 день"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"7 окт. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Красноярский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230053-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1a:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С ЛОТОМ №1 можно ознакомиться по месту его нахождения: г. Красноярск, ул. Ленина, д. 24А. , предварительно согласовав время с Финансовым управляющим по тел. +79823098183, либо путем направления запроса на электронную почту aakarimova@inbox.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, относительно технического ... Показать полностью состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",""]}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Honda Accord, 2006 года, 155 лс — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

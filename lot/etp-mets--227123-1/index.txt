@@ -1,0 +1,165 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--227123-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--227123-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--227123-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=2","children":"Башкортостан"}]]]}],["$","h1",null,{"children":"Квартира в Уфе, 46,8 кв.м, 2 комн."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Квартира"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268605772/268605772_thumb_0.jpg","alt":"Квартира в Уфе, 46,8 кв.м, 2 комн."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268605771/268605771_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605771/268605771_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605771/268605771_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605762/268605762_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605762/268605762_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605762/268605762_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605763/268605763_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605763/268605763_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605763/268605763_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605766/268605766_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605766/268605766_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605766/268605766_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605768/268605768_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605768/268605768_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605768/268605768_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605770/268605770_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605770/268605770_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605770/268605770_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605773/268605773_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605773/268605773_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605773/268605773_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605776/268605776_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605776/268605776_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605776/268605776_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605780/268605780_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605780/268605780_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605780/268605780_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605789/268605789_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605789/268605789_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605789/268605789_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605790/268605790_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605790/268605790_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605790/268605790_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],"$L11"]}],"$L12","$L13","$undefined","$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",9," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268605793/268605793_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605793/268605793_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605793/268605793_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605792/268605792_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605792/268605792_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605792/268605792_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605794/268605794_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605794/268605794_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605794/268605794_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605797/268605797_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605797/268605797_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605797/268605797_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605798/268605798_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605798/268605798_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605798/268605798_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605799/268605799_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605799/268605799_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605799/268605799_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605767/268605767_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605767/268605767_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605767/268605767_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605769/268605769_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605769/268605769_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605769/268605769_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268605774/268605774_thumb_0.jpg",{"href":"https://m-ets.ru/download/268605774/268605774_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268605774/268605774_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Квартира, площадью 46,8 кв.м., расположенная по адресу: Республика Башкортостан, Уфа, Моторостроителей наб, д.15, кв.170. Кадастровый номер: 02:55:020403:11198 ."}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24140067",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Республики Башкортостан",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["02.12.2025",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["183 560 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: находится в залоге у ПАО «Сбербанк», Ипотека в силу закона № 02:55:020403:11198-02/372/2024-10 от 12.11.2024, Запрещение регистрации № 02:55:020403:11198-02/123/2025-24 от 08.08.2025; Запрещение регистрации № 02:55:020403:11198-02/125/2026-55 от 30.03.2026; Запрещение регистрации № 02:55:020403:11198-02/121/2026-56 от 06.05.2026; Запрещение регистрации № 02:55:020403:11198-02/370/2026-58 от 07.07.2026.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Для получения всей имеющейся информации о лоте (в том числе фото) необходимо направить запрос на адрес эл. почты (в теме письма указать ФИО должника): pasko.torg80@yandex.ru либо по телефону +7(916) 909-71-81 Обращаю внимание, что имущество реализуется как единый объект недвижимости (независимо от того, какой режим установленной собственности на залоговый объект) и реализуется по одной сделке, если ... Показать полностью иное не предусмотрено кредитным договором. На имущество зарегистрированы следующие ограничения: находится в залоге у ПАО «Сбербанк», Ипотека в силу закона № 02:55:020403:11198-02/372/2024-10 от 12.11.2024, Запрещение регистрации № 02:55:020403:11198-02/123/2025-24 от 08.08.2025; Запрещение регистрации № 02:55:020403:11198-02/125/2026-55 от 30.03.2026; Запрещение регистрации № 02:55:020403:11198-02/121/2026-56 от 06.05.2026; Запрещение регистрации № 02:55:020403:11198-02/370/2026-58 от 07.07.2026.",""]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Абдрашитов Булат Рафилевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=027308321002","children":"Абдрашитов Булат Рафилевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","027308321002"]}],"$undefined"]}]]}],["$","tr","manager:Пасько Ольга Николаевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=775107525349","children":"Пасько Ольга Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","775107525349"]}],["$","span",null,{"className":"muted","children":[" · ","АПАУ \"Гарант\""]}]]}]]}],["$","tr","organizer:Пасько Ольга Николаевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=775107525349","children":"Пасько Ольга Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","775107525349"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9007-37654%2F2025","children":"А07-37654/2025"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Республика Башкортостан"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268605866/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268605866/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268605868/%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx",{"href":"https://m-ets.ru/download/268605868/%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДКП недвижимого имущества.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268605870/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268605870/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о реализации имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+19:T1ff8,{
+  "id": "etp-mets:227123-1",
+  "sourceCode": "etp-mets",
+  "externalId": "227123-1",
+  "sourceUrl": "https://m-ets.ru/227123-1",
+  "title": "Квартира в Уфе, 46,8 кв.м, 2 комн.",
+  "description": "Квартира, площадью 46,8 кв.м., расположенная по адресу: Республика Башкортостан, Уфа, Моторостроителей наб, д.15, кв.170. Кадастровый номер: 02:55:020403:11198 .",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "36",
+  "categoryName": "Квартира",
+  "regionCode": "2",
+  "address": "Республика Башкортостан",
+  "priceStart": "3671200",
+  "priceStep": "183560",
+  "deposit": "367120",
+  "currency": "RUB",
+  "publishedAt": "2026-08-11T00:00:00+03:00",
+  "biddStartAt": "2026-08-12T09:00:00+03:00",
+  "biddEndAt": "2026-09-16T09:00:00+03:00",
+  "auctionAt": "2026-09-18T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А07-37654/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Абдрашитов Булат Рафилевич",
+      "inn": "027308321002",
+      "efrsbId": "84730be62e86a7da6bc4031e4168fdcc"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Пасько Ольга Николаевна",
+      "inn": "775107525349",
+      "sro": "АПАУ \"Гарант\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Пасько Ольга Николаевна",
+      "inn": "775107525349",
+      "email": "pasko.arbitr@mail.ru",
+      "phone": "+7 (916) 909 71 81"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268605772/268605772_thumb_0.jpg",
+    "https://m-ets.ru/download/268605771/268605771_thumb_0.jpg",
+    "https://m-ets.ru/download/268605762/268605762_thumb_0.jpg",
+    "https://m-ets.ru/download/268605763/268605763_thumb_0.jpg",
+    "https://m-ets.ru/download/268605766/268605766_thumb_0.jpg",
+    "https://m-ets.ru/download/268605768/268605768_thumb_0.jpg",
+    "https://m-ets.ru/download/268605770/268605770_thumb_0.jpg",
+    "https://m-ets.ru/download/268605773/268605773_thumb_0.jpg",
+    "https://m-ets.ru/download/268605776/268605776_thumb_0.jpg",
+    "https://m-ets.ru/download/268605780/268605780_thumb_0.jpg",
+    "https://m-ets.ru/download/268605789/268605789_thumb_0.jpg",
+    "https://m-ets.ru/download/268605790/268605790_thumb_0.jpg",
+    "https://m-ets.ru/download/268605793/268605793_thumb_0.jpg",
+    "https://m-ets.ru/download/268605792/268605792_thumb_0.jpg",
+    "https://m-ets.ru/download/268605794/268605794_thumb_0.jpg",
+    "https://m-ets.ru/download/268605797/268605797_thumb_0.jpg",
+    "https://m-ets.ru/download/268605798/268605798_thumb_0.jpg",
+    "https://m-ets.ru/download/268605799/268605799_thumb_0.jpg",
+    "https://m-ets.ru/download/268605767/268605767_thumb_0.jpg",
+    "https://m-ets.ru/download/268605769/268605769_thumb_0.jpg",
+    "https://m-ets.ru/download/268605774/268605774_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268605866/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268605868/%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx",
+      "name": "ДКП недвижимого имущества.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268605870/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "Положение о реализации имущества.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24140067",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Республики Башкортостан",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "02.12.2025",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "183 560 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: находится в залоге у ПАО «Сбербанк», Ипотека в силу закона № 02:55:020403:11198-02/372/2024-10 от 12.11.2024, Запрещение регистрации № 02:55:020403:11198-02/123/2025-24 от 08.08.2025; Запрещение регистрации № 02:55:020403:11198-02/125/2026-55 от 30.03.2026; Запрещение регистрации № 02:55:020403:11198-02/121/2026-56 от 06.05.2026; Запрещение регистрации № 02:55:020403:11198-02/370/2026-58 от 07.07.2026.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Для получения всей имеющейся информации о лоте (в том числе фото) необходимо направить запрос на адрес эл. почты (в теме письма указать ФИО должника): pasko.torg80@yandex.ru либо по телефону +7(916) 909-71-81 Обращаю внимание, что имущество реализуется как единый объект недвижимости (независимо от того, какой режим установленной собственности на залоговый объект) и реализуется по одной сделке, если ... Показать полностью иное не предусмотрено кредитным договором. На имущество зарегистрированы следующие ограничения: находится в залоге у ПАО «Сбербанк», Ипотека в силу закона № 02:55:020403:11198-02/372/2024-10 от 12.11.2024, Запрещение регистрации № 02:55:020403:11198-02/123/2025-24 от 08.08.2025; Запрещение регистрации № 02:55:020403:11198-02/125/2026-55 от 30.03.2026; Запрещение регистрации № 02:55:020403:11198-02/121/2026-56 от 06.05.2026; Запрещение регистрации № 02:55:020403:11198-02/370/2026-58 от 07.07.2026.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:16:14.212Z",
+  "lastSeenAt": "2026-08-31T18:16:14.212Z",
+  "contentHash": "9b09a051a78ecc9e0e775aec455f6ae8a4c33d965a1598cb9c170433a2f64ad8"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"3 671 200 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"183 560 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"367 120 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"10 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"12 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"16 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"10 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"18 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Башкортостан"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/227123-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Квартира в Уфе, 46,8 кв.м, 2 комн. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

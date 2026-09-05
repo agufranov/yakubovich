@@ -1,0 +1,188 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--223281-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--223281-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--223281-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=66","children":"Свердловская обл."}]]]}],["$","h1",null,{"children":"Земельный участок в Свердловской обл., 934+/-11 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок, площадью: 934+/-11 кв.м., с кадастровым номером: 66:59:0211001:359 , расположенный по адресу: Российская Федерация, Свердловская область, г. Полевской, с. Полдневая, ул. Лесная, район дома № 36."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23870759",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Свердловской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["21.07.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Залог в пользу ПАО Сбербанк Ипотека в силу закона № 66:59:0211001:359-66/128/2024-4 от 19.02.2024 Запрещение регистрации № 66:59:0211001:359-66/112/2025-5 от 10.01.2025 Запрещение регистрации № 66:59:0211001:359-66/128/2025-7 от 21.07.2025",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом, входящим в лот № 1 осуществляется по месту его нахождения, осуществляется при условии предварительного согласования даты и времени с организатором торгов, дополнительные сведения об имуществе, его характеристиках, порядке ознакомления с ним, порядке участия в торгах можно получить у организатора торгов в рабочие дни с 11.00 до 18.00 в период приема заявок на участие в торгах по предварительной договоренности по тел. 89951265958, либо по адресу электронной почты: dolgofforg@yandex.ru",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["27 июл. 2026 г., 12:00 (МСК)"," —"," ","3 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"230 400 ₽"}],["$","td",null,{"children":"23 040 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 12:00 (МСК)"," —"," ","10 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"218 880 ₽"}],["$","td",null,{"children":"23 040 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 12:00 (МСК)"," —"," ","17 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"207 360 ₽"}],["$","td",null,{"children":"23 040 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 12:00 (МСК)"," —"," ","24 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"195 840 ₽"}],["$","td",null,{"children":"23 040 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 12:00 (МСК)"," —"," ","31 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"184 320 ₽"}],"$L11"]}],"$L12","$L13"]}]]}]]}],"$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","td",null,{"children":"23 040 ₽"}]
+12:["$","tr","6",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 12:00 (МСК)"," —"," ","7 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"172 800 ₽"}],["$","td",null,{"children":"23 040 ₽"}]]}]
+13:["$","tr","7",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 12:00 (МСК)"," —"," ","14 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"161 280 ₽"}],["$","td",null,{"children":"23 040 ₽"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Болотова Елена Васильевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=660603430583","children":"Болотова Елена Васильевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","660603430583"]}],"$undefined"]}]]}],["$","tr","manager:Исраелян Арсен Вагинакович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=665813716323","children":"Исраелян Арсен Вагинакович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","665813716323"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация СРО \"Эгида\""]}]]}]]}],["$","tr","organizer:Исраелян Арсен Вагинакович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=665813716323","children":"Исраелян Арсен Вагинакович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","665813716323"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9060-33928%2F2025","children":"А60-33928/2025"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Свердловская область"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268286515/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx",{"href":"https://m-ets.ru/download/268286515/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи недвижимого имущества.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268286517/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268286517/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение_Болотова.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268286603/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268286603/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+19:T1c80,{
+  "id": "etp-mets:223281-1",
+  "sourceCode": "etp-mets",
+  "externalId": "223281-1",
+  "sourceUrl": "https://m-ets.ru/223281-1",
+  "title": "Земельный участок в Свердловской обл., 934+/-11 кв.м.",
+  "description": "Земельный участок, площадью: 934+/-11 кв.м., с кадастровым номером: 66:59:0211001:359 , расположенный по адресу: Российская Федерация, Свердловская область, г. Полевской, с. Полдневая, ул. Лесная, район дома № 36.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "66",
+  "address": "Свердловская область",
+  "priceStart": "230400",
+  "priceMin": "161280.00",
+  "deposit": "23040.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-23T00:00:00+03:00",
+  "biddStartAt": "2026-07-27T12:00:00+03:00",
+  "biddEndAt": "2026-09-14T12:00:00+03:00",
+  "auctionAt": "2026-09-14T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А60-33928/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Болотова Елена Васильевна",
+      "inn": "660603430583",
+      "efrsbId": "1af16e0790a5f0290cd4aff76f4c4a2d"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Исраелян Арсен Вагинакович",
+      "inn": "665813716323",
+      "sro": "Ассоциация СРО \"Эгида\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Исраелян Арсен Вагинакович",
+      "inn": "665813716323",
+      "email": "dolgofforg@yandex.ru",
+      "phone": "+7 (995) 126 59 58"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-27T12:00:00+03:00",
+      "endAt": "2026-08-03T12:00:00+03:00",
+      "price": "230400.00",
+      "deposit": "23040.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-03T12:00:00+03:00",
+      "endAt": "2026-08-10T12:00:00+03:00",
+      "price": "218880.00",
+      "deposit": "23040.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-10T12:00:00+03:00",
+      "endAt": "2026-08-17T12:00:00+03:00",
+      "price": "207360.00",
+      "deposit": "23040.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-17T12:00:00+03:00",
+      "endAt": "2026-08-24T12:00:00+03:00",
+      "price": "195840.00",
+      "deposit": "23040.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-24T12:00:00+03:00",
+      "endAt": "2026-08-31T12:00:00+03:00",
+      "price": "184320.00",
+      "deposit": "23040.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-31T12:00:00+03:00",
+      "endAt": "2026-09-07T12:00:00+03:00",
+      "price": "172800.00",
+      "deposit": "23040.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-07T12:00:00+03:00",
+      "endAt": "2026-09-14T12:00:00+03:00",
+      "price": "161280.00",
+      "deposit": "23040.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268286515/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx",
+      "name": "Проект договора купли-продажи недвижимого имущества.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268286517/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2%D0%B0.pdf",
+      "name": "Положение_Болотова.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268286603/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23870759",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Свердловской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "21.07.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Залог в пользу ПАО Сбербанк Ипотека в силу закона № 66:59:0211001:359-66/128/2024-4 от 19.02.2024 Запрещение регистрации № 66:59:0211001:359-66/112/2025-5 от 10.01.2025 Запрещение регистрации № 66:59:0211001:359-66/128/2025-7 от 21.07.2025",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом, входящим в лот № 1 осуществляется по месту его нахождения, осуществляется при условии предварительного согласования даты и времени с организатором торгов, дополнительные сведения об имуществе, его характеристиках, порядке ознакомления с ним, порядке участия в торгах можно получить у организатора торгов в рабочие дни с 11.00 до 18.00 в период приема заявок на участие в торгах по предварительной договоренности по тел. 89951265958, либо по адресу электронной почты: dolgofforg@yandex.ru",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:53:17.225Z",
+  "lastSeenAt": "2026-08-31T17:53:17.225Z",
+  "contentHash": "fb4189eb43d0764b04f2056ec5fde92db40cafc07cf86a17c89f73107cf0d5b5"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"172 800 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["161 280 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 12:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[1,", до ","161 280 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"230 400 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"23 040 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"22 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 июл. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"14 сент. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"8 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"14 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Свердловская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/223281-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Свердловской обл., 934+/-11 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

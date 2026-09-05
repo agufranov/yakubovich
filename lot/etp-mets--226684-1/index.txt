@@ -1,0 +1,245 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--226684-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--226684-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--226684-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Chevrolet Aveo, 2007 года, 94 лс"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268552361/268552361_thumb_0.jpg","alt":"Chevrolet Aveo, 2007 года, 94 лс"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268552355/268552355_thumb_0.jpg",{"href":"https://m-ets.ru/download/268552355/268552355_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268552355/268552355_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268552357/268552357_thumb_0.jpg",{"href":"https://m-ets.ru/download/268552357/268552357_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268552357/268552357_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268552360/268552360_thumb_0.jpg",{"href":"https://m-ets.ru/download/268552360/268552360_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268552360/268552360_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268552358/268552358_thumb_0.jpg",{"href":"https://m-ets.ru/download/268552358/268552358_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268552358/268552358_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268552362/268552362_thumb_0.jpg",{"href":"https://m-ets.ru/download/268552362/268552362_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268552362/268552362_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268552363/268552363_thumb_0.jpg",{"href":"https://m-ets.ru/download/268552363/268552363_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268552363/268552363_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268552364/268552364_thumb_0.jpg",{"href":"https://m-ets.ru/download/268552364/268552364_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268552364/268552364_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268552354/268552354_thumb_0.jpg",{"href":"https://m-ets.ru/download/268552354/268552354_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268552354/268552354_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268552353/268552353_thumb_0.jpg",{"href":"https://m-ets.ru/download/268552353/268552353_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268552353/268552353_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268552359/268552359_thumb_0.jpg",{"href":"https://m-ets.ru/download/268552359/268552359_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268552359/268552359_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль, марка: Шевроле Клас (Т200/ ШЕВРОЛЕ АВЕО), год изготовления: 2007 г.в., цвет: Красный, VIN: XUUSF697J70000399, г/н: М384НН150"}]]}],"$L11","$L12","$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Chevrolet",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Aveo",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2007",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["1 000 000"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["94"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XUUSF697J70000399",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24107083",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Краснодарского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["15.09.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С имуществом, выставляемом на торги, можно ознакомиться по предварительной записи у организатора торгов по телефону: +79530898987, а также по адресу электронной почты: torgi_aybovanenko@mail.ru по предварительной записи у организатора торгов.",""]}]]}]]}]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 00:00 (МСК)"," —"," ","16 авг. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"254 430 ₽"}],["$","td",null,{"children":"25 443 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 00:00 (МСК)"," —"," ","23 авг. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"228 987 ₽"}],["$","td",null,{"children":"25 443 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 00:00 (МСК)"," —"," ","30 авг. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"203 544 ₽"}],["$","td",null,{"children":"25 443 ₽"}]]}],["$","tr","4",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 00:00 (МСК)"," —"," ","6 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"178 101 ₽"}],["$","td",null,{"children":"25 443 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 00:00 (МСК)"," —"," ","13 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"152 658 ₽"}],["$","td",null,{"children":"25 443 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 00:00 (МСК)"," —"," ","20 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"127 215 ₽"}],["$","td",null,{"children":"25 443 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 00:00 (МСК)"," —"," ","27 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"101 772 ₽"}],["$","td",null,{"children":"25 443 ₽"}]]}]]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Бархударян Ольга Константиновна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=501004334659","children":"Бархударян Ольга Константиновна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","501004334659"]}],"$undefined"]}]]}],["$","tr","manager:Бованенко Сергей Дмитриевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=231294439771","children":"Бованенко Сергей Дмитриевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","231294439771"]}],["$","span",null,{"className":"muted","children":[" · ","НП СОПАУ \"Альянс управляющих\""]}]]}]]}],["$","tr","organizer:Бованенко Сергей Дмитриевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=231294439771","children":"Бованенко Сергей Дмитриевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","231294439771"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9032-33956%2F2025","children":"А32-33956/2025"}]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Краснодарский край"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268552365/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).doc",{"href":"https://m-ets.ru/download/268552365/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи недвижимого имущества (проект).doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268552436/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268552436/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T1ec9,{
+  "id": "etp-mets:226684-1",
+  "sourceCode": "etp-mets",
+  "externalId": "226684-1",
+  "sourceUrl": "https://m-ets.ru/226684-1",
+  "title": "Chevrolet Aveo, 2007 года, 94 лс",
+  "description": "Легковой автомобиль, марка: Шевроле Клас (Т200/ ШЕВРОЛЕ АВЕО), год изготовления: 2007 г.в., цвет: Красный, VIN: XUUSF697J70000399, г/н: М384НН150",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "23",
+  "address": "Краснодарский край",
+  "priceStart": "254430",
+  "priceMin": "101772.00",
+  "deposit": "25443.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-07T00:00:00+03:00",
+  "biddStartAt": "2026-08-10T00:00:00+03:00",
+  "biddEndAt": "2026-09-27T23:59:00+03:00",
+  "auctionAt": "2026-09-28T13:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А32-33956/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Бархударян Ольга Константиновна",
+      "inn": "501004334659",
+      "efrsbId": "f1569e359fdc2188f1043bedf6e0c11d"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Бованенко Сергей Дмитриевич",
+      "inn": "231294439771",
+      "sro": "НП СОПАУ \"Альянс управляющих\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Бованенко Сергей Дмитриевич",
+      "inn": "231294439771",
+      "email": "torgi_aybovanenko@mail.ru",
+      "phone": "+7 (953) 089 89 87"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-10T00:00:00+03:00",
+      "endAt": "2026-08-16T23:59:00+03:00",
+      "price": "254430.00",
+      "deposit": "25443.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-17T00:00:00+03:00",
+      "endAt": "2026-08-23T23:59:00+03:00",
+      "price": "228987.00",
+      "deposit": "25443.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-24T00:00:00+03:00",
+      "endAt": "2026-08-30T23:59:00+03:00",
+      "price": "203544.00",
+      "deposit": "25443.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-31T00:00:00+03:00",
+      "endAt": "2026-09-06T23:59:00+03:00",
+      "price": "178101.00",
+      "deposit": "25443.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-07T00:00:00+03:00",
+      "endAt": "2026-09-13T23:59:00+03:00",
+      "price": "152658.00",
+      "deposit": "25443.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-14T00:00:00+03:00",
+      "endAt": "2026-09-20T23:59:00+03:00",
+      "price": "127215.00",
+      "deposit": "25443.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-21T00:00:00+03:00",
+      "endAt": "2026-09-27T23:59:00+03:00",
+      "price": "101772.00",
+      "deposit": "25443.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268552361/268552361_thumb_0.jpg",
+    "https://m-ets.ru/download/268552355/268552355_thumb_0.jpg",
+    "https://m-ets.ru/download/268552357/268552357_thumb_0.jpg",
+    "https://m-ets.ru/download/268552360/268552360_thumb_0.jpg",
+    "https://m-ets.ru/download/268552358/268552358_thumb_0.jpg",
+    "https://m-ets.ru/download/268552362/268552362_thumb_0.jpg",
+    "https://m-ets.ru/download/268552363/268552363_thumb_0.jpg",
+    "https://m-ets.ru/download/268552364/268552364_thumb_0.jpg",
+    "https://m-ets.ru/download/268552354/268552354_thumb_0.jpg",
+    "https://m-ets.ru/download/268552353/268552353_thumb_0.jpg",
+    "https://m-ets.ru/download/268552359/268552359_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268552365/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).doc",
+      "name": "Договор купли-продажи недвижимого имущества (проект).doc"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268552436/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Chevrolet",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Aveo",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2007",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "1 000 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "94",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XUUSF697J70000399",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24107083",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Краснодарского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "15.09.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С имуществом, выставляемом на торги, можно ознакомиться по предварительной записи у организатора торгов по телефону: +79530898987, а также по адресу электронной почты: torgi_aybovanenko@mail.ru по предварительной записи у организатора торгов.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:13:19.760Z",
+  "lastSeenAt": "2026-08-31T18:13:19.760Z",
+  "contentHash": "05c400530c504bccbbd4a6177412945792df8275b7823ea94308e21a0efa18f7"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"178 101 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["152 658 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[3,", до ","101 772 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"254 430 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"25 443 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"6 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"10 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"27 сент. 2026 г., 23:59 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"22 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"28 сент. 2026 г., 13:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/226684-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Chevrolet Aveo, 2007 года, 94 лс — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

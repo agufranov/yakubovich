@@ -1,0 +1,233 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--226060-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--226060-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--226060-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=43","children":"Кировская обл."}]]]}],["$","h1",null,{"children":"Товарно-материальные ценности"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Товарно-материальные ценности"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268504789/268504789_thumb_0.jpg","alt":"Товарно-материальные ценности"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268504781/268504781_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504781/268504781_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504781/268504781_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504799/268504799_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504799/268504799_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504799/268504799_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504796/268504796_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504796/268504796_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504796/268504796_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504801/268504801_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504801/268504801_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504801/268504801_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504790/268504790_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504790/268504790_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504790/268504790_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504784/268504784_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504784/268504784_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504784/268504784_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504780/268504780_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504780/268504780_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504780/268504780_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504794/268504794_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504794/268504794_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504794/268504794_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504779/268504779_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504779/268504779_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504779/268504779_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504772/268504772_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504772/268504772_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504772/268504772_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504773/268504773_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504773/268504773_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268504773/268504773_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",17," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268504775/268504775_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504775/268504775_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504775/268504775_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504787/268504787_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504787/268504787_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504787/268504787_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504785/268504785_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504785/268504785_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504785/268504785_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504783/268504783_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504783/268504783_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504783/268504783_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504800/268504800_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504800/268504800_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504800/268504800_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504797/268504797_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504797/268504797_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504797/268504797_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504792/268504792_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504792/268504792_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504792/268504792_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504774/268504774_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504774/268504774_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504774/268504774_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504788/268504788_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504788/268504788_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504788/268504788_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504793/268504793_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504793/268504793_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504793/268504793_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504776/268504776_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504776/268504776_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504776/268504776_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504798/268504798_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504798/268504798_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504798/268504798_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504777/268504777_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504777/268504777_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504777/268504777_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268504795/268504795_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504795/268504795_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L1b"}],"$L1c","$L1d","$L1e"]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Товарные остатки после прекращения статуса ИП, Одежда"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24067525",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Мурманской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["24.12.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С ЛОТОМ №1 можно ознакомиться по месту его нахождения: 610018, Кировская обл, Киров г, Проезжая ул, дом № 51, предварительно согласовав время с Финансовым управляющим по тел. +79823058977, либо путем направления запроса на электронную почту krylosov.anton96@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, ... Показать полностью относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["12 авг. 2026 г., 09:00 (МСК)"," —"," ","16 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"18 083 673 ₽"}],["$","td",null,{"children":"1 808 367,30 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["16 авг. 2026 г., 09:00 (МСК)"," —"," ","20 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"15 371 122,05 ₽"}],["$","td",null,{"children":"1 537 112,21 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["20 авг. 2026 г., 09:00 (МСК)"," —"," ","24 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"12 658 571,10 ₽"}],["$","td",null,{"children":"1 265 857,11 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 09:00 (МСК)"," —"," ","28 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"9 946 020,15 ₽"}],["$","td",null,{"children":"994 602,02 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["28 авг. 2026 г., 09:00 (МСК)"," —"," ","1 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"7 233 469,20 ₽"}],["$","td",null,{"children":"723 346,92 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["1 сент. 2026 г., 09:00 (МСК)"," —"," ","5 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"4 520 918,25 ₽"}],["$","td",null,{"children":"452 091,83 ₽"}]]}],["$","tr","7",{"className":"now","children":[["$","td",null,{"children":["5 сент. 2026 г., 09:00 (МСК)"," —"," ","9 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 808 367,30 ₽"}],["$","td",null,{"children":"180 836,73 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["9 сент. 2026 г., 09:00 (МСК)"," —"," ","13 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"180 836,73 ₽"}],["$","td",null,{"children":"18 083,67 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Ставицкий Сергей Алексеевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=434535428138","children":"Ставицкий Сергей Алексеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","434535428138"]}],"$undefined"]}]]}],["$","tr","manager:Крылосов Антон Александрович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=745703215370","children":"Крылосов Антон Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","745703215370"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:КРЫЛОСОВ АНТОН АЛЕКСАНДРОВИЧ",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=745703215370","children":"КРЫЛОСОВ АНТОН АЛЕКСАНДРОВИЧ"}],["$","span",null,{"className":"muted","children":[" · ИНН ","745703215370"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9042-4391%2F2025","children":"А42-4391/2025"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Кировская область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268504802/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A4%D0%A3%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5.pdf",{"href":"https://m-ets.ru/download/268504802/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A4%D0%A3%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение ФУ об оценке.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268504804/%D0%A4%D0%BE%D1%82%D0%BE.pdf",{"href":"https://m-ets.ru/download/268504804/%D0%A4%D0%BE%D1%82%D0%BE.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Фото.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268504806/%D0%94%D0%9A%D0%9F.docx",{"href":"https://m-ets.ru/download/268504806/%D0%94%D0%9A%D0%9F.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДКП.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268504808/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80..pdf",{"href":"https://m-ets.ru/download/268504808/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80..pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","АУ Положение о реализации имущества свыше 100т.р..pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268504818/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268504818/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1f:T23c2,{
+  "id": "etp-mets:226060-1",
+  "sourceCode": "etp-mets",
+  "externalId": "226060-1",
+  "sourceUrl": "https://m-ets.ru/226060-1",
+  "title": "Товарно-материальные ценности",
+  "description": "Товарные остатки после прекращения статуса ИП, Одежда",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "other",
+  "categoryCode": "27",
+  "categoryName": "Товарно-материальные ценности",
+  "regionCode": "43",
+  "address": "Кировская область",
+  "priceStart": "18083673",
+  "priceMin": "180836.73",
+  "deposit": "1808367.30",
+  "currency": "RUB",
+  "publishedAt": "2026-08-05T00:00:00+03:00",
+  "biddStartAt": "2026-08-12T09:00:00+03:00",
+  "biddEndAt": "2026-09-13T09:00:00+03:00",
+  "auctionAt": "2026-09-13T11:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А42-4391/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Ставицкий Сергей Алексеевич",
+      "inn": "434535428138",
+      "efrsbId": "b915740dcc7bd37874f4f7695cdaa64c"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Крылосов Антон Александрович",
+      "inn": "745703215370",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "КРЫЛОСОВ АНТОН АЛЕКСАНДРОВИЧ",
+      "inn": "745703215370",
+      "email": "krylosov.anton96@mail.ru",
+      "phone": "+7 (982) 305 89 77"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-12T09:00:00+03:00",
+      "endAt": "2026-08-16T09:00:00+03:00",
+      "price": "18083673.00",
+      "deposit": "1808367.30"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-16T09:00:00+03:00",
+      "endAt": "2026-08-20T09:00:00+03:00",
+      "price": "15371122.05",
+      "deposit": "1537112.21"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-20T09:00:00+03:00",
+      "endAt": "2026-08-24T09:00:00+03:00",
+      "price": "12658571.10",
+      "deposit": "1265857.11"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-24T09:00:00+03:00",
+      "endAt": "2026-08-28T09:00:00+03:00",
+      "price": "9946020.15",
+      "deposit": "994602.02"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-28T09:00:00+03:00",
+      "endAt": "2026-09-01T09:00:00+03:00",
+      "price": "7233469.20",
+      "deposit": "723346.92"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-01T09:00:00+03:00",
+      "endAt": "2026-09-05T09:00:00+03:00",
+      "price": "4520918.25",
+      "deposit": "452091.83"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-05T09:00:00+03:00",
+      "endAt": "2026-09-09T09:00:00+03:00",
+      "price": "1808367.30",
+      "deposit": "180836.73"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-09T09:00:00+03:00",
+      "endAt": "2026-09-13T09:00:00+03:00",
+      "price": "180836.73",
+      "deposit": "18083.67"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268504789/268504789_thumb_0.jpg",
+    "https://m-ets.ru/download/268504781/268504781_thumb_0.jpg",
+    "https://m-ets.ru/download/268504799/268504799_thumb_0.jpg",
+    "https://m-ets.ru/download/268504796/268504796_thumb_0.jpg",
+    "https://m-ets.ru/download/268504801/268504801_thumb_0.jpg",
+    "https://m-ets.ru/download/268504790/268504790_thumb_0.jpg",
+    "https://m-ets.ru/download/268504784/268504784_thumb_0.jpg",
+    "https://m-ets.ru/download/268504780/268504780_thumb_0.jpg",
+    "https://m-ets.ru/download/268504794/268504794_thumb_0.jpg",
+    "https://m-ets.ru/download/268504779/268504779_thumb_0.jpg",
+    "https://m-ets.ru/download/268504772/268504772_thumb_0.jpg",
+    "https://m-ets.ru/download/268504773/268504773_thumb_0.jpg",
+    "https://m-ets.ru/download/268504775/268504775_thumb_0.jpg",
+    "https://m-ets.ru/download/268504787/268504787_thumb_0.jpg",
+    "https://m-ets.ru/download/268504785/268504785_thumb_0.jpg",
+    "https://m-ets.ru/download/268504783/268504783_thumb_0.jpg",
+    "https://m-ets.ru/download/268504800/268504800_thumb_0.jpg",
+    "https://m-ets.ru/download/268504797/268504797_thumb_0.jpg",
+    "https://m-ets.ru/download/268504792/268504792_thumb_0.jpg",
+    "https://m-ets.ru/download/268504774/268504774_thumb_0.jpg",
+    "https://m-ets.ru/download/268504788/268504788_thumb_0.jpg",
+    "https://m-ets.ru/download/268504793/268504793_thumb_0.jpg",
+    "https://m-ets.ru/download/268504776/268504776_thumb_0.jpg",
+    "https://m-ets.ru/download/268504798/268504798_thumb_0.jpg",
+    "https://m-ets.ru/download/268504777/268504777_thumb_0.jpg",
+    "https://m-ets.ru/download/268504795/268504795_thumb_0.jpg",
+    "https://m-ets.ru/download/268504782/268504782_thumb_0.jpg",
+    "https://m-ets.ru/download/268504786/268504786_thumb_0.jpg",
+    "https://m-ets.ru/download/268504778/268504778_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268504802/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A4%D0%A3%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5.pdf",
+      "name": "Решение ФУ об оценке.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268504804/%D0%A4%D0%BE%D1%82%D0%BE.pdf",
+      "name": "Фото.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268504806/%D0%94%D0%9A%D0%9F.docx",
+      "name": "ДКП.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268504808/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80..pdf",
+      "name": "АУ Положение о реализации имущества свыше 100т.р..pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268504818/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24067525",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Мурманской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "24.12.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: 610018, Кировская обл, Киров г, Проезжая ул, дом № 51, предварительно согласовав время с Финансовым управляющим по тел. +79823058977, либо путем направления запроса на электронную почту krylosov.anton96@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, ... Показать полностью относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:09:29.541Z",
+  "lastSeenAt": "2026-08-31T18:09:29.541Z",
+  "contentHash": "23063b2dff0910f4ff5dc51ae720022419ce6544d02efe92ae6939b2ad9f7410"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1f"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"1 808 367,30 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["180 836,73 ₽",["$","span",null,{"className":"muted","children":[" ","· ","9 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[1,", до ","180 836,73 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"18 083 673 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"1 808 367,30 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"4 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"12 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"13 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"7 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"13 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Кировская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/226060-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1b:["$","img",null,{"src":"https://m-ets.ru/download/268504795/268504795_thumb_0.jpg","alt":"","loading":"lazy"}]
+1c:["$","a","https://m-ets.ru/download/268504782/268504782_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504782/268504782_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504782/268504782_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1d:["$","a","https://m-ets.ru/download/268504786/268504786_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504786/268504786_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504786/268504786_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1e:["$","a","https://m-ets.ru/download/268504778/268504778_thumb_0.jpg",{"href":"https://m-ets.ru/download/268504778/268504778_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268504778/268504778_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Товарно-материальные ценности — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

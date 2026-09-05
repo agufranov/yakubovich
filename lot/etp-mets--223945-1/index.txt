@@ -1,0 +1,228 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--223945-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--223945-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--223945-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=48","children":"Липецкая обл."}]]]}],["$","h1",null,{"children":"Chevrolet Niva, 2008 года, 79,6 лс, 150000 км, полный привод"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268347211/268347211_thumb_0.jpg","alt":"Chevrolet Niva, 2008 года, 79,6 лс, 150000 км, полный привод"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268347212/268347212_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347212/268347212_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347212/268347212_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347194/268347194_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347194/268347194_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347194/268347194_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347198/268347198_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347198/268347198_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347198/268347198_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347179/268347179_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347179/268347179_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347179/268347179_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347180/268347180_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347180/268347180_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347180/268347180_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347181/268347181_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347181/268347181_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347181/268347181_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347182/268347182_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347182/268347182_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347182/268347182_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347185/268347185_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347185/268347185_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347185/268347185_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347187/268347187_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347187/268347187_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347187/268347187_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347186/268347186_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347186/268347186_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347186/268347186_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347189/268347189_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347189/268347189_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$undefined","$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268347189/268347189_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",15," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268347191/268347191_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347191/268347191_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347191/268347191_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347192/268347192_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347192/268347192_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347192/268347192_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347201/268347201_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347201/268347201_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347201/268347201_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347196/268347196_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347196/268347196_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347196/268347196_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347197/268347197_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347197/268347197_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347197/268347197_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347199/268347199_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347199/268347199_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347199/268347199_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347210/268347210_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347210/268347210_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347210/268347210_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347200/268347200_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347200/268347200_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347200/268347200_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347195/268347195_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347195/268347195_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347195/268347195_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347213/268347213_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347213/268347213_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347213/268347213_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347214/268347214_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347214/268347214_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347214/268347214_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347178/268347178_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347178/268347178_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347178/268347178_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347183/268347183_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347183/268347183_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347183/268347183_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268347193/268347193_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347193/268347193_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L1a"}],"$L1b"]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль, марка: Chevrolet, модель: Niva 212300, год изготовления: 2008, цвет: красно-коричневый металлик, VIN: X9L21230080237977, г/н: К921ЕЕ48, разрешенная максимальная масса 1850 кг, масса без нагрузки 1400 кг, вид собственности: индивидуальная."}]]}]
+1c:T836,Во избежание претензий относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - лично, либо через представителя. Участники торгов соглашаются с тем, что на момент подписания протокола о результатах торгов, приобретаемое имущество ими осмотрено, ... Показать полностью с качественными и техническими характеристиками они ознакомлены и претензий по имуществу не предъявляют. Финансовый управляющий не гарантирует отсутствие новых ограничений во время проведения торгов и заключения договора купли-продажи. Подробную информацию об ограничениях на транспортное средство можно получить на портале Госуслуг. Для проверки необходимо подать заявление в разделе «Проверка автомобиля», указав VIN, номер кузова или шасси. Ознакомиться с предметом торгов можно по адресу: Липецкая область, г. Липецк, с момента публикации сообщения о продаже имущества и до окончания приема заявок, по предварительной записи по эл. почте: arbitr.viktor@yandex.ru, либо по тел. +7 (901) 655 53 33. По Иркутскому времени (+5 МСК).14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Chevrolet",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Niva",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2008",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["150 000"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["79,6"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Полный",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["X9L21230080237977",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23939265",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Липецкой области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["09.02.2026",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["14 900 руб. (10%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Информация отсутствует",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["$1c",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Репеди Людмила Николаевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=482405958277","children":"Репеди Людмила Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","482405958277"]}],"$undefined"]}]]}],["$","tr","manager:Ярошевич Виктор Юрьевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=382705511470","children":"Ярошевич Виктор Юрьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","382705511470"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация \"ДМСО\""]}]]}]]}],["$","tr","organizer:Ярошевич Виктор Юрьевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=382705511470","children":"Ярошевич Виктор Юрьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","382705511470"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9036-12636%2F2025","children":"А36-12636/2025"}]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Липецкая область"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268347127/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf",{"href":"https://m-ets.ru/download/268347127/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение об оценке имущества должника.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268347121/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268347121/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268347123/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf",{"href":"https://m-ets.ru/download/268347123/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_автомобиля.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268347125/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268347125/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о реализации имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1d:T285f,{
+  "id": "etp-mets:223945-1",
+  "sourceCode": "etp-mets",
+  "externalId": "223945-1",
+  "sourceUrl": "https://m-ets.ru/223945-1",
+  "title": "Chevrolet Niva, 2008 года, 79,6 лс, 150000 км, полный привод",
+  "description": "Легковой автомобиль, марка: Chevrolet, модель: Niva 212300, год изготовления: 2008, цвет: красно-коричневый металлик, VIN: X9L21230080237977, г/н: К921ЕЕ48, разрешенная максимальная масса 1850 кг, масса без нагрузки 1400 кг, вид собственности: индивидуальная.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "48",
+  "address": "Липецкая область",
+  "priceStart": "149000",
+  "priceStep": "14900",
+  "deposit": "29800",
+  "currency": "RUB",
+  "publishedAt": "2026-07-28T00:00:00+03:00",
+  "biddStartAt": "2026-07-29T09:00:00+03:00",
+  "biddEndAt": "2026-09-03T09:00:00+03:00",
+  "auctionAt": "2026-09-04T11:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А36-12636/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Репеди Людмила Николаевна",
+      "inn": "482405958277",
+      "efrsbId": "bcfafe4d956e71ca6d64a677cf31384e"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Ярошевич Виктор Юрьевич",
+      "inn": "382705511470",
+      "sro": "Ассоциация \"ДМСО\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Ярошевич Виктор Юрьевич",
+      "inn": "382705511470",
+      "email": "arbitr.viktor@yandex.ru",
+      "phone": "+7 (914) 007 87 88"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268347211/268347211_thumb_0.jpg",
+    "https://m-ets.ru/download/268347212/268347212_thumb_0.jpg",
+    "https://m-ets.ru/download/268347194/268347194_thumb_0.jpg",
+    "https://m-ets.ru/download/268347198/268347198_thumb_0.jpg",
+    "https://m-ets.ru/download/268347179/268347179_thumb_0.jpg",
+    "https://m-ets.ru/download/268347180/268347180_thumb_0.jpg",
+    "https://m-ets.ru/download/268347181/268347181_thumb_0.jpg",
+    "https://m-ets.ru/download/268347182/268347182_thumb_0.jpg",
+    "https://m-ets.ru/download/268347185/268347185_thumb_0.jpg",
+    "https://m-ets.ru/download/268347187/268347187_thumb_0.jpg",
+    "https://m-ets.ru/download/268347186/268347186_thumb_0.jpg",
+    "https://m-ets.ru/download/268347189/268347189_thumb_0.jpg",
+    "https://m-ets.ru/download/268347191/268347191_thumb_0.jpg",
+    "https://m-ets.ru/download/268347192/268347192_thumb_0.jpg",
+    "https://m-ets.ru/download/268347201/268347201_thumb_0.jpg",
+    "https://m-ets.ru/download/268347196/268347196_thumb_0.jpg",
+    "https://m-ets.ru/download/268347197/268347197_thumb_0.jpg",
+    "https://m-ets.ru/download/268347199/268347199_thumb_0.jpg",
+    "https://m-ets.ru/download/268347210/268347210_thumb_0.jpg",
+    "https://m-ets.ru/download/268347200/268347200_thumb_0.jpg",
+    "https://m-ets.ru/download/268347195/268347195_thumb_0.jpg",
+    "https://m-ets.ru/download/268347213/268347213_thumb_0.jpg",
+    "https://m-ets.ru/download/268347214/268347214_thumb_0.jpg",
+    "https://m-ets.ru/download/268347178/268347178_thumb_0.jpg",
+    "https://m-ets.ru/download/268347183/268347183_thumb_0.jpg",
+    "https://m-ets.ru/download/268347193/268347193_thumb_0.jpg",
+    "https://m-ets.ru/download/268347190/268347190_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268347127/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf",
+      "name": "Решение об оценке имущества должника.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268347121/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268347123/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf",
+      "name": "Проект_договора_купли_продажи_автомобиля.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268347125/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "Положение о реализации имущества.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Chevrolet",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Niva",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2008",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "150 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "79,6",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Полный",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "X9L21230080237977",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23939265",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Липецкой области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "09.02.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "14 900 руб. (10%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Информация отсутствует",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Во избежание претензий относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - лично, либо через представителя. Участники торгов соглашаются с тем, что на момент подписания протокола о результатах торгов, приобретаемое имущество ими осмотрено, ... Показать полностью с качественными и техническими характеристиками они ознакомлены и претензий по имуществу не предъявляют. Финансовый управляющий не гарантирует отсутствие новых ограничений во время проведения торгов и заключения договора купли-продажи. Подробную информацию об ограничениях на транспортное средство можно получить на портале Госуслуг. Для проверки необходимо подать заявление в разделе «Проверка автомобиля», указав VIN, номер кузова или шасси. Ознакомиться с предметом торгов можно по адресу: Липецкая область, г. Липецк, с момента публикации сообщения о продаже имущества и до окончания приема заявок, по предварительной записи по эл. почте: arbitr.viktor@yandex.ru, либо по тел. +7 (901) 655 53 33. По Иркутскому времени (+5 МСК).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:57:13.222Z",
+  "lastSeenAt": "2026-08-31T17:57:13.222Z",
+  "contentHash": "ee9838c070ca9150d714dfc0feac56364b57c488fef53f334c50f154bc5d4bca"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1d"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"149 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"14 900 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"29 800 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"27 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"29 июл. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"3 сент. 2026 г., 09:00 (МСК)"}]],false,[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"4 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Липецкая обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/223945-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1a:["$","img",null,{"src":"https://m-ets.ru/download/268347193/268347193_thumb_0.jpg","alt":"","loading":"lazy"}]
+1b:["$","a","https://m-ets.ru/download/268347190/268347190_thumb_0.jpg",{"href":"https://m-ets.ru/download/268347190/268347190_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268347190/268347190_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Chevrolet Niva, 2008 года, 79,6 лс, 150000 км, полный привод — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

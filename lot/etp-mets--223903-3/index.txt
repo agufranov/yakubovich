@@ -1,0 +1,198 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--223903-3",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--223903-3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--223903-3","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Квартира в Сочи, 29,1 кв.м, 1 комн."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Квартира"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268343819/268343819_thumb_0.jpg","alt":"Квартира в Сочи, 29,1 кв.м, 1 комн."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268343821/268343821_thumb_0.jpg",{"href":"https://m-ets.ru/download/268343821/268343821_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268343821/268343821_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268343827/268343827_thumb_0.jpg",{"href":"https://m-ets.ru/download/268343827/268343827_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268343827/268343827_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268343823/268343823_thumb_0.jpg",{"href":"https://m-ets.ru/download/268343823/268343823_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268343823/268343823_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268343822/268343822_thumb_0.jpg",{"href":"https://m-ets.ru/download/268343822/268343822_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268343822/268343822_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268343828/268343828_thumb_0.jpg",{"href":"https://m-ets.ru/download/268343828/268343828_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268343828/268343828_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268343824/268343824_thumb_0.jpg",{"href":"https://m-ets.ru/download/268343824/268343824_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268343824/268343824_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268343826/268343826_thumb_0.jpg",{"href":"https://m-ets.ru/download/268343826/268343826_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268343826/268343826_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268343825/268343825_thumb_0.jpg",{"href":"https://m-ets.ru/download/268343825/268343825_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268343825/268343825_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"жилое помещение – 29,10 кв.м., расположенное по адресу: г. Сочи, ул. Волжская, д. 30, кв. 82, с кадастровым номером 23:49:0201018:2394"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23936072",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Краснодарского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["18.12.2024",""]}]]}],"$L11","$L12","$L13"]}]}]]}],"$undefined","$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["553 488 руб. (5%)",""]}]]}]
+12:["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: По лотам № 1 – № 4 определением Биробиджанского районного суда ЕАО от 10.06.2026 г. по делу № 4/17-126/2026 по ходатайству финансового управляющего Твердова А.Н. отменены обеспечительные меры, наложенные Приговором Биробиджанского районного суда ЕАО от 05.06.2025 г. по делу № 1-264/2025, в виде наложения ареста, т.е. на момент публикации настоящего сообщения аресты отсутствуют, однако имеются действующие ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью обеспечительные меры в виде запрета на регистрацию. Вместе с тем, в силу положений УПК РФ, не исключена вероятность принятия обеспечительных мер повторно по ходатайству сотрудников правоохранительных органов, органов принудительного исполнения либо иных уполномоченных лиц.",""]}]]}]
+19:T8cf,Ознакомление с имуществом (Лот № 1) производится по адресу: г. Биробиджан, ул. Шолом-Алейхема, 28, с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи с Денисом Петровичем по телефону: + 7 (914) 816-28-85 по местному времени (г. Биробиджан). Ознакомление с имуществом (Лот № 2) производится по адресу: г. Биробиджан, ул. Шолом-Алейхема, 24, с момента ... Показать полностью публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи с Денисом Петровичем по телефону: + 7 (914) 816-28-85 по местному времени (г. Биробиджан). Ознакомление с имуществом (Лот № 3) производится по адресу: г. Сочи, ул. Волжская, д. 30, кв. 82, с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи с Петром Петровичем по телефону: 8 (924) 152-88-88 по местному времени (МСК) в период срока представления заявок для участия в торгах. Ознакомление с имуществом (Лот № 4) производится по адресу: г. Сочи, ул. Волжская, д. 30, кв. 83, с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи с Петром Петровичем по телефону: 8 (924) 152-88-88 по местному времени (МСК) в период срока представления заявок для участия в торгах.13:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["$19",""]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ИП Бекетова Галина Моисеевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=790100450017","children":"ИП Бекетова Галина Моисеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","790100450017"]}],"$undefined"]}]]}],["$","tr","manager:Твердов Андрей Николаевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=231200742670","children":"Твердов Андрей Николаевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","231200742670"]}],["$","span",null,{"className":"muted","children":[" · ","Союз \"СРО АУ \"СТРАТЕГИЯ\""]}]]}]]}],["$","tr","organizer:ИП Твердов Андрей Николаевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=231200742670","children":"ИП Твердов Андрей Николаевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","231200742670"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9032-9858%2F2024","children":"А32-9858/2024"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Краснодарский край"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",13,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268343973/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%93.%D0%9C.%2C%2073%20%D0%BA%D0%B2..PDF",{"href":"https://m-ets.ru/download/268343973/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%93.%D0%9C.%2C%2073%20%D0%BA%D0%B2..PDF","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о порядке, об условиях и сроках реализации имущества Бекетовой Г.М., 73 кв..PDF"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268343975/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%2C%2073%20%D0%BA%D0%B2..PDF",{"href":"https://m-ets.ru/download/268343975/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%2C%2073%20%D0%BA%D0%B2..PDF","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение об оценке рыночной стоимости, 73 кв..PDF"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268343977/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%93.%D0%9C.%2C%2062%20%D0%BA%D0%B2..PDF",{"href":"https://m-ets.ru/download/268343977/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%93.%D0%9C.%2C%2062%20%D0%BA%D0%B2..PDF","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о порядке, об условиях и сроках реализации имущества Бекетовой Г.М., 62 кв..PDF"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268343979/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%2062%20%D0%BA%D0%B2.PDF",{"href":"https://m-ets.ru/download/268343979/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%2062%20%D0%BA%D0%B2.PDF","target":"_blank","rel":"noopener","children":["$L1a","$L1b"]}],"$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24"]}]]}]
+25:T36e2,{
+  "id": "etp-mets:223903-3",
+  "sourceCode": "etp-mets",
+  "externalId": "223903-3",
+  "sourceUrl": "https://m-ets.ru/223903-3",
+  "title": "Квартира в Сочи, 29,1 кв.м, 1 комн.",
+  "description": "жилое помещение – 29,10 кв.м., расположенное по адресу: г. Сочи, ул. Волжская, д. 30, кв. 82, с кадастровым номером 23:49:0201018:2394",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "36",
+  "categoryName": "Квартира",
+  "regionCode": "23",
+  "address": "Краснодарский край",
+  "priceStart": "11069760",
+  "priceStep": "553488",
+  "deposit": "1106976",
+  "currency": "RUB",
+  "publishedAt": "2026-07-27T00:00:00+03:00",
+  "biddStartAt": "2026-07-28T00:00:00+03:00",
+  "biddEndAt": "2026-09-01T23:59:00+03:00",
+  "auctionAt": "2026-09-02T15:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А32-9858/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "ИП Бекетова Галина Моисеевна",
+      "inn": "790100450017",
+      "efrsbId": "b56a3c0805dfe249fa146b4521a6408e"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Твердов Андрей Николаевич",
+      "inn": "231200742670",
+      "sro": "Союз \"СРО АУ \"СТРАТЕГИЯ\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "ИП Твердов Андрей Николаевич",
+      "inn": "231200742670",
+      "email": "an_tverdov@bk.ru",
+      "phone": "+7 (918) 008 00 40"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268343819/268343819_thumb_0.jpg",
+    "https://m-ets.ru/download/268343821/268343821_thumb_0.jpg",
+    "https://m-ets.ru/download/268343827/268343827_thumb_0.jpg",
+    "https://m-ets.ru/download/268343823/268343823_thumb_0.jpg",
+    "https://m-ets.ru/download/268343822/268343822_thumb_0.jpg",
+    "https://m-ets.ru/download/268343828/268343828_thumb_0.jpg",
+    "https://m-ets.ru/download/268343824/268343824_thumb_0.jpg",
+    "https://m-ets.ru/download/268343826/268343826_thumb_0.jpg",
+    "https://m-ets.ru/download/268343825/268343825_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268343973/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%93.%D0%9C.%2C%2073%20%D0%BA%D0%B2..PDF",
+      "name": "Положение о порядке, об условиях и сроках реализации имущества Бекетовой Г.М., 73 кв..PDF"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268343975/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%2C%2073%20%D0%BA%D0%B2..PDF",
+      "name": "Решение об оценке рыночной стоимости, 73 кв..PDF"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268343977/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%93.%D0%9C.%2C%2062%20%D0%BA%D0%B2..PDF",
+      "name": "Положение о порядке, об условиях и сроках реализации имущества Бекетовой Г.М., 62 кв..PDF"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268343979/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%2062%20%D0%BA%D0%B2.PDF",
+      "name": "Решение об оценке рыночной стоимости имущества, 62 кв.PDF"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268343981/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%93.%D0%9C.%2C%20%D0%BA%D0%B2.%2082.PDF",
+      "name": "Положение о порядке, об условиях и сроках реализации имущества Бекетовой Г.М., кв. 82.PDF"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268343983/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%BA%D0%B2.%2082.PDF",
+      "name": "Решение об оценке рыночной стоимости кв. 82.PDF"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268343985/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%93.%D0%9C.%2C%20%D0%BA%D0%B2.%2083.PDF",
+      "name": "Положение о порядке, об условиях и сроках реализации имущества Бекетовой Г.М., кв. 83.PDF"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268343987/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%2C%20%D0%BA%D0%B2.%2083.PDF",
+      "name": "Решение об оценке рыночной стоимости, кв. 83.PDF"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268343963/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268343965/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%BE%D1%82%201).docx",
+      "name": "Проект договора купли-продажи (Лот 1).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268343967/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%BE%D1%82%202).docx",
+      "name": "Проект договора купли-продажи (Лот 2).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268343969/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%BE%D1%82%203).docx",
+      "name": "Проект договора купли-продажи (Лот 3).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268343971/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%BE%D1%82%204).docx",
+      "name": "Проект договора купли-продажи (Лот 4).docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23936072",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Краснодарского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "18.12.2024",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "553 488 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: По лотам № 1 – № 4 определением Биробиджанского районного суда ЕАО от 10.06.2026 г. по делу № 4/17-126/2026 по ходатайству финансового управляющего Твердова А.Н. отменены обеспечительные меры, наложенные Приговором Биробиджанского районного суда ЕАО от 05.06.2025 г. по делу № 1-264/2025, в виде наложения ареста, т.е. на момент публикации настоящего сообщения аресты отсутствуют, однако имеются действующие ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью обеспечительные меры в виде запрета на регистрацию. Вместе с тем, в силу положений УПК РФ, не исключена вероятность принятия обеспечительных мер повторно по ходатайству сотрудников правоохранительных органов, органов принудительного исполнения либо иных уполномоченных лиц.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом (Лот № 1) производится по адресу: г. Биробиджан, ул. Шолом-Алейхема, 28, с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи с Денисом Петровичем по телефону: + 7 (914) 816-28-85 по местному времени (г. Биробиджан). Ознакомление с имуществом (Лот № 2) производится по адресу: г. Биробиджан, ул. Шолом-Алейхема, 24, с момента ... Показать полностью публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи с Денисом Петровичем по телефону: + 7 (914) 816-28-85 по местному времени (г. Биробиджан). Ознакомление с имуществом (Лот № 3) производится по адресу: г. Сочи, ул. Волжская, д. 30, кв. 82, с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи с Петром Петровичем по телефону: 8 (924) 152-88-88 по местному времени (МСК) в период срока представления заявок для участия в торгах. Ознакомление с имуществом (Лот № 4) производится по адресу: г. Сочи, ул. Волжская, д. 30, кв. 83, с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи с Петром Петровичем по телефону: 8 (924) 152-88-88 по местному времени (МСК) в период срока представления заявок для участия в торгах.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:01:05.669Z",
+  "lastSeenAt": "2026-08-31T19:01:05.669Z",
+  "contentHash": "ea1518e3edb4f01b6651cde993f520b9cf20719b4b63f9f56710af555fea23d6"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$25"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"11 069 760 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"553 488 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"1 106 976 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"26 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"28 июл. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"1 сент. 2026 г., 23:59 (МСК)"}]],false,[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"2 сент. 2026 г., 15:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/223903-3","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1a:["$","span",null,{"children":["📎 ","Решение об оценке рыночной стоимости имущества, 62 кв.PDF"]}]
+1b:["$","span",null,{"className":"size","children":"$undefined"}]
+1c:["$","a","https://m-ets.ru/download/268343981/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%93.%D0%9C.%2C%20%D0%BA%D0%B2.%2082.PDF",{"href":"https://m-ets.ru/download/268343981/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%93.%D0%9C.%2C%20%D0%BA%D0%B2.%2082.PDF","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о порядке, об условиях и сроках реализации имущества Бекетовой Г.М., кв. 82.PDF"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1d:["$","a","https://m-ets.ru/download/268343983/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%BA%D0%B2.%2082.PDF",{"href":"https://m-ets.ru/download/268343983/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%BA%D0%B2.%2082.PDF","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение об оценке рыночной стоимости кв. 82.PDF"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1e:["$","a","https://m-ets.ru/download/268343985/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%93.%D0%9C.%2C%20%D0%BA%D0%B2.%2083.PDF",{"href":"https://m-ets.ru/download/268343985/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%93.%D0%9C.%2C%20%D0%BA%D0%B2.%2083.PDF","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о порядке, об условиях и сроках реализации имущества Бекетовой Г.М., кв. 83.PDF"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1f:["$","a","https://m-ets.ru/download/268343987/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%2C%20%D0%BA%D0%B2.%2083.PDF",{"href":"https://m-ets.ru/download/268343987/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%2C%20%D0%BA%D0%B2.%2083.PDF","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение об оценке рыночной стоимости, кв. 83.PDF"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+20:["$","a","https://m-ets.ru/download/268343963/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268343963/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+21:["$","a","https://m-ets.ru/download/268343965/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%BE%D1%82%201).docx",{"href":"https://m-ets.ru/download/268343965/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%BE%D1%82%201).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи (Лот 1).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+22:["$","a","https://m-ets.ru/download/268343967/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%BE%D1%82%202).docx",{"href":"https://m-ets.ru/download/268343967/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%BE%D1%82%202).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи (Лот 2).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+23:["$","a","https://m-ets.ru/download/268343969/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%BE%D1%82%203).docx",{"href":"https://m-ets.ru/download/268343969/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%BE%D1%82%203).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи (Лот 3).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+24:["$","a","https://m-ets.ru/download/268343971/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%BE%D1%82%204).docx",{"href":"https://m-ets.ru/download/268343971/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%BE%D1%82%204).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи (Лот 4).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Квартира в Сочи, 29,1 кв.м, 1 комн. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,190 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230921-6",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230921-6","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230921-6","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=50","children":"Московская обл."}]]]}],["$","h1",null,{"children":"Земельный участок в Московской обл., 18076 кв.м"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок, площадь 18076 кв.м., кадастровый номер 50:13:0030346:29 , категория земель - земли населенных пунктов, вид разрешенного использования – под ИЖС, адрес: местоположение установлено относительно ориентира, расположенного в границах участка. Почтовый адрес ориентира: Московская область, Пушкинский район, д.Назарово, массив 23"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24391801",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Москвы",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["06.04.2026",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["2 208 900 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На момент опубликования объявления о проведении торгов по лоту №6 - обременения имеются. Имущество в составе лота №6 находится в залоге у \"Банк \"МБА-МОСКВА\" ООО (ИНН 7744001828). В связи с тем, что имущество в составе лота №6 продается в порядке, предусмотренном п. 4 ст. 110, ст. 138, ст. 139 Федерального закона «О несостоятельности (банкротстве)», право залога (ипотека) прекращается в силу закона ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью применительно к пп.4 п. ст.352 ГК РФ, абз.6 п.5 ст.18.1. Федерального закона «О несостоятельности (банкротстве)». Запись о залоге (ипотеке) подлежит погашению при осуществлении государственной регистрации перехода права собственности. Покупатель приобретает имущество без залога.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом производится в рабочие дни, в рабочие часы, в период приема заявок; непосредственный осмотр имущества производится в период приема заявок в рабочие дни, в рабочие часы по предварительной записи на осмотр (заявка на осмотр имущества подается за 2 рабочих дня до даты осмотра) по электронной почте: AgapovDE@mail.ru, тел. 8(964)514-70-51",""]}]]}]]}]}]]}],"$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КРАСНОСЕЛЬСКОЕ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7708545170","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КРАСНОСЕЛЬСКОЕ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7708545170"]}],"$undefined"]}]]}],"$L11","$L12","$L13"],"$L14"]}]}]]}],"$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","tr","manager:Агапов Данил Евгеньевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=234200444407","children":"Агапов Данил Евгеньевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","234200444407"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация СРО ОАУ \"Лидер\""]}]]}]]}]
+12:["$","tr","organizer:Агапов Данил Евгеньевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=234200444407","children":"Агапов Данил Евгеньевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","234200444407"]}],"$undefined"]}]]}]
+13:["$","tr","pledgee:ДЕПАРТАМЕНТ ГОРОДСКОГО ИМУЩЕСТВА ГОРОДА МОСКВЫ",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7705031674","children":"ДЕПАРТАМЕНТ ГОРОДСКОГО ИМУЩЕСТВА ГОРОДА МОСКВЫ"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7705031674"]}],"$undefined"]}]]}]
+14:["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-215310%2F25-164-584%D0%91","children":"А40-215310/25-164-584Б"}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Московская область"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",13,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268895485/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B5%20%D0%95%D0%93%D0%A0%D0%9D%2077%2001%200003035%202436.pdf",{"href":"https://m-ets.ru/download/268895485/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B5%20%D0%95%D0%93%D0%A0%D0%9D%2077%2001%200003035%202436.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка ие ЕГРН 77 01 0003035 2436.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268895487/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%2077%2001%200003035%202437_%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%9C%D0%91%D0%90.pdf",{"href":"https://m-ets.ru/download/268895487/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%2077%2001%200003035%202437_%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%9C%D0%91%D0%90.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка ЕГРН 77 01 0003035 2437_залог МБА.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268895489/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%2077%2001%200003035%2055_%D0%B7_%D1%83%20%D0%9B%D0%BE%D0%B1%D0%B0%D1%87%D0%B8%D0%BA%D0%B0.pdf",{"href":"https://m-ets.ru/download/268895489/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%2077%2001%200003035%2055_%D0%B7_%D1%83%20%D0%9B%D0%BE%D0%B1%D0%B0%D1%87%D0%B8%D0%BA%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка ЕГРН 77 01 0003035 55_з_у Лобачика.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268895491/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2026.pdf",{"href":"https://m-ets.ru/download/268895491/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 50 13 0030346 26.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268895493/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2027.pdf",{"href":"https://m-ets.ru/download/268895493/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2027.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 50 13 0030346 27.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268895495/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2028.pdf",{"href":"https://m-ets.ru/download/268895495/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2028.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 50 13 0030346 28.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268895497/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2029.pdf",{"href":"https://m-ets.ru/download/268895497/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2029.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 50 13 0030346 29.pdf"]}],"$L19"]}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]]}]
+20:T2a9f,{
+  "id": "etp-mets:230921-6",
+  "sourceCode": "etp-mets",
+  "externalId": "230921-6",
+  "sourceUrl": "https://m-ets.ru/230921-6",
+  "title": "Земельный участок в Московской обл., 18076 кв.м",
+  "description": "Земельный участок, площадь 18076 кв.м., кадастровый номер 50:13:0030346:29 , категория земель - земли населенных пунктов, вид разрешенного использования – под ИЖС, адрес: местоположение установлено относительно ориентира, расположенного в границах участка. Почтовый адрес ориентира: Московская область, Пушкинский район, д.Назарово, массив 23",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "50",
+  "address": "Московская область",
+  "priceStart": "44178000",
+  "priceStep": "2208900",
+  "deposit": "4417800",
+  "currency": "RUB",
+  "publishedAt": "2026-08-28T00:00:00+03:00",
+  "biddStartAt": "2026-08-31T00:00:00+03:00",
+  "biddEndAt": "2026-10-02T23:59:00+03:00",
+  "auctionAt": "2026-10-06T15:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-215310/25-164-584Б",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КРАСНОСЕЛЬСКОЕ\"",
+      "inn": "7708545170",
+      "ogrn": "1047796922381"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Агапов Данил Евгеньевич",
+      "inn": "234200444407",
+      "sro": "Ассоциация СРО ОАУ \"Лидер\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Агапов Данил Евгеньевич",
+      "inn": "234200444407",
+      "email": "agapovde@mail.ru",
+      "phone": ""
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ДЕПАРТАМЕНТ ГОРОДСКОГО ИМУЩЕСТВА ГОРОДА МОСКВЫ",
+      "inn": "7705031674"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268895485/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B5%20%D0%95%D0%93%D0%A0%D0%9D%2077%2001%200003035%202436.pdf",
+      "name": "Выписка ие ЕГРН 77 01 0003035 2436.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268895487/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%2077%2001%200003035%202437_%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%9C%D0%91%D0%90.pdf",
+      "name": "Выписка ЕГРН 77 01 0003035 2437_залог МБА.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268895489/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%2077%2001%200003035%2055_%D0%B7_%D1%83%20%D0%9B%D0%BE%D0%B1%D0%B0%D1%87%D0%B8%D0%BA%D0%B0.pdf",
+      "name": "Выписка ЕГРН 77 01 0003035 55_з_у Лобачика.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268895491/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2026.pdf",
+      "name": "Выписка из ЕГРН 50 13 0030346 26.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268895493/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2027.pdf",
+      "name": "Выписка из ЕГРН 50 13 0030346 27.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268895495/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2028.pdf",
+      "name": "Выписка из ЕГРН 50 13 0030346 28.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268895497/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2029.pdf",
+      "name": "Выписка из ЕГРН 50 13 0030346 29.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268895499/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2030.pdf",
+      "name": "Выписка из ЕГРН 50 13 0030346 30.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268895501/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2031.pdf",
+      "name": "Выписка из ЕГРН 50 13 0030346 31.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268895479/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9E%D0%9E%D0%9E%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5.%20%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%962_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%20%D0%91%D0%B0%D0%BD%D0%BA%20%D0%9C%D0%91%D0%90%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%D0%9E%D0%9E%D0%9E%2020%D0%BB.pdf",
+      "name": "Порядок продажи имущества ООО Красносельское. Редакция №2_утвержден Банк МБА Москва ООО 20л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268895481/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9E%D0%9E%D0%9E%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BE%20%D0%94%D0%93%D0%98%2014%D0%BB.pdf",
+      "name": "Положение о порядке, сроках и условиях продажи заложенного имущества ООО Красносельское_утверждено ДГИ 14л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268896746/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%8F%20%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D0%B0%D0%BC%20%E2%84%961-%E2%84%968.docx",
+      "name": "Договор о задатке для участия в торгах по лотам №1-№8.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268896748/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx",
+      "name": "проект договора купли_продажи.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24391801",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "06.04.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "2 208 900 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На момент опубликования объявления о проведении торгов по лоту №6 - обременения имеются. Имущество в составе лота №6 находится в залоге у \"Банк \"МБА-МОСКВА\" ООО (ИНН 7744001828). В связи с тем, что имущество в составе лота №6 продается в порядке, предусмотренном п. 4 ст. 110, ст. 138, ст. 139 Федерального закона «О несостоятельности (банкротстве)», право залога (ипотека) прекращается в силу закона ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью применительно к пп.4 п. ст.352 ГК РФ, абз.6 п.5 ст.18.1. Федерального закона «О несостоятельности (банкротстве)». Запись о залоге (ипотеке) подлежит погашению при осуществлении государственной регистрации перехода права собственности. Покупатель приобретает имущество без залога.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом производится в рабочие дни, в рабочие часы, в период приема заявок; непосредственный осмотр имущества производится в период приема заявок в рабочие дни, в рабочие часы по предварительной записи на осмотр (заявка на осмотр имущества подается за 2 рабочих дня до даты осмотра) по электронной почте: AgapovDE@mail.ru, тел. 8(964)514-70-51",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T20:01:16.284Z",
+  "lastSeenAt": "2026-08-31T20:01:16.284Z",
+  "contentHash": "1c92d29a23079182b2772abbfcee44dc72e62ec4f7cc51b872323ecd1cd9b275"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$20"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"44 178 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"2 208 900 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"4 417 800 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"27 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"31 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"2 окт. 2026 г., 23:59 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"27 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"6 окт. 2026 г., 15:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Московская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230921-6","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+19:["$","span",null,{"className":"size","children":"$undefined"}]
+1a:["$","a","https://m-ets.ru/download/268895499/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2030.pdf",{"href":"https://m-ets.ru/download/268895499/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2030.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 50 13 0030346 30.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1b:["$","a","https://m-ets.ru/download/268895501/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2031.pdf",{"href":"https://m-ets.ru/download/268895501/%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%95%D0%93%D0%A0%D0%9D%2050%2013%200030346%2031.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Выписка из ЕГРН 50 13 0030346 31.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1c:["$","a","https://m-ets.ru/download/268895479/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9E%D0%9E%D0%9E%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5.%20%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%962_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%20%D0%91%D0%B0%D0%BD%D0%BA%20%D0%9C%D0%91%D0%90%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%D0%9E%D0%9E%D0%9E%2020%D0%BB.pdf",{"href":"https://m-ets.ru/download/268895479/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9E%D0%9E%D0%9E%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5.%20%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%962_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%20%D0%91%D0%B0%D0%BD%D0%BA%20%D0%9C%D0%91%D0%90%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%D0%9E%D0%9E%D0%9E%2020%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Порядок продажи имущества ООО Красносельское. Редакция №2_утвержден Банк МБА Москва ООО 20л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1d:["$","a","https://m-ets.ru/download/268895481/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9E%D0%9E%D0%9E%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BE%20%D0%94%D0%93%D0%98%2014%D0%BB.pdf",{"href":"https://m-ets.ru/download/268895481/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%9E%D0%9E%D0%9E%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BE%20%D0%94%D0%93%D0%98%2014%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о порядке, сроках и условиях продажи заложенного имущества ООО Красносельское_утверждено ДГИ 14л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1e:["$","a","https://m-ets.ru/download/268896746/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%8F%20%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D0%B0%D0%BC%20%E2%84%961-%E2%84%968.docx",{"href":"https://m-ets.ru/download/268896746/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%8F%20%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D0%B0%D0%BC%20%E2%84%961-%E2%84%968.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке для участия в торгах по лотам №1-№8.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1f:["$","a","https://m-ets.ru/download/268896748/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx",{"href":"https://m-ets.ru/download/268896748/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","проект договора купли_продажи.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Московской обл., 18076 кв.м — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

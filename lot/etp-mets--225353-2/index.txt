@@ -1,0 +1,196 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--225353-2",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--225353-2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--225353-2","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=78","children":"Санкт-Петербург"}]]]}],["$","h1",null,{"children":"Требование к ООО «Речные перевозки» об оплате задолженности в размере 16 362 081,79 руб"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Задолженность юр. лиц"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Требование к ООО «Речные перевозки» (ИНН: 7839471853) об оплате задолженности в размере 16 362 081,79 руб. (подтверждено решением Арбитражного суда города Санкт-Петербурга и Ленинградской области по делу № А56-33124/2024 от 22.11.2024)"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23924937",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Санкт-Петербург и Ленинградской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["25.06.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Осмотр имущества не предусмотрен, документы в доказательство наличия права у должника на имущество могут быть переданы организатором торгов в рабочее время по адресу – г. Москва, Доброслободская ул., д. 2 или направлены посредством электронной почты по запросу претендента на участие в торгах. Вся имеющаяся информация о лоте - по ссылке: https://disk.yandex.ru/d/CbzeXQjTJpC1FQ",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 12:00 (МСК)"," —"," ","7 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"16 362 081,79 ₽"}],["$","td",null,{"children":"1 636 208,18 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 12:00 (МСК)"," —"," ","14 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"13 089 665,43 ₽"}],["$","td",null,{"children":"1 308 966,54 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 12:00 (МСК)"," —"," ","21 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"9 817 249,07 ₽"}],["$","td",null,{"children":"981 724,91 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 12:00 (МСК)"," —"," ","28 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"6 544 832,72 ₽"}],["$","td",null,{"children":"654 483,27 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["31 авг. 2026 г., 12:00 (МСК)"," —"," ","4 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"3 272 416,36 ₽"}],["$","td",null,{"children":"327 241,64 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 12:00 (МСК)"," —"," ","11 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"1 636 208,18 ₽"}],["$","td",null,{"children":"163 620,82 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 12:00 (МСК)"," —"," ","18 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"1 145 345,73 ₽"}],"$L11"]}],"$L12","$L13"]}]]}]]}],"$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","td",null,{"children":"114 534,57 ₽"}]
+12:["$","tr","8",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 12:00 (МСК)"," —"," ","25 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"654 483,27 ₽"}],["$","td",null,{"children":"65 448,33 ₽"}]]}]
+13:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["28 сент. 2026 г., 12:00 (МСК)"," —"," ","2 окт. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"18 000 ₽"}],["$","td",null,{"children":"1 800 ₽"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВОСТОЧНЫЙ ПУТЬ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=4707032646","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВОСТОЧНЫЙ ПУТЬ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","4707032646"]}],"$undefined"]}]]}],["$","tr","manager:Елясов Андрей Юрьевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=701728460942","children":"Елясов Андрей Юрьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","701728460942"]}],["$","span",null,{"className":"muted","children":[" · ","АПАУ \"Гарант\""]}]]}]]}],["$","tr","organizer:Елясов Андрей Юрьевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=701728460942","children":"Елясов Андрей Юрьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","701728460942"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9056-75407%2F2023","children":"А56-75407/2023"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Санкт-Петербург"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268718786/2026.08.18_%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20%D0%9C%D0%AD%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/268718786/2026.08.18_%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20%D0%9C%D0%AD%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","2026.08.18_Изменения торгов МЭТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268452385/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268452385/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268452387/2026.07.22_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D1%86%D0%B5%D1%81%D1%81%D0%B8%D0%B8.pdf",{"href":"https://m-ets.ru/download/268452387/2026.07.22_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D1%86%D0%B5%D1%81%D1%81%D0%B8%D0%B8.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","2026.07.22_Проект договора цессии.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+19:T1abb,{
+  "id": "etp-mets:225353-2",
+  "sourceCode": "etp-mets",
+  "externalId": "225353-2",
+  "sourceUrl": "https://m-ets.ru/225353-2",
+  "title": "Требование к ООО «Речные перевозки» об оплате задолженности в размере 16 362 081,79 руб",
+  "description": "Требование к ООО «Речные перевозки» (ИНН: 7839471853) об оплате задолженности в размере 16 362 081,79 руб. (подтверждено решением Арбитражного суда города Санкт-Петербурга и Ленинградской области по делу № А56-33124/2024 от 22.11.2024)",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "other",
+  "categoryCode": "25",
+  "categoryName": "Задолженность юр. лиц",
+  "regionCode": "78",
+  "address": "г. Санкт-Петербург",
+  "priceStart": "16362081.79",
+  "priceMin": "18000.00",
+  "deposit": "1636208.18",
+  "currency": "RUB",
+  "publishedAt": "2026-07-27T00:00:00+03:00",
+  "biddStartAt": "2026-08-03T12:00:00+03:00",
+  "biddEndAt": "2026-10-02T12:00:00+03:00",
+  "auctionAt": "2026-10-04T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А56-75407/2023",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВОСТОЧНЫЙ ПУТЬ\"",
+      "inn": "4707032646",
+      "ogrn": "1114707007733"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Елясов Андрей Юрьевич",
+      "inn": "701728460942",
+      "sro": "АПАУ \"Гарант\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Елясов Андрей Юрьевич",
+      "inn": "701728460942",
+      "email": "aelyasov@gmail.com",
+      "phone": "+7 (925) 067 52 67"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-03T12:00:00+03:00",
+      "endAt": "2026-08-07T12:00:00+03:00",
+      "price": "16362081.79",
+      "deposit": "1636208.18"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-10T12:00:00+03:00",
+      "endAt": "2026-08-14T12:00:00+03:00",
+      "price": "13089665.43",
+      "deposit": "1308966.54"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-17T12:00:00+03:00",
+      "endAt": "2026-08-21T12:00:00+03:00",
+      "price": "9817249.07",
+      "deposit": "981724.91"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-24T12:00:00+03:00",
+      "endAt": "2026-08-28T12:00:00+03:00",
+      "price": "6544832.72",
+      "deposit": "654483.27"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-31T12:00:00+03:00",
+      "endAt": "2026-09-04T12:00:00+03:00",
+      "price": "3272416.36",
+      "deposit": "327241.64"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-07T12:00:00+03:00",
+      "endAt": "2026-09-11T12:00:00+03:00",
+      "price": "1636208.18",
+      "deposit": "163620.82"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-14T12:00:00+03:00",
+      "endAt": "2026-09-18T12:00:00+03:00",
+      "price": "1145345.73",
+      "deposit": "114534.57"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-21T12:00:00+03:00",
+      "endAt": "2026-09-25T12:00:00+03:00",
+      "price": "654483.27",
+      "deposit": "65448.33"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-28T12:00:00+03:00",
+      "endAt": "2026-10-02T12:00:00+03:00",
+      "price": "18000.00",
+      "deposit": "1800.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268718786/2026.08.18_%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20%D0%9C%D0%AD%D0%A2%D0%A1.pdf",
+      "name": "2026.08.18_Изменения торгов МЭТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268452385/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268452387/2026.07.22_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D1%86%D0%B5%D1%81%D1%81%D0%B8%D0%B8.pdf",
+      "name": "2026.07.22_Проект договора цессии.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23924937",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Санкт-Петербург и Ленинградской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "25.06.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Осмотр имущества не предусмотрен, документы в доказательство наличия права у должника на имущество могут быть переданы организатором торгов в рабочее время по адресу – г. Москва, Доброслободская ул., д. 2 или направлены посредством электронной почты по запросу претендента на участие в торгах. Вся имеющаяся информация о лоте - по ссылке: https://disk.yandex.ru/d/CbzeXQjTJpC1FQ",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:37:03.930Z",
+  "lastSeenAt": "2026-08-31T19:37:03.930Z",
+  "contentHash": "4f99f8553b9781b591bd25717dfb50d4151c399a52fa3e9082be7d25c0d45c24"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"16 362 081,79 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["1 636 208,18 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 12:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[9,", до ","18 000 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"1 636 208,18 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"26 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"3 авг. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"2 окт. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"4 окт. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Санкт-Петербург"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/225353-2","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Требование к ООО «Речные перевозки» об оплате задолженности в размере 16 362 081,79 руб — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,215 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--223629-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--223629-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--223629-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=32","children":"Брянская обл."}]]]}],["$","h1",null,{"children":"BMW X1, 2011 года, 150 лс"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Состоялся"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268316509/268316509_thumb_0.jpg","alt":"BMW X1, 2011 года, 150 лс"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268316510/268316510_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316510/268316510_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316510/268316510_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316511/268316511_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316511/268316511_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316511/268316511_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316512/268316512_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316512/268316512_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316512/268316512_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316513/268316513_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316513/268316513_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316513/268316513_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316514/268316514_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316514/268316514_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316514/268316514_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316515/268316515_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316515/268316515_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316515/268316515_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316516/268316516_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316516/268316516_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316516/268316516_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316517/268316517_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316517/268316517_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316517/268316517_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316518/268316518_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316518/268316518_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316518/268316518_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316519/268316519_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316519/268316519_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316519/268316519_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316520/268316520_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316520/268316520_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316520/268316520_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],"$L11"]}],"$L12","$L13","$undefined","$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",15," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268316507/268316507_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316507/268316507_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316507/268316507_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316521/268316521_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316521/268316521_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316521/268316521_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316522/268316522_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316522/268316522_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316522/268316522_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316523/268316523_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316523/268316523_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316523/268316523_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316504/268316504_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316504/268316504_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316504/268316504_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316505/268316505_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316505/268316505_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316505/268316505_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316524/268316524_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316524/268316524_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316524/268316524_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316525/268316525_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316525/268316525_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316525/268316525_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316526/268316526_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316526/268316526_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316526/268316526_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316527/268316527_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316527/268316527_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316527/268316527_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316528/268316528_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316528/268316528_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316528/268316528_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316529/268316529_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316529/268316529_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316529/268316529_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316508/268316508_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316508/268316508_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316508/268316508_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268316530/268316530_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316530/268316530_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L19"}],"$L1a"]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Транспортное средство, модель: БМВ Х1 SDRIVE 18I, идентификационный номер (VIN): WBAVL31090VN97615, номер шасси (рамы): отсутствует, год выпуска ТС: 2011, номер кузова (кабины): WBAVL31090VN97615, цвет: черный, модель/номер двигателя: N46B20BD B789I973, ГРН: Н941СР32, ПТС: 77 УН 979301 от 25.07.2011г. Авто находится в залоге у АО «ТБанк»."}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["BMW",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["X1",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2011",""]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["150"," л.с."]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["WBAVL31090VN97615",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23916809",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Брянской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["24.03.2026",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["36 855 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Авто находится в залоге у АО «ТБанк».",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С имуществом можно ознакомиться в рабочие дни предварительно направив заявку на электронную почту uliy2005@mail.ru. 8 919 295 48 46 Анастасия.",""]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Кузьменкина Анастасия Валерьевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=325402600520","children":"Кузьменкина Анастасия Валерьевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","325402600520"]}],"$undefined"]}]]}],["$","tr","manager:Трушина Юлия Николаевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=323210567603","children":"Трушина Юлия Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","323210567603"]}],["$","span",null,{"className":"muted","children":[" · ","ПАУ ЦФО"]}]]}]]}],["$","tr","organizer:Трушина Юлия Николаевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=323210567603","children":"Трушина Юлия Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","323210567603"]}],"$undefined"]}]]}],["$","tr","pledgee:АО \"ТБАНК\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7710140679","children":"АО \"ТБАНК\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7710140679"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9009-1329%2F2026","children":"А09-1329/2026"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Брянская область"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268925018/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223629-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268925018/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223629-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 223629-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268925022/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BD%D0%B5%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%B2%D1%88%D0%B8%D0%BC%D0%B8%D1%81%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223629-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268925022/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BD%D0%B5%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%B2%D1%88%D0%B8%D0%BC%D0%B8%D1%81%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223629-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение о признании несостоявшимися торгов 223629-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268316532/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A2%D0%A1%20%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2.pdf",{"href":"https://m-ets.ru/download/268316532/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A2%D0%A1%20%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","договор купли-продажи ТС Кузьменкина ПРОЕКТ.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268316534/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F%20%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0.pdf",{"href":"https://m-ets.ru/download/268316534/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F%20%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0.pdf","target":"_blank","rel":"noopener","children":["$L1b","$L1c"]}],"$L1d"]}]]}]
+1e:T229a,{
+  "id": "etp-mets:223629-1",
+  "sourceCode": "etp-mets",
+  "externalId": "223629-1",
+  "sourceUrl": "https://m-ets.ru/223629-1",
+  "title": "BMW X1, 2011 года, 150 лс",
+  "description": "Транспортное средство, модель: БМВ Х1 SDRIVE 18I, идентификационный номер (VIN): WBAVL31090VN97615, номер шасси (рамы): отсутствует, год выпуска ТС: 2011, номер кузова (кабины): WBAVL31090VN97615, цвет: черный, модель/номер двигателя: N46B20BD B789I973, ГРН: Н941СР32, ПТС: 77 УН 979301 от 25.07.2011г. Авто находится в залоге у АО «ТБанк».",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "finished",
+  "statusRaw": "Торги завершены",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "32",
+  "address": "Брянская область",
+  "priceStart": "737100",
+  "priceStep": "36855",
+  "deposit": "73710",
+  "currency": "RUB",
+  "publishedAt": "2026-07-26T00:00:00+03:00",
+  "biddStartAt": "2026-07-27T10:00:00+03:00",
+  "biddEndAt": "2026-08-31T10:00:00+03:00",
+  "auctionAt": "2026-09-04T13:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А09-1329/2026",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Кузьменкина Анастасия Валерьевна",
+      "inn": "325402600520",
+      "efrsbId": "b1438a145dc3bcbaf16458006b08e01a"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Трушина Юлия Николаевна",
+      "inn": "323210567603",
+      "sro": "ПАУ ЦФО"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Трушина Юлия Николаевна",
+      "inn": "323210567603",
+      "email": "mpnujul@mail.ru",
+      "phone": "+7 (903) 819 50 91"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "АО \"ТБАНК\"",
+      "inn": "7710140679"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268316509/268316509_thumb_0.jpg",
+    "https://m-ets.ru/download/268316510/268316510_thumb_0.jpg",
+    "https://m-ets.ru/download/268316511/268316511_thumb_0.jpg",
+    "https://m-ets.ru/download/268316512/268316512_thumb_0.jpg",
+    "https://m-ets.ru/download/268316513/268316513_thumb_0.jpg",
+    "https://m-ets.ru/download/268316514/268316514_thumb_0.jpg",
+    "https://m-ets.ru/download/268316515/268316515_thumb_0.jpg",
+    "https://m-ets.ru/download/268316516/268316516_thumb_0.jpg",
+    "https://m-ets.ru/download/268316517/268316517_thumb_0.jpg",
+    "https://m-ets.ru/download/268316518/268316518_thumb_0.jpg",
+    "https://m-ets.ru/download/268316519/268316519_thumb_0.jpg",
+    "https://m-ets.ru/download/268316520/268316520_thumb_0.jpg",
+    "https://m-ets.ru/download/268316507/268316507_thumb_0.jpg",
+    "https://m-ets.ru/download/268316521/268316521_thumb_0.jpg",
+    "https://m-ets.ru/download/268316522/268316522_thumb_0.jpg",
+    "https://m-ets.ru/download/268316523/268316523_thumb_0.jpg",
+    "https://m-ets.ru/download/268316504/268316504_thumb_0.jpg",
+    "https://m-ets.ru/download/268316505/268316505_thumb_0.jpg",
+    "https://m-ets.ru/download/268316524/268316524_thumb_0.jpg",
+    "https://m-ets.ru/download/268316525/268316525_thumb_0.jpg",
+    "https://m-ets.ru/download/268316526/268316526_thumb_0.jpg",
+    "https://m-ets.ru/download/268316527/268316527_thumb_0.jpg",
+    "https://m-ets.ru/download/268316528/268316528_thumb_0.jpg",
+    "https://m-ets.ru/download/268316529/268316529_thumb_0.jpg",
+    "https://m-ets.ru/download/268316508/268316508_thumb_0.jpg",
+    "https://m-ets.ru/download/268316530/268316530_thumb_0.jpg",
+    "https://m-ets.ru/download/268316531/268316531_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268925018/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223629-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Протокол определения участников торгов 223629-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268925022/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%BD%D0%B5%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%B2%D1%88%D0%B8%D0%BC%D0%B8%D1%81%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223629-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Решение о признании несостоявшимися торгов 223629-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268316532/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A2%D0%A1%20%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2.pdf",
+      "name": "договор купли-продажи ТС Кузьменкина ПРОЕКТ.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268316534/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F%20%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0.pdf",
+      "name": "Положение о торгах_Кузьменкина Анастасия Валерьевна.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268316536/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9E%20%D0%97%D0%90%D0%94%D0%90%D0%A2%D0%9A%D0%95%20%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%D0%B0.pdf",
+      "name": "ДОГОВОР О ЗАДАТКЕ Кузьменкина.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "BMW",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "X1",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2011",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "150",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "WBAVL31090VN97615",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23916809",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Брянской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "24.03.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "36 855 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Авто находится в залоге у АО «ТБанк».",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С имуществом можно ознакомиться в рабочие дни предварительно направив заявку на электронную почту uliy2005@mail.ru. 8 919 295 48 46 Анастасия.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:00:10.555Z",
+  "lastSeenAt": "2026-08-31T19:00:10.555Z",
+  "contentHash": "93f79ac97897e59893860e47bbd72d666c2d1e46ecd3ace2f70210a672e4ce69"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1e"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"737 100 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"36 855 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"73 710 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 июл. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"31 авг. 2026 г., 10:00 (МСК)"}]],false,[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"4 сент. 2026 г., 13:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Брянская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/223629-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+19:["$","img",null,{"src":"https://m-ets.ru/download/268316530/268316530_thumb_0.jpg","alt":"","loading":"lazy"}]
+1a:["$","a","https://m-ets.ru/download/268316531/268316531_thumb_0.jpg",{"href":"https://m-ets.ru/download/268316531/268316531_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268316531/268316531_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1b:["$","span",null,{"children":["📎 ","Положение о торгах_Кузьменкина Анастасия Валерьевна.pdf"]}]
+1c:["$","span",null,{"className":"size","children":"$undefined"}]
+1d:["$","a","https://m-ets.ru/download/268316536/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9E%20%D0%97%D0%90%D0%94%D0%90%D0%A2%D0%9A%D0%95%20%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%D0%B0.pdf",{"href":"https://m-ets.ru/download/268316536/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9E%20%D0%97%D0%90%D0%94%D0%90%D0%A2%D0%9A%D0%95%20%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДОГОВОР О ЗАДАТКЕ Кузьменкина.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"BMW X1, 2011 года, 150 лс — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

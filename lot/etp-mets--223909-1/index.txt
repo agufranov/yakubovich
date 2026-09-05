@@ -1,0 +1,237 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--223909-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--223909-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--223909-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Lada Vesta, 2019 года, 106 лс, 127134 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268344160/268344160_thumb_0.jpg","alt":"Lada Vesta, 2019 года, 106 лс, 127134 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268344163/268344163_thumb_0.jpg",{"href":"https://m-ets.ru/download/268344163/268344163_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268344163/268344163_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268344169/268344169_thumb_0.jpg",{"href":"https://m-ets.ru/download/268344169/268344169_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268344169/268344169_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268344166/268344166_thumb_0.jpg",{"href":"https://m-ets.ru/download/268344166/268344166_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268344166/268344166_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268344168/268344168_thumb_0.jpg",{"href":"https://m-ets.ru/download/268344168/268344168_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268344168/268344168_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268344171/268344171_thumb_0.jpg",{"href":"https://m-ets.ru/download/268344171/268344171_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268344171/268344171_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268344159/268344159_thumb_0.jpg",{"href":"https://m-ets.ru/download/268344159/268344159_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268344159/268344159_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268344165/268344165_thumb_0.jpg",{"href":"https://m-ets.ru/download/268344165/268344165_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268344165/268344165_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268344172/268344172_thumb_0.jpg",{"href":"https://m-ets.ru/download/268344172/268344172_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268344172/268344172_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268344170/268344170_thumb_0.jpg",{"href":"https://m-ets.ru/download/268344170/268344170_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268344170/268344170_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268344162/268344162_thumb_0.jpg",{"href":"https://m-ets.ru/download/268344162/268344162_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268344162/268344162_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268344164/268344164_thumb_0.jpg",{"href":"https://m-ets.ru/download/268344164/268344164_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268344164/268344164_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",2," ","фотографии"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268344173/268344173_thumb_0.jpg",{"href":"https://m-ets.ru/download/268344173/268344173_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268344173/268344173_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268344161/268344161_thumb_0.jpg",{"href":"https://m-ets.ru/download/268344161/268344161_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268344161/268344161_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"транспортное средство – легковой автомобиль марка/модель – Lada (ВАЗ) Vesta, год выпуска – 2019, VIN – XTAGFL110LY390222"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Lada (ВАЗ)",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Vesta",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2019",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["127 134"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["106"," л.с."]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XTAGFL110LY390222",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23936685",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Краснодарского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["24.01.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом по адресу: Краснодарский край, г. Армавир, пер. Новороссийский, д. 27, в сроки и время согласованные с финансовым управляющим.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["28 авг. 2026 г., 09:00 (МСК)"," —"," ","1 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"680 400 ₽"}],["$","td",null,{"children":"68 040 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 00:00 (МСК)"," —"," ","6 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"646 380 ₽"}],["$","td",null,{"children":"64 638 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 00:00 (МСК)"," —"," ","11 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"612 360 ₽"}],["$","td",null,{"children":"61 236 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["12 сент. 2026 г., 00:00 (МСК)"," —"," ","16 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"578 340 ₽"}],["$","td",null,{"children":"57 834 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 00:00 (МСК)"," —"," ","21 сент. 2026 г., 18:00 (МСК)"]}],["$","td",null,{"children":"544 320 ₽"}],["$","td",null,{"children":"54 432 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Горбунов Дмитрий Александрович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=237205100740","children":"Горбунов Дмитрий Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","237205100740"]}],"$undefined"]}]]}],["$","tr","manager:Москалев Виктор Анатольевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=230209872953","children":"Москалев Виктор Анатольевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","230209872953"]}],["$","span",null,{"className":"muted","children":[" · ","НП СОПАУ \"Альянс управляющих\""]}]]}]]}],["$","tr","organizer:Москалев Виктор Анатольевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=230209872953","children":"Москалев Виктор Анатольевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","230209872953"]}],"$undefined"]}]]}],["$","tr","pledgee:АО \"ТБАНК\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7710140679","children":"АО \"ТБАНК\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7710140679"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9032-63009%2F2024","children":"А32-63009/2024"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Краснодарский край"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268344190/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BB%D0%BE%D1%82%201.pdf",{"href":"https://m-ets.ru/download/268344190/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BB%D0%BE%D1%82%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора лот 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268344192/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%BB%D0%BE%D1%82%201.pdf",{"href":"https://m-ets.ru/download/268344192/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%BB%D0%BE%D1%82%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_Договора_о_задатке лот 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T1be6,{
+  "id": "etp-mets:223909-1",
+  "sourceCode": "etp-mets",
+  "externalId": "223909-1",
+  "sourceUrl": "https://m-ets.ru/223909-1",
+  "title": "Lada Vesta, 2019 года, 106 лс, 127134 км",
+  "description": "транспортное средство – легковой автомобиль марка/модель – Lada (ВАЗ) Vesta, год выпуска – 2019, VIN – XTAGFL110LY390222",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "23",
+  "address": "Краснодарский край",
+  "priceStart": "680400",
+  "priceMin": "544320.00",
+  "deposit": "68040.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-27T00:00:00+03:00",
+  "biddStartAt": "2026-08-28T09:00:00+03:00",
+  "biddEndAt": "2026-09-21T18:00:00+03:00",
+  "auctionAt": "2026-09-22T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А32-63009/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Горбунов Дмитрий Александрович",
+      "inn": "237205100740",
+      "efrsbId": "09c9f8c5a8e44b1be8c42a121fdb134c"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Москалев Виктор Анатольевич",
+      "inn": "230209872953",
+      "sro": "НП СОПАУ \"Альянс управляющих\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Москалев Виктор Анатольевич",
+      "inn": "230209872953",
+      "email": "moskalev_viktor@mail.ru",
+      "phone": "+7 (928) 666 81 84"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "АО \"ТБАНК\"",
+      "inn": "7710140679"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-28T09:00:00+03:00",
+      "endAt": "2026-09-01T23:59:00+03:00",
+      "price": "680400.00",
+      "deposit": "68040.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-02T00:00:00+03:00",
+      "endAt": "2026-09-06T23:59:00+03:00",
+      "price": "646380.00",
+      "deposit": "64638.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-07T00:00:00+03:00",
+      "endAt": "2026-09-11T23:59:00+03:00",
+      "price": "612360.00",
+      "deposit": "61236.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-12T00:00:00+03:00",
+      "endAt": "2026-09-16T23:59:00+03:00",
+      "price": "578340.00",
+      "deposit": "57834.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-17T00:00:00+03:00",
+      "endAt": "2026-09-21T18:00:00+03:00",
+      "price": "544320.00",
+      "deposit": "54432.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268344160/268344160_thumb_0.jpg",
+    "https://m-ets.ru/download/268344163/268344163_thumb_0.jpg",
+    "https://m-ets.ru/download/268344169/268344169_thumb_0.jpg",
+    "https://m-ets.ru/download/268344166/268344166_thumb_0.jpg",
+    "https://m-ets.ru/download/268344168/268344168_thumb_0.jpg",
+    "https://m-ets.ru/download/268344171/268344171_thumb_0.jpg",
+    "https://m-ets.ru/download/268344159/268344159_thumb_0.jpg",
+    "https://m-ets.ru/download/268344165/268344165_thumb_0.jpg",
+    "https://m-ets.ru/download/268344172/268344172_thumb_0.jpg",
+    "https://m-ets.ru/download/268344170/268344170_thumb_0.jpg",
+    "https://m-ets.ru/download/268344162/268344162_thumb_0.jpg",
+    "https://m-ets.ru/download/268344164/268344164_thumb_0.jpg",
+    "https://m-ets.ru/download/268344173/268344173_thumb_0.jpg",
+    "https://m-ets.ru/download/268344161/268344161_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268344190/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BB%D0%BE%D1%82%201.pdf",
+      "name": "Проект_договора лот 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268344192/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%BB%D0%BE%D1%82%201.pdf",
+      "name": "Проект_Договора_о_задатке лот 1.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Lada (ВАЗ)",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Vesta",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2019",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "127 134",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "106",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XTAGFL110LY390222",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23936685",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Краснодарского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "24.01.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом по адресу: Краснодарский край, г. Армавир, пер. Новороссийский, д. 27, в сроки и время согласованные с финансовым управляющим.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:57:01.396Z",
+  "lastSeenAt": "2026-08-31T17:57:01.396Z",
+  "contentHash": "69baf4aec0fb17a3af5352d0d4de5e55a55cdfc7f05b73f7adbbe9ef07d71a84"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"646 380 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["612 360 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[3,", до ","544 320 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"680 400 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"68 040 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"26 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"28 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 18:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"15 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"22 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/223909-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Lada Vesta, 2019 года, 106 лс, 127134 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

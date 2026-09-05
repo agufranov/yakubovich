@@ -1,0 +1,182 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229237-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229237-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229237-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=50","children":"Московская обл."}]]]}],["$","h1",null,{"children":"Дом 103,3 кв.м. и земельный участок 605 кв.м. в Московской обл."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Жилой дом "}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268768905/268768905_thumb_0.jpg","alt":"Дом 103,3 кв.м. и земельный участок 605 кв.м. в Московской обл."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268768887/268768887_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768887/268768887_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768887/268768887_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768890/268768890_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768890/268768890_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768890/268768890_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768880/268768880_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768880/268768880_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768880/268768880_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768881/268768881_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768881/268768881_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768881/268768881_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768906/268768906_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768906/268768906_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768906/268768906_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768888/268768888_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768888/268768888_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768888/268768888_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768907/268768907_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768907/268768907_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768907/268768907_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768909/268768909_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768909/268768909_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768909/268768909_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768882/268768882_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768882/268768882_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768882/268768882_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768903/268768903_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768903/268768903_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768903/268768903_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768904/268768904_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768904/268768904_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$undefined","$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268768904/268768904_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",17," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268768891/268768891_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768891/268768891_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768891/268768891_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768892/268768892_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768892/268768892_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768892/268768892_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768894/268768894_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768894/268768894_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768894/268768894_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768893/268768893_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768893/268768893_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768893/268768893_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768889/268768889_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768889/268768889_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768889/268768889_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768895/268768895_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768895/268768895_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768895/268768895_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768883/268768883_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768883/268768883_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768883/268768883_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768896/268768896_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768896/268768896_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768896/268768896_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768897/268768897_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768897/268768897_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768897/268768897_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768898/268768898_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768898/268768898_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768898/268768898_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768899/268768899_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768899/268768899_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768899/268768899_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768900/268768900_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768900/268768900_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768900/268768900_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768901/268768901_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768901/268768901_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768901/268768901_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268768902/268768902_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768902/268768902_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L1a"}],"$L1b","$L1c","$L1d"]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Жилой дом, дача, площадь: 103,3кв.м., кадастровый номер: 50:23:0050573:2237 , земельный участок , площадь: 605кв.м., кадастровый номер: 50:23:0050573:1332"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24286340",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Республики Крым",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["19.01.2026",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["208 260 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге в пользу ПАО СБЕРБАНК, (ИНН 7707083893 ) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Московская область, г. Раменское, ул. Центральная, 2/бн, предварительно согласовав время с Финансовым управляющим по тел. +79128006642, либо путем направления запроса на электронную почту trifonova-a-a@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, ... Показать полностью относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Прокопенко Дмитрий Владимирович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=910105076632","children":"Прокопенко Дмитрий Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","910105076632"]}],"$undefined"]}]]}],["$","tr","manager:Трифонова Анастасия Андреевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=452403271240","children":"Трифонова Анастасия Андреевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","452403271240"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:ТРИФОНОВА АНАСТАСИЯ АНДРЕЕВНА",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=452403271240","children":"ТРИФОНОВА АНАСТАСИЯ АНДРЕЕВНА"}],["$","span",null,{"className":"muted","children":[" · ИНН ","452403271240"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9083-25110%2F2025","children":"А83-25110/2025"}]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Московская область"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268768915/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC.docx",{"href":"https://m-ets.ru/download/268768915/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП недвиж с залогом.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268768917/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE_%D1%84%D1%83.pdf",{"href":"https://m-ets.ru/download/268768917/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE_%D1%84%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","положение_Прокопенко_фу.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268768973/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268768973/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268768975/%D0%A4%D0%9E%D0%A2%D0%9E.pdf",{"href":"https://m-ets.ru/download/268768975/%D0%A4%D0%9E%D0%A2%D0%9E.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ФОТО.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1e:T213c,{
+  "id": "etp-mets:229237-1",
+  "sourceCode": "etp-mets",
+  "externalId": "229237-1",
+  "sourceUrl": "https://m-ets.ru/229237-1",
+  "title": "Дом 103,3 кв.м. и земельный участок 605 кв.м. в Московской обл.",
+  "description": "Жилой дом, дача, площадь: 103,3кв.м., кадастровый номер: 50:23:0050573:2237 , земельный участок , площадь: 605кв.м., кадастровый номер: 50:23:0050573:1332",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "34",
+  "categoryName": "Жилой дом ",
+  "regionCode": "50",
+  "address": "Московская область",
+  "priceStart": "4165200",
+  "priceStep": "208260",
+  "deposit": "416520",
+  "currency": "RUB",
+  "publishedAt": "2026-08-21T00:00:00+03:00",
+  "biddStartAt": "2026-08-27T09:00:00+03:00",
+  "biddEndAt": "2026-10-01T09:00:00+03:00",
+  "auctionAt": "2026-10-01T11:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А83-25110/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Прокопенко Дмитрий Владимирович",
+      "inn": "910105076632",
+      "efrsbId": "31daa9a428690a9ab4546b09ac3c8e0d"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Трифонова Анастасия Андреевна",
+      "inn": "452403271240",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "ТРИФОНОВА АНАСТАСИЯ АНДРЕЕВНА",
+      "inn": "452403271240",
+      "email": "trifonova-a-a@mail.ru",
+      "phone": "+7 (912) 800 66 42"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268768905/268768905_thumb_0.jpg",
+    "https://m-ets.ru/download/268768887/268768887_thumb_0.jpg",
+    "https://m-ets.ru/download/268768890/268768890_thumb_0.jpg",
+    "https://m-ets.ru/download/268768880/268768880_thumb_0.jpg",
+    "https://m-ets.ru/download/268768881/268768881_thumb_0.jpg",
+    "https://m-ets.ru/download/268768906/268768906_thumb_0.jpg",
+    "https://m-ets.ru/download/268768888/268768888_thumb_0.jpg",
+    "https://m-ets.ru/download/268768907/268768907_thumb_0.jpg",
+    "https://m-ets.ru/download/268768909/268768909_thumb_0.jpg",
+    "https://m-ets.ru/download/268768882/268768882_thumb_0.jpg",
+    "https://m-ets.ru/download/268768903/268768903_thumb_0.jpg",
+    "https://m-ets.ru/download/268768904/268768904_thumb_0.jpg",
+    "https://m-ets.ru/download/268768891/268768891_thumb_0.jpg",
+    "https://m-ets.ru/download/268768892/268768892_thumb_0.jpg",
+    "https://m-ets.ru/download/268768894/268768894_thumb_0.jpg",
+    "https://m-ets.ru/download/268768893/268768893_thumb_0.jpg",
+    "https://m-ets.ru/download/268768889/268768889_thumb_0.jpg",
+    "https://m-ets.ru/download/268768895/268768895_thumb_0.jpg",
+    "https://m-ets.ru/download/268768883/268768883_thumb_0.jpg",
+    "https://m-ets.ru/download/268768896/268768896_thumb_0.jpg",
+    "https://m-ets.ru/download/268768897/268768897_thumb_0.jpg",
+    "https://m-ets.ru/download/268768898/268768898_thumb_0.jpg",
+    "https://m-ets.ru/download/268768899/268768899_thumb_0.jpg",
+    "https://m-ets.ru/download/268768900/268768900_thumb_0.jpg",
+    "https://m-ets.ru/download/268768901/268768901_thumb_0.jpg",
+    "https://m-ets.ru/download/268768902/268768902_thumb_0.jpg",
+    "https://m-ets.ru/download/268768886/268768886_thumb_0.jpg",
+    "https://m-ets.ru/download/268768885/268768885_thumb_0.jpg",
+    "https://m-ets.ru/download/268768884/268768884_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268768915/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC.docx",
+      "name": "Проект ДКП недвиж с залогом.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268768917/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE_%D1%84%D1%83.pdf",
+      "name": "положение_Прокопенко_фу.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268768973/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268768975/%D0%A4%D0%9E%D0%A2%D0%9E.pdf",
+      "name": "ФОТО.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24286340",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Республики Крым",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "19.01.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "208 260 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге в пользу ПАО СБЕРБАНК, (ИНН 7707083893 ) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Московская область, г. Раменское, ул. Центральная, 2/бн, предварительно согласовав время с Финансовым управляющим по тел. +79128006642, либо путем направления запроса на электронную почту trifonova-a-a@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, ... Показать полностью относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:18:56.027Z",
+  "lastSeenAt": "2026-08-31T19:18:56.027Z",
+  "contentHash": "17449dda34468726689af907ca1876183670ae72dacfde3e318ec26fb871aea2"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1e"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"4 165 200 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"208 260 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"416 520 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"20 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"1 окт. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"25 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"1 окт. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Московская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229237-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1a:["$","img",null,{"src":"https://m-ets.ru/download/268768902/268768902_thumb_0.jpg","alt":"","loading":"lazy"}]
+1b:["$","a","https://m-ets.ru/download/268768886/268768886_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768886/268768886_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768886/268768886_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1c:["$","a","https://m-ets.ru/download/268768885/268768885_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768885/268768885_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768885/268768885_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1d:["$","a","https://m-ets.ru/download/268768884/268768884_thumb_0.jpg",{"href":"https://m-ets.ru/download/268768884/268768884_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268768884/268768884_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Дом 103,3 кв.м. и земельный участок 605 кв.м. в Московской обл. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

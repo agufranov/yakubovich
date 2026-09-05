@@ -1,0 +1,206 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--221299-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--221299-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--221299-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=24","children":"Красноярский край"}]]]}],["$","h1",null,{"children":"Земельный участок в Красноярском крае, 1000 +/- 32 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок по адресу Красноярский край, Емельяновский район, трапеция 4452, контур 24, площадью 1000 +/- 32 кв. м., кадастровый номер 24:11:0310203:222 . Разрешенное использование объекта: для дачного строительства"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23759739",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Красноярского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["14.11.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Информация отсутствует",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с документами об имуществе и о торгах осуществляется в период приема заявок в рабочие дни с 11.00 ч. до 18.00 ч. (время местное) по адресу: г. Красноярск, ул. Карла Маркса, 73А, 4-й этаж, каб. 4-02 по предварительной (не менее чем за 24 часа) записи по тел. +7 (962) 078 14 79 или путем запроса цифровых копий по адресу электронной почты: alekseeva_olesya87@mail.ru. По вопросу осмотра имущества ... Показать полностью обращаться по тел. +7 (962) 078 14 79 или по e-mail: alekseeva_olesya87@mail.ru. Осмотр имущества осуществляется в рабочие дни по предварительной записи, осуществляемой не позднее чем за 5 рабочих дней до осмотра.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["17 июл. 2026 г., 10:00 (МСК)"," —"," ","22 июл. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"122 400 ₽"}],["$","td",null,{"children":"12 240 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["22 июл. 2026 г., 10:00 (МСК)"," —"," ","27 июл. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"110 160 ₽"}],["$","td",null,{"children":"11 016 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["27 июл. 2026 г., 10:00 (МСК)"," —"," ","1 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"97 920 ₽"}],["$","td",null,{"children":"9 792 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["1 авг. 2026 г., 10:00 (МСК)"," —"," ","6 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"85 680 ₽"}],["$","td",null,{"children":"8 568 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["6 авг. 2026 г., 10:00 (МСК)"," —"," ","11 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"73 440 ₽"}],["$","td",null,{"children":"7 344 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["11 авг. 2026 г., 10:00 (МСК)"," —"," ","16 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"61 200 ₽"}],["$","td",null,{"children":"6 120 ₽"}]]}],["$","tr","7",{"className":"","children":["$L11","$L12","$L13"]}],"$L14","$L15","$L16"]}]]}]]}],"$L17","$L18","$L19",false,"$L1a"]}],"$L1b"]}]]}]
+11:["$","td",null,{"children":["16 авг. 2026 г., 10:00 (МСК)"," —"," ","21 авг. 2026 г., 10:00 (МСК)"]}]
+12:["$","td",null,{"children":"48 960 ₽"}]
+13:["$","td",null,{"children":"4 896 ₽"}]
+14:["$","tr","8",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 10:00 (МСК)"," —"," ","26 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"36 720 ₽"}],["$","td",null,{"children":"3 672 ₽"}]]}]
+15:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 10:00 (МСК)"," —"," ","31 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"24 480 ₽"}],["$","td",null,{"children":"2 448 ₽"}]]}]
+16:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["31 авг. 2026 г., 10:00 (МСК)"," —"," ","5 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"12 240 ₽"}],["$","td",null,{"children":"1 224 ₽"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Володин Станислав Валерьевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=246518890442","children":"Володин Станислав Валерьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","246518890442"]}],"$undefined"]}]]}],["$","tr","manager:Алексеева Олеся Анатольевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=246517010060","children":"Алексеева Олеся Анатольевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","246517010060"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация \"ДМСО\""]}]]}]]}],["$","tr","organizer:Алексеева Олеся Анатольевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=246517010060","children":"Алексеева Олеся Анатольевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","246517010060"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9033-30561%2F2024","children":"А33-30561/2024"}]}]]}]]}]}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Красноярский край"}]]}]
+19:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/267221403/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5..pdf",{"href":"https://m-ets.ru/download/267221403/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5..pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о продаже..pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267221405/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx",{"href":"https://m-ets.ru/download/267221405/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268138132/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268138132/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1c:T1c30,{
+  "id": "etp-mets:221299-1",
+  "sourceCode": "etp-mets",
+  "externalId": "221299-1",
+  "sourceUrl": "https://m-ets.ru/221299-1",
+  "title": "Земельный участок в Красноярском крае, 1000 +/- 32 кв.м.",
+  "description": "Земельный участок по адресу Красноярский край, Емельяновский район, трапеция 4452, контур 24, площадью 1000 +/- 32 кв. м., кадастровый номер 24:11:0310203:222 . Разрешенное использование объекта: для дачного строительства",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "24",
+  "address": "Красноярский край",
+  "priceStart": "122400",
+  "priceMin": "12240.00",
+  "deposit": "12240.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-15T00:00:00+03:00",
+  "biddStartAt": "2026-07-17T10:00:00+03:00",
+  "biddEndAt": "2026-09-05T10:00:00+03:00",
+  "auctionAt": "2026-09-05T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А33-30561/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Володин Станислав Валерьевич",
+      "inn": "246518890442",
+      "efrsbId": "f0ed53ee99d95f082ac46efaf0b7ccba"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Алексеева Олеся Анатольевна",
+      "inn": "246517010060",
+      "sro": "Ассоциация \"ДМСО\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Алексеева Олеся Анатольевна",
+      "inn": "246517010060",
+      "email": "alekseeva_olesya87@mail.ru",
+      "phone": "+7 (962) 065 52 30"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-17T10:00:00+03:00",
+      "endAt": "2026-07-22T10:00:00+03:00",
+      "price": "122400.00",
+      "deposit": "12240.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-22T10:00:00+03:00",
+      "endAt": "2026-07-27T10:00:00+03:00",
+      "price": "110160.00",
+      "deposit": "11016.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-07-27T10:00:00+03:00",
+      "endAt": "2026-08-01T10:00:00+03:00",
+      "price": "97920.00",
+      "deposit": "9792.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-01T10:00:00+03:00",
+      "endAt": "2026-08-06T10:00:00+03:00",
+      "price": "85680.00",
+      "deposit": "8568.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-06T10:00:00+03:00",
+      "endAt": "2026-08-11T10:00:00+03:00",
+      "price": "73440.00",
+      "deposit": "7344.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-11T10:00:00+03:00",
+      "endAt": "2026-08-16T10:00:00+03:00",
+      "price": "61200.00",
+      "deposit": "6120.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-16T10:00:00+03:00",
+      "endAt": "2026-08-21T10:00:00+03:00",
+      "price": "48960.00",
+      "deposit": "4896.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-21T10:00:00+03:00",
+      "endAt": "2026-08-26T10:00:00+03:00",
+      "price": "36720.00",
+      "deposit": "3672.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-08-26T10:00:00+03:00",
+      "endAt": "2026-08-31T10:00:00+03:00",
+      "price": "24480.00",
+      "deposit": "2448.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-08-31T10:00:00+03:00",
+      "endAt": "2026-09-05T10:00:00+03:00",
+      "price": "12240.00",
+      "deposit": "1224.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/267221403/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5..pdf",
+      "name": "Положение о продаже..pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267221405/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx",
+      "name": "Проект договора купли-продажи.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268138132/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23759739",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Красноярского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "14.11.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Информация отсутствует",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с документами об имуществе и о торгах осуществляется в период приема заявок в рабочие дни с 11.00 ч. до 18.00 ч. (время местное) по адресу: г. Красноярск, ул. Карла Маркса, 73А, 4-й этаж, каб. 4-02 по предварительной (не менее чем за 24 часа) записи по тел. +7 (962) 078 14 79 или путем запроса цифровых копий по адресу электронной почты: alekseeva_olesya87@mail.ru. По вопросу осмотра имущества ... Показать полностью обращаться по тел. +7 (962) 078 14 79 или по e-mail: alekseeva_olesya87@mail.ru. Осмотр имущества осуществляется в рабочие дни по предварительной записи, осуществляемой не позднее чем за 5 рабочих дней до осмотра.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:44:59.474Z",
+  "lastSeenAt": "2026-08-31T17:44:59.474Z",
+  "contentHash": "f00c1aa9540588737e09b218ef9cf9944827b68ca2dc50e73afc60223ad2accc"
+}1a:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1c"}]]}]
+1b:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"122 400 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[10,", до ","12 240 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"12 240 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"14 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"17 июл. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"5 сент. 2026 г., 10:00 (МСК)"}]],false,[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"5 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Красноярский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/221299-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Красноярском крае, 1000 +/- 32 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

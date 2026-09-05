@@ -1,0 +1,169 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--228881-25",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--228881-25","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--228881-25","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=38","children":"Иркутская обл."}]]]}],["$","h1",null,{"children":"Бульдозер SD16, 2008 года"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Коммерческий транспорт и спецтехника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Бульдозер SD16, 2008 г.в., зав.№ 109009, ГРЗ 4447 РТ 38. Техническое состояние: Металлолом (рама). Ключи и оригиналы документов на данное имущество управляющему Должником не переданы."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2008",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24218565",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Иркутской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["10.06.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Информация отсутствует",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление: по месту нахождения имущества (г.Братск, Иркутская область) с 10:00ч. (мск.) 21.08.2026г. по 10:00ч. (мск.) 15.09.2026г. (включительно) в рабочие дни по предварительной договоренности по тел. +7-908-641-29-01, e-mail: aysazonenko@mail.ru.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 10:00 (МСК)"," —"," ","26 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"40 500 ₽"}],["$","td",null,{"children":"4 050 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 10:00 (МСК)"," —"," ","31 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"33 750 ₽"}],["$","td",null,{"children":"3 375 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["31 авг. 2026 г., 10:00 (МСК)"," —"," ","5 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"27 000 ₽"}],["$","td",null,{"children":"2 700 ₽"}]]}],["$","tr","4",{"className":"now","children":[["$","td",null,{"children":["5 сент. 2026 г., 10:00 (МСК)"," —"," ","10 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"20 250 ₽"}],["$","td",null,{"children":"2 025 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 10:00 (МСК)"," —"," ","15 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"13 500 ₽"}],["$","td",null,{"children":"1 350 ₽"}]]}]]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ИП Ефремов Александр Анатольевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=380500405318","children":"ИП Ефремов Александр Анатольевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","380500405318"]}],"$undefined"]}]]}],["$","tr","manager:Сазоненко Арина Игоревна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=380806747291","children":"Сазоненко Арина Игоревна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","380806747291"]}],"$L11"]}]]}],"$L12"],"$L13"]}]}]]}],"$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСРО \"Содействие\""]}]
+12:["$","tr","organizer:Сазоненко Арина Игоревна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=380806747291","children":"Сазоненко Арина Игоревна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","380806747291"]}],"$undefined"]}]]}]
+13:["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9019-22150%2F2023","children":"А19-22150/2023"}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Иркутская область"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268734681/dogovor_o_zadatke_%D0%95%D1%84%D1%80%D0%B5%D0%BC%D0%BE%D0%B2%20%D0%9F%D0%9F.pdf",{"href":"https://m-ets.ru/download/268734681/dogovor_o_zadatke_%D0%95%D1%84%D1%80%D0%B5%D0%BC%D0%BE%D0%B2%20%D0%9F%D0%9F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","dogovor_o_zadatke_Ефремов ПП.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268734683/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%9A%D0%9F%20%D0%95%D1%84%D1%80%D0%B5%D0%BC%D0%BE%D0%B2_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9F%D0%9F.pdf",{"href":"https://m-ets.ru/download/268734683/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%9A%D0%9F%20%D0%95%D1%84%D1%80%D0%B5%D0%BC%D0%BE%D0%B2_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9F%D0%9F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор КП Ефремов_техника_ПП.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T1462,{
+  "id": "etp-mets:228881-25",
+  "sourceCode": "etp-mets",
+  "externalId": "228881-25",
+  "sourceUrl": "https://m-ets.ru/228881-25",
+  "title": "Бульдозер SD16, 2008 года",
+  "description": "Бульдозер SD16, 2008 г.в., зав.№ 109009, ГРЗ 4447 РТ 38. Техническое состояние: Металлолом (рама). Ключи и оригиналы документов на данное имущество управляющему Должником не переданы.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "3",
+  "categoryName": "Коммерческий транспорт и спецтехника",
+  "regionCode": "38",
+  "address": "Иркутская область",
+  "priceStart": "40500",
+  "priceMin": "13500.00",
+  "deposit": "4050.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-19T00:00:00+03:00",
+  "biddStartAt": "2026-08-21T10:00:00+03:00",
+  "biddEndAt": "2026-09-15T10:00:00+03:00",
+  "auctionAt": "2026-09-15T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А19-22150/2023",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "ИП Ефремов Александр Анатольевич",
+      "inn": "380500405318",
+      "efrsbId": "0c2f6192f8f03f3b7f3438f44545982b"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Сазоненко Арина Игоревна",
+      "inn": "380806747291",
+      "sro": "Ассоциация МСРО \"Содействие\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Сазоненко Арина Игоревна",
+      "inn": "380806747291",
+      "email": "aysazonenko@mail.ru",
+      "phone": "+7 (908) 641 29 01"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-21T10:00:00+03:00",
+      "endAt": "2026-08-26T10:00:00+03:00",
+      "price": "40500.00",
+      "deposit": "4050.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-26T10:00:00+03:00",
+      "endAt": "2026-08-31T10:00:00+03:00",
+      "price": "33750.00",
+      "deposit": "3375.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-31T10:00:00+03:00",
+      "endAt": "2026-09-05T10:00:00+03:00",
+      "price": "27000.00",
+      "deposit": "2700.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-05T10:00:00+03:00",
+      "endAt": "2026-09-10T10:00:00+03:00",
+      "price": "20250.00",
+      "deposit": "2025.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-10T10:00:00+03:00",
+      "endAt": "2026-09-15T10:00:00+03:00",
+      "price": "13500.00",
+      "deposit": "1350.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268734681/dogovor_o_zadatke_%D0%95%D1%84%D1%80%D0%B5%D0%BC%D0%BE%D0%B2%20%D0%9F%D0%9F.pdf",
+      "name": "dogovor_o_zadatke_Ефремов ПП.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268734683/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%9A%D0%9F%20%D0%95%D1%84%D1%80%D0%B5%D0%BC%D0%BE%D0%B2_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9F%D0%9F.pdf",
+      "name": "Договор КП Ефремов_техника_ПП.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2008",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24218565",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Иркутской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "10.06.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Информация отсутствует",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление: по месту нахождения имущества (г.Братск, Иркутская область) с 10:00ч. (мск.) 21.08.2026г. по 10:00ч. (мск.) 15.09.2026г. (включительно) в рабочие дни по предварительной договоренности по тел. +7-908-641-29-01, e-mail: aysazonenko@mail.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:14:36.070Z",
+  "lastSeenAt": "2026-08-31T19:14:36.070Z",
+  "contentHash": "eec47d94d20829deed581140a83824fe58118a504027c4ec9248da0e74b7dd0c"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"20 250 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["13 500 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[1,", до ","13 500 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"40 500 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"4 050 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"18 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"21 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"15 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"9 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"15 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Иркутская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/228881-25","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Бульдозер SD16, 2008 года — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,205 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--227390-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--227390-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--227390-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"18700/3433097 доли земельного участка в Краснодарском крае"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок, кадастровый (условный) номер 23:30:0101000:7 , категория земель: земли сельскохозяйственного назначения, вид собственности: общая долевая, 18700/3433097, место нахождения: край Краснодарский, р-н Темрюкский, в границах АФ \"Азовская\" ТОО, площадь (кв. м) 3433097 кв. м"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23926024",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["АС Краснодарского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["28.04.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Земельный участок, кадастровый (условный) номер 23:30:0101000:7 без координат границ, покупатель за свой счет осуществляет все действия, связанные с межевание земельного участка. Обременения и ограничения на распоряжение и эксплуатацию Имущества, наложенные работниками службы судебных приставов, судебными органами, иными лицами, подлежат снятию/отмене финансовым управляющим в установленном законом ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью порядке до проведения торгов по продаже Имущества или в ходе их проведения. В случае, если указанные обременения не были отменены – в соответствии с требованиями ч. 19 ст. 110 ФЗ «О несостоятельности (банкротстве)» финансовый управляющий указывает в договоре купли-продажи на их наличие и разъясняет Покупателю о необходимости их самостоятельного снятия/отмены.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Прием заявок/задатков с 14:00 ч. 14.08.2026 до 14:00 ч. 13.09.2026 (мск.) на сайте https://www.m-ets.ru; знакомство с документами и имуществом в рабочие дни в тот же период по месту нахождения имущества по предварительной записи у организатора торгов по тел. +7 (918) 353 36 87.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["14 авг. 2026 г., 14:00 (МСК)"," —"," ","17 авг. 2026 г., 13:59 (МСК)"]}],["$","td",null,{"children":"196 574,40 ₽"}],["$","td",null,{"children":"19 657,44 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 14:00 (МСК)"," —"," ","20 авг. 2026 г., 13:59 (МСК)"]}],["$","td",null,{"children":"176 916,96 ₽"}],"$L11"]}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19"]}]]}]]}],"$L1a","$L1b","$L1c",false,"$L1d"]}],"$L1e"]}]]}]
+11:["$","td",null,{"children":"17 691,70 ₽"}]
+12:["$","tr","3",{"className":"","children":[["$","td",null,{"children":["20 авг. 2026 г., 14:00 (МСК)"," —"," ","23 авг. 2026 г., 13:59 (МСК)"]}],["$","td",null,{"children":"157 259,52 ₽"}],["$","td",null,{"children":"15 725,95 ₽"}]]}]
+13:["$","tr","4",{"className":"","children":[["$","td",null,{"children":["23 авг. 2026 г., 14:00 (МСК)"," —"," ","26 авг. 2026 г., 13:59 (МСК)"]}],["$","td",null,{"children":"137 602,08 ₽"}],["$","td",null,{"children":"13 760,21 ₽"}]]}]
+14:["$","tr","5",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 14:00 (МСК)"," —"," ","29 авг. 2026 г., 13:59 (МСК)"]}],["$","td",null,{"children":"117 944,64 ₽"}],["$","td",null,{"children":"11 794,46 ₽"}]]}]
+15:["$","tr","6",{"className":"","children":[["$","td",null,{"children":["29 авг. 2026 г., 14:00 (МСК)"," —"," ","1 сент. 2026 г., 13:59 (МСК)"]}],["$","td",null,{"children":"98 287,20 ₽"}],["$","td",null,{"children":"9 828,72 ₽"}]]}]
+16:["$","tr","7",{"className":"","children":[["$","td",null,{"children":["1 сент. 2026 г., 14:00 (МСК)"," —"," ","4 сент. 2026 г., 13:59 (МСК)"]}],["$","td",null,{"children":"78 629,76 ₽"}],["$","td",null,{"children":"7 862,98 ₽"}]]}]
+17:["$","tr","8",{"className":"now","children":[["$","td",null,{"children":["4 сент. 2026 г., 14:00 (МСК)"," —"," ","7 сент. 2026 г., 13:59 (МСК)"]}],["$","td",null,{"children":"58 972,32 ₽"}],["$","td",null,{"children":"5 897,23 ₽"}]]}]
+18:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 14:00 (МСК)"," —"," ","10 сент. 2026 г., 13:59 (МСК)"]}],["$","td",null,{"children":"39 314,88 ₽"}],["$","td",null,{"children":"3 931,49 ₽"}]]}]
+19:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 14:00 (МСК)"," —"," ","13 сент. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"19 657,44 ₽"}],["$","td",null,{"children":"1 965,74 ₽"}]]}]
+1a:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Гриб Анатолий Адамович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=235202232103","children":"Гриб Анатолий Адамович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","235202232103"]}],"$undefined"]}]]}],["$","tr","manager:Козий Леонид Константинович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=231150454546","children":"Козий Леонид Константинович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","231150454546"]}],["$","span",null,{"className":"muted","children":[" · ","НП СОПАУ \"Альянс управляющих\""]}]]}]]}],["$","tr","organizer:Козий Леонид Константинович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=231150454546","children":"Козий Леонид Константинович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","231150454546"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9032-6631%2F2025","children":"А32-6631/2025"}]}]]}]]}]}]]}]
+1b:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Краснодарский край"}]]}]
+1c:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268332143/%D0%94%D0%9A%D0%9F_%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6_%D0%9A%D0%BE%D0%B7%D0%B8%D0%B9.docx",{"href":"https://m-ets.ru/download/268332143/%D0%94%D0%9A%D0%9F_%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6_%D0%9A%D0%BE%D0%B7%D0%B8%D0%B9.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДКП_Недвиж_Козий.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268519659/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268519659/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1f:T1f73,{
+  "id": "etp-mets:227390-1",
+  "sourceCode": "etp-mets",
+  "externalId": "227390-1",
+  "sourceUrl": "https://m-ets.ru/227390-1",
+  "title": "18700/3433097 доли земельного участка в Краснодарском крае",
+  "description": "Земельный участок, кадастровый (условный) номер 23:30:0101000:7 , категория земель: земли сельскохозяйственного назначения, вид собственности: общая долевая, 18700/3433097, место нахождения: край Краснодарский, р-н Темрюкский, в границах АФ \"Азовская\" ТОО, площадь (кв. м) 3433097 кв. м",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Закрытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "23",
+  "address": "Краснодарский край",
+  "priceStart": "196574.40",
+  "priceMin": "19657.44",
+  "deposit": "19657.44",
+  "currency": "RUB",
+  "publishedAt": "2026-08-12T00:00:00+03:00",
+  "biddStartAt": "2026-08-14T14:00:00+03:00",
+  "biddEndAt": "2026-09-13T14:00:00+03:00",
+  "auctionAt": "2026-09-13T14:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А32-6631/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Гриб Анатолий Адамович",
+      "inn": "235202232103",
+      "efrsbId": "5c4e9e3a4130912af524fcbc9aa763b1"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Козий Леонид Константинович",
+      "inn": "231150454546",
+      "sro": "НП СОПАУ \"Альянс управляющих\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Козий Леонид Константинович",
+      "inn": "231150454546",
+      "email": "bankrotkrd@mail.ru",
+      "phone": "+7 (918) 353 36 87"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-14T14:00:00+03:00",
+      "endAt": "2026-08-17T13:59:00+03:00",
+      "price": "196574.40",
+      "deposit": "19657.44"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-17T14:00:00+03:00",
+      "endAt": "2026-08-20T13:59:00+03:00",
+      "price": "176916.96",
+      "deposit": "17691.70"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-20T14:00:00+03:00",
+      "endAt": "2026-08-23T13:59:00+03:00",
+      "price": "157259.52",
+      "deposit": "15725.95"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-23T14:00:00+03:00",
+      "endAt": "2026-08-26T13:59:00+03:00",
+      "price": "137602.08",
+      "deposit": "13760.21"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-26T14:00:00+03:00",
+      "endAt": "2026-08-29T13:59:00+03:00",
+      "price": "117944.64",
+      "deposit": "11794.46"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-29T14:00:00+03:00",
+      "endAt": "2026-09-01T13:59:00+03:00",
+      "price": "98287.20",
+      "deposit": "9828.72"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-01T14:00:00+03:00",
+      "endAt": "2026-09-04T13:59:00+03:00",
+      "price": "78629.76",
+      "deposit": "7862.98"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-04T14:00:00+03:00",
+      "endAt": "2026-09-07T13:59:00+03:00",
+      "price": "58972.32",
+      "deposit": "5897.23"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-07T14:00:00+03:00",
+      "endAt": "2026-09-10T13:59:00+03:00",
+      "price": "39314.88",
+      "deposit": "3931.49"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-09-10T14:00:00+03:00",
+      "endAt": "2026-09-13T14:00:00+03:00",
+      "price": "19657.44",
+      "deposit": "1965.74"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268332143/%D0%94%D0%9A%D0%9F_%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6_%D0%9A%D0%BE%D0%B7%D0%B8%D0%B9.docx",
+      "name": "ДКП_Недвиж_Козий.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268519659/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23926024",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "АС Краснодарского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "28.04.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Земельный участок, кадастровый (условный) номер 23:30:0101000:7 без координат границ, покупатель за свой счет осуществляет все действия, связанные с межевание земельного участка. Обременения и ограничения на распоряжение и эксплуатацию Имущества, наложенные работниками службы судебных приставов, судебными органами, иными лицами, подлежат снятию/отмене финансовым управляющим в установленном законом ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью порядке до проведения торгов по продаже Имущества или в ходе их проведения. В случае, если указанные обременения не были отменены – в соответствии с требованиями ч. 19 ст. 110 ФЗ «О несостоятельности (банкротстве)» финансовый управляющий указывает в договоре купли-продажи на их наличие и разъясняет Покупателю о необходимости их самостоятельного снятия/отмены.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Прием заявок/задатков с 14:00 ч. 14.08.2026 до 14:00 ч. 13.09.2026 (мск.) на сайте https://www.m-ets.ru; знакомство с документами и имуществом в рабочие дни в тот же период по месту нахождения имущества по предварительной записи у организатора торгов по тел. +7 (918) 353 36 87.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:00:41.617Z",
+  "lastSeenAt": "2026-08-31T19:00:41.617Z",
+  "contentHash": "8e2ad149e4e58c7bd52d83ea385ad591aba9e97abeef9ef5cf77e921948611e7"
+}1d:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1f"}]]}]
+1e:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"58 972,32 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["39 314,88 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 14:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[2,", до ","19 657,44 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"196 574,40 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"19 657,44 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"11 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"14 авг. 2026 г., 14:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"13 сент. 2026 г., 14:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"7 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"13 сент. 2026 г., 14:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/227390-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"18700/3433097 доли земельного участка в Краснодарском крае — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

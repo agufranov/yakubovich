@@ -1,0 +1,831 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--203615-4",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--203615-4","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--203615-4","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=72","children":"Тюменская обл."}]]]}],["$","h1",null,{"children":"Volkswagen Polo, 2020 года, 65 лс, 470000 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/266677944/266677944_thumb_0.jpg","alt":"Volkswagen Polo, 2020 года, 65 лс, 470000 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/266677942/266677942_thumb_0.jpg",{"href":"https://m-ets.ru/download/266677942/266677942_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/266677942/266677942_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/266677938/266677938_thumb_0.jpg",{"href":"https://m-ets.ru/download/266677938/266677938_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/266677938/266677938_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/266677943/266677943_thumb_0.jpg",{"href":"https://m-ets.ru/download/266677943/266677943_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/266677943/266677943_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Транспортное средство Volkswagen Polo, 2020 г.в., модель двигателя G4HG 5053869, цвет-светло-голубой, мощность двигателя- 66 л.с., объем двигателя 1086 куб.см.Отсутствуют фары, пассажирская задняя левая дверь не соответствует цвету автомобиля.Отсутствует аккумулятор.Двигатель в не рабочем состоянии.Транспортное средство не на ходу. ГРН Х073НУ72"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Volkswagen",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Polo",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2020",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["470 000"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["65"," л.с."]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XW8ZZZ61ZLG048409",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["22375011",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Тюменской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["15.09.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом осуществляется по предварительному согласованию с организатором торгов по тел. +79129267728.",""]}]]}]]}]}]]}],"$L11","$L12","$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["13 апр. 2026 г., 00:00 (МСК)"," —"," ","20 мая 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"1 229 400 ₽"}],["$","td",null,{"children":"184 410 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["20 мая 2026 г., 23:55 (МСК)"," —"," ","23 мая 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"1 192 518 ₽"}],["$","td",null,{"children":"178 877,70 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["23 мая 2026 г., 23:55 (МСК)"," —"," ","26 мая 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"1 156 742,46 ₽"}],["$","td",null,{"children":"173 511,37 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["26 мая 2026 г., 23:55 (МСК)"," —"," ","29 мая 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"1 122 040,19 ₽"}],["$","td",null,{"children":"168 306,03 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["29 мая 2026 г., 23:55 (МСК)"," —"," ","1 июн. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"1 088 378,99 ₽"}],["$","td",null,{"children":"163 256,85 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["1 июн. 2026 г., 23:55 (МСК)"," —"," ","4 июн. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"1 055 727,61 ₽"}],["$","td",null,{"children":"158 359,14 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["4 июн. 2026 г., 23:55 (МСК)"," —"," ","7 июн. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"1 024 055,79 ₽"}],["$","td",null,{"children":"153 608,37 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["7 июн. 2026 г., 23:55 (МСК)"," —"," ","10 июн. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"993 334,10 ₽"}],["$","td",null,{"children":"149 000,12 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["10 июн. 2026 г., 23:55 (МСК)"," —"," ","13 июн. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"963 534,08 ₽"}],["$","td",null,{"children":"144 530,11 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["13 июн. 2026 г., 23:55 (МСК)"," —"," ","16 июн. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"934 628,07 ₽"}],["$","td",null,{"children":"140 194,21 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["16 июн. 2026 г., 23:55 (МСК)"," —"," ","19 июн. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"906 589,22 ₽"}],["$","td",null,{"children":"135 988,38 ₽"}]]}],["$","tr","12",{"className":"","children":[["$","td",null,{"children":["19 июн. 2026 г., 23:55 (МСК)"," —"," ","22 июн. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"879 391,54 ₽"}],["$","td",null,{"children":"131 908,73 ₽"}]]}],["$","tr","13",{"className":"","children":[["$","td",null,{"children":["22 июн. 2026 г., 23:55 (МСК)"," —"," ","25 июн. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"853 009,80 ₽"}],["$","td",null,{"children":"127 951,47 ₽"}]]}],["$","tr","14",{"className":"","children":[["$","td",null,{"children":["25 июн. 2026 г., 23:55 (МСК)"," —"," ","28 июн. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"827 419,50 ₽"}],["$","td",null,{"children":"124 112,93 ₽"}]]}],["$","tr","15",{"className":"","children":[["$","td",null,{"children":["28 июн. 2026 г., 23:55 (МСК)"," —"," ","1 июл. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"802 596,92 ₽"}],["$","td",null,{"children":"120 389,54 ₽"}]]}],["$","tr","16",{"className":"","children":[["$","td",null,{"children":["1 июл. 2026 г., 23:55 (МСК)"," —"," ","4 июл. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"778 519,01 ₽"}],["$","td",null,{"children":"116 777,85 ₽"}]]}],["$","tr","17",{"className":"","children":[["$","td",null,{"children":["4 июл. 2026 г., 23:55 (МСК)"," —"," ","7 июл. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"755 163,44 ₽"}],["$","td",null,{"children":"113 274,52 ₽"}]]}],["$","tr","18",{"className":"","children":[["$","td",null,{"children":["7 июл. 2026 г., 23:55 (МСК)"," —"," ","10 июл. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"732 508,53 ₽"}],["$","td",null,{"children":"109 876,28 ₽"}]]}],["$","tr","19",{"className":"","children":[["$","td",null,{"children":["10 июл. 2026 г., 23:55 (МСК)"," —"," ","13 июл. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"710 533,28 ₽"}],["$","td",null,{"children":"106 579,99 ₽"}]]}],"$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f"]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Холодок Павел Александрович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=450108440472","children":"Холодок Павел Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","450108440472"]}],"$undefined"]}]]}],["$","tr","manager:Пьянкова Татьяна Олеговна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=720409880003","children":"Пьянкова Татьяна Олеговна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","720409880003"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Собр\""]}]]}]]}],["$","tr","organizer:Пьянкова Татьяна Олеговна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=720409880003","children":"Пьянкова Татьяна Олеговна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","720409880003"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9070-14266%2F2025","children":"А70-14266/2025"}]}]]}]]}]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Тюменская область"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",14,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/266677917/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%20%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/266677917/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%20%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Заключение об определении рыночной стоимости ТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268441734/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.docx",{"href":"https://m-ets.ru/download/268441734/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников открытых торгов 203615-МЭТС по лоту 1.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268441736/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.docx",{"href":"https://m-ets.ru/download/268441736/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 203615-МЭТС по лоту 1.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/266677925/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%20%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/266677925/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%20%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":["$L50","$L51"]}],"$L52","$L53","$L54","$L55","$L56","$L57","$L58","$L59","$L5a","$L5b"]}]]}]
+5c:T6330,{
+  "id": "etp-mets:203615-4",
+  "sourceCode": "etp-mets",
+  "externalId": "203615-4",
+  "sourceUrl": "https://m-ets.ru/203615-4",
+  "title": "Volkswagen Polo, 2020 года, 65 лс, 470000 км",
+  "description": "Транспортное средство Volkswagen Polo, 2020 г.в., модель двигателя G4HG 5053869, цвет-светло-голубой, мощность двигателя- 66 л.с., объем двигателя 1086 куб.см.Отсутствуют фары, пассажирская задняя левая дверь не соответствует цвету автомобиля.Отсутствует аккумулятор.Двигатель в не рабочем состоянии.Транспортное средство не на ходу. ГРН Х073НУ72",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "72",
+  "address": "Тюменская область",
+  "priceStart": "1229400",
+  "priceMin": "125191.04",
+  "deposit": "184410.00",
+  "currency": "RUB",
+  "publishedAt": "2026-04-10T00:00:00+03:00",
+  "biddStartAt": "2026-04-13T00:00:00+03:00",
+  "biddEndAt": "2026-12-31T23:55:00+03:00",
+  "auctionAt": "2027-01-04T15:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А70-14266/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Холодок Павел Александрович",
+      "inn": "450108440472",
+      "efrsbId": "67fca38f08304bc9baa4fb1e1d6d7314"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Пьянкова Татьяна Олеговна",
+      "inn": "720409880003",
+      "sro": "ААУ \"Собр\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Пьянкова Татьяна Олеговна",
+      "inn": "720409880003",
+      "email": "tanusha1983@list.ru",
+      "phone": "+7 (912) 926 77 28"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-04-13T00:00:00+03:00",
+      "endAt": "2026-05-20T23:55:00+03:00",
+      "price": "1229400.00",
+      "deposit": "184410.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-05-20T23:55:00+03:00",
+      "endAt": "2026-05-23T23:55:00+03:00",
+      "price": "1192518.00",
+      "deposit": "178877.70"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-05-23T23:55:00+03:00",
+      "endAt": "2026-05-26T23:55:00+03:00",
+      "price": "1156742.46",
+      "deposit": "173511.37"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-05-26T23:55:00+03:00",
+      "endAt": "2026-05-29T23:55:00+03:00",
+      "price": "1122040.19",
+      "deposit": "168306.03"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-05-29T23:55:00+03:00",
+      "endAt": "2026-06-01T23:55:00+03:00",
+      "price": "1088378.99",
+      "deposit": "163256.85"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-06-01T23:55:00+03:00",
+      "endAt": "2026-06-04T23:55:00+03:00",
+      "price": "1055727.61",
+      "deposit": "158359.14"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-06-04T23:55:00+03:00",
+      "endAt": "2026-06-07T23:55:00+03:00",
+      "price": "1024055.79",
+      "deposit": "153608.37"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-06-07T23:55:00+03:00",
+      "endAt": "2026-06-10T23:55:00+03:00",
+      "price": "993334.10",
+      "deposit": "149000.12"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-06-10T23:55:00+03:00",
+      "endAt": "2026-06-13T23:55:00+03:00",
+      "price": "963534.08",
+      "deposit": "144530.11"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-06-13T23:55:00+03:00",
+      "endAt": "2026-06-16T23:55:00+03:00",
+      "price": "934628.07",
+      "deposit": "140194.21"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-06-16T23:55:00+03:00",
+      "endAt": "2026-06-19T23:55:00+03:00",
+      "price": "906589.22",
+      "deposit": "135988.38"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-06-19T23:55:00+03:00",
+      "endAt": "2026-06-22T23:55:00+03:00",
+      "price": "879391.54",
+      "deposit": "131908.73"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-06-22T23:55:00+03:00",
+      "endAt": "2026-06-25T23:55:00+03:00",
+      "price": "853009.80",
+      "deposit": "127951.47"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-06-25T23:55:00+03:00",
+      "endAt": "2026-06-28T23:55:00+03:00",
+      "price": "827419.50",
+      "deposit": "124112.93"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-06-28T23:55:00+03:00",
+      "endAt": "2026-07-01T23:55:00+03:00",
+      "price": "802596.92",
+      "deposit": "120389.54"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-07-01T23:55:00+03:00",
+      "endAt": "2026-07-04T23:55:00+03:00",
+      "price": "778519.01",
+      "deposit": "116777.85"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-07-04T23:55:00+03:00",
+      "endAt": "2026-07-07T23:55:00+03:00",
+      "price": "755163.44",
+      "deposit": "113274.52"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-07-07T23:55:00+03:00",
+      "endAt": "2026-07-10T23:55:00+03:00",
+      "price": "732508.53",
+      "deposit": "109876.28"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-07-10T23:55:00+03:00",
+      "endAt": "2026-07-13T23:55:00+03:00",
+      "price": "710533.28",
+      "deposit": "106579.99"
+    },
+    {
+      "no": 20,
+      "startAt": "2026-07-13T23:55:00+03:00",
+      "endAt": "2026-07-16T23:55:00+03:00",
+      "price": "689217.28",
+      "deposit": "103382.59"
+    },
+    {
+      "no": 21,
+      "startAt": "2026-07-16T23:55:00+03:00",
+      "endAt": "2026-07-19T23:55:00+03:00",
+      "price": "668540.76",
+      "deposit": "100281.11"
+    },
+    {
+      "no": 22,
+      "startAt": "2026-07-19T23:55:00+03:00",
+      "endAt": "2026-07-22T23:55:00+03:00",
+      "price": "648484.54",
+      "deposit": "97272.68"
+    },
+    {
+      "no": 23,
+      "startAt": "2026-07-22T23:55:00+03:00",
+      "endAt": "2026-07-25T23:55:00+03:00",
+      "price": "629030.00",
+      "deposit": "94354.50"
+    },
+    {
+      "no": 24,
+      "startAt": "2026-07-25T23:55:00+03:00",
+      "endAt": "2026-07-28T23:55:00+03:00",
+      "price": "609852.77",
+      "deposit": "91477.92"
+    },
+    {
+      "no": 25,
+      "startAt": "2026-07-28T23:55:00+03:00",
+      "endAt": "2026-07-31T23:55:00+03:00",
+      "price": "591854.33",
+      "deposit": "88778.15"
+    },
+    {
+      "no": 26,
+      "startAt": "2026-07-31T23:55:00+03:00",
+      "endAt": "2026-08-03T23:55:00+03:00",
+      "price": "574098.71",
+      "deposit": "86114.81"
+    },
+    {
+      "no": 27,
+      "startAt": "2026-08-03T23:55:00+03:00",
+      "endAt": "2026-08-06T23:55:00+03:00",
+      "price": "556875.74",
+      "deposit": "83531.36"
+    },
+    {
+      "no": 28,
+      "startAt": "2026-08-06T23:55:00+03:00",
+      "endAt": "2026-08-09T23:55:00+03:00",
+      "price": "540169.46",
+      "deposit": "81025.42"
+    },
+    {
+      "no": 29,
+      "startAt": "2026-08-09T23:55:00+03:00",
+      "endAt": "2026-08-12T23:55:00+03:00",
+      "price": "523964.39",
+      "deposit": "78594.66"
+    },
+    {
+      "no": 30,
+      "startAt": "2026-08-12T23:55:00+03:00",
+      "endAt": "2026-08-15T23:55:00+03:00",
+      "price": "508245.45",
+      "deposit": "76236.82"
+    },
+    {
+      "no": 31,
+      "startAt": "2026-08-15T23:55:00+03:00",
+      "endAt": "2026-08-18T23:55:00+03:00",
+      "price": "492998.08",
+      "deposit": "73949.71"
+    },
+    {
+      "no": 32,
+      "startAt": "2026-08-18T23:55:00+03:00",
+      "endAt": "2026-08-21T23:55:00+03:00",
+      "price": "478208.15",
+      "deposit": "71731.22"
+    },
+    {
+      "no": 33,
+      "startAt": "2026-08-21T23:55:00+03:00",
+      "endAt": "2026-08-24T23:55:00+03:00",
+      "price": "463861.89",
+      "deposit": "69579.28"
+    },
+    {
+      "no": 34,
+      "startAt": "2026-08-24T23:55:00+03:00",
+      "endAt": "2026-08-27T23:55:00+03:00",
+      "price": "449946.04",
+      "deposit": "67491.91"
+    },
+    {
+      "no": 35,
+      "startAt": "2026-08-27T23:55:00+03:00",
+      "endAt": "2026-08-30T23:55:00+03:00",
+      "price": "436447.67",
+      "deposit": "65467.15"
+    },
+    {
+      "no": 36,
+      "startAt": "2026-08-30T23:55:00+03:00",
+      "endAt": "2026-09-02T23:55:00+03:00",
+      "price": "423354.24",
+      "deposit": "63503.14"
+    },
+    {
+      "no": 37,
+      "startAt": "2026-09-02T23:55:00+03:00",
+      "endAt": "2026-09-05T23:55:00+03:00",
+      "price": "410653.60",
+      "deposit": "61598.04"
+    },
+    {
+      "no": 38,
+      "startAt": "2026-09-05T23:55:00+03:00",
+      "endAt": "2026-09-08T23:55:00+03:00",
+      "price": "398334.01",
+      "deposit": "59750.10"
+    },
+    {
+      "no": 39,
+      "startAt": "2026-09-08T23:55:00+03:00",
+      "endAt": "2026-09-11T23:55:00+03:00",
+      "price": "386383.98",
+      "deposit": "57957.60"
+    },
+    {
+      "no": 40,
+      "startAt": "2026-09-11T23:55:00+03:00",
+      "endAt": "2026-09-14T23:55:00+03:00",
+      "price": "374792.46",
+      "deposit": "56218.87"
+    },
+    {
+      "no": 41,
+      "startAt": "2026-09-14T23:55:00+03:00",
+      "endAt": "2026-09-17T23:55:00+03:00",
+      "price": "363548.69",
+      "deposit": "54532.30"
+    },
+    {
+      "no": 42,
+      "startAt": "2026-09-17T23:55:00+03:00",
+      "endAt": "2026-09-20T23:55:00+03:00",
+      "price": "352642.23",
+      "deposit": "52896.33"
+    },
+    {
+      "no": 43,
+      "startAt": "2026-09-20T23:55:00+03:00",
+      "endAt": "2026-09-23T23:55:00+03:00",
+      "price": "342062.95",
+      "deposit": "51309.44"
+    },
+    {
+      "no": 44,
+      "startAt": "2026-09-23T23:55:00+03:00",
+      "endAt": "2026-09-26T23:55:00+03:00",
+      "price": "331801.07",
+      "deposit": "49770.16"
+    },
+    {
+      "no": 45,
+      "startAt": "2026-09-26T23:55:00+03:00",
+      "endAt": "2026-09-29T23:55:00+03:00",
+      "price": "321847.03",
+      "deposit": "48277.05"
+    },
+    {
+      "no": 46,
+      "startAt": "2026-09-29T23:55:00+03:00",
+      "endAt": "2026-10-02T23:55:00+03:00",
+      "price": "312191.63",
+      "deposit": "46828.74"
+    },
+    {
+      "no": 47,
+      "startAt": "2026-10-02T23:55:00+03:00",
+      "endAt": "2026-10-05T23:55:00+03:00",
+      "price": "302825.88",
+      "deposit": "45423.88"
+    },
+    {
+      "no": 48,
+      "startAt": "2026-10-05T23:55:00+03:00",
+      "endAt": "2026-10-08T23:55:00+03:00",
+      "price": "293741.10",
+      "deposit": "44061.17"
+    },
+    {
+      "no": 49,
+      "startAt": "2026-10-08T23:55:00+03:00",
+      "endAt": "2026-10-11T23:55:00+03:00",
+      "price": "284928.87",
+      "deposit": "42739.33"
+    },
+    {
+      "no": 50,
+      "startAt": "2026-10-11T23:55:00+03:00",
+      "endAt": "2026-10-14T23:55:00+03:00",
+      "price": "276381.00",
+      "deposit": "41457.15"
+    },
+    {
+      "no": 51,
+      "startAt": "2026-10-14T23:55:00+03:00",
+      "endAt": "2026-10-17T23:55:00+03:00",
+      "price": "268089.58",
+      "deposit": "40213.44"
+    },
+    {
+      "no": 52,
+      "startAt": "2026-10-17T23:55:00+03:00",
+      "endAt": "2026-10-20T23:55:00+03:00",
+      "price": "260046.88",
+      "deposit": "39007.03"
+    },
+    {
+      "no": 53,
+      "startAt": "2026-10-20T23:55:00+03:00",
+      "endAt": "2026-10-23T23:55:00+03:00",
+      "price": "252245.48",
+      "deposit": "37836.82"
+    },
+    {
+      "no": 54,
+      "startAt": "2026-10-23T23:55:00+03:00",
+      "endAt": "2026-10-26T23:55:00+03:00",
+      "price": "244678.12",
+      "deposit": "36701.72"
+    },
+    {
+      "no": 55,
+      "startAt": "2026-10-26T23:55:00+03:00",
+      "endAt": "2026-10-29T23:55:00+03:00",
+      "price": "237337.76",
+      "deposit": "35600.66"
+    },
+    {
+      "no": 56,
+      "startAt": "2026-10-29T23:55:00+03:00",
+      "endAt": "2026-11-01T23:55:00+03:00",
+      "price": "230217.64",
+      "deposit": "34532.65"
+    },
+    {
+      "no": 57,
+      "startAt": "2026-11-01T23:55:00+03:00",
+      "endAt": "2026-11-04T23:55:00+03:00",
+      "price": "223311.12",
+      "deposit": "33496.67"
+    },
+    {
+      "no": 58,
+      "startAt": "2026-11-04T23:55:00+03:00",
+      "endAt": "2026-11-07T23:55:00+03:00",
+      "price": "216611.77",
+      "deposit": "32491.77"
+    },
+    {
+      "no": 59,
+      "startAt": "2026-11-07T23:55:00+03:00",
+      "endAt": "2026-11-10T23:55:00+03:00",
+      "price": "210113.43",
+      "deposit": "31517.01"
+    },
+    {
+      "no": 60,
+      "startAt": "2026-11-10T23:55:00+03:00",
+      "endAt": "2026-11-13T23:55:00+03:00",
+      "price": "203810.01",
+      "deposit": "30571.50"
+    },
+    {
+      "no": 61,
+      "startAt": "2026-11-13T23:55:00+03:00",
+      "endAt": "2026-11-16T23:55:00+03:00",
+      "price": "197695.72",
+      "deposit": "29654.36"
+    },
+    {
+      "no": 62,
+      "startAt": "2026-11-16T23:55:00+03:00",
+      "endAt": "2026-11-19T23:55:00+03:00",
+      "price": "191764.85",
+      "deposit": "28764.73"
+    },
+    {
+      "no": 63,
+      "startAt": "2026-11-19T23:55:00+03:00",
+      "endAt": "2026-11-22T23:55:00+03:00",
+      "price": "186011.90",
+      "deposit": "27901.79"
+    },
+    {
+      "no": 64,
+      "startAt": "2026-11-22T23:55:00+03:00",
+      "endAt": "2026-11-25T23:55:00+03:00",
+      "price": "180431.54",
+      "deposit": "27064.73"
+    },
+    {
+      "no": 65,
+      "startAt": "2026-11-25T23:55:00+03:00",
+      "endAt": "2026-11-28T23:55:00+03:00",
+      "price": "175018.59",
+      "deposit": "26252.79"
+    },
+    {
+      "no": 66,
+      "startAt": "2026-11-28T23:55:00+03:00",
+      "endAt": "2026-12-01T23:55:00+03:00",
+      "price": "169768.04",
+      "deposit": "25465.21"
+    },
+    {
+      "no": 67,
+      "startAt": "2026-12-01T23:55:00+03:00",
+      "endAt": "2026-12-04T23:55:00+03:00",
+      "price": "164675.00",
+      "deposit": "24701.25"
+    },
+    {
+      "no": 68,
+      "startAt": "2026-12-04T23:55:00+03:00",
+      "endAt": "2026-12-07T23:55:00+03:00",
+      "price": "159734.75",
+      "deposit": "23960.21"
+    },
+    {
+      "no": 69,
+      "startAt": "2026-12-07T23:55:00+03:00",
+      "endAt": "2026-12-10T23:55:00+03:00",
+      "price": "154942.71",
+      "deposit": "23241.41"
+    },
+    {
+      "no": 70,
+      "startAt": "2026-12-10T23:55:00+03:00",
+      "endAt": "2026-12-13T23:55:00+03:00",
+      "price": "150294.42",
+      "deposit": "22544.16"
+    },
+    {
+      "no": 71,
+      "startAt": "2026-12-13T23:55:00+03:00",
+      "endAt": "2026-12-16T23:55:00+03:00",
+      "price": "145785.60",
+      "deposit": "21867.84"
+    },
+    {
+      "no": 72,
+      "startAt": "2026-12-16T23:55:00+03:00",
+      "endAt": "2026-12-19T23:55:00+03:00",
+      "price": "141411.97",
+      "deposit": "21211.80"
+    },
+    {
+      "no": 73,
+      "startAt": "2026-12-19T23:55:00+03:00",
+      "endAt": "2026-12-22T23:55:00+03:00",
+      "price": "137169.66",
+      "deposit": "20575.45"
+    },
+    {
+      "no": 74,
+      "startAt": "2026-12-22T23:55:00+03:00",
+      "endAt": "2026-12-25T23:55:00+03:00",
+      "price": "133054.57",
+      "deposit": "19958.19"
+    },
+    {
+      "no": 75,
+      "startAt": "2026-12-25T23:55:00+03:00",
+      "endAt": "2026-12-28T23:55:00+03:00",
+      "price": "129062.94",
+      "deposit": "19359.44"
+    },
+    {
+      "no": 76,
+      "startAt": "2026-12-28T23:55:00+03:00",
+      "endAt": "2026-12-31T23:55:00+03:00",
+      "price": "125191.04",
+      "deposit": "18778.66"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/266677944/266677944_thumb_0.jpg",
+    "https://m-ets.ru/download/266677942/266677942_thumb_0.jpg",
+    "https://m-ets.ru/download/266677938/266677938_thumb_0.jpg",
+    "https://m-ets.ru/download/266677943/266677943_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/266677917/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%20%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%A2%D0%A1.pdf",
+      "name": "Заключение об определении рыночной стоимости ТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268441734/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.docx",
+      "name": "Протокол определения участников открытых торгов 203615-МЭТС по лоту 1.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268441736/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.docx",
+      "name": "Протокол о результатах проведения открытых торгов 203615-МЭТС по лоту 1.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/266677925/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%20%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%A2%D0%A1.pdf",
+      "name": "Заключение об определении рыночной стоимости ТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268531256/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202.pdf",
+      "name": "Протокол определения участников торгов 203615-МЭТС по лоту 2.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268531258/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 203615-МЭТС по лоту 2.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/266677932/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%20%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%A2%D0%A1.pdf",
+      "name": "Заключение об определении рыночной стоимости ТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268204956/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",
+      "name": "Протокол определения участников торгов 203615-МЭТС по лоту 3.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268204958/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 203615-МЭТС по лоту 3.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/266677939/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%20%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%A2%D0%A1.pdf",
+      "name": "Заключение об определении рыночной стоимости ТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/266677945/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%BD%D0%B0%2012.01.2026.pdf",
+      "name": "Положение о порядке условиях сроках реализации имущества должника на 12.01.2026.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/266677947/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf",
+      "name": "Проект_договора_купли_продажи_автомобиля.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/266696386/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268275676/%D0%A0%D0%B5%D0%BA%D0%B2%D0%B8%D0%B7%D0%B8%D1%82%D1%8B%20%D1%81%D1%87%D0%B5%D1%82%D0%B0.pdf",
+      "name": "Реквизиты счета.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Volkswagen",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Polo",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2020",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "470 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "65",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XW8ZZZ61ZLG048409",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "22375011",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Тюменской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "15.09.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом осуществляется по предварительному согласованию с организатором торгов по тел. +79129267728.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:44:39.202Z",
+  "lastSeenAt": "2026-08-31T17:44:39.202Z",
+  "contentHash": "282b79a747941289561068eb91615cf57939fee2431373897ce7043d1f2189c3"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$5c"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"410 653,60 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["398 334,01 ₽",["$","span",null,{"className":"muted","children":[" ","· ","5 сент. 2026 г., 23:55 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[39,", до ","125 191,04 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"1 229 400 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"184 410 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"9 апр. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"13 апр. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"31 дек. 2026 г., 23:55 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"117 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"4 янв. 2027 г., 15:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Тюменская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/203615-4","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+17:["$","tr","20",{"className":"","children":[["$","td",null,{"children":["13 июл. 2026 г., 23:55 (МСК)"," —"," ","16 июл. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"689 217,28 ₽"}],["$","td",null,{"children":"103 382,59 ₽"}]]}]
+18:["$","tr","21",{"className":"","children":[["$","td",null,{"children":["16 июл. 2026 г., 23:55 (МСК)"," —"," ","19 июл. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"668 540,76 ₽"}],["$","td",null,{"children":"100 281,11 ₽"}]]}]
+19:["$","tr","22",{"className":"","children":[["$","td",null,{"children":["19 июл. 2026 г., 23:55 (МСК)"," —"," ","22 июл. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"648 484,54 ₽"}],["$","td",null,{"children":"97 272,68 ₽"}]]}]
+1a:["$","tr","23",{"className":"","children":[["$","td",null,{"children":["22 июл. 2026 г., 23:55 (МСК)"," —"," ","25 июл. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"629 030 ₽"}],["$","td",null,{"children":"94 354,50 ₽"}]]}]
+1b:["$","tr","24",{"className":"","children":[["$","td",null,{"children":["25 июл. 2026 г., 23:55 (МСК)"," —"," ","28 июл. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"609 852,77 ₽"}],["$","td",null,{"children":"91 477,92 ₽"}]]}]
+1c:["$","tr","25",{"className":"","children":[["$","td",null,{"children":["28 июл. 2026 г., 23:55 (МСК)"," —"," ","31 июл. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"591 854,33 ₽"}],["$","td",null,{"children":"88 778,15 ₽"}]]}]
+1d:["$","tr","26",{"className":"","children":[["$","td",null,{"children":["31 июл. 2026 г., 23:55 (МСК)"," —"," ","3 авг. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"574 098,71 ₽"}],["$","td",null,{"children":"86 114,81 ₽"}]]}]
+1e:["$","tr","27",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 23:55 (МСК)"," —"," ","6 авг. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"556 875,74 ₽"}],["$","td",null,{"children":"83 531,36 ₽"}]]}]
+1f:["$","tr","28",{"className":"","children":[["$","td",null,{"children":["6 авг. 2026 г., 23:55 (МСК)"," —"," ","9 авг. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"540 169,46 ₽"}],["$","td",null,{"children":"81 025,42 ₽"}]]}]
+20:["$","tr","29",{"className":"","children":[["$","td",null,{"children":["9 авг. 2026 г., 23:55 (МСК)"," —"," ","12 авг. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"523 964,39 ₽"}],["$","td",null,{"children":"78 594,66 ₽"}]]}]
+21:["$","tr","30",{"className":"","children":[["$","td",null,{"children":["12 авг. 2026 г., 23:55 (МСК)"," —"," ","15 авг. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"508 245,45 ₽"}],["$","td",null,{"children":"76 236,82 ₽"}]]}]
+22:["$","tr","31",{"className":"","children":[["$","td",null,{"children":["15 авг. 2026 г., 23:55 (МСК)"," —"," ","18 авг. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"492 998,08 ₽"}],["$","td",null,{"children":"73 949,71 ₽"}]]}]
+23:["$","tr","32",{"className":"","children":[["$","td",null,{"children":["18 авг. 2026 г., 23:55 (МСК)"," —"," ","21 авг. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"478 208,15 ₽"}],["$","td",null,{"children":"71 731,22 ₽"}]]}]
+24:["$","tr","33",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 23:55 (МСК)"," —"," ","24 авг. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"463 861,89 ₽"}],["$","td",null,{"children":"69 579,28 ₽"}]]}]
+25:["$","tr","34",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 23:55 (МСК)"," —"," ","27 авг. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"449 946,04 ₽"}],["$","td",null,{"children":"67 491,91 ₽"}]]}]
+26:["$","tr","35",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 23:55 (МСК)"," —"," ","30 авг. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"436 447,67 ₽"}],["$","td",null,{"children":"65 467,15 ₽"}]]}]
+27:["$","tr","36",{"className":"","children":[["$","td",null,{"children":["30 авг. 2026 г., 23:55 (МСК)"," —"," ","2 сент. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"423 354,24 ₽"}],["$","td",null,{"children":"63 503,14 ₽"}]]}]
+28:["$","tr","37",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 23:55 (МСК)"," —"," ","5 сент. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"410 653,60 ₽"}],["$","td",null,{"children":"61 598,04 ₽"}]]}]
+29:["$","tr","38",{"className":"","children":[["$","td",null,{"children":["5 сент. 2026 г., 23:55 (МСК)"," —"," ","8 сент. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"398 334,01 ₽"}],["$","td",null,{"children":"59 750,10 ₽"}]]}]
+2a:["$","tr","39",{"className":"","children":[["$","td",null,{"children":["8 сент. 2026 г., 23:55 (МСК)"," —"," ","11 сент. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"386 383,98 ₽"}],["$","td",null,{"children":"57 957,60 ₽"}]]}]
+2b:["$","tr","40",{"className":"","children":[["$","td",null,{"children":["11 сент. 2026 г., 23:55 (МСК)"," —"," ","14 сент. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"374 792,46 ₽"}],["$","td",null,{"children":"56 218,87 ₽"}]]}]
+2c:["$","tr","41",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 23:55 (МСК)"," —"," ","17 сент. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"363 548,69 ₽"}],["$","td",null,{"children":"54 532,30 ₽"}]]}]
+2d:["$","tr","42",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 23:55 (МСК)"," —"," ","20 сент. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"352 642,23 ₽"}],["$","td",null,{"children":"52 896,33 ₽"}]]}]
+2e:["$","tr","43",{"className":"","children":[["$","td",null,{"children":["20 сент. 2026 г., 23:55 (МСК)"," —"," ","23 сент. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"342 062,95 ₽"}],["$","td",null,{"children":"51 309,44 ₽"}]]}]
+2f:["$","tr","44",{"className":"","children":[["$","td",null,{"children":["23 сент. 2026 г., 23:55 (МСК)"," —"," ","26 сент. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"331 801,07 ₽"}],["$","td",null,{"children":"49 770,16 ₽"}]]}]
+30:["$","tr","45",{"className":"","children":[["$","td",null,{"children":["26 сент. 2026 г., 23:55 (МСК)"," —"," ","29 сент. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"321 847,03 ₽"}],["$","td",null,{"children":"48 277,05 ₽"}]]}]
+31:["$","tr","46",{"className":"","children":[["$","td",null,{"children":["29 сент. 2026 г., 23:55 (МСК)"," —"," ","2 окт. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"312 191,63 ₽"}],["$","td",null,{"children":"46 828,74 ₽"}]]}]
+32:["$","tr","47",{"className":"","children":[["$","td",null,{"children":["2 окт. 2026 г., 23:55 (МСК)"," —"," ","5 окт. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"302 825,88 ₽"}],["$","td",null,{"children":"45 423,88 ₽"}]]}]
+33:["$","tr","48",{"className":"","children":[["$","td",null,{"children":["5 окт. 2026 г., 23:55 (МСК)"," —"," ","8 окт. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"293 741,10 ₽"}],["$","td",null,{"children":"44 061,17 ₽"}]]}]
+34:["$","tr","49",{"className":"","children":[["$","td",null,{"children":["8 окт. 2026 г., 23:55 (МСК)"," —"," ","11 окт. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"284 928,87 ₽"}],["$","td",null,{"children":"42 739,33 ₽"}]]}]
+35:["$","tr","50",{"className":"","children":[["$","td",null,{"children":["11 окт. 2026 г., 23:55 (МСК)"," —"," ","14 окт. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"276 381 ₽"}],["$","td",null,{"children":"41 457,15 ₽"}]]}]
+36:["$","tr","51",{"className":"","children":[["$","td",null,{"children":["14 окт. 2026 г., 23:55 (МСК)"," —"," ","17 окт. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"268 089,58 ₽"}],["$","td",null,{"children":"40 213,44 ₽"}]]}]
+37:["$","tr","52",{"className":"","children":[["$","td",null,{"children":["17 окт. 2026 г., 23:55 (МСК)"," —"," ","20 окт. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"260 046,88 ₽"}],["$","td",null,{"children":"39 007,03 ₽"}]]}]
+38:["$","tr","53",{"className":"","children":[["$","td",null,{"children":["20 окт. 2026 г., 23:55 (МСК)"," —"," ","23 окт. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"252 245,48 ₽"}],["$","td",null,{"children":"37 836,82 ₽"}]]}]
+39:["$","tr","54",{"className":"","children":[["$","td",null,{"children":["23 окт. 2026 г., 23:55 (МСК)"," —"," ","26 окт. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"244 678,12 ₽"}],["$","td",null,{"children":"36 701,72 ₽"}]]}]
+3a:["$","tr","55",{"className":"","children":[["$","td",null,{"children":["26 окт. 2026 г., 23:55 (МСК)"," —"," ","29 окт. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"237 337,76 ₽"}],["$","td",null,{"children":"35 600,66 ₽"}]]}]
+3b:["$","tr","56",{"className":"","children":[["$","td",null,{"children":["29 окт. 2026 г., 23:55 (МСК)"," —"," ","1 нояб. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"230 217,64 ₽"}],["$","td",null,{"children":"34 532,65 ₽"}]]}]
+3c:["$","tr","57",{"className":"","children":[["$","td",null,{"children":["1 нояб. 2026 г., 23:55 (МСК)"," —"," ","4 нояб. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"223 311,12 ₽"}],["$","td",null,{"children":"33 496,67 ₽"}]]}]
+3d:["$","tr","58",{"className":"","children":[["$","td",null,{"children":["4 нояб. 2026 г., 23:55 (МСК)"," —"," ","7 нояб. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"216 611,77 ₽"}],["$","td",null,{"children":"32 491,77 ₽"}]]}]
+3e:["$","tr","59",{"className":"","children":[["$","td",null,{"children":["7 нояб. 2026 г., 23:55 (МСК)"," —"," ","10 нояб. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"210 113,43 ₽"}],["$","td",null,{"children":"31 517,01 ₽"}]]}]
+3f:["$","tr","60",{"className":"","children":[["$","td",null,{"children":["10 нояб. 2026 г., 23:55 (МСК)"," —"," ","13 нояб. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"203 810,01 ₽"}],["$","td",null,{"children":"30 571,50 ₽"}]]}]
+40:["$","tr","61",{"className":"","children":[["$","td",null,{"children":["13 нояб. 2026 г., 23:55 (МСК)"," —"," ","16 нояб. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"197 695,72 ₽"}],["$","td",null,{"children":"29 654,36 ₽"}]]}]
+41:["$","tr","62",{"className":"","children":[["$","td",null,{"children":["16 нояб. 2026 г., 23:55 (МСК)"," —"," ","19 нояб. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"191 764,85 ₽"}],["$","td",null,{"children":"28 764,73 ₽"}]]}]
+42:["$","tr","63",{"className":"","children":[["$","td",null,{"children":["19 нояб. 2026 г., 23:55 (МСК)"," —"," ","22 нояб. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"186 011,90 ₽"}],["$","td",null,{"children":"27 901,79 ₽"}]]}]
+43:["$","tr","64",{"className":"","children":[["$","td",null,{"children":["22 нояб. 2026 г., 23:55 (МСК)"," —"," ","25 нояб. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"180 431,54 ₽"}],["$","td",null,{"children":"27 064,73 ₽"}]]}]
+44:["$","tr","65",{"className":"","children":[["$","td",null,{"children":["25 нояб. 2026 г., 23:55 (МСК)"," —"," ","28 нояб. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"175 018,59 ₽"}],["$","td",null,{"children":"26 252,79 ₽"}]]}]
+45:["$","tr","66",{"className":"","children":[["$","td",null,{"children":["28 нояб. 2026 г., 23:55 (МСК)"," —"," ","1 дек. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"169 768,04 ₽"}],["$","td",null,{"children":"25 465,21 ₽"}]]}]
+46:["$","tr","67",{"className":"","children":[["$","td",null,{"children":["1 дек. 2026 г., 23:55 (МСК)"," —"," ","4 дек. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"164 675 ₽"}],["$","td",null,{"children":"24 701,25 ₽"}]]}]
+47:["$","tr","68",{"className":"","children":[["$","td",null,{"children":["4 дек. 2026 г., 23:55 (МСК)"," —"," ","7 дек. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"159 734,75 ₽"}],["$","td",null,{"children":"23 960,21 ₽"}]]}]
+48:["$","tr","69",{"className":"","children":[["$","td",null,{"children":["7 дек. 2026 г., 23:55 (МСК)"," —"," ","10 дек. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"154 942,71 ₽"}],["$","td",null,{"children":"23 241,41 ₽"}]]}]
+49:["$","tr","70",{"className":"","children":[["$","td",null,{"children":["10 дек. 2026 г., 23:55 (МСК)"," —"," ","13 дек. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"150 294,42 ₽"}],["$","td",null,{"children":"22 544,16 ₽"}]]}]
+4a:["$","tr","71",{"className":"","children":[["$","td",null,{"children":["13 дек. 2026 г., 23:55 (МСК)"," —"," ","16 дек. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"145 785,60 ₽"}],["$","td",null,{"children":"21 867,84 ₽"}]]}]
+4b:["$","tr","72",{"className":"","children":[["$","td",null,{"children":["16 дек. 2026 г., 23:55 (МСК)"," —"," ","19 дек. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"141 411,97 ₽"}],["$","td",null,{"children":"21 211,80 ₽"}]]}]
+4c:["$","tr","73",{"className":"","children":[["$","td",null,{"children":["19 дек. 2026 г., 23:55 (МСК)"," —"," ","22 дек. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"137 169,66 ₽"}],["$","td",null,{"children":"20 575,45 ₽"}]]}]
+4d:["$","tr","74",{"className":"","children":[["$","td",null,{"children":["22 дек. 2026 г., 23:55 (МСК)"," —"," ","25 дек. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"133 054,57 ₽"}],["$","td",null,{"children":"19 958,19 ₽"}]]}]
+4e:["$","tr","75",{"className":"","children":[["$","td",null,{"children":["25 дек. 2026 г., 23:55 (МСК)"," —"," ","28 дек. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"129 062,94 ₽"}],["$","td",null,{"children":"19 359,44 ₽"}]]}]
+4f:["$","tr","76",{"className":"","children":[["$","td",null,{"children":["28 дек. 2026 г., 23:55 (МСК)"," —"," ","31 дек. 2026 г., 23:55 (МСК)"]}],["$","td",null,{"children":"125 191,04 ₽"}],["$","td",null,{"children":"18 778,66 ₽"}]]}]
+50:["$","span",null,{"children":["📎 ","Заключение об определении рыночной стоимости ТС.pdf"]}]
+51:["$","span",null,{"className":"size","children":"$undefined"}]
+52:["$","a","https://m-ets.ru/download/268531256/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202.pdf",{"href":"https://m-ets.ru/download/268531256/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 203615-МЭТС по лоту 2.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+53:["$","a","https://m-ets.ru/download/268531258/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202.pdf",{"href":"https://m-ets.ru/download/268531258/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 203615-МЭТС по лоту 2.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+54:["$","a","https://m-ets.ru/download/266677932/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%20%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/266677932/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%20%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Заключение об определении рыночной стоимости ТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+55:["$","a","https://m-ets.ru/download/268204956/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",{"href":"https://m-ets.ru/download/268204956/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 203615-МЭТС по лоту 3.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+56:["$","a","https://m-ets.ru/download/268204958/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",{"href":"https://m-ets.ru/download/268204958/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20203615-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 203615-МЭТС по лоту 3.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+57:["$","a","https://m-ets.ru/download/266677939/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%20%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/266677939/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%20%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Заключение об определении рыночной стоимости ТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+58:["$","a","https://m-ets.ru/download/266677945/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%BD%D0%B0%2012.01.2026.pdf",{"href":"https://m-ets.ru/download/266677945/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%BD%D0%B0%2012.01.2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о порядке условиях сроках реализации имущества должника на 12.01.2026.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+59:["$","a","https://m-ets.ru/download/266677947/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf",{"href":"https://m-ets.ru/download/266677947/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_автомобиля.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+5a:["$","a","https://m-ets.ru/download/266696386/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/266696386/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+5b:["$","a","https://m-ets.ru/download/268275676/%D0%A0%D0%B5%D0%BA%D0%B2%D0%B8%D0%B7%D0%B8%D1%82%D1%8B%20%D1%81%D1%87%D0%B5%D1%82%D0%B0.pdf",{"href":"https://m-ets.ru/download/268275676/%D0%A0%D0%B5%D0%BA%D0%B2%D0%B8%D0%B7%D0%B8%D1%82%D1%8B%20%D1%81%D1%87%D0%B5%D1%82%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Реквизиты счета.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Volkswagen Polo, 2020 года, 65 лс, 470000 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

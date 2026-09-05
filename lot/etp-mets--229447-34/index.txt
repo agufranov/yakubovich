@@ -1,0 +1,194 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229447-34",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229447-34","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229447-34","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=25","children":"Приморский край"}]]]}],["$","h1",null,{"children":"Земельный участок в Приморском крае, 1000 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"земельный участок, кадастровый (условный) номер: 25:28:050080:1399 . Местоположение установлено относительно ориентира, расположенного в границах участка. Почтовый адрес ориентира: край Приморский, г. Владивосток, массив \"Синяя Сопка\", с/т \"Витязь\", участок №774. Площадь, м2: 1000. Категория земель: земли населенных пунктов. Виды разрешенного использования: для ведения садово-огородного хозяйства. Вид, номер, дата государственной регистрации права: собственность, 25-25-06/013/2007-169, 11.05.2007г."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24301924",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Приморского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["10.09.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: запрет регистрационных действий на основании Определения Арбитражного суда Приморского края о принятии обеспечительных мер от 09.12.2024г. по делу о банкротстве № А51-18818/2023.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом возможно по предварительной договоренности с организатором торгов. Все расходы, связанные с проездом к местонахождению имущества, возлагаются на интересанта. Все расходы, связанные с переходом права собственности на Имущество, возлагаются на покупателя имущества.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 00:00 (МСК)"," —"," ","31 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"931 500 ₽"}],["$","td",null,{"children":"46 575 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 00:00 (МСК)"," —"," ","7 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"838 350 ₽"}],["$","td",null,{"children":"41 917,50 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 00:00 (МСК)"," —"," ","14 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"745 200 ₽"}],["$","td",null,{"children":"37 260 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 00:00 (МСК)"," —"," ","21 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"652 050 ₽"}],["$","td",null,{"children":"32 602,50 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 00:00 (МСК)"," —"," ","28 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"558 900 ₽"}],"$L11"]}],"$L12","$L13","$L14","$L15"]}]]}]]}],"$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","td",null,{"children":"27 945 ₽"}]
+12:["$","tr","6",{"className":"","children":[["$","td",null,{"children":["28 сент. 2026 г., 00:00 (МСК)"," —"," ","5 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"465 750 ₽"}],["$","td",null,{"children":"23 287,50 ₽"}]]}]
+13:["$","tr","7",{"className":"","children":[["$","td",null,{"children":["5 окт. 2026 г., 00:00 (МСК)"," —"," ","12 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"372 600 ₽"}],["$","td",null,{"children":"18 630 ₽"}]]}]
+14:["$","tr","8",{"className":"","children":[["$","td",null,{"children":["12 окт. 2026 г., 00:00 (МСК)"," —"," ","19 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"279 450 ₽"}],["$","td",null,{"children":"13 972,50 ₽"}]]}]
+15:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["19 окт. 2026 г., 00:00 (МСК)"," —"," ","26 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"186 300 ₽"}],["$","td",null,{"children":"9 315 ₽"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Сафин Игорь Равильевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=253902215014","children":"Сафин Игорь Равильевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","253902215014"]}],"$undefined"]}]]}],["$","tr","manager:Чаус Елена Владимировна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=253603849573","children":"Чаус Елена Владимировна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","253603849573"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация \"ДМСО\""]}]]}]]}],["$","tr","organizer:Чаус Елена Владимировна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=253603849573","children":"Чаус Елена Владимировна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","253603849573"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9051-18818%2F2023","children":"А51-18818/2023"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Приморский край"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268785267/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.pdf",{"href":"https://m-ets.ru/download/268785267/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268785269/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268785269/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи недвижимого имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T1b6c,{
+  "id": "etp-mets:229447-34",
+  "sourceCode": "etp-mets",
+  "externalId": "229447-34",
+  "sourceUrl": "https://m-ets.ru/229447-34",
+  "title": "Земельный участок в Приморском крае, 1000 кв.м.",
+  "description": "земельный участок, кадастровый (условный) номер: 25:28:050080:1399 . Местоположение установлено относительно ориентира, расположенного в границах участка. Почтовый адрес ориентира: край Приморский, г. Владивосток, массив \"Синяя Сопка\", с/т \"Витязь\", участок №774. Площадь, м2: 1000. Категория земель: земли населенных пунктов. Виды разрешенного использования: для ведения садово-огородного хозяйства. Вид, номер, дата государственной регистрации права: собственность, 25-25-06/013/2007-169, 11.05.2007г.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "25",
+  "address": "Приморский край",
+  "priceStart": "931500",
+  "priceMin": "186300.00",
+  "deposit": "46575.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-23T00:00:00+03:00",
+  "biddStartAt": "2026-08-24T00:00:00+03:00",
+  "biddEndAt": "2026-10-26T00:00:00+03:00",
+  "auctionAt": "2026-10-26T00:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А51-18818/2023",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Сафин Игорь Равильевич",
+      "inn": "253902215014",
+      "efrsbId": "90fcb155d001382b6c44c909f2cab2d0"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Чаус Елена Владимировна",
+      "inn": "253603849573",
+      "sro": "Ассоциация \"ДМСО\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Чаус Елена Владимировна",
+      "inn": "253603849573",
+      "email": "chaus_elenavl@mail.ru",
+      "phone": "+7 (964) 445 46 45"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-24T00:00:00+03:00",
+      "endAt": "2026-08-31T00:00:00+03:00",
+      "price": "931500.00",
+      "deposit": "46575.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-31T00:00:00+03:00",
+      "endAt": "2026-09-07T00:00:00+03:00",
+      "price": "838350.00",
+      "deposit": "41917.50"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-07T00:00:00+03:00",
+      "endAt": "2026-09-14T00:00:00+03:00",
+      "price": "745200.00",
+      "deposit": "37260.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-14T00:00:00+03:00",
+      "endAt": "2026-09-21T00:00:00+03:00",
+      "price": "652050.00",
+      "deposit": "32602.50"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-21T00:00:00+03:00",
+      "endAt": "2026-09-28T00:00:00+03:00",
+      "price": "558900.00",
+      "deposit": "27945.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-28T00:00:00+03:00",
+      "endAt": "2026-10-05T00:00:00+03:00",
+      "price": "465750.00",
+      "deposit": "23287.50"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-05T00:00:00+03:00",
+      "endAt": "2026-10-12T00:00:00+03:00",
+      "price": "372600.00",
+      "deposit": "18630.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-12T00:00:00+03:00",
+      "endAt": "2026-10-19T00:00:00+03:00",
+      "price": "279450.00",
+      "deposit": "13972.50"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-19T00:00:00+03:00",
+      "endAt": "2026-10-26T00:00:00+03:00",
+      "price": "186300.00",
+      "deposit": "9315.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268785267/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.pdf",
+      "name": "Договор о задатке.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268785269/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "Договор купли-продажи недвижимого имущества.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24301924",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Приморского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "10.09.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: запрет регистрационных действий на основании Определения Арбитражного суда Приморского края о принятии обеспечительных мер от 09.12.2024г. по делу о банкротстве № А51-18818/2023.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом возможно по предварительной договоренности с организатором торгов. Все расходы, связанные с проездом к местонахождению имущества, возлагаются на интересанта. Все расходы, связанные с переходом права собственности на Имущество, возлагаются на покупателя имущества.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:20:00.678Z",
+  "lastSeenAt": "2026-08-31T19:20:00.678Z",
+  "contentHash": "a4f3675a4989b39ee2b2b63710198b12ea487f8df0d4a26a3528334d9efc4cc0"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"838 350 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["745 200 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[7,", до ","186 300 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"931 500 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"46 575 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"22 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"24 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"26 окт. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"50 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"26 окт. 2026 г., 00:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Приморский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229447-34","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Приморском крае, 1000 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

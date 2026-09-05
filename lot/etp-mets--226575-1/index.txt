@@ -1,0 +1,236 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--226575-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--226575-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--226575-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=74","children":"Челябинская обл."}]]]}],["$","h1",null,{"children":"Lada Vesta, 2019 года, 122 лс, 116377 км, АКПП"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268544865/268544865_thumb_0.jpg","alt":"Lada Vesta, 2019 года, 122 лс, 116377 км, АКПП"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268544861/268544861_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544861/268544861_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544861/268544861_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544866/268544866_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544866/268544866_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544866/268544866_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544871/268544871_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544871/268544871_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544871/268544871_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544867/268544867_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544867/268544867_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544867/268544867_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544860/268544860_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544860/268544860_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544860/268544860_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544869/268544869_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544869/268544869_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544869/268544869_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544868/268544868_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544868/268544868_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544868/268544868_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544862/268544862_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544862/268544862_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544862/268544862_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544855/268544855_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544855/268544855_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544855/268544855_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544873/268544873_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544873/268544873_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544873/268544873_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544857/268544857_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544857/268544857_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$undefined","$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268544857/268544857_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",16," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268544874/268544874_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544874/268544874_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544874/268544874_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544856/268544856_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544856/268544856_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544856/268544856_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544863/268544863_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544863/268544863_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544863/268544863_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544875/268544875_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544875/268544875_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544875/268544875_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544858/268544858_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544858/268544858_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544858/268544858_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544870/268544870_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544870/268544870_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544870/268544870_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544876/268544876_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544876/268544876_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544876/268544876_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544864/268544864_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544864/268544864_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544864/268544864_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544872/268544872_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544872/268544872_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544872/268544872_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544859/268544859_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544859/268544859_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544859/268544859_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544882/268544882_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544882/268544882_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544882/268544882_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544877/268544877_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544877/268544877_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544877/268544877_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544878/268544878_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544878/268544878_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544878/268544878_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268544879/268544879_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544879/268544879_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L1a"}],"$L1b","$L1c"]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Тип - Автомобиль легковой, вид собственности - собственность, модель – LADA VESTA, 2019 г.в., VIN: XTAGFK320KY303085 Находится в собственности Гималова Виктора Закирьяновича, Находится в залоге у ПАО Банк ЗЕНИТ (ИНН 7729405872, КПП 997950001, ОГРН 1027739056927)"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Lada (ВАЗ)",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Vesta",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2019",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["116 377"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["122"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Робот",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XTAGFK320KY303085",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24099622",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Челябинской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["08.04.2026",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["37 440 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На момент опубликования объявления о проведении торгов по лоту №1 - обременения имеются. Имущество находится в залоге в пользу ПАО БАНК ЗЕНИТ, (ИНН 7729405872 ) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Челябинская область, Сосновский район, село Большое Баландино, ориентир заправка ТРК Геолокация: 55.371147, 61.453016, предварительно согласовав время с Финансовым управляющим по тел. +79191209158, либо путем направления запроса на электронную почту tatanikitinav@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема ... Показать полностью заявок. Во избежание претензий к Арбитражному управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Гималов Виктор Закирьянович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=740302282902","children":"Гималов Виктор Закирьянович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","740302282902"]}],"$undefined"]}]]}],["$","tr","manager:Никитина Татьяна Валерьевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=744301023596","children":"Никитина Татьяна Валерьевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","744301023596"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:НИКИТИНА ТАТЬЯНА ВАЛЕРЬЕВНА",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=744301023596","children":"НИКИТИНА ТАТЬЯНА ВАЛЕРЬЕВНА"}],["$","span",null,{"className":"muted","children":[" · ИНН ","744301023596"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО БАНК ЗЕНИТ",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7729405872","children":"ПАО БАНК ЗЕНИТ"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7729405872"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9076-6537%2F2026","children":"А76-6537/2026"}]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Челябинская область"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268544883/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A2%D0%A1.docx",{"href":"https://m-ets.ru/download/268544883/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A2%D0%A1.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП залог ТС.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268544885/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%B8%20%D0%B4%D0%BE%D0%BA-%D1%82%D1%8B%20%D0%BF%D0%BE%20%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/268544885/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%B8%20%D0%B4%D0%BE%D0%BA-%D1%82%D1%8B%20%D0%BF%D0%BE%20%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Фото и док-ты по ТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268544887/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%93%D0%B8%D0%BC%D0%B0%D0%BB%D0%BE%D0%B2.pdf",{"href":"https://m-ets.ru/download/268544887/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%93%D0%B8%D0%BC%D0%B0%D0%BB%D0%BE%D0%B2.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о порядке, сроках и условиях реализации имущества должника Гималов.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268544923/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268544923/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1d:T2961,{
+  "id": "etp-mets:226575-1",
+  "sourceCode": "etp-mets",
+  "externalId": "226575-1",
+  "sourceUrl": "https://m-ets.ru/226575-1",
+  "title": "Lada Vesta, 2019 года, 122 лс, 116377 км, АКПП",
+  "description": "Тип - Автомобиль легковой, вид собственности - собственность, модель – LADA VESTA, 2019 г.в., VIN: XTAGFK320KY303085 Находится в собственности Гималова Виктора Закирьяновича, Находится в залоге у ПАО Банк ЗЕНИТ (ИНН 7729405872, КПП 997950001, ОГРН 1027739056927)",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "74",
+  "address": "Челябинская область",
+  "priceStart": "748800",
+  "priceStep": "37440",
+  "deposit": "74880",
+  "currency": "RUB",
+  "publishedAt": "2026-06-29T00:00:00+03:00",
+  "biddStartAt": "2026-08-14T09:00:00+03:00",
+  "biddEndAt": "2026-09-18T09:00:00+03:00",
+  "auctionAt": "2026-09-18T11:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А76-6537/2026",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Гималов Виктор Закирьянович",
+      "inn": "740302282902",
+      "efrsbId": "dcaa27bcddaea75b1ba4710fdd9147b3"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Никитина Татьяна Валерьевна",
+      "inn": "744301023596",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "НИКИТИНА ТАТЬЯНА ВАЛЕРЬЕВНА",
+      "inn": "744301023596",
+      "email": "tatanikitinav@mail.ru",
+      "phone": "+7 (919) 120 91 58"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО БАНК ЗЕНИТ",
+      "inn": "7729405872"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268544865/268544865_thumb_0.jpg",
+    "https://m-ets.ru/download/268544861/268544861_thumb_0.jpg",
+    "https://m-ets.ru/download/268544866/268544866_thumb_0.jpg",
+    "https://m-ets.ru/download/268544871/268544871_thumb_0.jpg",
+    "https://m-ets.ru/download/268544867/268544867_thumb_0.jpg",
+    "https://m-ets.ru/download/268544860/268544860_thumb_0.jpg",
+    "https://m-ets.ru/download/268544869/268544869_thumb_0.jpg",
+    "https://m-ets.ru/download/268544868/268544868_thumb_0.jpg",
+    "https://m-ets.ru/download/268544862/268544862_thumb_0.jpg",
+    "https://m-ets.ru/download/268544855/268544855_thumb_0.jpg",
+    "https://m-ets.ru/download/268544873/268544873_thumb_0.jpg",
+    "https://m-ets.ru/download/268544857/268544857_thumb_0.jpg",
+    "https://m-ets.ru/download/268544874/268544874_thumb_0.jpg",
+    "https://m-ets.ru/download/268544856/268544856_thumb_0.jpg",
+    "https://m-ets.ru/download/268544863/268544863_thumb_0.jpg",
+    "https://m-ets.ru/download/268544875/268544875_thumb_0.jpg",
+    "https://m-ets.ru/download/268544858/268544858_thumb_0.jpg",
+    "https://m-ets.ru/download/268544870/268544870_thumb_0.jpg",
+    "https://m-ets.ru/download/268544876/268544876_thumb_0.jpg",
+    "https://m-ets.ru/download/268544864/268544864_thumb_0.jpg",
+    "https://m-ets.ru/download/268544872/268544872_thumb_0.jpg",
+    "https://m-ets.ru/download/268544859/268544859_thumb_0.jpg",
+    "https://m-ets.ru/download/268544882/268544882_thumb_0.jpg",
+    "https://m-ets.ru/download/268544877/268544877_thumb_0.jpg",
+    "https://m-ets.ru/download/268544878/268544878_thumb_0.jpg",
+    "https://m-ets.ru/download/268544879/268544879_thumb_0.jpg",
+    "https://m-ets.ru/download/268544880/268544880_thumb_0.jpg",
+    "https://m-ets.ru/download/268544881/268544881_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268544883/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A2%D0%A1.docx",
+      "name": "Проект ДКП залог ТС.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268544885/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%B8%20%D0%B4%D0%BE%D0%BA-%D1%82%D1%8B%20%D0%BF%D0%BE%20%D0%A2%D0%A1.pdf",
+      "name": "Фото и док-ты по ТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268544887/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%93%D0%B8%D0%BC%D0%B0%D0%BB%D0%BE%D0%B2.pdf",
+      "name": "Положение о порядке, сроках и условиях реализации имущества должника Гималов.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268544923/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Lada (ВАЗ)",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Vesta",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2019",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "116 377",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "122",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Робот",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XTAGFK320KY303085",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24099622",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Челябинской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "08.04.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "37 440 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На момент опубликования объявления о проведении торгов по лоту №1 - обременения имеются. Имущество находится в залоге в пользу ПАО БАНК ЗЕНИТ, (ИНН 7729405872 ) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Челябинская область, Сосновский район, село Большое Баландино, ориентир заправка ТРК Геолокация: 55.371147, 61.453016, предварительно согласовав время с Финансовым управляющим по тел. +79191209158, либо путем направления запроса на электронную почту tatanikitinav@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема ... Показать полностью заявок. Во избежание претензий к Арбитражному управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:40:08.452Z",
+  "lastSeenAt": "2026-08-31T19:40:08.452Z",
+  "contentHash": "e81178065fd79db40f4739820bd5a1fcab6d6d236e57ab60aac52ab7ccd9532b"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1d"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"748 800 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"37 440 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"74 880 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"28 июн. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"14 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"18 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"12 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"18 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Челябинская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/226575-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1a:["$","img",null,{"src":"https://m-ets.ru/download/268544879/268544879_thumb_0.jpg","alt":"","loading":"lazy"}]
+1b:["$","a","https://m-ets.ru/download/268544880/268544880_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544880/268544880_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544880/268544880_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1c:["$","a","https://m-ets.ru/download/268544881/268544881_thumb_0.jpg",{"href":"https://m-ets.ru/download/268544881/268544881_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268544881/268544881_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Lada Vesta, 2019 года, 122 лс, 116377 км, АКПП — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

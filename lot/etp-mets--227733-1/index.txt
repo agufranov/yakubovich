@@ -1,0 +1,269 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--227733-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--227733-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--227733-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=48","children":"Липецкая обл."}]]]}],["$","h1",null,{"children":"Nissan Teana, 2011 года, 182 лс, АКПП"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268624569/268624569_thumb_0.jpg","alt":"Nissan Teana, 2011 года, 182 лс, АКПП"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268624572/268624572_thumb_0.jpg",{"href":"https://m-ets.ru/download/268624572/268624572_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268624572/268624572_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268624564/268624564_thumb_0.jpg",{"href":"https://m-ets.ru/download/268624564/268624564_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268624564/268624564_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268624565/268624565_thumb_0.jpg",{"href":"https://m-ets.ru/download/268624565/268624565_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268624565/268624565_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268624563/268624563_thumb_270.jpg",{"href":"https://m-ets.ru/download/268624563/268624563_thumb_270.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268624563/268624563_thumb_270.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268624566/268624566_thumb_90.jpg",{"href":"https://m-ets.ru/download/268624566/268624566_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268624566/268624566_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268624570/268624570_thumb_0.jpg",{"href":"https://m-ets.ru/download/268624570/268624570_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268624570/268624570_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268624575/268624575_thumb_0.jpg",{"href":"https://m-ets.ru/download/268624575/268624575_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268624575/268624575_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268624562/268624562_thumb_0.jpg",{"href":"https://m-ets.ru/download/268624562/268624562_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268624562/268624562_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268624574/268624574_thumb_270.jpg",{"href":"https://m-ets.ru/download/268624574/268624574_thumb_270.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268624574/268624574_thumb_270.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268624573/268624573_thumb_270.jpg",{"href":"https://m-ets.ru/download/268624573/268624573_thumb_270.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268624573/268624573_thumb_270.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль NISSAN TEANA, регистрационный знак Р 733 ОХ 48, наименование ТС легковой седан, VIN: Z8NBBUJ32BS028354, год выпуска ТС 2011, категория ТС В/М1, шасси (рама) № отсутствует, модель № двигателя VQ75 737477A, № кузова Z8NBBUJ32BS028354, цвет черный."}]]}],"$L11","$L12","$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Nissan",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Teana",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2011",""]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["182"," л.с."]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Автоматическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["Z8NBBUJ32BS028354",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24157627",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Липецкой области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["28.08.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Неустранимых обременений нет. Обременения снимаются по результатам торгов (ПАО ВТБ)",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом, входящим в лот №1 осуществляется по месту его нахождения, осуществляется при условии предварительного согласования даты и времени с организатором торгов, дополнительные сведения об имуществе, его характеристиках, порядке ознакомления с ним, порядке участия в торгах можно получить у организатора торгов в рабочие дни с 10.00 до 17.00 в период приема заявок на участие в торгах по предварительной договоренности по тел.8 9611844755, либо по адресу электронной почты: rodushkin-au@yandex.ru.",""]}]]}]]}]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["14 авг. 2026 г., 14:00 (МСК)"," —"," ","21 авг. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"945 000 ₽"}],["$","td",null,{"children":"94 500 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 14:00 (МСК)"," —"," ","28 авг. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"850 500 ₽"}],["$","td",null,{"children":"85 050 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["28 авг. 2026 г., 14:00 (МСК)"," —"," ","4 сент. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"756 000 ₽"}],["$","td",null,{"children":"75 600 ₽"}]]}],["$","tr","4",{"className":"now","children":[["$","td",null,{"children":["4 сент. 2026 г., 14:00 (МСК)"," —"," ","11 сент. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"661 500 ₽"}],["$","td",null,{"children":"66 150 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["11 сент. 2026 г., 14:00 (МСК)"," —"," ","18 сент. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"567 000 ₽"}],["$","td",null,{"children":"56 700 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["18 сент. 2026 г., 14:00 (МСК)"," —"," ","25 сент. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"472 500 ₽"}],["$","td",null,{"children":"47 250 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["25 сент. 2026 г., 14:00 (МСК)"," —"," ","2 окт. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"378 000 ₽"}],["$","td",null,{"children":"37 800 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["2 окт. 2026 г., 14:00 (МСК)"," —"," ","9 окт. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"283 500 ₽"}],["$","td",null,{"children":"28 350 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["9 окт. 2026 г., 14:00 (МСК)"," —"," ","16 окт. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"189 000 ₽"}],["$","td",null,{"children":"18 900 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["16 окт. 2026 г., 14:00 (МСК)"," —"," ","23 окт. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"94 500 ₽"}],["$","td",null,{"children":"9 450 ₽"}]]}]]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Дмитриев Алексей Владимирович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=480800777503","children":"Дмитриев Алексей Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","480800777503"]}],"$undefined"]}]]}],["$","tr","manager:Родюшкин Илья Сергеевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=026825774190","children":"Родюшкин Илья Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","026825774190"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация СРО \"Эгида\""]}]]}]]}],["$","tr","organizer:Родюшкин Илья Сергеевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=026825774190","children":"Родюшкин Илья Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","026825774190"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9036-3092%2F2024","children":"А36-3092/2024"}]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Липецкая область"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268624567/%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.pdf",{"href":"https://m-ets.ru/download/268624567/%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","заключение.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268624576/%D0%A1%D1%87%D0%B5%D1%82.pdf",{"href":"https://m-ets.ru/download/268624576/%D0%A1%D1%87%D0%B5%D1%82.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Счет.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268624578/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf",{"href":"https://m-ets.ru/download/268624578/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект Договор купли продажи.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268624580/%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.pdf",{"href":"https://m-ets.ru/download/268624580/%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","заключение.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268624582/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B0%20-%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.pdf",{"href":"https://m-ets.ru/download/268624582/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B0%20-%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор задатка - машина.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268624584/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20(%D0%BD%D0%B0%207-%D0%B8%20%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D1%85).pdf",{"href":"https://m-ets.ru/download/268624584/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20(%D0%BD%D0%B0%207-%D0%B8%20%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D1%85).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о торгах (на 7-и листах).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T24be,{
+  "id": "etp-mets:227733-1",
+  "sourceCode": "etp-mets",
+  "externalId": "227733-1",
+  "sourceUrl": "https://m-ets.ru/227733-1",
+  "title": "Nissan Teana, 2011 года, 182 лс, АКПП",
+  "description": "Легковой автомобиль NISSAN TEANA, регистрационный знак Р 733 ОХ 48, наименование ТС легковой седан, VIN: Z8NBBUJ32BS028354, год выпуска ТС 2011, категория ТС В/М1, шасси (рама) № отсутствует, модель № двигателя VQ75 737477A, № кузова Z8NBBUJ32BS028354, цвет черный.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "48",
+  "address": "Липецкая область",
+  "priceStart": "945000",
+  "priceMin": "94500.00",
+  "deposit": "94500.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-13T00:00:00+03:00",
+  "biddStartAt": "2026-08-14T14:00:00+03:00",
+  "biddEndAt": "2026-10-23T14:00:00+03:00",
+  "auctionAt": "2026-10-23T14:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А36-3092/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Дмитриев Алексей Владимирович",
+      "inn": "480800777503",
+      "efrsbId": "0716466bfd5498bbd11472ec5ef63271"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Родюшкин Илья Сергеевич",
+      "inn": "026825774190",
+      "sro": "Ассоциация СРО \"Эгида\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Родюшкин Илья Сергеевич",
+      "inn": "026825774190",
+      "email": "rodushkin-au@yandex.ru",
+      "phone": "+7 (919) 154 87 85"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-14T14:00:00+03:00",
+      "endAt": "2026-08-21T14:00:00+03:00",
+      "price": "945000.00",
+      "deposit": "94500.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-21T14:00:00+03:00",
+      "endAt": "2026-08-28T14:00:00+03:00",
+      "price": "850500.00",
+      "deposit": "85050.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-28T14:00:00+03:00",
+      "endAt": "2026-09-04T14:00:00+03:00",
+      "price": "756000.00",
+      "deposit": "75600.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-04T14:00:00+03:00",
+      "endAt": "2026-09-11T14:00:00+03:00",
+      "price": "661500.00",
+      "deposit": "66150.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-11T14:00:00+03:00",
+      "endAt": "2026-09-18T14:00:00+03:00",
+      "price": "567000.00",
+      "deposit": "56700.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-18T14:00:00+03:00",
+      "endAt": "2026-09-25T14:00:00+03:00",
+      "price": "472500.00",
+      "deposit": "47250.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-25T14:00:00+03:00",
+      "endAt": "2026-10-02T14:00:00+03:00",
+      "price": "378000.00",
+      "deposit": "37800.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-02T14:00:00+03:00",
+      "endAt": "2026-10-09T14:00:00+03:00",
+      "price": "283500.00",
+      "deposit": "28350.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-09T14:00:00+03:00",
+      "endAt": "2026-10-16T14:00:00+03:00",
+      "price": "189000.00",
+      "deposit": "18900.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-10-16T14:00:00+03:00",
+      "endAt": "2026-10-23T14:00:00+03:00",
+      "price": "94500.00",
+      "deposit": "9450.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268624569/268624569_thumb_0.jpg",
+    "https://m-ets.ru/download/268624572/268624572_thumb_0.jpg",
+    "https://m-ets.ru/download/268624564/268624564_thumb_0.jpg",
+    "https://m-ets.ru/download/268624565/268624565_thumb_0.jpg",
+    "https://m-ets.ru/download/268624563/268624563_thumb_270.jpg",
+    "https://m-ets.ru/download/268624566/268624566_thumb_90.jpg",
+    "https://m-ets.ru/download/268624570/268624570_thumb_0.jpg",
+    "https://m-ets.ru/download/268624575/268624575_thumb_0.jpg",
+    "https://m-ets.ru/download/268624562/268624562_thumb_0.jpg",
+    "https://m-ets.ru/download/268624574/268624574_thumb_270.jpg",
+    "https://m-ets.ru/download/268624573/268624573_thumb_270.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268624567/%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.pdf",
+      "name": "заключение.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268624576/%D0%A1%D1%87%D0%B5%D1%82.pdf",
+      "name": "Счет.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268624578/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf",
+      "name": "Проект Договор купли продажи.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268624580/%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.pdf",
+      "name": "заключение.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268624582/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B0%20-%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.pdf",
+      "name": "Договор задатка - машина.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268624584/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20(%D0%BD%D0%B0%207-%D0%B8%20%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D1%85).pdf",
+      "name": "Положение о торгах (на 7-и листах).pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Nissan",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Teana",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2011",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "182",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Автоматическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "Z8NBBUJ32BS028354",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24157627",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Липецкой области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "28.08.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Неустранимых обременений нет. Обременения снимаются по результатам торгов (ПАО ВТБ)",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом, входящим в лот №1 осуществляется по месту его нахождения, осуществляется при условии предварительного согласования даты и времени с организатором торгов, дополнительные сведения об имуществе, его характеристиках, порядке ознакомления с ним, порядке участия в торгах можно получить у организатора торгов в рабочие дни с 10.00 до 17.00 в период приема заявок на участие в торгах по предварительной договоренности по тел.8 9611844755, либо по адресу электронной почты: rodushkin-au@yandex.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:18:24.324Z",
+  "lastSeenAt": "2026-08-31T18:18:24.324Z",
+  "contentHash": "8af145c98458ea58eacbbf7d640bc741fab62f66a8e1d16f6f1beac923f50d20"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"661 500 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["567 000 ₽",["$","span",null,{"className":"muted","children":[" ","· ","11 сент. 2026 г., 14:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[6,", до ","94 500 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"945 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"94 500 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"12 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"14 авг. 2026 г., 14:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"23 окт. 2026 г., 14:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"47 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"23 окт. 2026 г., 14:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Липецкая обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/227733-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Nissan Teana, 2011 года, 182 лс, АКПП — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

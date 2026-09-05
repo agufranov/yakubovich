@@ -1,0 +1,295 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--219917-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--219917-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--219917-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=56","children":"Оренбургская обл."}]]]}],["$","h1",null,{"children":"Lada Priora, 2012 года, 97 лс"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268035853/268035853_thumb_0.jpg","alt":"Lada Priora, 2012 года, 97 лс"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268035843/268035843_thumb_0.jpg",{"href":"https://m-ets.ru/download/268035843/268035843_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268035843/268035843_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268035854/268035854_thumb_0.jpg",{"href":"https://m-ets.ru/download/268035854/268035854_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268035854/268035854_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268035842/268035842_thumb_0.jpg",{"href":"https://m-ets.ru/download/268035842/268035842_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268035842/268035842_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268035846/268035846_thumb_0.jpg",{"href":"https://m-ets.ru/download/268035846/268035846_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268035846/268035846_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268035848/268035848_thumb_0.jpg",{"href":"https://m-ets.ru/download/268035848/268035848_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268035848/268035848_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268035849/268035849_thumb_0.jpg",{"href":"https://m-ets.ru/download/268035849/268035849_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268035849/268035849_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268035855/268035855_thumb_0.jpg",{"href":"https://m-ets.ru/download/268035855/268035855_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268035855/268035855_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268035852/268035852_thumb_0.jpg",{"href":"https://m-ets.ru/download/268035852/268035852_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268035852/268035852_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268035851/268035851_thumb_0.jpg",{"href":"https://m-ets.ru/download/268035851/268035851_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268035851/268035851_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268035845/268035845_thumb_0.jpg",{"href":"https://m-ets.ru/download/268035845/268035845_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268035845/268035845_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268035844/268035844_thumb_0.jpg",{"href":"https://m-ets.ru/download/268035844/268035844_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268035844/268035844_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",1," ","фотография"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268035847/268035847_thumb_0.jpg",{"href":"https://m-ets.ru/download/268035847/268035847_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268035847/268035847_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Автомобиль легковой, марка: LADA, модель: 217230 ЛАДА ПРИОРА, VIN: XTA217230C0221700, гос. рег. номер: О656ОХ56, год изготовления: 2012"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Lada (ВАЗ)",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Priora",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2012",""]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["97"," л.с."]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XTA217230C0221700",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23664432",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Оренбургской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["04.06.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На момент опубликования объявления о проведении торгов по лоту №1 - обременения имеются. Запрет на регистрационные действия Документ: 483498150/5641 от 15.09.2025, Селяева Мария Сергеевна, СПИ: 53411483311483, ИП: 749446/25/56041-ИП от 12.09.2025 В соответствии с абз. 4 п. 5 ст. 213.25 ФЗ «О несостоятельности (банкротстве)» от 26 октября 2002 г. № 127-ФЗ с даты признания гражданина банкротом снимаются ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью ранее наложенные аресты на имущество гражданина и иные ограничения распоряжения имуществом гражданина. Имущество находится в залоге у ООО МФК \"ОНЛАЙНЕР\" (ИНН 5405060085) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С ЛОТОМ №1 можно ознакомиться по месту его нахождения: г. Орск, ул. Челябинская, д. 10 , предварительно согласовав время с Финансовым управляющим по тел. +79128006642, либо путем направления запроса на электронную почту trifonova-a-a@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, относительно технического ... Показать полностью состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["15 июл. 2026 г., 09:00 (МСК)"," —"," ","22 июл. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"91 800 ₽"}],["$","td",null,{"children":"9 180 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["22 июл. 2026 г., 09:00 (МСК)"," —"," ","29 июл. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"87 210 ₽"}],["$","td",null,{"children":"8 721 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["29 июл. 2026 г., 09:00 (МСК)"," —"," ","5 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"82 620 ₽"}],["$","td",null,{"children":"8 262 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["5 авг. 2026 г., 09:00 (МСК)"," —"," ","12 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"78 030 ₽"}],["$","td",null,{"children":"7 803 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["12 авг. 2026 г., 09:00 (МСК)"," —"," ","19 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"73 440 ₽"}],["$","td",null,{"children":"7 344 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["19 авг. 2026 г., 09:00 (МСК)"," —"," ","26 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"68 850 ₽"}],["$","td",null,{"children":"6 885 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 09:00 (МСК)"," —"," ","2 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"64 260 ₽"}],["$","td",null,{"children":"6 426 ₽"}]]}],["$","tr","8",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 09:00 (МСК)"," —"," ","9 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"59 670 ₽"}],["$","td",null,{"children":"5 967 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["9 сент. 2026 г., 09:00 (МСК)"," —"," ","16 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"55 080 ₽"}],["$","td",null,{"children":"5 508 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["16 сент. 2026 г., 09:00 (МСК)"," —"," ","23 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"50 490 ₽"}],["$","td",null,{"children":"5 049 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["23 сент. 2026 г., 09:00 (МСК)"," —"," ","30 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"45 900 ₽"}],["$","td",null,{"children":"4 590 ₽"}]]}],["$","tr","12",{"className":"","children":[["$","td",null,{"children":["30 сент. 2026 г., 09:00 (МСК)"," —"," ","7 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"41 310 ₽"}],["$","td",null,{"children":"4 131 ₽"}]]}],["$","tr","13",{"className":"","children":[["$","td",null,{"children":["7 окт. 2026 г., 09:00 (МСК)"," —"," ","14 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"36 720 ₽"}],["$","td",null,{"children":"3 672 ₽"}]]}],["$","tr","14",{"className":"","children":[["$","td",null,{"children":["14 окт. 2026 г., 09:00 (МСК)"," —"," ","21 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"32 130 ₽"}],["$","td",null,{"children":"3 213 ₽"}]]}],["$","tr","15",{"className":"","children":[["$","td",null,{"children":["21 окт. 2026 г., 09:00 (МСК)"," —"," ","28 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"27 540 ₽"}],["$","td",null,{"children":"2 754 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Аскаров Дамир Асылжанович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=561442688122","children":"Аскаров Дамир Асылжанович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","561442688122"]}],"$undefined"]}]]}],["$","tr","manager:Трифонова Анастасия Андреевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=452403271240","children":"Трифонова Анастасия Андреевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","452403271240"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:ТРИФОНОВА АНАСТАСИЯ АНДРЕЕВНА",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=452403271240","children":"ТРИФОНОВА АНАСТАСИЯ АНДРЕЕВНА"}],["$","span",null,{"className":"muted","children":[" · ИНН ","452403271240"]}],"$undefined"]}]]}],["$","tr","pledgee:ООО МКК \"КАРАНГА\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=5405060085","children":"ООО МКК \"КАРАНГА\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","5405060085"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9047-7170%2F2025","children":"А47-7170/2025"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Оренбургская область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268035867/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268035867/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268035869/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC).docx",{"href":"https://m-ets.ru/download/268035869/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП на ЭТП (ТС с залогом).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268035871/%D0%92%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%8D%D0%BB%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%B0%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%20%D0%90%D1%81%D0%BA%D0%B0%D1%80%D0%BE%D0%B2%20%D0%BE%D1%82%2003.07.2026.pdf",{"href":"https://m-ets.ru/download/268035871/%D0%92%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%8D%D0%BB%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%B0%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%20%D0%90%D1%81%D0%BA%D0%B0%D1%80%D0%BE%D0%B2%20%D0%BE%D1%82%2003.07.2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Вторые торги Положение эл торги без аукциона Аскаров от 03.07.2026.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268035873/18.%20%D0%A1%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/268035873/18.%20%D0%A1%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","18. СТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T2df0,{
+  "id": "etp-mets:219917-1",
+  "sourceCode": "etp-mets",
+  "externalId": "219917-1",
+  "sourceUrl": "https://m-ets.ru/219917-1",
+  "title": "Lada Priora, 2012 года, 97 лс",
+  "description": "Автомобиль легковой, марка: LADA, модель: 217230 ЛАДА ПРИОРА, VIN: XTA217230C0221700, гос. рег. номер: О656ОХ56, год изготовления: 2012",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "56",
+  "address": "Оренбургская область",
+  "priceStart": "91800",
+  "priceMin": "27540.00",
+  "deposit": "9180.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-08T00:00:00+03:00",
+  "biddStartAt": "2026-07-15T09:00:00+03:00",
+  "biddEndAt": "2026-10-28T09:00:00+03:00",
+  "auctionAt": "2026-10-28T11:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А47-7170/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Аскаров Дамир Асылжанович",
+      "inn": "561442688122",
+      "efrsbId": "a163f28f1eb282990104878289219e87"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Трифонова Анастасия Андреевна",
+      "inn": "452403271240",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "ТРИФОНОВА АНАСТАСИЯ АНДРЕЕВНА",
+      "inn": "452403271240",
+      "email": "trifonova-a-a@mail.ru",
+      "phone": "+7 (912) 800 66 42"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ООО МКК \"КАРАНГА\"",
+      "inn": "5405060085"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-15T09:00:00+03:00",
+      "endAt": "2026-07-22T09:00:00+03:00",
+      "price": "91800.00",
+      "deposit": "9180.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-22T09:00:00+03:00",
+      "endAt": "2026-07-29T09:00:00+03:00",
+      "price": "87210.00",
+      "deposit": "8721.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-07-29T09:00:00+03:00",
+      "endAt": "2026-08-05T09:00:00+03:00",
+      "price": "82620.00",
+      "deposit": "8262.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-05T09:00:00+03:00",
+      "endAt": "2026-08-12T09:00:00+03:00",
+      "price": "78030.00",
+      "deposit": "7803.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-12T09:00:00+03:00",
+      "endAt": "2026-08-19T09:00:00+03:00",
+      "price": "73440.00",
+      "deposit": "7344.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-19T09:00:00+03:00",
+      "endAt": "2026-08-26T09:00:00+03:00",
+      "price": "68850.00",
+      "deposit": "6885.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-26T09:00:00+03:00",
+      "endAt": "2026-09-02T09:00:00+03:00",
+      "price": "64260.00",
+      "deposit": "6426.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-02T09:00:00+03:00",
+      "endAt": "2026-09-09T09:00:00+03:00",
+      "price": "59670.00",
+      "deposit": "5967.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-09T09:00:00+03:00",
+      "endAt": "2026-09-16T09:00:00+03:00",
+      "price": "55080.00",
+      "deposit": "5508.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-09-16T09:00:00+03:00",
+      "endAt": "2026-09-23T09:00:00+03:00",
+      "price": "50490.00",
+      "deposit": "5049.00"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-09-23T09:00:00+03:00",
+      "endAt": "2026-09-30T09:00:00+03:00",
+      "price": "45900.00",
+      "deposit": "4590.00"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-09-30T09:00:00+03:00",
+      "endAt": "2026-10-07T09:00:00+03:00",
+      "price": "41310.00",
+      "deposit": "4131.00"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-10-07T09:00:00+03:00",
+      "endAt": "2026-10-14T09:00:00+03:00",
+      "price": "36720.00",
+      "deposit": "3672.00"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-10-14T09:00:00+03:00",
+      "endAt": "2026-10-21T09:00:00+03:00",
+      "price": "32130.00",
+      "deposit": "3213.00"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-10-21T09:00:00+03:00",
+      "endAt": "2026-10-28T09:00:00+03:00",
+      "price": "27540.00",
+      "deposit": "2754.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268035853/268035853_thumb_0.jpg",
+    "https://m-ets.ru/download/268035843/268035843_thumb_0.jpg",
+    "https://m-ets.ru/download/268035854/268035854_thumb_0.jpg",
+    "https://m-ets.ru/download/268035842/268035842_thumb_0.jpg",
+    "https://m-ets.ru/download/268035846/268035846_thumb_0.jpg",
+    "https://m-ets.ru/download/268035848/268035848_thumb_0.jpg",
+    "https://m-ets.ru/download/268035849/268035849_thumb_0.jpg",
+    "https://m-ets.ru/download/268035855/268035855_thumb_0.jpg",
+    "https://m-ets.ru/download/268035852/268035852_thumb_0.jpg",
+    "https://m-ets.ru/download/268035851/268035851_thumb_0.jpg",
+    "https://m-ets.ru/download/268035845/268035845_thumb_0.jpg",
+    "https://m-ets.ru/download/268035844/268035844_thumb_0.jpg",
+    "https://m-ets.ru/download/268035847/268035847_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268035867/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268035869/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC).docx",
+      "name": "Проект ДКП на ЭТП (ТС с залогом).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268035871/%D0%92%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%8D%D0%BB%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%B0%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%20%D0%90%D1%81%D0%BA%D0%B0%D1%80%D0%BE%D0%B2%20%D0%BE%D1%82%2003.07.2026.pdf",
+      "name": "Вторые торги Положение эл торги без аукциона Аскаров от 03.07.2026.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268035873/18.%20%D0%A1%D0%A2%D0%A1.pdf",
+      "name": "18. СТС.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Lada (ВАЗ)",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Priora",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2012",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "97",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XTA217230C0221700",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23664432",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Оренбургской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "04.06.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На момент опубликования объявления о проведении торгов по лоту №1 - обременения имеются. Запрет на регистрационные действия Документ: 483498150/5641 от 15.09.2025, Селяева Мария Сергеевна, СПИ: 53411483311483, ИП: 749446/25/56041-ИП от 12.09.2025 В соответствии с абз. 4 п. 5 ст. 213.25 ФЗ «О несостоятельности (банкротстве)» от 26 октября 2002 г. № 127-ФЗ с даты признания гражданина банкротом снимаются ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью ранее наложенные аресты на имущество гражданина и иные ограничения распоряжения имуществом гражданина. Имущество находится в залоге у ООО МФК \"ОНЛАЙНЕР\" (ИНН 5405060085) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: г. Орск, ул. Челябинская, д. 10 , предварительно согласовав время с Финансовым управляющим по тел. +79128006642, либо путем направления запроса на электронную почту trifonova-a-a@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, относительно технического ... Показать полностью состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:47:20.587Z",
+  "lastSeenAt": "2026-08-31T17:47:20.587Z",
+  "contentHash": "b4a9debd9a6cdffa18340f3d5d01b453ccb3b2b9cae8db5a2ef0e3e721aa46de"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"59 670 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["55 080 ₽",["$","span",null,{"className":"muted","children":[" ","· ","9 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[7,", до ","27 540 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"91 800 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"9 180 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"7 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"15 июл. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"28 окт. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"52 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"28 окт. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Оренбургская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/219917-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Lada Priora, 2012 года, 97 лс — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,82 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","itender-arbbitlot--auctions_41487",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","itender-arbbitlot--auctions_41487","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","itender-arbbitlot--auctions_41487","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:T8a1,{
+  "id": "itender-arbbitlot:auctions_41487",
+  "sourceCode": "itender-arbbitlot",
+  "externalId": "auctions_41487",
+  "sourceUrl": "https://torgi.arbbitlot.ru/public/auctions/lots/view/41487/",
+  "title": "Земельный участок, площадь 4028 +/- 24 кв.м., адрес (местонахождение): Россия, обл Тамбовская, р-н Уваровский, с Вольная Вершина, ул Центральная, дом 88, кадастровый (условный) номер: 68:22:0401001:82 Находится в долевой собственности, размер доли: 1/2",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству (127-ФЗ)",
+  "tradeKind": "auction",
+  "tradeKindRaw": "auctions",
+  "status": "published",
+  "statusRaw": "Извещение опубликовано",
+  "kind": "land",
+  "categoryName": "Земельные участки",
+  "priceStart": "180000.00",
+  "priceStep": "9000.00",
+  "deposit": "18000.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-26T00:00:00+03:00",
+  "biddStartAt": "2026-08-31T10:00:00+03:00",
+  "biddEndAt": "2026-10-08T10:00:00+03:00",
+  "auctionAt": "2026-10-14T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "arbbitlot",
+  "images": [],
+  "attachments": [],
+  "attributes": [
+    {
+      "key": "efrsbMessageId",
+      "name": "Номер сообщения в ЕФРСБ",
+      "value": "23673562",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbClassifier",
+      "name": "Классификатор ЕФРСБ",
+      "value": "Земельные участки",
+      "source": "structured"
+    },
+    {
+      "key": "repeatTrades",
+      "name": "Повторные торги",
+      "value": "Да",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Шаг, % от начальной цены",
+      "value": "5,00",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-26T18:41:35.462Z",
+  "lastSeenAt": "2026-08-26T18:41:35.462Z",
+  "contentHash": "0c551560375b966092a0dc3da72dcf01da368c7a3995e8ed126c7c631bfb3297"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],"$undefined"]}],["$","h1",null,{"children":"Земельный участок, площадь 4028 +/- 24 кв.м., адрес (местонахождение): Россия, обл Тамбовская, р-н Уваровский, с Вольная Вершина, ул Центральная, дом 88, кадастровый (условный) номер: 68:22:0401001:82 Находится в долевой собственности, размер доли: 1/2"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Земельные участки"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined","$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbMessageId",{"children":[["$","td",null,{"children":"Номер сообщения в ЕФРСБ"}],["$","td",null,{"children":["23673562",""]}]]}],["$","tr","efrsbClassifier",{"children":[["$","td",null,{"children":"Классификатор ЕФРСБ"}],["$","td",null,{"children":["Земельные участки",""]}]]}],["$","tr","repeatTrades",{"children":[["$","td",null,{"children":"Повторные торги"}],["$","td",null,{"children":["Да",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Шаг, % от начальной цены"}],["$","td",null,{"children":["5,00",""]}]]}]]}]}]]}],"$undefined","$undefined","$undefined",false,false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"180 000 ₽"]}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18"]}]}]]}]]}]
+12:["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"9 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"18 000 ₽"}]]]}]
+13:["$","hr",null,{"className":"divider"}]
+14:["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"31 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"8 окт. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"32 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"14 окт. 2026 г., 10:00 (МСК)"}]]]}]
+15:["$","hr",null,{"className":"divider"}]
+16:["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=arbbitlot","children":"Арббитлот"}]}]]]}]
+17:["$","a",null,{"className":"btn primary big","href":"https://torgi.arbbitlot.ru/public/auctions/lots/view/41487/","target":"_blank","rel":"noopener","children":["Смотреть на ","torgi.arbbitlot.ru"," →"]}]
+18:["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок, площадь 4028 +/- 24 кв.м., адрес (местонахождение): Россия, обл Тамбовс — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

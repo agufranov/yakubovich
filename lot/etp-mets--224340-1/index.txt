@@ -1,0 +1,347 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--224340-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--224340-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--224340-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=91","children":"Крым"}]]]}],["$","h1",null,{"children":"Chevrolet Cruze, 2011 года, 141 лс, 100000 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268377118/268377118_thumb_0.jpg","alt":"Chevrolet Cruze, 2011 года, 141 лс, 100000 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268377115/268377115_thumb_0.jpg",{"href":"https://m-ets.ru/download/268377115/268377115_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268377115/268377115_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268377113/268377113_thumb_0.jpg",{"href":"https://m-ets.ru/download/268377113/268377113_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268377113/268377113_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268377120/268377120_thumb_0.jpg",{"href":"https://m-ets.ru/download/268377120/268377120_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268377120/268377120_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268377121/268377121_thumb_0.jpg",{"href":"https://m-ets.ru/download/268377121/268377121_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268377121/268377121_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268377116/268377116_thumb_0.jpg",{"href":"https://m-ets.ru/download/268377116/268377116_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268377116/268377116_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268377117/268377117_thumb_0.jpg",{"href":"https://m-ets.ru/download/268377117/268377117_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268377117/268377117_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268377114/268377114_thumb_0.jpg",{"href":"https://m-ets.ru/download/268377114/268377114_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268377114/268377114_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268377122/268377122_thumb_0.jpg",{"href":"https://m-ets.ru/download/268377122/268377122_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268377122/268377122_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268377124/268377124_thumb_0.jpg",{"href":"https://m-ets.ru/download/268377124/268377124_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268377124/268377124_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268377123/268377123_thumb_0.jpg",{"href":"https://m-ets.ru/download/268377123/268377123_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268377123/268377123_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"ШЕВРОЛЕ CRUZE, год выпуска 2011, гос. номер H925XB82, вин номер: XUFJF695JB3030926. Плохая работа двигателя, требующего капитального ремонта. Днище кузова гнилое, вырван кусок подкрыльника, вмятина на пороге у левой задней двери, потрескана краска автомобиля, кожа на торпеде слезает, водительское сиденье потерто. Автомобиль находился в эксплуатации и является бывшим в употреблении; может иметь скрытые недостатки (неисправности), которые являются следствием эксплуатационных дефектов или естественного износа любых узлов, агрегатов и комплектующих, а также следствием ненадлежащего использования, ремонта или технического обслуживания. В настоящее время пробег неизвестен."}]]}],"$L11","$L12","$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Chevrolet",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Cruze",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2011",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["100 000"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["141"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XUFJF695JB3030926",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23960777",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Республики Крым",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["12.08.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Обращаю внимание, что на Имущество зарегистрировано ограничение (обременение) права: находится в залоге у ПАО «Банк ВТБ».",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Для получения всей имеющейся информации о лоте (в том числе фото) необходимо направить запрос на адрес эл. почты (в теме письма указать ФИО должника): abdukhairov.torg@yandex.ru либо по телефону +79782864627 Обращаю внимание, что на Имущество зарегистрировано ограничение (обременение) права: находится в залоге у ПАО «Банк ВТБ». Автомобиль находился в эксплуатации и является бывшим в употреблении; ... Показать полностью может иметь скрытые недостатки (неисправности), которые являются следствием эксплуатационных дефектов или естественного износа любых узлов, агрегатов и комплектующих, а также следствием ненадлежащего использования, ремонта или технического обслуживания.",""]}]]}]]}]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["30 июл. 2026 г., 09:00 (МСК)"," —"," ","6 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"417 915 ₽"}],["$","td",null,{"children":"83 583 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["6 авг. 2026 г., 09:00 (МСК)"," —"," ","13 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"397 019,25 ₽"}],["$","td",null,{"children":"79 403,85 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["13 авг. 2026 г., 09:00 (МСК)"," —"," ","20 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"376 123,50 ₽"}],["$","td",null,{"children":"75 224,70 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["20 авг. 2026 г., 09:00 (МСК)"," —"," ","27 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"355 227,75 ₽"}],["$","td",null,{"children":"71 045,55 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 09:00 (МСК)"," —"," ","3 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"334 332 ₽"}],["$","td",null,{"children":"66 866,40 ₽"}]]}],["$","tr","6",{"className":"now","children":[["$","td",null,{"children":["3 сент. 2026 г., 09:00 (МСК)"," —"," ","10 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"313 436,25 ₽"}],["$","td",null,{"children":"62 687,25 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 09:00 (МСК)"," —"," ","17 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"292 540,50 ₽"}],["$","td",null,{"children":"58 508,10 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 09:00 (МСК)"," —"," ","24 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"271 644,75 ₽"}],["$","td",null,{"children":"54 328,95 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["24 сент. 2026 г., 09:00 (МСК)"," —"," ","1 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"250 749 ₽"}],["$","td",null,{"children":"50 149,80 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["1 окт. 2026 г., 09:00 (МСК)"," —"," ","8 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"229 853,25 ₽"}],["$","td",null,{"children":"45 970,65 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["8 окт. 2026 г., 09:00 (МСК)"," —"," ","15 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"208 957,50 ₽"}],["$","td",null,{"children":"41 791,50 ₽"}]]}],["$","tr","12",{"className":"","children":[["$","td",null,{"children":["15 окт. 2026 г., 09:00 (МСК)"," —"," ","22 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"188 061,75 ₽"}],["$","td",null,{"children":"37 612,35 ₽"}]]}],["$","tr","13",{"className":"","children":[["$","td",null,{"children":["22 окт. 2026 г., 09:00 (МСК)"," —"," ","29 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"167 166 ₽"}],["$","td",null,{"children":"33 433,20 ₽"}]]}],["$","tr","14",{"className":"","children":[["$","td",null,{"children":["29 окт. 2026 г., 09:00 (МСК)"," —"," ","5 нояб. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"146 270,25 ₽"}],["$","td",null,{"children":"29 254,05 ₽"}]]}],["$","tr","15",{"className":"","children":[["$","td",null,{"children":["5 нояб. 2026 г., 09:00 (МСК)"," —"," ","12 нояб. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"125 374,50 ₽"}],["$","td",null,{"children":"25 074,90 ₽"}]]}],["$","tr","16",{"className":"","children":[["$","td",null,{"children":["12 нояб. 2026 г., 09:00 (МСК)"," —"," ","19 нояб. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"104 478,75 ₽"}],["$","td",null,{"children":"20 895,75 ₽"}]]}],["$","tr","17",{"className":"","children":[["$","td",null,{"children":["19 нояб. 2026 г., 09:00 (МСК)"," —"," ","26 нояб. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"83 583 ₽"}],["$","td",null,{"children":"16 716,60 ₽"}]]}],["$","tr","18",{"className":"","children":[["$","td",null,{"children":["26 нояб. 2026 г., 09:00 (МСК)"," —"," ","3 дек. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"62 687,25 ₽"}],["$","td",null,{"children":"12 537,45 ₽"}]]}],["$","tr","19",{"className":"","children":[["$","td",null,{"children":["3 дек. 2026 г., 09:00 (МСК)"," —"," ","10 дек. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"41 791,50 ₽"}],["$","td",null,{"children":"8 358,30 ₽"}]]}],"$L18"]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Демидов Дмитрий Владимирович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=910905935770","children":"Демидов Дмитрий Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","910905935770"]}],"$undefined"]}]]}],["$","tr","manager:Абдухаиров Исмет Нуриевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=910230016278","children":"Абдухаиров Исмет Нуриевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","910230016278"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация \"ДМСО\""]}]]}]]}],["$","tr","organizer:Абдухаиров Исмет Нуриевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=910230016278","children":"Абдухаиров Исмет Нуриевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","910230016278"]}],"$undefined"]}]]}],["$","tr","pledgee:БАНК ВТБ (ПАО)",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7702070139","children":"БАНК ВТБ (ПАО)"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7702070139"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9083-10721%2F2025","children":"А83-10721/2025"}]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Республика Крым"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268377125/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx",{"href":"https://m-ets.ru/download/268377125/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи движимого имущества.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268377127/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.pdf",{"href":"https://m-ets.ru/download/268377127/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268377397/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268377397/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+19:T309c,{
+  "id": "etp-mets:224340-1",
+  "sourceCode": "etp-mets",
+  "externalId": "224340-1",
+  "sourceUrl": "https://m-ets.ru/224340-1",
+  "title": "Chevrolet Cruze, 2011 года, 141 лс, 100000 км",
+  "description": "ШЕВРОЛЕ CRUZE, год выпуска 2011, гос. номер H925XB82, вин номер: XUFJF695JB3030926. Плохая работа двигателя, требующего капитального ремонта. Днище кузова гнилое, вырван кусок подкрыльника, вмятина на пороге у левой задней двери, потрескана краска автомобиля, кожа на торпеде слезает, водительское сиденье потерто. Автомобиль находился в эксплуатации и является бывшим в употреблении; может иметь скрытые недостатки (неисправности), которые являются следствием эксплуатационных дефектов или естественного износа любых узлов, агрегатов и комплектующих, а также следствием ненадлежащего использования, ремонта или технического обслуживания. В настоящее время пробег неизвестен.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "91",
+  "address": "Республика Крым",
+  "priceStart": "417915",
+  "priceMin": "20895.75",
+  "deposit": "83583.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-29T00:00:00+03:00",
+  "biddStartAt": "2026-07-30T09:00:00+03:00",
+  "biddEndAt": "2026-12-17T09:00:00+03:00",
+  "auctionAt": "2026-12-17T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А83-10721/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Демидов Дмитрий Владимирович",
+      "inn": "910905935770",
+      "efrsbId": "4caf8240de43e41aa6848b50144a058a"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Абдухаиров Исмет Нуриевич",
+      "inn": "910230016278",
+      "sro": "Ассоциация \"ДМСО\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Абдухаиров Исмет Нуриевич",
+      "inn": "910230016278",
+      "email": "abdukhairov.torg@yandex.ru",
+      "phone": "+7 (978) 286 46 27"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "БАНК ВТБ (ПАО)",
+      "inn": "7702070139"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-30T09:00:00+03:00",
+      "endAt": "2026-08-06T09:00:00+03:00",
+      "price": "417915.00",
+      "deposit": "83583.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-06T09:00:00+03:00",
+      "endAt": "2026-08-13T09:00:00+03:00",
+      "price": "397019.25",
+      "deposit": "79403.85"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-13T09:00:00+03:00",
+      "endAt": "2026-08-20T09:00:00+03:00",
+      "price": "376123.50",
+      "deposit": "75224.70"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-20T09:00:00+03:00",
+      "endAt": "2026-08-27T09:00:00+03:00",
+      "price": "355227.75",
+      "deposit": "71045.55"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-27T09:00:00+03:00",
+      "endAt": "2026-09-03T09:00:00+03:00",
+      "price": "334332.00",
+      "deposit": "66866.40"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-03T09:00:00+03:00",
+      "endAt": "2026-09-10T09:00:00+03:00",
+      "price": "313436.25",
+      "deposit": "62687.25"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-10T09:00:00+03:00",
+      "endAt": "2026-09-17T09:00:00+03:00",
+      "price": "292540.50",
+      "deposit": "58508.10"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-17T09:00:00+03:00",
+      "endAt": "2026-09-24T09:00:00+03:00",
+      "price": "271644.75",
+      "deposit": "54328.95"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-24T09:00:00+03:00",
+      "endAt": "2026-10-01T09:00:00+03:00",
+      "price": "250749.00",
+      "deposit": "50149.80"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-10-01T09:00:00+03:00",
+      "endAt": "2026-10-08T09:00:00+03:00",
+      "price": "229853.25",
+      "deposit": "45970.65"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-10-08T09:00:00+03:00",
+      "endAt": "2026-10-15T09:00:00+03:00",
+      "price": "208957.50",
+      "deposit": "41791.50"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-10-15T09:00:00+03:00",
+      "endAt": "2026-10-22T09:00:00+03:00",
+      "price": "188061.75",
+      "deposit": "37612.35"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-10-22T09:00:00+03:00",
+      "endAt": "2026-10-29T09:00:00+03:00",
+      "price": "167166.00",
+      "deposit": "33433.20"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-10-29T09:00:00+03:00",
+      "endAt": "2026-11-05T09:00:00+03:00",
+      "price": "146270.25",
+      "deposit": "29254.05"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-11-05T09:00:00+03:00",
+      "endAt": "2026-11-12T09:00:00+03:00",
+      "price": "125374.50",
+      "deposit": "25074.90"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-11-12T09:00:00+03:00",
+      "endAt": "2026-11-19T09:00:00+03:00",
+      "price": "104478.75",
+      "deposit": "20895.75"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-11-19T09:00:00+03:00",
+      "endAt": "2026-11-26T09:00:00+03:00",
+      "price": "83583.00",
+      "deposit": "16716.60"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-11-26T09:00:00+03:00",
+      "endAt": "2026-12-03T09:00:00+03:00",
+      "price": "62687.25",
+      "deposit": "12537.45"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-12-03T09:00:00+03:00",
+      "endAt": "2026-12-10T09:00:00+03:00",
+      "price": "41791.50",
+      "deposit": "8358.30"
+    },
+    {
+      "no": 20,
+      "startAt": "2026-12-10T09:00:00+03:00",
+      "endAt": "2026-12-17T09:00:00+03:00",
+      "price": "20895.75",
+      "deposit": "4179.15"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268377118/268377118_thumb_0.jpg",
+    "https://m-ets.ru/download/268377115/268377115_thumb_0.jpg",
+    "https://m-ets.ru/download/268377113/268377113_thumb_0.jpg",
+    "https://m-ets.ru/download/268377120/268377120_thumb_0.jpg",
+    "https://m-ets.ru/download/268377121/268377121_thumb_0.jpg",
+    "https://m-ets.ru/download/268377116/268377116_thumb_0.jpg",
+    "https://m-ets.ru/download/268377117/268377117_thumb_0.jpg",
+    "https://m-ets.ru/download/268377114/268377114_thumb_0.jpg",
+    "https://m-ets.ru/download/268377122/268377122_thumb_0.jpg",
+    "https://m-ets.ru/download/268377124/268377124_thumb_0.jpg",
+    "https://m-ets.ru/download/268377123/268377123_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268377125/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx",
+      "name": "Договор купли-продажи движимого имущества.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268377127/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.pdf",
+      "name": "Положение.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268377397/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Chevrolet",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Cruze",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2011",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "100 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "141",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XUFJF695JB3030926",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23960777",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Республики Крым",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "12.08.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Обращаю внимание, что на Имущество зарегистрировано ограничение (обременение) права: находится в залоге у ПАО «Банк ВТБ».",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Для получения всей имеющейся информации о лоте (в том числе фото) необходимо направить запрос на адрес эл. почты (в теме письма указать ФИО должника): abdukhairov.torg@yandex.ru либо по телефону +79782864627 Обращаю внимание, что на Имущество зарегистрировано ограничение (обременение) права: находится в залоге у ПАО «Банк ВТБ». Автомобиль находился в эксплуатации и является бывшим в употреблении; ... Показать полностью может иметь скрытые недостатки (неисправности), которые являются следствием эксплуатационных дефектов или естественного износа любых узлов, агрегатов и комплектующих, а также следствием ненадлежащего использования, ремонта или технического обслуживания.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:59:10.793Z",
+  "lastSeenAt": "2026-08-31T17:59:10.793Z",
+  "contentHash": "ac81fef2ddfbf925f6140176a14c840230b0d6f48f9eca6978de9d0a58b4da37"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"313 436,25 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["292 540,50 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[14,", до ","20 895,75 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"417 915 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"83 583 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"28 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"30 июл. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"17 дек. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"102 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"17 дек. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Крым"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/224340-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+18:["$","tr","20",{"className":"","children":[["$","td",null,{"children":["10 дек. 2026 г., 09:00 (МСК)"," —"," ","17 дек. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"20 895,75 ₽"}],["$","td",null,{"children":"4 179,15 ₽"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Chevrolet Cruze, 2011 года, 141 лс, 100000 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

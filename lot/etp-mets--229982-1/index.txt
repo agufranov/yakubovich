@@ -1,0 +1,190 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229982-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229982-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229982-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=54","children":"Новосибирская обл."}]]]}],["$","h1",null,{"children":"Право требования к Арестову Валерию Викторовичу задолженности в размере 7 494 398 руб."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Задолженность физ. лиц"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Право требования к Арестову Валерию Викторовичу задолженности в размере 7 494 398 руб., возникшее на основании решения Арбитражного суда Новосибирской области от 01.02.2026 по делу № А45-33444/2023, о взыскании неосновательного обогащения"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24329481",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Новосибирской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["29.04.2019",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом (документами) проводится путем направления запроса по адресу электронной почты: torgi2023@yandex.ru. т. +7 (913) 787-88-06.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 07:00 (МСК)"," —"," ","31 авг. 2026 г., 07:00 (МСК)"]}],["$","td",null,{"children":"7 494 398 ₽"}],["$","td",null,{"children":"749 439,80 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["31 авг. 2026 г., 07:00 (МСК)"," —"," ","5 сент. 2026 г., 07:00 (МСК)"]}],["$","td",null,{"children":"5 995 518,40 ₽"}],["$","td",null,{"children":"599 551,84 ₽"}]]}],["$","tr","3",{"className":"now","children":[["$","td",null,{"children":["5 сент. 2026 г., 07:00 (МСК)"," —"," ","10 сент. 2026 г., 07:00 (МСК)"]}],["$","td",null,{"children":"4 496 638,80 ₽"}],["$","td",null,{"children":"449 663,88 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 07:00 (МСК)"," —"," ","15 сент. 2026 г., 07:00 (МСК)"]}],["$","td",null,{"children":"2 997 759,20 ₽"}],["$","td",null,{"children":"299 775,92 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["15 сент. 2026 г., 07:00 (МСК)"," —"," ","20 сент. 2026 г., 07:00 (МСК)"]}],["$","td",null,{"children":"1 498 879,60 ₽"}],["$","td",null,{"children":"149 887,96 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["20 сент. 2026 г., 07:00 (МСК)"," —"," ","25 сент. 2026 г., 07:00 (МСК)"]}],["$","td",null,{"children":"749 439,80 ₽"}],["$","td",null,{"children":"74 943,98 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["25 сент. 2026 г., 07:00 (МСК)"," —"," ","30 сент. 2026 г., 07:00 (МСК)"]}],["$","td",null,{"children":"374 719,90 ₽"}],["$","td",null,{"children":"37 471,99 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["30 сент. 2026 г., 07:00 (МСК)"," —"," ","5 окт. 2026 г., 07:00 (МСК)"]}],["$","td",null,{"children":"74 943,98 ₽"}],["$","td",null,{"children":"7 494,40 ₽"}]]}]]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],"$L11"]}],"$L12","$L13",false,"$L14"]}],"$L15"]}]]}]
+11:["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТРЭВЭЛЕРС КОФЕ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=5406723560","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТРЭВЭЛЕРС КОФЕ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","5406723560"]}],"$undefined"]}]]}],["$","tr","manager:Долгополов Евгений Александрович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=540506157213","children":"Долгополов Евгений Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","540506157213"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация СРО \"Эгида\""]}]]}]]}],["$","tr","organizer:Долгополов Евгений Александрович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=540506157213","children":"Долгополов Евгений Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","540506157213"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9045-28761%2F2018","children":"А45-28761/2018"}]}]]}]]}]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Новосибирская область"}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268830196/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx",{"href":"https://m-ets.ru/download/268830196/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268830198/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(%D1%86%D0%B5%D1%81%D1%81%D0%B8%D0%B8).docx",{"href":"https://m-ets.ru/download/268830198/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(%D1%86%D0%B5%D1%81%D1%81%D0%B8%D0%B8).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор уступки права требования (цессии).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268830200/A45-33444-2023_20260201_Reshenie.pdf",{"href":"https://m-ets.ru/download/268830200/A45-33444-2023_20260201_Reshenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A45-33444-2023_20260201_Reshenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268830202/A45-33444-2023_20260521_Reshenija_i_postanovlenija.pdf",{"href":"https://m-ets.ru/download/268830202/A45-33444-2023_20260521_Reshenija_i_postanovlenija.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A45-33444-2023_20260521_Reshenija_i_postanovlenija.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+16:T1843,{
+  "id": "etp-mets:229982-1",
+  "sourceCode": "etp-mets",
+  "externalId": "229982-1",
+  "sourceUrl": "https://m-ets.ru/229982-1",
+  "title": "Право требования к Арестову Валерию Викторовичу задолженности в размере 7 494 398 руб.",
+  "description": "Право требования к Арестову Валерию Викторовичу задолженности в размере 7 494 398 руб., возникшее на основании решения Арбитражного суда Новосибирской области от 01.02.2026 по делу № А45-33444/2023, о взыскании неосновательного обогащения",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "other",
+  "categoryCode": "24",
+  "categoryName": "Задолженность физ. лиц",
+  "regionCode": "54",
+  "address": "Новосибирская область",
+  "priceStart": "7494398",
+  "priceMin": "74943.98",
+  "deposit": "749439.80",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T00:00:00+03:00",
+  "biddStartAt": "2026-08-26T07:00:00+03:00",
+  "biddEndAt": "2026-10-05T07:00:00+03:00",
+  "auctionAt": "2026-10-05T08:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А45-28761/2018",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТРЭВЭЛЕРС КОФЕ\"",
+      "inn": "5406723560",
+      "ogrn": "1125476143836"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Долгополов Евгений Александрович",
+      "inn": "540506157213",
+      "sro": "Ассоциация СРО \"Эгида\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Долгополов Евгений Александрович",
+      "inn": "540506157213",
+      "email": "torgi2023@yandex.ru",
+      "phone": "+7 (913) 787 85 55"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-26T07:00:00+03:00",
+      "endAt": "2026-08-31T07:00:00+03:00",
+      "price": "7494398.00",
+      "deposit": "749439.80"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-31T07:00:00+03:00",
+      "endAt": "2026-09-05T07:00:00+03:00",
+      "price": "5995518.40",
+      "deposit": "599551.84"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-05T07:00:00+03:00",
+      "endAt": "2026-09-10T07:00:00+03:00",
+      "price": "4496638.80",
+      "deposit": "449663.88"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-10T07:00:00+03:00",
+      "endAt": "2026-09-15T07:00:00+03:00",
+      "price": "2997759.20",
+      "deposit": "299775.92"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-15T07:00:00+03:00",
+      "endAt": "2026-09-20T07:00:00+03:00",
+      "price": "1498879.60",
+      "deposit": "149887.96"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-20T07:00:00+03:00",
+      "endAt": "2026-09-25T07:00:00+03:00",
+      "price": "749439.80",
+      "deposit": "74943.98"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-25T07:00:00+03:00",
+      "endAt": "2026-09-30T07:00:00+03:00",
+      "price": "374719.90",
+      "deposit": "37471.99"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-30T07:00:00+03:00",
+      "endAt": "2026-10-05T07:00:00+03:00",
+      "price": "74943.98",
+      "deposit": "7494.40"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268830196/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx",
+      "name": "Договор о задатке.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268830198/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(%D1%86%D0%B5%D1%81%D1%81%D0%B8%D0%B8).docx",
+      "name": "Договор уступки права требования (цессии).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268830200/A45-33444-2023_20260201_Reshenie.pdf",
+      "name": "A45-33444-2023_20260201_Reshenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268830202/A45-33444-2023_20260521_Reshenija_i_postanovlenija.pdf",
+      "name": "A45-33444-2023_20260521_Reshenija_i_postanovlenija.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24329481",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Новосибирской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "29.04.2019",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом (документами) проводится путем направления запроса по адресу электронной почты: torgi2023@yandex.ru. т. +7 (913) 787-88-06.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:22:54.707Z",
+  "lastSeenAt": "2026-08-31T19:22:54.707Z",
+  "contentHash": "577517ff645afbf7aafe957fca4fdfe7433f4801d35644260f2f7ca01edd3efa"
+}14:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$16"}]]}]
+15:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"4 496 638,80 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["2 997 759,20 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 07:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[5,", до ","74 943,98 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"7 494 398 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"749 439,80 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 07:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"5 окт. 2026 г., 07:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"29 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"5 окт. 2026 г., 08:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Новосибирская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229982-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Право требования к Арестову Валерию Викторовичу задолженности в размере 7 494 398 руб. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

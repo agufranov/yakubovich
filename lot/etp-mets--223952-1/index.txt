@@ -1,0 +1,198 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--223952-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--223952-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--223952-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=29","children":"Архангельская обл."}]]]}],["$","h1",null,{"children":"1/4 доля квартиры в Архангельске"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Состоялся"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Квартира"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"1/4 доля в праве на жилое помещение, площадь: 44,7кв.м., адрес (местонахождение): Российская Федерация, Архангельская область, г.о. город Архангельск, г. Архангельск, пр-кт Ленинградский, д. 273 к. 2, кв. 118, кадастровый номер: 29:22:070206:818 В имуществе имеются доли, принадлежащие несовершеннолетним сособственникам"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23939492",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Архангельской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["23.10.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На момент опубликования объявления о проведении торгов по лоту №1 - обременения имеются. Ограничение прав и обременение объекта недвижимости Запрещение регистрации № 29:22:070206:818-29/007/2024-15 от 01.08.2024 Запрещение регистрации № 29:22:070206:818-29/188/2024-13 от 08.05.2024 Запрещение регистрации № 29:22:070206:818-29/011/2025-18 от 11.04.2025 Запрещение регистрации № 29:22:070206:818-29/188/2024-16 ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью от 26.11.2024 Запрещение регистрации № 29:22:070206:818-29/007/2025-21 от 05.08.2025 В соответствии с абз. 4 п. 5 ст. 213.25 ФЗ «О несостоятельности (банкротстве)» от 26 октября 2002 г. № 127-ФЗ с даты признания гражданина банкротом снимаются ранее наложенные аресты на имущество гражданина и иные ограничения распоряжения имуществом гражданина.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Российская Федерация, Архангельская область, г.о. город Архангельск, г. Архангельск, пр-кт Ленинградский, д. 273 к. 2, кв. 118, предварительно согласовав время с Финансовым управляющим по тел. +79823058977, либо путем направления запроса на электронную почту krylosov.anton96@mail.ru, с момента публикации сообщения о продаже имущества и до окончания ... Показать полностью приема заявок. В имуществе имеются доли, принадлежащие несовершеннолетним сособственникам. Во избежание претензий к Арбитражному управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",""]}]]}]]}]}]]}],"$L11","$L12","$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 09:00 (МСК)"," —"," ","7 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"781 598,80 ₽"}],["$","td",null,{"children":"78 159,88 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["7 авг. 2026 г., 09:00 (МСК)"," —"," ","11 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"664 358,98 ₽"}],["$","td",null,{"children":"66 435,90 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["11 авг. 2026 г., 09:00 (МСК)"," —"," ","15 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"547 119,16 ₽"}],["$","td",null,{"children":"54 711,92 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["15 авг. 2026 г., 09:00 (МСК)"," —"," ","19 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"429 879,34 ₽"}],["$","td",null,{"children":"42 987,93 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["19 авг. 2026 г., 09:00 (МСК)"," —"," ","23 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"312 639,52 ₽"}],["$","td",null,{"children":"31 263,95 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["23 авг. 2026 г., 09:00 (МСК)"," —"," ","27 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"195 399,70 ₽"}],["$","td",null,{"children":"19 539,97 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 09:00 (МСК)"," —"," ","31 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"78 159,88 ₽"}],["$","td",null,{"children":"7 815,99 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["31 авг. 2026 г., 09:00 (МСК)"," —"," ","4 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"10 000 ₽"}],["$","td",null,{"children":"1 000 ₽"}]]}]]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Иглина Наталья Александровна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=291700840144","children":"Иглина Наталья Александровна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","291700840144"]}],"$undefined"]}]]}],["$","tr","manager:Крылосов Антон Александрович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=745703215370","children":"Крылосов Антон Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","745703215370"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:КРЫЛОСОВ АНТОН АЛЕКСАНДРОВИЧ",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=745703215370","children":"КРЫЛОСОВ АНТОН АЛЕКСАНДРОВИЧ"}],["$","span",null,{"className":"muted","children":[" · ИНН ","745703215370"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9005-11604%2F2025","children":"А05-11604/2025"}]}]]}]]}]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Архангельская область"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268912304/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223952-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268912304/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223952-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 223952-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268912306/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223952-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268912306/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223952-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 223952-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268347581/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80..pdf",{"href":"https://m-ets.ru/download/268347581/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80..pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","АУ Положение о реализации имущества свыше 100т.р..pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268347617/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268347617/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":["$L17","$L18"]}],"$L19"]}]]}]
+1a:T2826,{
+  "id": "etp-mets:223952-1",
+  "sourceCode": "etp-mets",
+  "externalId": "223952-1",
+  "sourceUrl": "https://m-ets.ru/223952-1",
+  "title": "1/4 доля квартиры в Архангельске",
+  "description": "1/4 доля в праве на жилое помещение, площадь: 44,7кв.м., адрес (местонахождение): Российская Федерация, Архангельская область, г.о. город Архангельск, г. Архангельск, пр-кт Ленинградский, д. 273 к. 2, кв. 118, кадастровый номер: 29:22:070206:818 В имуществе имеются доли, принадлежащие несовершеннолетним сособственникам",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "finished",
+  "statusRaw": "Торги завершены",
+  "kind": "realty",
+  "categoryCode": "36",
+  "categoryName": "Квартира",
+  "regionCode": "29",
+  "address": "Архангельская область",
+  "priceStart": "781598.80",
+  "priceMin": "10000.00",
+  "deposit": "78159.88",
+  "currency": "RUB",
+  "publishedAt": "2026-07-28T00:00:00+03:00",
+  "biddStartAt": "2026-08-03T09:00:00+03:00",
+  "biddEndAt": "2026-09-04T09:00:00+03:00",
+  "auctionAt": "2026-09-04T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А05-11604/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Иглина Наталья Александровна",
+      "inn": "291700840144",
+      "efrsbId": "b10682450a6b3e09888433dd86afc664"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Крылосов Антон Александрович",
+      "inn": "745703215370",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "КРЫЛОСОВ АНТОН АЛЕКСАНДРОВИЧ",
+      "inn": "745703215370",
+      "email": "krylosov.anton96@mail.ru",
+      "phone": "+7 (982) 305 89 77"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-03T09:00:00+03:00",
+      "endAt": "2026-08-07T09:00:00+03:00",
+      "price": "781598.80",
+      "deposit": "78159.88"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-07T09:00:00+03:00",
+      "endAt": "2026-08-11T09:00:00+03:00",
+      "price": "664358.98",
+      "deposit": "66435.90"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-11T09:00:00+03:00",
+      "endAt": "2026-08-15T09:00:00+03:00",
+      "price": "547119.16",
+      "deposit": "54711.92"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-15T09:00:00+03:00",
+      "endAt": "2026-08-19T09:00:00+03:00",
+      "price": "429879.34",
+      "deposit": "42987.93"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-19T09:00:00+03:00",
+      "endAt": "2026-08-23T09:00:00+03:00",
+      "price": "312639.52",
+      "deposit": "31263.95"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-23T09:00:00+03:00",
+      "endAt": "2026-08-27T09:00:00+03:00",
+      "price": "195399.70",
+      "deposit": "19539.97"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-27T09:00:00+03:00",
+      "endAt": "2026-08-31T09:00:00+03:00",
+      "price": "78159.88",
+      "deposit": "7815.99"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-31T09:00:00+03:00",
+      "endAt": "2026-09-04T09:00:00+03:00",
+      "price": "10000.00",
+      "deposit": "1000.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268912304/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223952-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Протокол определения участников торгов 223952-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268912306/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20223952-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 223952-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268347581/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80..pdf",
+      "name": "АУ Положение о реализации имущества свыше 100т.р..pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268347617/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268347619/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%20%D0%B1%D0%B5%D0%B7%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0.docx",
+      "name": "Проект ДКП недвиж без залога.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23939492",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Архангельской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "23.10.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: На момент опубликования объявления о проведении торгов по лоту №1 - обременения имеются. Ограничение прав и обременение объекта недвижимости Запрещение регистрации № 29:22:070206:818-29/007/2024-15 от 01.08.2024 Запрещение регистрации № 29:22:070206:818-29/188/2024-13 от 08.05.2024 Запрещение регистрации № 29:22:070206:818-29/011/2025-18 от 11.04.2025 Запрещение регистрации № 29:22:070206:818-29/188/2024-16 ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью от 26.11.2024 Запрещение регистрации № 29:22:070206:818-29/007/2025-21 от 05.08.2025 В соответствии с абз. 4 п. 5 ст. 213.25 ФЗ «О несостоятельности (банкротстве)» от 26 октября 2002 г. № 127-ФЗ с даты признания гражданина банкротом снимаются ранее наложенные аресты на имущество гражданина и иные ограничения распоряжения имуществом гражданина.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Российская Федерация, Архангельская область, г.о. город Архангельск, г. Архангельск, пр-кт Ленинградский, д. 273 к. 2, кв. 118, предварительно согласовав время с Финансовым управляющим по тел. +79823058977, либо путем направления запроса на электронную почту krylosov.anton96@mail.ru, с момента публикации сообщения о продаже имущества и до окончания ... Показать полностью приема заявок. В имуществе имеются доли, принадлежащие несовершеннолетним сособственникам. Во избежание претензий к Арбитражному управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T20:07:25.611Z",
+  "lastSeenAt": "2026-08-31T20:07:25.611Z",
+  "contentHash": "a723eeedef42f98982a33357cf8fe0bde010d90c05a7e85a9939a7d07b5c4d80"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"781 598,80 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[8,", до ","10 000 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"78 159,88 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"27 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"3 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"4 сент. 2026 г., 09:00 (МСК)"}]],false,[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"4 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Архангельская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/223952-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+17:["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}]
+18:["$","span",null,{"className":"size","children":"$undefined"}]
+19:["$","a","https://m-ets.ru/download/268347619/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%20%D0%B1%D0%B5%D0%B7%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0.docx",{"href":"https://m-ets.ru/download/268347619/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%20%D0%B1%D0%B5%D0%B7%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП недвиж без залога.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"1/4 доля квартиры в Архангельске — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

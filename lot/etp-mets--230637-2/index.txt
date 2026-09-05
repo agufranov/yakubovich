@@ -1,0 +1,203 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230637-2",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230637-2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230637-2","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=50","children":"Московская обл."}]]]}],["$","h1",null,{"children":"Земельный участок в Московской области, 2443 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок, площадь 2443 кв.м., назначение: Земельные объекты (участки), адрес (местонахождение): Россия, обл Московская, р-н Истринский, Еремеево, кадастровый (условный) номер: 50:08:0040336:242"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24380729",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Москвы",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["23.12.2025",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["139 500 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Запрет регистрации ФССП",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом производится самостоятельно по месту его нахождения. Вся информация в отношении лотов, согласование времени ознакомления с документацией по телефонам: +79040414911. Ознакомиться с документами на имущество можно лично по адресу: г. Нижний Новгород, ул. Васенко, д. 4, оф. 210 (помещение адвокатской консультации № 130 МРКА), предварительно согласовав дату и время ознакомления по указанным телефонам. Запросы по имуществу, направленные на электронную почту без дублирования по телефону, НЕ ОБРАБАТЫВАЮТСЯ (вероятно попадание в папку \"СПАМ\").",""]}]]}]]}]}]]}],"$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Гордеев Дмитрий Владимирович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=773609966103","children":"Гордеев Дмитрий Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","773609966103"]}],"$undefined"]}]]}],["$","tr","manager:Помелов Николай Александрович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=526002272952","children":"Помелов Николай Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","526002272952"]}],["$","span",null,{"className":"muted","children":[" · ","СРО АУ \"Лига\""]}]]}]]}],["$","tr","organizer:Помелов Николай Александрович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=526002272952","children":"Помелов Николай Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","526002272952"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-97218%2F2024","children":"А40-97218/2024"}]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Московская область"}]]}],["$","section",null,{"className":"panel","children":["$L11","$L12"]}],false,"$L13"]}],"$L14"]}]]}]
+11:["$","h2",null,{"children":["Документы (",18,")"]}]
+12:["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268878192/1%20report-bf8990ef-e827-48aa-b964-30a2f40ed11f-EPGU-2026-07-16-527981-50-01%5B0%5D%20%D0%AD%D0%9F%20325.pdf",{"href":"https://m-ets.ru/download/268878192/1%20report-bf8990ef-e827-48aa-b964-30a2f40ed11f-EPGU-2026-07-16-527981-50-01%5B0%5D%20%D0%AD%D0%9F%20325.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1 report-bf8990ef-e827-48aa-b964-30a2f40ed11f-EPGU-2026-07-16-527981-50-01[0] ЭП 325.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268878194/325.pdf",{"href":"https://m-ets.ru/download/268878194/325.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","325.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268878197/2%20report-2faefbe6-75d4-4327-94f9-5594b1ac2fbd-EPGU-2026-07-16-526148-50-01%5B0%5D%20%D0%AD%D0%9F%20242.pdf",{"href":"https://m-ets.ru/download/268878197/2%20report-2faefbe6-75d4-4327-94f9-5594b1ac2fbd-EPGU-2026-07-16-526148-50-01%5B0%5D%20%D0%AD%D0%9F%20242.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","2 report-2faefbe6-75d4-4327-94f9-5594b1ac2fbd-EPGU-2026-07-16-526148-50-01[0] ЭП 242.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268878199/242.pdf",{"href":"https://m-ets.ru/download/268878199/242.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","242.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268878202/3%20report-a02e822d-6a4b-468f-8cf5-35b08f71b484-EPGU-2026-07-16-525460-50-01%5B0%5D%20%D0%AD%D0%9F%20190.pdf",{"href":"https://m-ets.ru/download/268878202/3%20report-a02e822d-6a4b-468f-8cf5-35b08f71b484-EPGU-2026-07-16-525460-50-01%5B0%5D%20%D0%AD%D0%9F%20190.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","3 report-a02e822d-6a4b-468f-8cf5-35b08f71b484-EPGU-2026-07-16-525460-50-01[0] ЭП 190.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268878204/190.pdf",{"href":"https://m-ets.ru/download/268878204/190.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","190.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268878207/4%20report-83bc1092-41ee-4511-996d-95a8116ede89-EPGU-2026-07-16-527307-50-01%5B0%5D%20%D0%AD%D0%9F%20244.pdf",{"href":"https://m-ets.ru/download/268878207/4%20report-83bc1092-41ee-4511-996d-95a8116ede89-EPGU-2026-07-16-527307-50-01%5B0%5D%20%D0%AD%D0%9F%20244.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","4 report-83bc1092-41ee-4511-996d-95a8116ede89-EPGU-2026-07-16-527307-50-01[0] ЭП 244.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268878209/244.pdf",{"href":"https://m-ets.ru/download/268878209/244.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","244.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268878212/5%20report-ea8a277e-4457-49a5-9aeb-a2f202b89710-EPGU-2026-07-16-526929-50-01%5B0%5D%20%D0%AD%D0%9F%20195.pdf",{"href":"https://m-ets.ru/download/268878212/5%20report-ea8a277e-4457-49a5-9aeb-a2f202b89710-EPGU-2026-07-16-526929-50-01%5B0%5D%20%D0%AD%D0%9F%20195.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","5 report-ea8a277e-4457-49a5-9aeb-a2f202b89710-EPGU-2026-07-16-526929-50-01[0] ЭП 195.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268878214/195.pdf",{"href":"https://m-ets.ru/download/268878214/195.pdf","target":"_blank","rel":"noopener","children":["$L15","$L16"]}],"$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e"]}]
+1f:T21e9,{
+  "id": "etp-mets:230637-2",
+  "sourceCode": "etp-mets",
+  "externalId": "230637-2",
+  "sourceUrl": "https://m-ets.ru/230637-2",
+  "title": "Земельный участок в Московской области, 2443 кв.м.",
+  "description": "Земельный участок, площадь 2443 кв.м., назначение: Земельные объекты (участки), адрес (местонахождение): Россия, обл Московская, р-н Истринский, Еремеево, кадастровый (условный) номер: 50:08:0040336:242",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "50",
+  "address": "Московская область",
+  "priceStart": "2790000",
+  "priceStep": "139500",
+  "deposit": "279000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-27T00:00:00+03:00",
+  "biddStartAt": "2026-08-28T00:00:00+03:00",
+  "biddEndAt": "2026-10-01T16:00:00+03:00",
+  "auctionAt": "2026-10-02T14:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-97218/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Гордеев Дмитрий Владимирович",
+      "inn": "773609966103",
+      "efrsbId": "097d9cdee083f0d9d584c9e2536ffd35"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Помелов Николай Александрович",
+      "inn": "526002272952",
+      "sro": "СРО АУ \"Лига\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Помелов Николай Александрович",
+      "inn": "526002272952",
+      "email": "pomelov.na@bk.ru",
+      "phone": "+7 (904) 041 49 11"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268878192/1%20report-bf8990ef-e827-48aa-b964-30a2f40ed11f-EPGU-2026-07-16-527981-50-01%5B0%5D%20%D0%AD%D0%9F%20325.pdf",
+      "name": "1 report-bf8990ef-e827-48aa-b964-30a2f40ed11f-EPGU-2026-07-16-527981-50-01[0] ЭП 325.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878194/325.pdf",
+      "name": "325.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878197/2%20report-2faefbe6-75d4-4327-94f9-5594b1ac2fbd-EPGU-2026-07-16-526148-50-01%5B0%5D%20%D0%AD%D0%9F%20242.pdf",
+      "name": "2 report-2faefbe6-75d4-4327-94f9-5594b1ac2fbd-EPGU-2026-07-16-526148-50-01[0] ЭП 242.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878199/242.pdf",
+      "name": "242.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878202/3%20report-a02e822d-6a4b-468f-8cf5-35b08f71b484-EPGU-2026-07-16-525460-50-01%5B0%5D%20%D0%AD%D0%9F%20190.pdf",
+      "name": "3 report-a02e822d-6a4b-468f-8cf5-35b08f71b484-EPGU-2026-07-16-525460-50-01[0] ЭП 190.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878204/190.pdf",
+      "name": "190.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878207/4%20report-83bc1092-41ee-4511-996d-95a8116ede89-EPGU-2026-07-16-527307-50-01%5B0%5D%20%D0%AD%D0%9F%20244.pdf",
+      "name": "4 report-83bc1092-41ee-4511-996d-95a8116ede89-EPGU-2026-07-16-527307-50-01[0] ЭП 244.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878209/244.pdf",
+      "name": "244.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878212/5%20report-ea8a277e-4457-49a5-9aeb-a2f202b89710-EPGU-2026-07-16-526929-50-01%5B0%5D%20%D0%AD%D0%9F%20195.pdf",
+      "name": "5 report-ea8a277e-4457-49a5-9aeb-a2f202b89710-EPGU-2026-07-16-526929-50-01[0] ЭП 195.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878214/195.pdf",
+      "name": "195.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878217/6%20report-9ba4432f-403e-47f5-a6b4-5e022a6280e2-EPGU-2026-07-16-527924-50-01%5B0%5D%20%D0%AD%D0%9F%20303.pdf",
+      "name": "6 report-9ba4432f-403e-47f5-a6b4-5e022a6280e2-EPGU-2026-07-16-527924-50-01[0] ЭП 303.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878219/303.pdf",
+      "name": "303.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878222/7%20report-2e6f4c56-2a06-407c-9f60-24b645dcde1f-EPGU-2026-07-16-526343-50-01%5B0%5D%20%D0%AD%D0%9F%20309.pdf",
+      "name": "7 report-2e6f4c56-2a06-407c-9f60-24b645dcde1f-EPGU-2026-07-16-526343-50-01[0] ЭП 309.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878224/309.pdf",
+      "name": "309.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878227/8%20report-3b833cc0-e40e-4025-a7bc-141d6fc3fff2-EPGU-2026-07-16-528169-50-01%5B0%5D%20%D0%AD%D0%9F%20322.pdf",
+      "name": "8 report-3b833cc0-e40e-4025-a7bc-141d6fc3fff2-EPGU-2026-07-16-528169-50-01[0] ЭП 322.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878229/322.pdf",
+      "name": "322.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878231/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B0.docx",
+      "name": "Проект_договора_купли_продажи_зем_участка.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878325/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24380729",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "23.12.2025",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "139 500 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Запрет регистрации ФССП",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом производится самостоятельно по месту его нахождения. Вся информация в отношении лотов, согласование времени ознакомления с документацией по телефонам: +79040414911. Ознакомиться с документами на имущество можно лично по адресу: г. Нижний Новгород, ул. Васенко, д. 4, оф. 210 (помещение адвокатской консультации № 130 МРКА), предварительно согласовав дату и время ознакомления по указанным телефонам. Запросы по имуществу, направленные на электронную почту без дублирования по телефону, НЕ ОБРАБАТЫВАЮТСЯ (вероятно попадание в папку \"СПАМ\").",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:56:34.392Z",
+  "lastSeenAt": "2026-08-31T19:56:34.392Z",
+  "contentHash": "128d66180ee47dea51ffd5bc1aef3f88c608c3f8f494321bfd4ecce3a4d01b16"
+}13:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1f"}]]}]
+14:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"2 790 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"139 500 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"279 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"26 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"28 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"1 окт. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"25 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"2 окт. 2026 г., 14:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Московская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230637-2","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+15:["$","span",null,{"children":["📎 ","195.pdf"]}]
+16:["$","span",null,{"className":"size","children":"$undefined"}]
+17:["$","a","https://m-ets.ru/download/268878217/6%20report-9ba4432f-403e-47f5-a6b4-5e022a6280e2-EPGU-2026-07-16-527924-50-01%5B0%5D%20%D0%AD%D0%9F%20303.pdf",{"href":"https://m-ets.ru/download/268878217/6%20report-9ba4432f-403e-47f5-a6b4-5e022a6280e2-EPGU-2026-07-16-527924-50-01%5B0%5D%20%D0%AD%D0%9F%20303.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","6 report-9ba4432f-403e-47f5-a6b4-5e022a6280e2-EPGU-2026-07-16-527924-50-01[0] ЭП 303.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+18:["$","a","https://m-ets.ru/download/268878219/303.pdf",{"href":"https://m-ets.ru/download/268878219/303.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","303.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+19:["$","a","https://m-ets.ru/download/268878222/7%20report-2e6f4c56-2a06-407c-9f60-24b645dcde1f-EPGU-2026-07-16-526343-50-01%5B0%5D%20%D0%AD%D0%9F%20309.pdf",{"href":"https://m-ets.ru/download/268878222/7%20report-2e6f4c56-2a06-407c-9f60-24b645dcde1f-EPGU-2026-07-16-526343-50-01%5B0%5D%20%D0%AD%D0%9F%20309.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","7 report-2e6f4c56-2a06-407c-9f60-24b645dcde1f-EPGU-2026-07-16-526343-50-01[0] ЭП 309.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1a:["$","a","https://m-ets.ru/download/268878224/309.pdf",{"href":"https://m-ets.ru/download/268878224/309.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","309.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1b:["$","a","https://m-ets.ru/download/268878227/8%20report-3b833cc0-e40e-4025-a7bc-141d6fc3fff2-EPGU-2026-07-16-528169-50-01%5B0%5D%20%D0%AD%D0%9F%20322.pdf",{"href":"https://m-ets.ru/download/268878227/8%20report-3b833cc0-e40e-4025-a7bc-141d6fc3fff2-EPGU-2026-07-16-528169-50-01%5B0%5D%20%D0%AD%D0%9F%20322.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","8 report-3b833cc0-e40e-4025-a7bc-141d6fc3fff2-EPGU-2026-07-16-528169-50-01[0] ЭП 322.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1c:["$","a","https://m-ets.ru/download/268878229/322.pdf",{"href":"https://m-ets.ru/download/268878229/322.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","322.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1d:["$","a","https://m-ets.ru/download/268878231/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B0.docx",{"href":"https://m-ets.ru/download/268878231/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_зем_участка.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1e:["$","a","https://m-ets.ru/download/268878325/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268878325/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Московской области, 2443 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

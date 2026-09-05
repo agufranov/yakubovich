@@ -1,0 +1,86 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","itender-meta-invest--auctions_35881",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","itender-meta-invest--auctions_35881","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","itender-meta-invest--auctions_35881","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Td7c,{
+  "id": "itender-meta-invest:auctions_35881",
+  "sourceCode": "itender-meta-invest",
+  "externalId": "auctions_35881",
+  "sourceUrl": "http://www.meta-invest.ru/public/auctions/lots/view/35881/",
+  "title": "Транспортное средство Genesis G70, гос. номер K082AK550, VIN XWEG541ADL0000656",
+  "description": "На повторные торги выставлено следующее имущество: Лот № 1: Транспортное средство Genesis G70, гос. номер K082AK550, VIN XWEG541ADL0000656. Начальная стоимость лота №1 составляет: 2 428 200 руб. Лот № 2: Генератор JD1З0TSX б/у (1 шт.). Начальная стоимость лота №2 составляет: 865 174 руб. Лот № 4: Газовая горелка Elco EK EVO 9.10400 G б/у (1 шт.). Начальная стоимость лота №4 составляет: 3 338 636 руб. Лот № 5: Газовая горелка Elco EK EVO 9.8700 G б/у. Начальная стоимость лота №5 составляет: 2 406 848 руб. Лот № 6: Товарный знак. дата рег. 02.08.2021. Начальная стоимость лота №6 составляет: 225 000 руб.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству (127-ФЗ)",
+  "tradeKind": "auction",
+  "tradeKindRaw": "auctions",
+  "status": "applications",
+  "statusRaw": "Прием заявок",
+  "kind": "vehicle",
+  "categoryName": "Автомобили",
+  "priceStart": "2428200.00",
+  "priceStep": "121410.00",
+  "deposit": "242820.00",
+  "currency": "RUB",
+  "publishedAt": "2026-06-20T00:00:00+03:00",
+  "biddStartAt": "2026-08-11T12:00:00+03:00",
+  "biddEndAt": "2026-09-16T12:00:00+03:00",
+  "auctionAt": "2026-09-17T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "meta-invest",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "http://www.meta-invest.ru/public/attachments/file/390864/%d0%94%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%20%d0%b7%d0%b0%d0%b4%d0%b0%d1%82%d0%ba%d0%b0%20%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82.docx",
+      "name": "Договор задатка проект.docx"
+    },
+    {
+      "fileId": "http://www.meta-invest.ru/public/attachments/file/390865/%d0%94%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%20%d0%ba%d1%83%d0%bf%d0%bb%d0%b8-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b8%20%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82.docx",
+      "name": "Договор купли-продажи проект.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbMessageId",
+      "name": "Номер сообщения в ЕФРСБ",
+      "value": "24032875",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbClassifier",
+      "name": "Классификатор ЕФРСБ",
+      "value": "Автомобили",
+      "source": "structured"
+    },
+    {
+      "key": "repeatTrades",
+      "name": "Повторные торги",
+      "value": "Да",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Шаг, % от начальной цены",
+      "value": "5,00",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-26T18:33:49.043Z",
+  "lastSeenAt": "2026-08-26T18:33:49.043Z",
+  "contentHash": "08754acc44a6e7ad819a612833e0a40039f4a503d786b41e2066ed63fd82e601"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],"$undefined"]}],["$","h1",null,{"children":"Транспортное средство Genesis G70, гос. номер K082AK550, VIN XWEG541ADL0000656"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"На повторные торги выставлено следующее имущество: Лот № 1: Транспортное средство Genesis G70, гос. номер K082AK550, VIN XWEG541ADL0000656. Начальная стоимость лота №1 составляет: 2 428 200 руб. Лот № 2: Генератор JD1З0TSX б/у (1 шт.). Начальная стоимость лота №2 составляет: 865 174 руб. Лот № 4: Газовая горелка Elco EK EVO 9.10400 G б/у (1 шт.). Начальная стоимость лота №4 составляет: 3 338 636 руб. Лот № 5: Газовая горелка Elco EK EVO 9.8700 G б/у. Начальная стоимость лота №5 составляет: 2 406 848 руб. Лот № 6: Товарный знак. дата рег. 02.08.2021. Начальная стоимость лота №6 составляет: 225 000 руб."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbMessageId",{"children":[["$","td",null,{"children":"Номер сообщения в ЕФРСБ"}],["$","td",null,{"children":["24032875",""]}]]}],["$","tr","efrsbClassifier",{"children":[["$","td",null,{"children":"Классификатор ЕФРСБ"}],["$","td",null,{"children":["Автомобили",""]}]]}],["$","tr","repeatTrades",{"children":[["$","td",null,{"children":"Повторные торги"}],["$","td",null,{"children":["Да",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Шаг, % от начальной цены"}],["$","td",null,{"children":["5,00",""]}]]}]]}]}]]}],"$undefined","$undefined","$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","http://www.meta-invest.ru/public/attachments/file/390864/%d0%94%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%20%d0%b7%d0%b0%d0%b4%d0%b0%d1%82%d0%ba%d0%b0%20%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82.docx",{"href":"http://www.meta-invest.ru/public/attachments/file/390864/%d0%94%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%20%d0%b7%d0%b0%d0%b4%d0%b0%d1%82%d0%ba%d0%b0%20%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор задатка проект.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","http://www.meta-invest.ru/public/attachments/file/390865/%d0%94%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%20%d0%ba%d1%83%d0%bf%d0%bb%d0%b8-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b8%20%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82.docx",{"href":"http://www.meta-invest.ru/public/attachments/file/390865/%d0%94%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%20%d0%ba%d1%83%d0%bf%d0%bb%d0%b8-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b8%20%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи проект.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"2 428 200 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"121 410 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"242 820 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"19 июн. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"11 авг. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"16 сент. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"10 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"17 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=meta-invest","children":"МЕТА-ИНВЕСТ"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"http://www.meta-invest.ru/public/auctions/lots/view/35881/","target":"_blank","rel":"noopener","children":["Смотреть на ","meta-invest.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Транспортное средство Genesis G70, гос. номер K082AK550, VIN XWEG541ADL0000656 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

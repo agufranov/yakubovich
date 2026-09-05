@@ -1,0 +1,221 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229522-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229522-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229522-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Mitsubishi Colt, 2010 года, 92 лс"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268795403/268795403_thumb_0.jpg","alt":"Mitsubishi Colt, 2010 года, 92 лс"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268795412/268795412_thumb_0.jpg",{"href":"https://m-ets.ru/download/268795412/268795412_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268795412/268795412_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268795402/268795402_thumb_0.jpg",{"href":"https://m-ets.ru/download/268795402/268795402_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268795402/268795402_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268795407/268795407_thumb_0.jpg",{"href":"https://m-ets.ru/download/268795407/268795407_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268795407/268795407_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268795404/268795404_thumb_0.jpg",{"href":"https://m-ets.ru/download/268795404/268795404_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268795404/268795404_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268795408/268795408_thumb_0.jpg",{"href":"https://m-ets.ru/download/268795408/268795408_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268795408/268795408_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268795406/268795406_thumb_0.jpg",{"href":"https://m-ets.ru/download/268795406/268795406_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268795406/268795406_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль Mitsubishi Colt, 2010 года выпуска, номер кузова: Z21A-0700688, государственный регистрационный знак: Т432ХН27, КПП вариаторная, местонахождение: Российская Федерация, Хабаровский край, г. Хабаровск."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Mitsubishi",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Colt",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2010",""]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["92"," л.с."]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24306794",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Хабаровского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["30.09.2025",""]}]]}],"$L11","$L12"]}]}]]}],"$L13","$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге в пользу ПАО СБЕРБАНК, (ИНН 7707083893 ) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",""]}]]}]
+12:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С ЛОТОМ №1 можно ознакомиться по месту его нахождения: 353925, Краснодарский край, Новороссийск г, Хворостянского ул, дом № 21, предварительно согласовав время с Финансовым управляющим по тел. +79823098183, либо путем направления запроса на электронную почту aakarimova@inbox.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному ... Показать полностью управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",""]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["28 авг. 2026 г., 09:00 (МСК)"," —"," ","4 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"287 280 ₽"}],["$","td",null,{"children":"28 728 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["4 сент. 2026 г., 09:00 (МСК)"," —"," ","11 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"266 760 ₽"}],["$","td",null,{"children":"26 676 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["11 сент. 2026 г., 09:00 (МСК)"," —"," ","18 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"246 240 ₽"}],["$","td",null,{"children":"24 624 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["18 сент. 2026 г., 09:00 (МСК)"," —"," ","25 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"225 720 ₽"}],["$","td",null,{"children":"22 572 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["25 сент. 2026 г., 09:00 (МСК)"," —"," ","2 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"205 200 ₽"}],["$","td",null,{"children":"20 520 ₽"}]]}]]}]]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Ермолаева Алина Романовна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=270907474637","children":"Ермолаева Алина Романовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","270907474637"]}],"$undefined"]}]]}],["$","tr","manager:Гущина Алина Алишеровна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=745701241833","children":"Гущина Алина Алишеровна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","745701241833"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:Гущина Алина Алишеровна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=745701241833","children":"Гущина Алина Алишеровна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","745701241833"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9073-8681%2F2025","children":"А73-8681/2025"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Краснодарский край"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268795420/%D0%9F%D0%A2%D0%A1%20%D0%A1%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/268795420/%D0%9F%D0%A2%D0%A1%20%D0%A1%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ПТС СТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268795422/%D1%84%D0%BE%D1%82%D0%BE%20%D1%82%D1%81.pdf",{"href":"https://m-ets.ru/download/268795422/%D1%84%D0%BE%D1%82%D0%BE%20%D1%82%D1%81.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото тс.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268795424/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A2%D0%A1.docx",{"href":"https://m-ets.ru/download/268795424/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A2%D0%A1.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП залог ТС.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268795674/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268795674/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268795676/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD_%D0%95%D1%80%D0%BC%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B0_%D1%84%D1%83.pdf.pdf",{"href":"https://m-ets.ru/download/268795676/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD_%D0%95%D1%80%D0%BC%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B0_%D1%84%D1%83.pdf.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","положениеизмен_Ермолаева_фу.pdf.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+19:T21d0,{
+  "id": "etp-mets:229522-1",
+  "sourceCode": "etp-mets",
+  "externalId": "229522-1",
+  "sourceUrl": "https://m-ets.ru/229522-1",
+  "title": "Mitsubishi Colt, 2010 года, 92 лс",
+  "description": "Легковой автомобиль Mitsubishi Colt, 2010 года выпуска, номер кузова: Z21A-0700688, государственный регистрационный знак: Т432ХН27, КПП вариаторная, местонахождение: Российская Федерация, Хабаровский край, г. Хабаровск.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "23",
+  "address": "Краснодарский край",
+  "priceStart": "287280",
+  "priceMin": "205200.00",
+  "deposit": "28728.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-24T00:00:00+03:00",
+  "biddStartAt": "2026-08-28T09:00:00+03:00",
+  "biddEndAt": "2026-10-02T09:00:00+03:00",
+  "auctionAt": "2026-10-02T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А73-8681/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Ермолаева Алина Романовна",
+      "inn": "270907474637",
+      "efrsbId": "cb5414c8911d01590e84366bd1051edb"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Гущина Алина Алишеровна",
+      "inn": "745701241833",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Гущина Алина Алишеровна",
+      "inn": "745701241833",
+      "email": "aakarimova@inbox.ru",
+      "phone": "+7 (982) 309 81 83"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-28T09:00:00+03:00",
+      "endAt": "2026-09-04T09:00:00+03:00",
+      "price": "287280.00",
+      "deposit": "28728.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-04T09:00:00+03:00",
+      "endAt": "2026-09-11T09:00:00+03:00",
+      "price": "266760.00",
+      "deposit": "26676.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-11T09:00:00+03:00",
+      "endAt": "2026-09-18T09:00:00+03:00",
+      "price": "246240.00",
+      "deposit": "24624.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-18T09:00:00+03:00",
+      "endAt": "2026-09-25T09:00:00+03:00",
+      "price": "225720.00",
+      "deposit": "22572.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-25T09:00:00+03:00",
+      "endAt": "2026-10-02T09:00:00+03:00",
+      "price": "205200.00",
+      "deposit": "20520.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268795403/268795403_thumb_0.jpg",
+    "https://m-ets.ru/download/268795412/268795412_thumb_0.jpg",
+    "https://m-ets.ru/download/268795402/268795402_thumb_0.jpg",
+    "https://m-ets.ru/download/268795407/268795407_thumb_0.jpg",
+    "https://m-ets.ru/download/268795404/268795404_thumb_0.jpg",
+    "https://m-ets.ru/download/268795408/268795408_thumb_0.jpg",
+    "https://m-ets.ru/download/268795406/268795406_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268795420/%D0%9F%D0%A2%D0%A1%20%D0%A1%D0%A2%D0%A1.pdf",
+      "name": "ПТС СТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268795422/%D1%84%D0%BE%D1%82%D0%BE%20%D1%82%D1%81.pdf",
+      "name": "фото тс.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268795424/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%A2%D0%A1.docx",
+      "name": "Проект ДКП залог ТС.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268795674/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268795676/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD_%D0%95%D1%80%D0%BC%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B0_%D1%84%D1%83.pdf.pdf",
+      "name": "положениеизмен_Ермолаева_фу.pdf.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Mitsubishi",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Colt",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2010",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "92",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24306794",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Хабаровского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "30.09.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге в пользу ПАО СБЕРБАНК, (ИНН 7707083893 ) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: 353925, Краснодарский край, Новороссийск г, Хворостянского ул, дом № 21, предварительно согласовав время с Финансовым управляющим по тел. +79823098183, либо путем направления запроса на электронную почту aakarimova@inbox.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному ... Показать полностью управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:34:16.996Z",
+  "lastSeenAt": "2026-08-31T18:34:16.996Z",
+  "contentHash": "9d2acb9d2ff8e67c1cd62e8bdf2d4792eef9a20accdc3007c7911093956399fc"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"266 760 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["246 240 ₽",["$","span",null,{"className":"muted","children":[" ","· ","11 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[3,", до ","205 200 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"287 280 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"28 728 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"23 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"28 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"2 окт. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"2 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229522-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Mitsubishi Colt, 2010 года, 92 лс — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

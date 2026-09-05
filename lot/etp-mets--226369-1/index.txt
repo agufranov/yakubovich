@@ -1,0 +1,112 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--226369-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--226369-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--226369-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Здание 1466 кв.м на участке 3 га в Краснодарском крае, м.о. Анапа"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Прочие торги"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилое здание"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268524864/268524864_thumb_0.jpg","alt":"Здание 1466 кв.м на участке 3 га в Краснодарском крае, м.о. Анапа"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268524865/268524865_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524865/268524865_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524865/268524865_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524876/268524876_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524876/268524876_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524876/268524876_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524875/268524875_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524875/268524875_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524875/268524875_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524877/268524877_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524877/268524877_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524877/268524877_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524863/268524863_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524863/268524863_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524863/268524863_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524862/268524862_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524862/268524862_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524862/268524862_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524860/268524860_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524860/268524860_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524860/268524860_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524854/268524854_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524854/268524854_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524854/268524854_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524852/268524852_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524852/268524852_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524852/268524852_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524858/268524858_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524858/268524858_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524858/268524858_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524873/268524873_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524873/268524873_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$undefined",false,"$L13",false,"$L14",false,false,"$L15"]}],"$L16"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268524873/268524873_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",13," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268524874/268524874_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524874/268524874_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524874/268524874_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524861/268524861_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524861/268524861_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524861/268524861_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524859/268524859_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524859/268524859_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524859/268524859_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524856/268524856_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524856/268524856_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524856/268524856_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524870/268524870_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524870/268524870_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524870/268524870_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524857/268524857_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524857/268524857_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524857/268524857_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524871/268524871_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524871/268524871_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524871/268524871_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524868/268524868_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524868/268524868_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524868/268524868_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524866/268524866_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524866/268524866_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524866/268524866_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524853/268524853_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524853/268524853_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524853/268524853_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524851/268524851_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524851/268524851_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524851/268524851_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524872/268524872_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524872/268524872_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524872/268524872_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268524855/268524855_thumb_0.jpg",{"href":"https://m-ets.ru/download/268524855/268524855_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268524855/268524855_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 15:00 (МСК)"," —"," ","14 авг. 2026 г., 15:00 (МСК)"]}],["$","td",null,{"children":"50 000 000 ₽"}],["$","td",null,{"children":"1 000 000 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 15:00 (МСК)"," —"," ","21 авг. 2026 г., 15:00 (МСК)"]}],["$","td",null,{"children":"45 000 000 ₽"}],["$","td",null,{"children":"900 000 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 15:00 (МСК)"," —"," ","28 авг. 2026 г., 15:00 (МСК)"]}],["$","td",null,{"children":"40 000 000 ₽"}],["$","td",null,{"children":"800 000 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["31 авг. 2026 г., 15:00 (МСК)"," —"," ","4 сент. 2026 г., 15:00 (МСК)"]}],["$","td",null,{"children":"35 000 000 ₽"}],["$","td",null,{"children":"700 000 ₽"}]]}]]}]]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Краснодарский край"}]]}]
+17:Tda0,{
+  "id": "etp-mets:226369-1",
+  "sourceCode": "etp-mets",
+  "externalId": "226369-1",
+  "sourceUrl": "https://m-ets.ru/226369-1",
+  "title": "Здание 1466 кв.м на участке 3 га в Краснодарском крае, м.о. Анапа",
+  "legalBasis": "other",
+  "legalBasisRaw": "Коммерческие торги",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Аукцион «Своя цена»",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "38",
+  "categoryName": "Нежилое здание",
+  "regionCode": "23",
+  "address": "Краснодарский край",
+  "priceStart": "50000000",
+  "priceMin": "35000000.00",
+  "deposit": "1000000.00",
+  "currency": "RUB",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "parties": [],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-10T15:00:00+03:00",
+      "endAt": "2026-08-14T15:00:00+03:00",
+      "price": "50000000.00",
+      "deposit": "1000000.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-17T15:00:00+03:00",
+      "endAt": "2026-08-21T15:00:00+03:00",
+      "price": "45000000.00",
+      "deposit": "900000.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-24T15:00:00+03:00",
+      "endAt": "2026-08-28T15:00:00+03:00",
+      "price": "40000000.00",
+      "deposit": "800000.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-31T15:00:00+03:00",
+      "endAt": "2026-09-04T15:00:00+03:00",
+      "price": "35000000.00",
+      "deposit": "700000.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268524864/268524864_thumb_0.jpg",
+    "https://m-ets.ru/download/268524865/268524865_thumb_0.jpg",
+    "https://m-ets.ru/download/268524876/268524876_thumb_0.jpg",
+    "https://m-ets.ru/download/268524875/268524875_thumb_0.jpg",
+    "https://m-ets.ru/download/268524877/268524877_thumb_0.jpg",
+    "https://m-ets.ru/download/268524863/268524863_thumb_0.jpg",
+    "https://m-ets.ru/download/268524862/268524862_thumb_0.jpg",
+    "https://m-ets.ru/download/268524860/268524860_thumb_0.jpg",
+    "https://m-ets.ru/download/268524854/268524854_thumb_0.jpg",
+    "https://m-ets.ru/download/268524852/268524852_thumb_0.jpg",
+    "https://m-ets.ru/download/268524858/268524858_thumb_0.jpg",
+    "https://m-ets.ru/download/268524873/268524873_thumb_0.jpg",
+    "https://m-ets.ru/download/268524874/268524874_thumb_0.jpg",
+    "https://m-ets.ru/download/268524861/268524861_thumb_0.jpg",
+    "https://m-ets.ru/download/268524859/268524859_thumb_0.jpg",
+    "https://m-ets.ru/download/268524856/268524856_thumb_0.jpg",
+    "https://m-ets.ru/download/268524870/268524870_thumb_0.jpg",
+    "https://m-ets.ru/download/268524857/268524857_thumb_0.jpg",
+    "https://m-ets.ru/download/268524871/268524871_thumb_0.jpg",
+    "https://m-ets.ru/download/268524868/268524868_thumb_0.jpg",
+    "https://m-ets.ru/download/268524866/268524866_thumb_0.jpg",
+    "https://m-ets.ru/download/268524853/268524853_thumb_0.jpg",
+    "https://m-ets.ru/download/268524851/268524851_thumb_0.jpg",
+    "https://m-ets.ru/download/268524872/268524872_thumb_0.jpg",
+    "https://m-ets.ru/download/268524855/268524855_thumb_0.jpg"
+  ],
+  "attachments": [],
+  "attributes": [],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:39:34.951Z",
+  "lastSeenAt": "2026-08-31T19:39:34.951Z",
+  "contentHash": "0995e44f5b54c30771691232a3575b6ca13fd705467f0c156e46cf866bb3a1f4"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$17"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"50 000 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[4,", до ","35 000 000 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"1 000 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":["$undefined","$undefined","$undefined",false,"$undefined"]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/226369-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Здание 1466 кв.м на участке 3 га в Краснодарском крае, м.о. Анапа — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,262 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230464-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230464-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230464-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=54","children":"Новосибирская обл."}]]]}],["$","h1",null,{"children":"Ford Focus, 2008 года, 80 лс, 183924 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268841848/268841848_thumb_0.jpg","alt":"Ford Focus, 2008 года, 80 лс, 183924 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268841841/268841841_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841841/268841841_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268841841/268841841_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268841845/268841845_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841845/268841845_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268841845/268841845_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268841847/268841847_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841847/268841847_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268841847/268841847_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268841856/268841856_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841856/268841856_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268841856/268841856_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268841850/268841850_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841850/268841850_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268841850/268841850_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268841852/268841852_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841852/268841852_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268841852/268841852_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268841849/268841849_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841849/268841849_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268841849/268841849_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268841855/268841855_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841855/268841855_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268841855/268841855_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268841851/268841851_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841851/268841851_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268841851/268841851_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268841854/268841854_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841854/268841854_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268841854/268841854_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268841843/268841843_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841843/268841843_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268841843/268841843_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",4," ","фотографии"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268841853/268841853_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841853/268841853_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268841853/268841853_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268841842/268841842_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841842/268841842_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268841842/268841842_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268841846/268841846_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841846/268841846_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268841846/268841846_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268841857/268841857_thumb_0.jpg",{"href":"https://m-ets.ru/download/268841857/268841857_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268841857/268841857_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль ФОРД ФОКУС, VIN X9FPXXEEDP8A49066, 2008 г.в., Кабина (Кузов) №X9FPXXEEDP8A49066, цвет кузова темно-синий, двигатель № ASDB8A49066"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Ford",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Focus",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2008",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["183 924"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["80"," л.с."]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["X9FPXXEEDP8A49066",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24349163",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Томской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["26.05.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: В обеспечение исполнения обязательств по кредитному договору № 1043257 от 01.05.2024, заключенному между ПАО \"Сбербанк\" и Должником, имущество - ФОРД ФОКУС, VIN X9FPXXEEDP8A49066, 2008 г.в., Кабина (Кузов) №X9FPXXEEDP8A49066, цвет кузова темно-синий, двигатель № ASDB8A49066 передано в залог транспортного средства. Права Залогового кредитора в отношении Имущества подтверждены Определением Арбитражного суда Томской области от 15.05.2025 г. по делу № А67-9797-1/2024. Залог снимается в силу закона после проведения торгов.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С имуществом можно ознакомиться по предварительной записи по тел.: 8-952-804-57-54 в г. Новосибирск, ул. Плющихинская 10. В течение указанных сроков с положением о порядке, сроках и условиях продажи имущества, устанавливающим условия продажи, а также документами, характеризующими имущество, можно ознакомиться по адресу Организатора торгов: г. Томск, пр. Фрунзе, д.109А, офис 506, в рабочие дни с 10.00 ... Показать полностью до 18.00, тел. 8-(3822)-904-900. На торгах действует принцип «осмотрено - одобрено». Общая характеристика физического состояния имущества: бывший в эксплуатации объект; на корпусе царапины, вмятины, ржавчина и иные дефекты.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 12:00 (МСК)"," —"," ","3 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"251 370 ₽"}],["$","td",null,{"children":"25 137 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["3 сент. 2026 г., 12:00 (МСК)"," —"," ","10 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"233 415 ₽"}],["$","td",null,{"children":"23 341,50 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 12:00 (МСК)"," —"," ","17 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"215 460 ₽"}],["$","td",null,{"children":"21 546 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 12:00 (МСК)"," —"," ","24 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"197 505 ₽"}],["$","td",null,{"children":"19 750,50 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["24 сент. 2026 г., 12:00 (МСК)"," —"," ","1 окт. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"179 550 ₽"}],["$","td",null,{"children":"17 955 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Большакова Марина Александровна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=701732990526","children":"Большакова Марина Александровна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","701732990526"]}],"$undefined"]}]]}],["$","tr","manager:Меерченко Дмитрий Игоревич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=701736139605","children":"Меерченко Дмитрий Игоревич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","701736139605"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация СРО \"ЦААУ\""]}]]}]]}],["$","tr","organizer:Меерченко Дмитрий Игоревич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=701736139605","children":"Меерченко Дмитрий Игоревич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","701736139605"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9067-9797%2F2024","children":"А67-9797/2024"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Новосибирская область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",7,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268841864/%D0%BF%D1%82%D1%81.pdf",{"href":"https://m-ets.ru/download/268841864/%D0%BF%D1%82%D1%81.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","птс.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268841866/%D1%81%D1%82%D1%81.pdf",{"href":"https://m-ets.ru/download/268841866/%D1%81%D1%82%D1%81.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","стс.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268841868/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%B7%D0%B0%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%BE%D0%BC%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%B0%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%B0%20-%20%D0%9F%D0%90%D0%9E%20%D0%A1%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA.pdf",{"href":"https://m-ets.ru/download/268841868/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%B7%D0%B0%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%BE%D0%BC%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%B0%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%B0%20-%20%D0%9F%D0%90%D0%9E%20%D0%A1%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Определение о признании за кредитором статуса залогового кредитора - ПАО Сбербанк.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268841870/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf",{"href":"https://m-ets.ru/download/268841870/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект Договора купли-продажи.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268841872/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268841872/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о порядке и условиях реализации имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268843151/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268843151/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":["$L1b","$L1c"]}],"$L1d"]}]]}]
+1e:T2c43,{
+  "id": "etp-mets:230464-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230464-1",
+  "sourceUrl": "https://m-ets.ru/230464-1",
+  "title": "Ford Focus, 2008 года, 80 лс, 183924 км",
+  "description": "Легковой автомобиль ФОРД ФОКУС, VIN X9FPXXEEDP8A49066, 2008 г.в., Кабина (Кузов) №X9FPXXEEDP8A49066, цвет кузова темно-синий, двигатель № ASDB8A49066",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "54",
+  "address": "Новосибирская область",
+  "priceStart": "251370",
+  "priceMin": "179550.00",
+  "deposit": "25137.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-27T00:00:00+03:00",
+  "biddStartAt": "2026-08-27T12:00:00+03:00",
+  "biddEndAt": "2026-10-01T12:00:00+03:00",
+  "auctionAt": "2026-10-01T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А67-9797/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Большакова Марина Александровна",
+      "inn": "701732990526",
+      "efrsbId": "8f071c2aaa6c8a6b1094a68e789376cb"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Меерченко Дмитрий Игоревич",
+      "inn": "701736139605",
+      "sro": "Ассоциация СРО \"ЦААУ\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Меерченко Дмитрий Игоревич",
+      "inn": "701736139605",
+      "email": "25-09-76@mail.ru",
+      "phone": "+7 (913) 888 87 49"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-27T12:00:00+03:00",
+      "endAt": "2026-09-03T12:00:00+03:00",
+      "price": "251370.00",
+      "deposit": "25137.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-03T12:00:00+03:00",
+      "endAt": "2026-09-10T12:00:00+03:00",
+      "price": "233415.00",
+      "deposit": "23341.50"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-10T12:00:00+03:00",
+      "endAt": "2026-09-17T12:00:00+03:00",
+      "price": "215460.00",
+      "deposit": "21546.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-17T12:00:00+03:00",
+      "endAt": "2026-09-24T12:00:00+03:00",
+      "price": "197505.00",
+      "deposit": "19750.50"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-24T12:00:00+03:00",
+      "endAt": "2026-10-01T12:00:00+03:00",
+      "price": "179550.00",
+      "deposit": "17955.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268841848/268841848_thumb_0.jpg",
+    "https://m-ets.ru/download/268841841/268841841_thumb_0.jpg",
+    "https://m-ets.ru/download/268841845/268841845_thumb_0.jpg",
+    "https://m-ets.ru/download/268841847/268841847_thumb_0.jpg",
+    "https://m-ets.ru/download/268841856/268841856_thumb_0.jpg",
+    "https://m-ets.ru/download/268841850/268841850_thumb_0.jpg",
+    "https://m-ets.ru/download/268841852/268841852_thumb_0.jpg",
+    "https://m-ets.ru/download/268841849/268841849_thumb_0.jpg",
+    "https://m-ets.ru/download/268841855/268841855_thumb_0.jpg",
+    "https://m-ets.ru/download/268841851/268841851_thumb_0.jpg",
+    "https://m-ets.ru/download/268841854/268841854_thumb_0.jpg",
+    "https://m-ets.ru/download/268841843/268841843_thumb_0.jpg",
+    "https://m-ets.ru/download/268841853/268841853_thumb_0.jpg",
+    "https://m-ets.ru/download/268841842/268841842_thumb_0.jpg",
+    "https://m-ets.ru/download/268841846/268841846_thumb_0.jpg",
+    "https://m-ets.ru/download/268841857/268841857_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268841864/%D0%BF%D1%82%D1%81.pdf",
+      "name": "птс.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268841866/%D1%81%D1%82%D1%81.pdf",
+      "name": "стс.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268841868/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%B7%D0%B0%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%BE%D0%BC%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%B0%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%B0%20-%20%D0%9F%D0%90%D0%9E%20%D0%A1%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA.pdf",
+      "name": "Определение о признании за кредитором статуса залогового кредитора - ПАО Сбербанк.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268841870/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf",
+      "name": "Проект Договора купли-продажи.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268841872/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "Положение о порядке и условиях реализации имущества.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268843151/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268843153/%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "Изменения в положение о порядке и условиях реализации имущества.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Ford",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Focus",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2008",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "183 924",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "80",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "X9FPXXEEDP8A49066",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24349163",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Томской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "26.05.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: В обеспечение исполнения обязательств по кредитному договору № 1043257 от 01.05.2024, заключенному между ПАО \"Сбербанк\" и Должником, имущество - ФОРД ФОКУС, VIN X9FPXXEEDP8A49066, 2008 г.в., Кабина (Кузов) №X9FPXXEEDP8A49066, цвет кузова темно-синий, двигатель № ASDB8A49066 передано в залог транспортного средства. Права Залогового кредитора в отношении Имущества подтверждены Определением Арбитражного суда Томской области от 15.05.2025 г. по делу № А67-9797-1/2024. Залог снимается в силу закона после проведения торгов.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С имуществом можно ознакомиться по предварительной записи по тел.: 8-952-804-57-54 в г. Новосибирск, ул. Плющихинская 10. В течение указанных сроков с положением о порядке, сроках и условиях продажи имущества, устанавливающим условия продажи, а также документами, характеризующими имущество, можно ознакомиться по адресу Организатора торгов: г. Томск, пр. Фрунзе, д.109А, офис 506, в рабочие дни с 10.00 ... Показать полностью до 18.00, тел. 8-(3822)-904-900. На торгах действует принцип «осмотрено - одобрено». Общая характеристика физического состояния имущества: бывший в эксплуатации объект; на корпусе царапины, вмятины, ржавчина и иные дефекты.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:40:02.204Z",
+  "lastSeenAt": "2026-08-31T18:40:02.204Z",
+  "contentHash": "a565486e780e31a2b15b6de528395c12bccda1a926bb2b290a6ab766f84617e8"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1e"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"233 415 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["215 460 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 12:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[3,", до ","179 550 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"251 370 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"25 137 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"26 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 авг. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"1 окт. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"25 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"1 окт. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Новосибирская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230464-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1b:["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}]
+1c:["$","span",null,{"className":"size","children":"$undefined"}]
+1d:["$","a","https://m-ets.ru/download/268843153/%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268843153/%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Изменения в положение о порядке и условиях реализации имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Ford Focus, 2008 года, 80 лс, 183924 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

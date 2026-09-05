@@ -1,0 +1,155 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--228410-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--228410-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--228410-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=27","children":"Хабаровский край"}]]]}],["$","h1",null,{"children":"Земельный участок в Хабаровском крае, 596+/-8 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268709458/268709458_thumb_0.jpg","alt":"Земельный участок в Хабаровском крае, 596+/-8 кв.м."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268709452/268709452_thumb_0.jpg",{"href":"https://m-ets.ru/download/268709452/268709452_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268709452/268709452_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268709451/268709451_thumb_0.jpg",{"href":"https://m-ets.ru/download/268709451/268709451_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268709451/268709451_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268709454/268709454_thumb_0.jpg",{"href":"https://m-ets.ru/download/268709454/268709454_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268709454/268709454_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268709459/268709459_thumb_0.jpg",{"href":"https://m-ets.ru/download/268709459/268709459_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268709459/268709459_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268709456/268709456_thumb_0.jpg",{"href":"https://m-ets.ru/download/268709456/268709456_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268709456/268709456_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268709457/268709457_thumb_0.jpg",{"href":"https://m-ets.ru/download/268709457/268709457_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268709457/268709457_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268709455/268709455_thumb_0.jpg",{"href":"https://m-ets.ru/download/268709455/268709455_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268709455/268709455_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"земельный участок, кад номер 27:21:0108025:285 , вид разрешенного использования - для садоводства, местоположение - Хабаровский край, г. Советская Гавань, К/С Юбилейный, уч. 277, площадью 596 +/- 8 кв м. Коммуникации -электричество, газ, , канализация - отсутствуют . По пояснениям должника вдоль участка проложена по поверхности металлическая труба холодного водоснабжения. От неё есть подключение на участок. Воду для полива включают в определенные дни. Строения на участке – деревянный садовый дом 1977 года постройки. Строение не зарегистрировано. Участок в собственности должника с 1999 года."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],"$L11"]}],"$L12","$L13","$L14","$L15","$L16"]}]}]]}],"$undefined","$L17","$L18","$L19",false,"$L1a"]}],"$L1b"]}]]}]
+11:["$","td",null,{"children":["24231003",""]}]
+12:["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Хабаровского края",""]}]]}]
+13:["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["03.04.2026",""]}]]}]
+14:["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["3 150 руб. (5%)",""]}]]}]
+15:["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}]
+16:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с Положением о продаже, фото имущества - по адресу г.Хабаровск, ул.Луговая, д.2/1 в рабочие дни с 09-00ч. до 10-00ч (время московское) с предварительным звонком для согласования точного времени ознакомления по номеру +79241044993, или обратившись с запросом на электронную почту yes9@list.ru. Ознакомление с имуществом – в период приема заявок по адресу: Хабаровский край, г. Советская Гавань, К/С Юбилейный, уч. 277, с предварительным звонком для согласования точного времени и даты ознакомления по номеру +79142160111 (Ольга Анатольевна)",""]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Елизарова Тамара Павловна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=270410228591","children":"Елизарова Тамара Павловна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","270410228591"]}],"$undefined"]}]]}],["$","tr","manager:Ростовская Елена Сергеевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=272115863261","children":"Ростовская Елена Сергеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","272115863261"]}],["$","span",null,{"className":"muted","children":[" · ","ПАУ ЦФО"]}]]}]]}],["$","tr","organizer:Ростовская Елена Сергеевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=272115863261","children":"Ростовская Елена Сергеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","272115863261"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9073-2059%2F2026","children":"А73-2059/2026"}]}]]}]]}]}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Хабаровский край"}]]}]
+19:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268711604/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268711604/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268711606/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf",{"href":"https://m-ets.ru/download/268711606/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","проект Договора купли-продажи.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268711608/5.%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B8%CC%86%20%D0%A2.%D0%9F.%2C%20%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%BE%D0%B2.pdf",{"href":"https://m-ets.ru/download/268711608/5.%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B8%CC%86%20%D0%A2.%D0%9F.%2C%20%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%BE%D0%B2.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","5. Положение о порядке, об условиях и о сроках реализации имущества Елизаровой Т.П., утвержденное решением собрания кредиторов.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268711610/%D1%84%D0%BE%D1%82%D0%BE%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA.pdf",{"href":"https://m-ets.ru/download/268711610/%D1%84%D0%BE%D1%82%D0%BE%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA.pdf","target":"_blank","rel":"noopener","children":["$L1c","$L1d"]}]]}]]}]
+1e:T1e23,{
+  "id": "etp-mets:228410-1",
+  "sourceCode": "etp-mets",
+  "externalId": "228410-1",
+  "sourceUrl": "https://m-ets.ru/228410-1",
+  "title": "Земельный участок в Хабаровском крае, 596+/-8 кв.м.",
+  "description": "земельный участок, кад номер 27:21:0108025:285 , вид разрешенного использования - для садоводства, местоположение - Хабаровский край, г. Советская Гавань, К/С Юбилейный, уч. 277, площадью 596 +/- 8 кв м. Коммуникации -электричество, газ, , канализация - отсутствуют . По пояснениям должника вдоль участка проложена по поверхности металлическая труба холодного водоснабжения. От неё есть подключение на участок. Воду для полива включают в определенные дни. Строения на участке – деревянный садовый дом 1977 года постройки. Строение не зарегистрировано. Участок в собственности должника с 1999 года.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "27",
+  "address": "Хабаровский край",
+  "priceStart": "63000",
+  "priceStep": "3150",
+  "deposit": "6300",
+  "currency": "RUB",
+  "publishedAt": "2026-08-18T00:00:00+03:00",
+  "biddStartAt": "2026-08-18T17:00:00+03:00",
+  "biddEndAt": "2026-09-22T17:00:00+03:00",
+  "auctionAt": "2026-09-24T09:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А73-2059/2026",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Елизарова Тамара Павловна",
+      "inn": "270410228591",
+      "efrsbId": "875a297a2b1d358bbe041008b5771969"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Ростовская Елена Сергеевна",
+      "inn": "272115863261",
+      "sro": "ПАУ ЦФО"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Ростовская Елена Сергеевна",
+      "inn": "272115863261",
+      "email": "yes9@list.ru",
+      "phone": "+7 (924) 104 49 93"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268709458/268709458_thumb_0.jpg",
+    "https://m-ets.ru/download/268709452/268709452_thumb_0.jpg",
+    "https://m-ets.ru/download/268709451/268709451_thumb_0.jpg",
+    "https://m-ets.ru/download/268709454/268709454_thumb_0.jpg",
+    "https://m-ets.ru/download/268709459/268709459_thumb_0.jpg",
+    "https://m-ets.ru/download/268709456/268709456_thumb_0.jpg",
+    "https://m-ets.ru/download/268709457/268709457_thumb_0.jpg",
+    "https://m-ets.ru/download/268709455/268709455_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268711604/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268711606/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf",
+      "name": "проект Договора купли-продажи.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268711608/5.%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B8%CC%86%20%D0%A2.%D0%9F.%2C%20%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D0%BE%D0%B2.pdf",
+      "name": "5. Положение о порядке, об условиях и о сроках реализации имущества Елизаровой Т.П., утвержденное решением собрания кредиторов.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268711610/%D1%84%D0%BE%D1%82%D0%BE%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA.pdf",
+      "name": "фото участок.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24231003",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Хабаровского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "03.04.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "3 150 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с Положением о продаже, фото имущества - по адресу г.Хабаровск, ул.Луговая, д.2/1 в рабочие дни с 09-00ч. до 10-00ч (время московское) с предварительным звонком для согласования точного времени ознакомления по номеру +79241044993, или обратившись с запросом на электронную почту yes9@list.ru. Ознакомление с имуществом – в период приема заявок по адресу: Хабаровский край, г. Советская Гавань, К/С Юбилейный, уч. 277, с предварительным звонком для согласования точного времени и даты ознакомления по номеру +79142160111 (Ольга Анатольевна)",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:45:37.501Z",
+  "lastSeenAt": "2026-08-31T19:45:37.501Z",
+  "contentHash": "507f97ef148c8ccdc8a95a8cb112041ffe7bd4043a8c588f6bc4bff53ad01c5b"
+}1a:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1e"}]]}]
+1b:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"63 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"3 150 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"6 300 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"17 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"18 авг. 2026 г., 17:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"22 сент. 2026 г., 17:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"16 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"24 сент. 2026 г., 09:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Хабаровский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/228410-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1c:["$","span",null,{"children":["📎 ","фото участок.pdf"]}]
+1d:["$","span",null,{"className":"size","children":"$undefined"}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Хабаровском крае, 596+/-8 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

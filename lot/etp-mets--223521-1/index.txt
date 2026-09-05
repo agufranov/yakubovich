@@ -1,0 +1,185 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--223521-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--223521-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--223521-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=31","children":"Белгородская обл."}]]]}],["$","h1",null,{"children":"Гараж 24 кв.м. и земельный участок 24 кв.м. в Белгородской обл."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Прочие постройки"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268305870/268305870_thumb_0.jpg","alt":"Гараж 24 кв.м. и земельный участок 24 кв.м. в Белгородской обл."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268305871/268305871_thumb_0.jpg",{"href":"https://m-ets.ru/download/268305871/268305871_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268305871/268305871_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268305874/268305874_thumb_0.jpg",{"href":"https://m-ets.ru/download/268305874/268305874_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268305874/268305874_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268305872/268305872_thumb_0.jpg",{"href":"https://m-ets.ru/download/268305872/268305872_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268305872/268305872_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Гараж, площадь 24 кв.м., назначение: гаражи, материал наружных стен: кирпичные, адрес (местонахождение): Россия, обл Белгородская, г Шебекино, ул 9 Мая, дом 6, кадастровый (условный) номер: 31:18:0102007:62 ; Земельный участок, площадь 24 кв.м., назначение: Земли населенных пунктов, виды разрешенного использования: для индивидуального гаража, адрес (местонахождение): Россия, обл Белгородская, г Шебекино, ул 9 Мая, дом 6, кадастровый (условный) номер: 31:18:0102007:3 ."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23910290",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Белгородской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["20.11.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Запрещение регистрации № 31:18:0102007:62-31/078/2024-5 от 19.08.2024 г., Запрещение регистрации № 31:18:0102007:3-31/078/2024-5 от 19.08.2024 г.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Для получения всей имеющейся информации о лоте (в том числе фото) необходимо направить запрос на адрес эл. почты (в теме письма указать ФИО должника): pasko.torg80@yandex.ru либо по телефону +7(916) 909-71-81 Обращаю внимание, что гараж находится в зоне проведения боевых действий. Обращаю внимание, что границы земельного участка не установлены в соответствии с требованиями земельного законодательства. ... Показать полностью На имущество зарегистрированы следующие ограничения: Запрещение регистрации № 31:18:0102007:62-31/078/2024-5 от 19.08.2024 г., Запрещение регистрации № 31:18:0102007:3-31/078/2024-5 от 19.08.2024 г.",""]}]]}]]}]}]]}],"$L11","$L12","$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["27 июл. 2026 г., 09:00 (МСК)"," —"," ","3 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"287 100 ₽"}],["$","td",null,{"children":"28 710 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 09:00 (МСК)"," —"," ","10 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"258 390 ₽"}],["$","td",null,{"children":"25 839 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 09:00 (МСК)"," —"," ","17 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"229 680 ₽"}],["$","td",null,{"children":"22 968 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 09:00 (МСК)"," —"," ","24 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"200 970 ₽"}],["$","td",null,{"children":"20 097 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 09:00 (МСК)"," —"," ","31 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"172 260 ₽"}],["$","td",null,{"children":"17 226 ₽"}]]}],["$","tr","6",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 09:00 (МСК)"," —"," ","7 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"143 550 ₽"}],["$","td",null,{"children":"14 355 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 09:00 (МСК)"," —"," ","14 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"129 195 ₽"}],["$","td",null,{"children":"12 919,50 ₽"}]]}]]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Сорокин Игорь Григорьевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=312012865127","children":"Сорокин Игорь Григорьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","312012865127"]}],"$undefined"]}]]}],["$","tr","manager:Пасько Ольга Николаевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=775107525349","children":"Пасько Ольга Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","775107525349"]}],["$","span",null,{"className":"muted","children":[" · ","АПАУ \"Гарант\""]}]]}]]}],["$","tr","organizer:Пасько Ольга Николаевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=775107525349","children":"Пасько Ольга Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","775107525349"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9008-9197%2F2025","children":"А08-9197/2025"}]}]]}]]}]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Белгородская область"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268305875/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268305875/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о реализации имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268305877/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx",{"href":"https://m-ets.ru/download/268305877/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи недвижимого имущества.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268305949/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268305949/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+17:T1ee6,{
+  "id": "etp-mets:223521-1",
+  "sourceCode": "etp-mets",
+  "externalId": "223521-1",
+  "sourceUrl": "https://m-ets.ru/223521-1",
+  "title": "Гараж 24 кв.м. и земельный участок 24 кв.м. в Белгородской обл.",
+  "description": "Гараж, площадь 24 кв.м., назначение: гаражи, материал наружных стен: кирпичные, адрес (местонахождение): Россия, обл Белгородская, г Шебекино, ул 9 Мая, дом 6, кадастровый (условный) номер: 31:18:0102007:62 ; Земельный участок, площадь 24 кв.м., назначение: Земли населенных пунктов, виды разрешенного использования: для индивидуального гаража, адрес (местонахождение): Россия, обл Белгородская, г Шебекино, ул 9 Мая, дом 6, кадастровый (условный) номер: 31:18:0102007:3 .",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "39",
+  "categoryName": "Прочие постройки",
+  "regionCode": "31",
+  "address": "Белгородская область",
+  "priceStart": "287100",
+  "priceMin": "129195.00",
+  "deposit": "28710.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-24T00:00:00+03:00",
+  "biddStartAt": "2026-07-27T09:00:00+03:00",
+  "biddEndAt": "2026-09-14T09:00:00+03:00",
+  "auctionAt": "2026-09-14T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А08-9197/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Сорокин Игорь Григорьевич",
+      "inn": "312012865127",
+      "efrsbId": "cb2d7dc7bb1998b908146f1e85d98c54"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Пасько Ольга Николаевна",
+      "inn": "775107525349",
+      "sro": "АПАУ \"Гарант\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Пасько Ольга Николаевна",
+      "inn": "775107525349",
+      "email": "pasko.arbitr@mail.ru",
+      "phone": "+7 (916) 909 71 81"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-27T09:00:00+03:00",
+      "endAt": "2026-08-03T09:00:00+03:00",
+      "price": "287100.00",
+      "deposit": "28710.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-03T09:00:00+03:00",
+      "endAt": "2026-08-10T09:00:00+03:00",
+      "price": "258390.00",
+      "deposit": "25839.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-10T09:00:00+03:00",
+      "endAt": "2026-08-17T09:00:00+03:00",
+      "price": "229680.00",
+      "deposit": "22968.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-17T09:00:00+03:00",
+      "endAt": "2026-08-24T09:00:00+03:00",
+      "price": "200970.00",
+      "deposit": "20097.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-24T09:00:00+03:00",
+      "endAt": "2026-08-31T09:00:00+03:00",
+      "price": "172260.00",
+      "deposit": "17226.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-31T09:00:00+03:00",
+      "endAt": "2026-09-07T09:00:00+03:00",
+      "price": "143550.00",
+      "deposit": "14355.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-07T09:00:00+03:00",
+      "endAt": "2026-09-14T09:00:00+03:00",
+      "price": "129195.00",
+      "deposit": "12919.50"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268305870/268305870_thumb_0.jpg",
+    "https://m-ets.ru/download/268305871/268305871_thumb_0.jpg",
+    "https://m-ets.ru/download/268305874/268305874_thumb_0.jpg",
+    "https://m-ets.ru/download/268305872/268305872_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268305875/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "Положение о реализации имущества.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268305877/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx",
+      "name": "Договор купли-продажи недвижимого имущества.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268305949/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23910290",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Белгородской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "20.11.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Запрещение регистрации № 31:18:0102007:62-31/078/2024-5 от 19.08.2024 г., Запрещение регистрации № 31:18:0102007:3-31/078/2024-5 от 19.08.2024 г.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Для получения всей имеющейся информации о лоте (в том числе фото) необходимо направить запрос на адрес эл. почты (в теме письма указать ФИО должника): pasko.torg80@yandex.ru либо по телефону +7(916) 909-71-81 Обращаю внимание, что гараж находится в зоне проведения боевых действий. Обращаю внимание, что границы земельного участка не установлены в соответствии с требованиями земельного законодательства. ... Показать полностью На имущество зарегистрированы следующие ограничения: Запрещение регистрации № 31:18:0102007:62-31/078/2024-5 от 19.08.2024 г., Запрещение регистрации № 31:18:0102007:3-31/078/2024-5 от 19.08.2024 г.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:54:21.065Z",
+  "lastSeenAt": "2026-08-31T17:54:21.065Z",
+  "contentHash": "59bcfcc297356712be2ae710ec3d7a786cc7af1e75d7f8137f2319529b64832b"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$17"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"143 550 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["129 195 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[1,", до ","129 195 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"287 100 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"28 710 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"23 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 июл. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"14 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"8 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"14 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Белгородская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/223521-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Гараж 24 кв.м. и земельный участок 24 кв.м. в Белгородской обл. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

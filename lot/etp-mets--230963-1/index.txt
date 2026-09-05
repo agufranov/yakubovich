@@ -1,0 +1,130 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230963-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230963-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230963-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=26","children":"Ставропольский край"}]]]}],["$","h1",null,{"children":"Земельный участок в Ставрополе, 450 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок, кадастровый номер: 26:12:022709:380 , площадью 450кв.м., расположен по адресу: Российская Федерация, Ставропольский край, г.Ставрополь, КСЛ «Зеленый Яр», №98, вид права: собственность. (не является предметом залога)."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24402065",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Ставропольского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["24.09.2025",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["93 600 руб. (10%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Информация отсутствует",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Согласование времени ознакомления (осмотра) с имуществом и документацией обязательно. Осмотр имущества проводится по месту его нахождения. Ознакомиться с документами, получить информацию о лотах/имуществе, его составе, характеристиках можно в рабочие дни по телефону +73852699915, а также по адресу: Алтайский край, г. Барнаул, ул. Интернациональная, д. 130, этаж 1 помещение 5, Запросы направлять на E-mail: PrynikovaArbitr@yandex.ru. Тема письма: «Торги – Запрос от (наименование лица) по имуществу (указать Ф.И.О. должника).",""]}]]}]]}]}]]}],"$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Шитогубова Светлана Викторовна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=260202523840","children":"Шитогубова Светлана Викторовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","260202523840"]}],"$undefined"]}]]}],["$","tr","manager:Пряникова Наталья Сергеевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=227901059201","children":"Пряникова Наталья Сергеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","227901059201"]}],["$","span",null,{"className":"muted","children":[" · ","НП СОПАУ \"Альянс управляющих\""]}]]}]]}],["$","tr","organizer:Пряникова Наталья Сергеевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=227901059201","children":"Пряникова Наталья Сергеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","227901059201"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9063-5256%2F2025","children":"А63-5256/2025"}]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Ставропольский край"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268902814/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B0%20-%20%D0%A8%D0%B8%D1%82%D0%BE%D0%B3%D1%83%D0%B1%D0%BE%D0%B2%D0%B0%20%D0%A1.%D0%92.%20-%20%D0%BE%D0%B1%D1%89%D0%B8%D0%B9.docx",{"href":"https://m-ets.ru/download/268902814/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B0%20-%20%D0%A8%D0%B8%D1%82%D0%BE%D0%B3%D1%83%D0%B1%D0%BE%D0%B2%D0%B0%20%D0%A1.%D0%92.%20-%20%D0%BE%D0%B1%D1%89%D0%B8%D0%B9.docx","target":"_blank","rel":"noopener","children":["$L11","$L12"]}],"$L13"]}]]}],false,"$L14"]}],"$L15"]}]]}]
+11:["$","span",null,{"children":["📎 ","Проект договора задатка - Шитогубова С.В. - общий.docx"]}]
+12:["$","span",null,{"className":"size","children":"$undefined"}]
+13:["$","a","https://m-ets.ru/download/268902816/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20-%20%D0%A8%D0%B8%D1%82%D0%BE%D0%B3%D1%83%D0%B1%D0%BE%D0%B2%D0%B0%20%D0%A1.%D0%92..docx",{"href":"https://m-ets.ru/download/268902816/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20-%20%D0%A8%D0%B8%D1%82%D0%BE%D0%B3%D1%83%D0%B1%D0%BE%D0%B2%D0%B0%20%D0%A1.%D0%92..docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи - Шитогубова С.В..docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+16:T1517,{
+  "id": "etp-mets:230963-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230963-1",
+  "sourceUrl": "https://m-ets.ru/230963-1",
+  "title": "Земельный участок в Ставрополе, 450 кв.м.",
+  "description": "Земельный участок, кадастровый номер: 26:12:022709:380 , площадью 450кв.м., расположен по адресу: Российская Федерация, Ставропольский край, г.Ставрополь, КСЛ «Зеленый Яр», №98, вид права: собственность. (не является предметом залога).",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "26",
+  "address": "Ставропольский край",
+  "priceStart": "936000",
+  "priceStep": "93600",
+  "deposit": "187200",
+  "currency": "RUB",
+  "publishedAt": "2026-08-30T00:00:00+03:00",
+  "biddStartAt": "2026-08-31T00:00:00+03:00",
+  "biddEndAt": "2026-10-03T00:00:00+03:00",
+  "auctionAt": "2026-10-07T09:30:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А63-5256/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Шитогубова Светлана Викторовна",
+      "inn": "260202523840",
+      "efrsbId": "d1595a8110c4f05b57943c621cb694f8"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Пряникова Наталья Сергеевна",
+      "inn": "227901059201",
+      "sro": "НП СОПАУ \"Альянс управляющих\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Пряникова Наталья Сергеевна",
+      "inn": "227901059201",
+      "email": "prynikovaarbitr@yandex.ru",
+      "phone": "+7 (906) 946 64 61"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268902814/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B0%20-%20%D0%A8%D0%B8%D1%82%D0%BE%D0%B3%D1%83%D0%B1%D0%BE%D0%B2%D0%B0%20%D0%A1.%D0%92.%20-%20%D0%BE%D0%B1%D1%89%D0%B8%D0%B9.docx",
+      "name": "Проект договора задатка - Шитогубова С.В. - общий.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268902816/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20-%20%D0%A8%D0%B8%D1%82%D0%BE%D0%B3%D1%83%D0%B1%D0%BE%D0%B2%D0%B0%20%D0%A1.%D0%92..docx",
+      "name": "Проект договора купли-продажи - Шитогубова С.В..docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24402065",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Ставропольского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "24.09.2025",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "93 600 руб. (10%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Информация отсутствует",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Согласование времени ознакомления (осмотра) с имуществом и документацией обязательно. Осмотр имущества проводится по месту его нахождения. Ознакомиться с документами, получить информацию о лотах/имуществе, его составе, характеристиках можно в рабочие дни по телефону +73852699915, а также по адресу: Алтайский край, г. Барнаул, ул. Интернациональная, д. 130, этаж 1 помещение 5, Запросы направлять на E-mail: PrynikovaArbitr@yandex.ru. Тема письма: «Торги – Запрос от (наименование лица) по имуществу (указать Ф.И.О. должника).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:53:43.385Z",
+  "lastSeenAt": "2026-08-31T18:53:43.385Z",
+  "contentHash": "26117a663ea97a2f38321a6181a2f38e7c35cb3a0fdc048b296cb7da5896baa3"
+}14:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$16"}]]}]
+15:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"936 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"93 600 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"187 200 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"29 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"31 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"3 окт. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"27 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"7 окт. 2026 г., 09:30 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Ставропольский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230963-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Ставрополе, 450 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

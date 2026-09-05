@@ -1,0 +1,315 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--228860-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--228860-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--228860-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=39","children":"Калининградская обл."}]]]}],["$","h1",null,{"children":"Mercedes-Benz E-Класс, 2013 года, 184 лс, 147730 км, АКПП"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268740229/268740229_thumb_0.jpg","alt":"Mercedes-Benz E-Класс, 2013 года, 184 лс, 147730 км, АКПП"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268740223/268740223_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740223/268740223_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740223/268740223_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740236/268740236_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740236/268740236_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740236/268740236_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740240/268740240_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740240/268740240_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740240/268740240_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740239/268740239_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740239/268740239_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740239/268740239_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740242/268740242_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740242/268740242_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740242/268740242_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740241/268740241_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740241/268740241_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740241/268740241_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740227/268740227_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740227/268740227_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740227/268740227_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740231/268740231_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740231/268740231_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740231/268740231_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740224/268740224_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740224/268740224_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740224/268740224_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740235/268740235_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740235/268740235_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740235/268740235_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740221/268740221_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740221/268740221_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268740221/268740221_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",10," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268740243/268740243_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740243/268740243_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740243/268740243_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740237/268740237_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740237/268740237_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740237/268740237_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740225/268740225_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740225/268740225_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740225/268740225_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740232/268740232_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740232/268740232_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740232/268740232_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740238/268740238_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740238/268740238_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740238/268740238_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740234/268740234_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740234/268740234_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740234/268740234_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740230/268740230_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740230/268740230_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740230/268740230_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740226/268740226_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740226/268740226_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740226/268740226_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740228/268740228_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740228/268740228_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740228/268740228_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268740222/268740222_thumb_0.jpg",{"href":"https://m-ets.ru/download/268740222/268740222_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268740222/268740222_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль марки: MERCEDES-BENZ, модель: E 200, Год выпуска: 2013 г., кузов №: WDD2120341A780598, идентификационный номер (VIN): WDD2120341A780598"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Mercedes-Benz",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["E-Класс",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2013",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["147 730"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["184"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Задний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Автоматическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["WDD2120341A780598",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24263405",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Калининградской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["27.05.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Предмет торгов – транспортное средство, обремененное залогом в пользу ПАО \"Совкомбанк\"",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с договором о задатке и проектом договора купли-продажи имущества осуществляются в сети «Интернет» на сайте www.m-ets.ru и www.bankrot.fedresurs.ru. Также с документами, описанием, составом и характеристиками продаваемого имущества и иной информацией можно ознакомиться в рабочие дни с понедельника по пятницу по адресу нахождения финансового управляющего: г. Калининград, ул. Генерал-Лейтенанта ... Показать полностью Озерова, д. 19, офис 305. Время ознакомления с документами – с 10-00 по 18-00 (местное время). По предварительной записи – тел. +7-906-237-63-27 (WhatsApp | Telegram) или по эл. почте vip.box_torg@mail.ru. Адрес для ознакомления с имуществом: г. Калининград, ул. Генерал-Лейтенанта Озерова, д. 19 (парковка). Время ознакомления с имуществом – с 10-00 по 18-00 (местное время). По предварительной записи – тел. +7-906-237-63-27 (WhatsApp | Telegram) или по эл. почте vip.box_torg@mail.ru.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 14:00 (МСК)"," —"," ","4 сент. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"1 800 000 ₽"}],["$","td",null,{"children":"180 000 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["4 сент. 2026 г., 14:00 (МСК)"," —"," ","14 сент. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"1 735 000 ₽"}],["$","td",null,{"children":"173 500 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 14:00 (МСК)"," —"," ","22 сент. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"1 670 000 ₽"}],["$","td",null,{"children":"167 000 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["22 сент. 2026 г., 14:00 (МСК)"," —"," ","30 сент. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"1 605 000 ₽"}],["$","td",null,{"children":"160 500 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["30 сент. 2026 г., 14:00 (МСК)"," —"," ","8 окт. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"1 540 000 ₽"}],["$","td",null,{"children":"154 000 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["8 окт. 2026 г., 14:00 (МСК)"," —"," ","16 окт. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"1 475 000 ₽"}],["$","td",null,{"children":"147 500 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["16 окт. 2026 г., 14:00 (МСК)"," —"," ","26 окт. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"1 410 000 ₽"}],["$","td",null,{"children":"141 000 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["26 окт. 2026 г., 14:00 (МСК)"," —"," ","3 нояб. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"1 345 000 ₽"}],["$","td",null,{"children":"134 500 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["3 нояб. 2026 г., 14:00 (МСК)"," —"," ","12 нояб. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"1 280 000 ₽"}],["$","td",null,{"children":"128 000 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["12 нояб. 2026 г., 14:00 (МСК)"," —"," ","20 нояб. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"1 215 000 ₽"}],["$","td",null,{"children":"121 500 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["20 нояб. 2026 г., 14:00 (МСК)"," —"," ","30 нояб. 2026 г., 14:00 (МСК)"]}],["$","td",null,{"children":"1 150 000 ₽"}],["$","td",null,{"children":"115 000 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Мнацаканян Роман Мартинович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=390512483589","children":"Мнацаканян Роман Мартинович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","390512483589"]}],"$undefined"]}]]}],["$","tr","manager:Протченко Александр Сергеевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=550724646059","children":"Протченко Александр Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","550724646059"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСРО \"Содействие\""]}]]}]]}],["$","tr","organizer:Протченко Александр Сергеевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=550724646059","children":"Протченко Александр Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","550724646059"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО \"СОВКОМБАНК\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=4401116480","children":"ПАО \"СОВКОМБАНК\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","4401116480"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9021-2003%2F2025","children":"А21-2003/2025"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Калининградская область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",7,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268740219/%D0%9F%D0%A2%D0%A1%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.pdf",{"href":"https://m-ets.ru/download/268740219/%D0%9F%D0%A2%D0%A1%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ПТС - копия.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268740244/%D0%9F%D0%A2%D0%A1%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.pdf",{"href":"https://m-ets.ru/download/268740244/%D0%9F%D0%A2%D0%A1%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ПТС - копия.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268740246/A21-2003-2025%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D1%8F%D1%85.pdf",{"href":"https://m-ets.ru/download/268740246/A21-2003-2025%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D1%8F%D1%85.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A21-2003-2025 Определение о разногласиях.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268740248/A21-2003-2025%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A1%D0%BE%D0%B2%D0%BA%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA.pdf",{"href":"https://m-ets.ru/download/268740248/A21-2003-2025%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A1%D0%BE%D0%B2%D0%BA%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A21-2003-2025 Определение Совкомбанк.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268740250/A21-2003-2025%20%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5.pdf",{"href":"https://m-ets.ru/download/268740250/A21-2003-2025%20%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A21-2003-2025 Решение.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268740252/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).docx",{"href":"https://m-ets.ru/download/268740252/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи (проект).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268740808/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268740808/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":["$L1b","$L1c"]}]]}]]}]
+1d:T2e43,{
+  "id": "etp-mets:228860-1",
+  "sourceCode": "etp-mets",
+  "externalId": "228860-1",
+  "sourceUrl": "https://m-ets.ru/228860-1",
+  "title": "Mercedes-Benz E-Класс, 2013 года, 184 лс, 147730 км, АКПП",
+  "description": "Легковой автомобиль марки: MERCEDES-BENZ, модель: E 200, Год выпуска: 2013 г., кузов №: WDD2120341A780598, идентификационный номер (VIN): WDD2120341A780598",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "39",
+  "address": "Калининградская область",
+  "priceStart": "1800000",
+  "priceMin": "1150000.00",
+  "deposit": "180000.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-19T00:00:00+03:00",
+  "biddStartAt": "2026-08-27T14:00:00+03:00",
+  "biddEndAt": "2026-11-30T14:00:00+03:00",
+  "auctionAt": "2026-11-30T14:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А21-2003/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Мнацаканян Роман Мартинович",
+      "inn": "390512483589",
+      "efrsbId": "b23bc663de86ce9919746b3a7d5341a0"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Протченко Александр Сергеевич",
+      "inn": "550724646059",
+      "sro": "Ассоциация МСРО \"Содействие\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Протченко Александр Сергеевич",
+      "inn": "550724646059",
+      "email": "vip.box_torg@mail.ru",
+      "phone": "+7 (906) 237 63 27"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО \"СОВКОМБАНК\"",
+      "inn": "4401116480"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-27T14:00:00+03:00",
+      "endAt": "2026-09-04T14:00:00+03:00",
+      "price": "1800000.00",
+      "deposit": "180000.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-04T14:00:00+03:00",
+      "endAt": "2026-09-14T14:00:00+03:00",
+      "price": "1735000.00",
+      "deposit": "173500.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-14T14:00:00+03:00",
+      "endAt": "2026-09-22T14:00:00+03:00",
+      "price": "1670000.00",
+      "deposit": "167000.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-22T14:00:00+03:00",
+      "endAt": "2026-09-30T14:00:00+03:00",
+      "price": "1605000.00",
+      "deposit": "160500.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-30T14:00:00+03:00",
+      "endAt": "2026-10-08T14:00:00+03:00",
+      "price": "1540000.00",
+      "deposit": "154000.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-10-08T14:00:00+03:00",
+      "endAt": "2026-10-16T14:00:00+03:00",
+      "price": "1475000.00",
+      "deposit": "147500.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-16T14:00:00+03:00",
+      "endAt": "2026-10-26T14:00:00+03:00",
+      "price": "1410000.00",
+      "deposit": "141000.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-26T14:00:00+03:00",
+      "endAt": "2026-11-03T14:00:00+03:00",
+      "price": "1345000.00",
+      "deposit": "134500.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-11-03T14:00:00+03:00",
+      "endAt": "2026-11-12T14:00:00+03:00",
+      "price": "1280000.00",
+      "deposit": "128000.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-11-12T14:00:00+03:00",
+      "endAt": "2026-11-20T14:00:00+03:00",
+      "price": "1215000.00",
+      "deposit": "121500.00"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-11-20T14:00:00+03:00",
+      "endAt": "2026-11-30T14:00:00+03:00",
+      "price": "1150000.00",
+      "deposit": "115000.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268740229/268740229_thumb_0.jpg",
+    "https://m-ets.ru/download/268740223/268740223_thumb_0.jpg",
+    "https://m-ets.ru/download/268740236/268740236_thumb_0.jpg",
+    "https://m-ets.ru/download/268740240/268740240_thumb_0.jpg",
+    "https://m-ets.ru/download/268740239/268740239_thumb_0.jpg",
+    "https://m-ets.ru/download/268740242/268740242_thumb_0.jpg",
+    "https://m-ets.ru/download/268740241/268740241_thumb_0.jpg",
+    "https://m-ets.ru/download/268740227/268740227_thumb_0.jpg",
+    "https://m-ets.ru/download/268740231/268740231_thumb_0.jpg",
+    "https://m-ets.ru/download/268740224/268740224_thumb_0.jpg",
+    "https://m-ets.ru/download/268740235/268740235_thumb_0.jpg",
+    "https://m-ets.ru/download/268740221/268740221_thumb_0.jpg",
+    "https://m-ets.ru/download/268740243/268740243_thumb_0.jpg",
+    "https://m-ets.ru/download/268740237/268740237_thumb_0.jpg",
+    "https://m-ets.ru/download/268740225/268740225_thumb_0.jpg",
+    "https://m-ets.ru/download/268740232/268740232_thumb_0.jpg",
+    "https://m-ets.ru/download/268740238/268740238_thumb_0.jpg",
+    "https://m-ets.ru/download/268740234/268740234_thumb_0.jpg",
+    "https://m-ets.ru/download/268740230/268740230_thumb_0.jpg",
+    "https://m-ets.ru/download/268740226/268740226_thumb_0.jpg",
+    "https://m-ets.ru/download/268740228/268740228_thumb_0.jpg",
+    "https://m-ets.ru/download/268740222/268740222_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268740219/%D0%9F%D0%A2%D0%A1%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.pdf",
+      "name": "ПТС - копия.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268740244/%D0%9F%D0%A2%D0%A1%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.pdf",
+      "name": "ПТС - копия.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268740246/A21-2003-2025%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D1%8F%D1%85.pdf",
+      "name": "A21-2003-2025 Определение о разногласиях.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268740248/A21-2003-2025%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A1%D0%BE%D0%B2%D0%BA%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA.pdf",
+      "name": "A21-2003-2025 Определение Совкомбанк.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268740250/A21-2003-2025%20%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5.pdf",
+      "name": "A21-2003-2025 Решение.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268740252/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).docx",
+      "name": "Договор купли-продажи (проект).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268740808/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Mercedes-Benz",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "E-Класс",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2013",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "147 730",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "184",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Задний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Автоматическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "WDD2120341A780598",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24263405",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Калининградской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "27.05.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Предмет торгов – транспортное средство, обремененное залогом в пользу ПАО \"Совкомбанк\"",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с договором о задатке и проектом договора купли-продажи имущества осуществляются в сети «Интернет» на сайте www.m-ets.ru и www.bankrot.fedresurs.ru. Также с документами, описанием, составом и характеристиками продаваемого имущества и иной информацией можно ознакомиться в рабочие дни с понедельника по пятницу по адресу нахождения финансового управляющего: г. Калининград, ул. Генерал-Лейтенанта ... Показать полностью Озерова, д. 19, офис 305. Время ознакомления с документами – с 10-00 по 18-00 (местное время). По предварительной записи – тел. +7-906-237-63-27 (WhatsApp | Telegram) или по эл. почте vip.box_torg@mail.ru. Адрес для ознакомления с имуществом: г. Калининград, ул. Генерал-Лейтенанта Озерова, д. 19 (парковка). Время ознакомления с имуществом – с 10-00 по 18-00 (местное время). По предварительной записи – тел. +7-906-237-63-27 (WhatsApp | Telegram) или по эл. почте vip.box_torg@mail.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:41:54.269Z",
+  "lastSeenAt": "2026-08-31T17:41:54.269Z",
+  "contentHash": "67024329c355be828d57993fce35948cd02ca2714a1103a0bdd657bfb9d2e7e9"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1d"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"1 735 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["1 670 000 ₽",["$","span",null,{"className":"muted","children":[" ","· ","14 сент. 2026 г., 14:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[9,", до ","1 150 000 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"1 800 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"180 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"18 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 авг. 2026 г., 14:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"30 нояб. 2026 г., 14:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"85 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"30 нояб. 2026 г., 14:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Калининградская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/228860-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1b:["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}]
+1c:["$","span",null,{"className":"size","children":"$undefined"}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Mercedes-Benz E-Класс, 2013 года, 184 лс, 147730 км, АКПП — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,82 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","itender-centerr--auctions_1169162",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","itender-centerr--auctions_1169162","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","itender-centerr--auctions_1169162","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:T819,{
+  "id": "itender-centerr:auctions_1169162",
+  "sourceCode": "itender-centerr",
+  "externalId": "auctions_1169162",
+  "sourceUrl": "https://bankrupt.centerr.ru/public/auctions/lots/view/1169162/",
+  "title": "Автомобиль Ситроен C5, 2010 года выпуска, VIN VF7RDRHDAAL578787, государственный регистрационный знак Х393КК30, цвет белый, двигатель дизельный, рабочий объем 1 997 куб. см, мощность 100 кВт (136 л.с.).",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству (127-ФЗ)",
+  "tradeKind": "auction",
+  "tradeKindRaw": "auctions",
+  "status": "applications",
+  "statusRaw": "Прием заявок",
+  "kind": "vehicle",
+  "categoryName": "Автомобили",
+  "priceStart": "548625.00",
+  "priceStep": "27431.25",
+  "deposit": "54862.50",
+  "currency": "RUB",
+  "publishedAt": "2026-08-21T00:00:00+03:00",
+  "biddStartAt": "2026-08-24T00:00:00+03:00",
+  "biddEndAt": "2026-09-29T23:59:00+03:00",
+  "auctionAt": "2026-10-01T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "centerr",
+  "images": [],
+  "attachments": [],
+  "attributes": [
+    {
+      "key": "efrsbMessageId",
+      "name": "Номер сообщения в ЕФРСБ",
+      "value": "24279170",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbClassifier",
+      "name": "Классификатор ЕФРСБ",
+      "value": "Автомобили",
+      "source": "structured"
+    },
+    {
+      "key": "repeatTrades",
+      "name": "Повторные торги",
+      "value": "Нет",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Шаг, % от начальной цены",
+      "value": "5,00",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-26T18:27:22.100Z",
+  "lastSeenAt": "2026-08-26T18:27:22.100Z",
+  "contentHash": "dbfa25d01861837ed80b95518876a9f69ba2c8fafe3e69eae2c597ae3b1d9123"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],"$undefined"]}],["$","h1",null,{"children":"Автомобиль Ситроен C5, 2010 года выпуска, VIN VF7RDRHDAAL578787, государственный регистрационный знак Х393КК30, цвет белый, двигатель дизельный, рабочий объем 1 997 куб. см, мощность 100 кВт (136 л.с.)."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Автомобили"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined","$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbMessageId",{"children":[["$","td",null,{"children":"Номер сообщения в ЕФРСБ"}],["$","td",null,{"children":["24279170",""]}]]}],["$","tr","efrsbClassifier",{"children":[["$","td",null,{"children":"Классификатор ЕФРСБ"}],["$","td",null,{"children":["Автомобили",""]}]]}],["$","tr","repeatTrades",{"children":[["$","td",null,{"children":"Повторные торги"}],["$","td",null,{"children":["Нет",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Шаг, % от начальной цены"}],["$","td",null,{"children":["5,00",""]}]]}]]}]}]]}],"$undefined","$undefined","$undefined",false,false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"548 625 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"27 431,25 ₽"}]],[["$","dt",null,{"children":"Задаток"}],"$L12"]]}],"$L13","$L14","$L15","$L16","$L17","$L18"]}]}]]}]]}]
+12:["$","dd",null,{"children":"54 862,50 ₽"}]
+13:["$","hr",null,{"className":"divider"}]
+14:["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"20 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"24 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"29 сент. 2026 г., 23:59 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"24 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"1 окт. 2026 г., 12:00 (МСК)"}]]]}]
+15:["$","hr",null,{"className":"divider"}]
+16:["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=centerr","children":"ЭП Центра реализации"}]}]]]}]
+17:["$","a",null,{"className":"btn primary big","href":"https://bankrupt.centerr.ru/public/auctions/lots/view/1169162/","target":"_blank","rel":"noopener","children":["Смотреть на ","bankrupt.centerr.ru"," →"]}]
+18:["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Автомобиль Ситроен C5, 2010 года выпуска, VIN VF7RDRHDAAL578787, государственный регистрац — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

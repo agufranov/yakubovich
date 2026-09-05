@@ -1,0 +1,252 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--227182-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--227182-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--227182-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=79","children":"Еврейская АО"}]]]}],["$","h1",null,{"children":"Nissan AD, 2006 года, 106 лс, 234060 км, АКПП"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268609691/268609691_thumb_0.jpg","alt":"Nissan AD, 2006 года, 106 лс, 234060 км, АКПП"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268609703/268609703_thumb_0.jpg",{"href":"https://m-ets.ru/download/268609703/268609703_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609703/268609703_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268609693/268609693_thumb_0.jpg",{"href":"https://m-ets.ru/download/268609693/268609693_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609693/268609693_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268609705/268609705_thumb_0.jpg",{"href":"https://m-ets.ru/download/268609705/268609705_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609705/268609705_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268609694/268609694_thumb_0.jpg",{"href":"https://m-ets.ru/download/268609694/268609694_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609694/268609694_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268609701/268609701_thumb_0.jpg",{"href":"https://m-ets.ru/download/268609701/268609701_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609701/268609701_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268609689/268609689_thumb_0.jpg",{"href":"https://m-ets.ru/download/268609689/268609689_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609689/268609689_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268609699/268609699_thumb_0.jpg",{"href":"https://m-ets.ru/download/268609699/268609699_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609699/268609699_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268609690/268609690_thumb_0.jpg",{"href":"https://m-ets.ru/download/268609690/268609690_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609690/268609690_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268609704/268609704_thumb_0.jpg",{"href":"https://m-ets.ru/download/268609704/268609704_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609704/268609704_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268609706/268609706_thumb_0.jpg",{"href":"https://m-ets.ru/download/268609706/268609706_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609706/268609706_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268609697/268609697_thumb_0.jpg",{"href":"https://m-ets.ru/download/268609697/268609697_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268609697/268609697_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",5," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268609695/268609695_thumb_0.jpg",{"href":"https://m-ets.ru/download/268609695/268609695_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609695/268609695_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268609702/268609702_thumb_0.jpg",{"href":"https://m-ets.ru/download/268609702/268609702_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609702/268609702_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268609700/268609700_thumb_270.jpg",{"href":"https://m-ets.ru/download/268609700/268609700_thumb_270.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609700/268609700_thumb_270.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268609698/268609698_thumb_270.jpg",{"href":"https://m-ets.ru/download/268609698/268609698_thumb_270.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609698/268609698_thumb_270.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268609696/268609696_thumb_270.jpg",{"href":"https://m-ets.ru/download/268609696/268609696_thumb_270.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268609696/268609696_thumb_270.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Транспортное средство - Легковой автомобиль, марка: NISSAN, модель: AD, 2006 года выпуска, VIN: отсутствует, грз: А937АО79, модель двигателя: QG15, мощность двигателя: 106 л.с., рабочий объем двигателя: 149 куб.см., шасси (рама): отсутствует, номер кузова: VFY11705380, цвет кузова: (белый). Привод: передний. КПП: автомат.Пробег более 200 тыс.км.. Характеристика: кузов в удовлетворительном состоянии. Передний бампер имеет повреждение не подлежащие восстановлению, частично отсутствует. Лобовое стекло имеет трещину по горизонтали (не сквозная). Резина летняя прошла один сезон (14 R). Имеет электропривод передних стёкол, задние окна на механическом приводе (вёсла). Электрорегулировка боковых зеркал заднего вида осуществляется с салона автомобиля, также регулировка угла наклона по вертикали передних фар. Двигатель в обслуживании не нуждается. Подвеска в хорошем состоянии. Лопнул радиатор, вытек антифриз, из-за чего транспортное средство передвигаться не может."}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Nissan",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["AD",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2006",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["234 060"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["106"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Автоматическая",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24143529",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Еврейской автономной области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["18.12.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: запрещение регистрации. Покупатель самостоятельно предпринимает все зависящие от него меры по снятию ограничений и обременений, наложенных на указанное выше имущество, при наличии таковых.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с лотом проводится по адресу: Еврейская автономная область, село Екатерино-Никольское, по предварительной записи по тел. +79241510045. По всем вопросам организации торгов, ознакомлению с выставленным на торги имуществом претенденты на участие в торгах обращаются к финансовому управляющему, как к Организатору торгов, по телефону +79087317212, электронному адресу: ti@6060115.ru ПО РАБОЧИМ ДНЯМ С 10:00 ДО 17:00 ПО МОСКОВСКОМУ ВРЕМЕНИ!",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["11 авг. 2026 г., 18:00 (МСК)"," —"," ","16 авг. 2026 г., 18:00 (МСК)"]}],["$","td",null,{"children":"266 400 ₽"}],["$","td",null,{"children":"53 280 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["16 авг. 2026 г., 18:00 (МСК)"," —"," ","21 авг. 2026 г., 18:00 (МСК)"]}],["$","td",null,{"children":"239 760 ₽"}],["$","td",null,{"children":"47 952 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 18:00 (МСК)"," —"," ","26 авг. 2026 г., 18:00 (МСК)"]}],["$","td",null,{"children":"213 120 ₽"}],["$","td",null,{"children":"42 624 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 18:00 (МСК)"," —"," ","31 авг. 2026 г., 18:00 (МСК)"]}],["$","td",null,{"children":"186 480 ₽"}],["$","td",null,{"children":"37 296 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["31 авг. 2026 г., 18:00 (МСК)"," —"," ","5 сент. 2026 г., 18:00 (МСК)"]}],["$","td",null,{"children":"159 840 ₽"}],["$","td",null,{"children":"31 968 ₽"}]]}],["$","tr","6",{"className":"now","children":[["$","td",null,{"children":["5 сент. 2026 г., 18:00 (МСК)"," —"," ","10 сент. 2026 г., 18:00 (МСК)"]}],["$","td",null,{"children":"133 200 ₽"}],["$","td",null,{"children":"26 640 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 18:00 (МСК)"," —"," ","15 сент. 2026 г., 18:00 (МСК)"]}],["$","td",null,{"children":"106 560 ₽"}],["$","td",null,{"children":"21 312 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Петряйкин Александр Павлович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=790500157260","children":"Петряйкин Александр Павлович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","790500157260"]}],"$undefined"]}]]}],["$","tr","manager:Толкачева Ирина Геннадьевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=392202283664","children":"Толкачева Ирина Геннадьевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","392202283664"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСОПАУ"]}]]}]]}],["$","tr","organizer:Толкачева Ирина Геннадьевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=392202283664","children":"Толкачева Ирина Геннадьевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","392202283664"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9016-4025%2F2025","children":"А16-4025/2025"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Еврейская автономная область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268609707/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%AD%D0%A2%D0%9F.pdf",{"href":"https://m-ets.ru/download/268609707/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%AD%D0%A2%D0%9F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о торгах ЭТП.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268609709/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20.docx",{"href":"https://m-ets.ru/download/268609709/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи движимого имущества .docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268610102/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268610102/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T2979,{
+  "id": "etp-mets:227182-1",
+  "sourceCode": "etp-mets",
+  "externalId": "227182-1",
+  "sourceUrl": "https://m-ets.ru/227182-1",
+  "title": "Nissan AD, 2006 года, 106 лс, 234060 км, АКПП",
+  "description": "Транспортное средство - Легковой автомобиль, марка: NISSAN, модель: AD, 2006 года выпуска, VIN: отсутствует, грз: А937АО79, модель двигателя: QG15, мощность двигателя: 106 л.с., рабочий объем двигателя: 149 куб.см., шасси (рама): отсутствует, номер кузова: VFY11705380, цвет кузова: (белый). Привод: передний. КПП: автомат.Пробег более 200 тыс.км.. Характеристика: кузов в удовлетворительном состоянии. Передний бампер имеет повреждение не подлежащие восстановлению, частично отсутствует. Лобовое стекло имеет трещину по горизонтали (не сквозная). Резина летняя прошла один сезон (14 R). Имеет электропривод передних стёкол, задние окна на механическом приводе (вёсла). Электрорегулировка боковых зеркал заднего вида осуществляется с салона автомобиля, также регулировка угла наклона по вертикали передних фар. Двигатель в обслуживании не нуждается. Подвеска в хорошем состоянии. Лопнул радиатор, вытек антифриз, из-за чего транспортное средство передвигаться не может.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "79",
+  "address": "Еврейская автономная область",
+  "priceStart": "266400",
+  "priceMin": "106560.00",
+  "deposit": "53280.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-11T00:00:00+03:00",
+  "biddStartAt": "2026-08-11T18:00:00+03:00",
+  "biddEndAt": "2026-09-15T18:00:00+03:00",
+  "auctionAt": "2026-09-16T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А16-4025/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Петряйкин Александр Павлович",
+      "inn": "790500157260",
+      "efrsbId": "0bdad77386de4e68ac64abc5c46d11d4"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Толкачева Ирина Геннадьевна",
+      "inn": "392202283664",
+      "sro": "Ассоциация МСОПАУ"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Толкачева Ирина Геннадьевна",
+      "inn": "392202283664",
+      "email": "ti@6060115.ru",
+      "phone": "+7 (908) 731 72 12"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-11T18:00:00+03:00",
+      "endAt": "2026-08-16T18:00:00+03:00",
+      "price": "266400.00",
+      "deposit": "53280.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-16T18:00:00+03:00",
+      "endAt": "2026-08-21T18:00:00+03:00",
+      "price": "239760.00",
+      "deposit": "47952.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-21T18:00:00+03:00",
+      "endAt": "2026-08-26T18:00:00+03:00",
+      "price": "213120.00",
+      "deposit": "42624.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-26T18:00:00+03:00",
+      "endAt": "2026-08-31T18:00:00+03:00",
+      "price": "186480.00",
+      "deposit": "37296.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-31T18:00:00+03:00",
+      "endAt": "2026-09-05T18:00:00+03:00",
+      "price": "159840.00",
+      "deposit": "31968.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-05T18:00:00+03:00",
+      "endAt": "2026-09-10T18:00:00+03:00",
+      "price": "133200.00",
+      "deposit": "26640.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-10T18:00:00+03:00",
+      "endAt": "2026-09-15T18:00:00+03:00",
+      "price": "106560.00",
+      "deposit": "21312.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268609691/268609691_thumb_0.jpg",
+    "https://m-ets.ru/download/268609703/268609703_thumb_0.jpg",
+    "https://m-ets.ru/download/268609693/268609693_thumb_0.jpg",
+    "https://m-ets.ru/download/268609705/268609705_thumb_0.jpg",
+    "https://m-ets.ru/download/268609694/268609694_thumb_0.jpg",
+    "https://m-ets.ru/download/268609701/268609701_thumb_0.jpg",
+    "https://m-ets.ru/download/268609689/268609689_thumb_0.jpg",
+    "https://m-ets.ru/download/268609699/268609699_thumb_0.jpg",
+    "https://m-ets.ru/download/268609690/268609690_thumb_0.jpg",
+    "https://m-ets.ru/download/268609704/268609704_thumb_0.jpg",
+    "https://m-ets.ru/download/268609706/268609706_thumb_0.jpg",
+    "https://m-ets.ru/download/268609697/268609697_thumb_0.jpg",
+    "https://m-ets.ru/download/268609695/268609695_thumb_0.jpg",
+    "https://m-ets.ru/download/268609702/268609702_thumb_0.jpg",
+    "https://m-ets.ru/download/268609700/268609700_thumb_270.jpg",
+    "https://m-ets.ru/download/268609698/268609698_thumb_270.jpg",
+    "https://m-ets.ru/download/268609696/268609696_thumb_270.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268609707/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%AD%D0%A2%D0%9F.pdf",
+      "name": "Положение о торгах ЭТП.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268609709/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20.docx",
+      "name": "Договор купли-продажи движимого имущества .docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268610102/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Nissan",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "AD",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2006",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "234 060",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "106",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Автоматическая",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24143529",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Еврейской автономной области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "18.12.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: запрещение регистрации. Покупатель самостоятельно предпринимает все зависящие от него меры по снятию ограничений и обременений, наложенных на указанное выше имущество, при наличии таковых.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с лотом проводится по адресу: Еврейская автономная область, село Екатерино-Никольское, по предварительной записи по тел. +79241510045. По всем вопросам организации торгов, ознакомлению с выставленным на торги имуществом претенденты на участие в торгах обращаются к финансовому управляющему, как к Организатору торгов, по телефону +79087317212, электронному адресу: ti@6060115.ru ПО РАБОЧИМ ДНЯМ С 10:00 ДО 17:00 ПО МОСКОВСКОМУ ВРЕМЕНИ!",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:42:00.156Z",
+  "lastSeenAt": "2026-08-31T19:42:00.156Z",
+  "contentHash": "a275306ec0ac26dd0a19b7a2286d28038c017532c3272412dd6a5fdddeea448c"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"133 200 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["106 560 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 18:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[1,", до ","106 560 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"266 400 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"53 280 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"10 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"11 авг. 2026 г., 18:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"15 сент. 2026 г., 18:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"9 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"16 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Еврейская АО"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/227182-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Nissan AD, 2006 года, 106 лс, 234060 км, АКПП — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

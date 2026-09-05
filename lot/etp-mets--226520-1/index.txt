@@ -1,0 +1,234 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--226520-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--226520-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--226520-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=52","children":"Нижегородская обл."}]]]}],["$","h1",null,{"children":"SEAT Leon, 2013 года, 105 лс"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268542196/268542196_thumb_0.jpg","alt":"SEAT Leon, 2013 года, 105 лс"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268542193/268542193_thumb_0.jpg",{"href":"https://m-ets.ru/download/268542193/268542193_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268542193/268542193_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268542197/268542197_thumb_0.jpg",{"href":"https://m-ets.ru/download/268542197/268542197_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268542197/268542197_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268542192/268542192_thumb_0.jpg",{"href":"https://m-ets.ru/download/268542192/268542192_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268542192/268542192_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268542195/268542195_thumb_0.jpg",{"href":"https://m-ets.ru/download/268542195/268542195_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268542195/268542195_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268542198/268542198_thumb_0.jpg",{"href":"https://m-ets.ru/download/268542198/268542198_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268542198/268542198_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268542200/268542200_thumb_0.jpg",{"href":"https://m-ets.ru/download/268542200/268542200_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268542200/268542200_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268542201/268542201_thumb_0.jpg",{"href":"https://m-ets.ru/download/268542201/268542201_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268542201/268542201_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268542199/268542199_thumb_0.jpg",{"href":"https://m-ets.ru/download/268542199/268542199_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268542199/268542199_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"SEAT LEON, 2013, VIN: VSSZZZ5FZER059941, В залоге у ООО МФК «ПСБ Финанс»"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["SEAT",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Leon",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2013",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["111 111"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["105"," л.с."]}]]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a"]}]}]]}],"$undefined","$L1b","$L1c","$L1d",false,"$L1e"]}],"$L1f"]}]]}]
+11:["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}]
+12:["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}]
+13:["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}]
+14:["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["VSSZZZ5FZER059941",""]}]]}]
+15:["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24096348",""]}]]}]
+16:["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Нижегородской области",""]}]]}]
+17:["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["29.01.2026",""]}]]}]
+18:["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["20 686,88 руб. (5%)",""]}]]}]
+19:["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге в пользу ООО МФК \"ПСБ ФИНАНС\", (ИНН 7730634468 ) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",""]}]]}]
+1a:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Нижегородская обл, г. Арзамас, ул. Парковая, д. 28, предварительно согласовав время с Финансовым управляющим по тел. +79128007163, либо путем направления запроса на электронную почту au.kirill.kuznetsov@inbox.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, ... Показать полностью относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",""]}]]}]
+1b:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Ратин Андрей Сергеевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=520202696796","children":"Ратин Андрей Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","520202696796"]}],"$undefined"]}]]}],["$","tr","manager:Кузнецов Кирилл Сергеевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=661219653166","children":"Кузнецов Кирилл Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","661219653166"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:КУЗНЕЦОВ КИРИЛЛ СЕРГЕЕВИЧ",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=661219653166","children":"КУЗНЕЦОВ КИРИЛЛ СЕРГЕЕВИЧ"}],["$","span",null,{"className":"muted","children":[" · ИНН ","661219653166"]}],"$undefined"]}]]}],["$","tr","pledgee:ООО МФК \"ПСБ ФИНАНС\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7730634468","children":"ООО МФК \"ПСБ ФИНАНС\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7730634468"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9043-38379%2F2025","children":"А43-38379/2025"}]}]]}]]}]}]]}]
+1c:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Нижегородская область"}]]}]
+1d:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",7,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268542252/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268542252/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268542254/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A2%D0%A1%20(%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3).docx",{"href":"https://m-ets.ru/download/268542254/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A2%D0%A1%20(%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи ТС (залог).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268542256/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%A0%D0%B0%D1%82%D0%B8%D0%BD.pdf",{"href":"https://m-ets.ru/download/268542256/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%A0%D0%B0%D1%82%D0%B8%D0%BD.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о реализации_Ратин.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268542258/%D0%A0%D0%B0%D1%82%D0%B8%D0%BD%20%D0%90.%D0%A1.%20%D0%A1%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/268542258/%D0%A0%D0%B0%D1%82%D0%B8%D0%BD%20%D0%90.%D0%A1.%20%D0%A1%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Ратин А.С. СТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268542260/%D0%A0%D0%B0%D1%82%D0%B8%D0%BD%20%D0%9F%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/268542260/%D0%A0%D0%B0%D1%82%D0%B8%D0%BD%20%D0%9F%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Ратин ПТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268542262/%D0%A0%D0%B0%D1%82%D0%BD%D0%B5%D0%B2%20%D1%84%D0%BE%D1%82%D0%BE%20%D0%B0%D0%B2%D1%82%D0%BE.pdf",{"href":"https://m-ets.ru/download/268542262/%D0%A0%D0%B0%D1%82%D0%BD%D0%B5%D0%B2%20%D1%84%D0%BE%D1%82%D0%BE%20%D0%B0%D0%B2%D1%82%D0%BE.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Ратнев фото авто.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268542264/%D1%84%D0%BE%D1%82%D0%BE%20%D1%82%D1%81.pdf",{"href":"https://m-ets.ru/download/268542264/%D1%84%D0%BE%D1%82%D0%BE%20%D1%82%D1%81.pdf","target":"_blank","rel":"noopener","children":["$L20","$L21"]}]]}]]}]
+22:T2361,{
+  "id": "etp-mets:226520-1",
+  "sourceCode": "etp-mets",
+  "externalId": "226520-1",
+  "sourceUrl": "https://m-ets.ru/226520-1",
+  "title": "SEAT Leon, 2013 года, 105 лс",
+  "description": "SEAT LEON, 2013, VIN: VSSZZZ5FZER059941, В залоге у ООО МФК «ПСБ Финанс»",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "52",
+  "address": "Нижегородская область",
+  "priceStart": "413737.50",
+  "priceStep": "20686.88",
+  "deposit": "41373.75",
+  "currency": "RUB",
+  "publishedAt": "2026-08-07T00:00:00+03:00",
+  "biddStartAt": "2026-08-14T09:00:00+03:00",
+  "biddEndAt": "2026-09-18T09:00:00+03:00",
+  "auctionAt": "2026-09-18T11:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А43-38379/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Ратин Андрей Сергеевич",
+      "inn": "520202696796",
+      "efrsbId": "5a8bfa5b43d73ecae014a836edf0d1e9"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Кузнецов Кирилл Сергеевич",
+      "inn": "661219653166",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "КУЗНЕЦОВ КИРИЛЛ СЕРГЕЕВИЧ",
+      "inn": "661219653166",
+      "email": "au.kirill.kuznetsov@inbox.ru",
+      "phone": "+7 (912) 800 71 63"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ООО МФК \"ПСБ ФИНАНС\"",
+      "inn": "7730634468"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268542196/268542196_thumb_0.jpg",
+    "https://m-ets.ru/download/268542193/268542193_thumb_0.jpg",
+    "https://m-ets.ru/download/268542197/268542197_thumb_0.jpg",
+    "https://m-ets.ru/download/268542192/268542192_thumb_0.jpg",
+    "https://m-ets.ru/download/268542195/268542195_thumb_0.jpg",
+    "https://m-ets.ru/download/268542198/268542198_thumb_0.jpg",
+    "https://m-ets.ru/download/268542200/268542200_thumb_0.jpg",
+    "https://m-ets.ru/download/268542201/268542201_thumb_0.jpg",
+    "https://m-ets.ru/download/268542199/268542199_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268542252/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268542254/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%A2%D0%A1%20(%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3).docx",
+      "name": "Проект договора купли-продажи ТС (залог).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268542256/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%A0%D0%B0%D1%82%D0%B8%D0%BD.pdf",
+      "name": "Положение о реализации_Ратин.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268542258/%D0%A0%D0%B0%D1%82%D0%B8%D0%BD%20%D0%90.%D0%A1.%20%D0%A1%D0%A2%D0%A1.pdf",
+      "name": "Ратин А.С. СТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268542260/%D0%A0%D0%B0%D1%82%D0%B8%D0%BD%20%D0%9F%D0%A2%D0%A1.pdf",
+      "name": "Ратин ПТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268542262/%D0%A0%D0%B0%D1%82%D0%BD%D0%B5%D0%B2%20%D1%84%D0%BE%D1%82%D0%BE%20%D0%B0%D0%B2%D1%82%D0%BE.pdf",
+      "name": "Ратнев фото авто.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268542264/%D1%84%D0%BE%D1%82%D0%BE%20%D1%82%D1%81.pdf",
+      "name": "фото тс.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "SEAT",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Leon",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2013",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "111 111",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "105",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "VSSZZZ5FZER059941",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24096348",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Нижегородской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "29.01.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "20 686,88 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге в пользу ООО МФК \"ПСБ ФИНАНС\", (ИНН 7730634468 ) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Нижегородская обл, г. Арзамас, ул. Парковая, д. 28, предварительно согласовав время с Финансовым управляющим по тел. +79128007163, либо путем направления запроса на электронную почту au.kirill.kuznetsov@inbox.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, ... Показать полностью относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:12:18.803Z",
+  "lastSeenAt": "2026-08-31T18:12:18.803Z",
+  "contentHash": "845d7dd43ebb2d39dee40275fff2cd2262038cc630b3cedee233ed8dbba1f9e0"
+}1e:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$22"}]]}]
+1f:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"413 737,50 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"20 686,88 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"41 373,75 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"6 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"14 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"18 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"12 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"18 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Нижегородская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/226520-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+20:["$","span",null,{"children":["📎 ","фото тс.pdf"]}]
+21:["$","span",null,{"className":"size","children":"$undefined"}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"SEAT Leon, 2013 года, 105 лс — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

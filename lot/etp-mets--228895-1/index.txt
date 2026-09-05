@@ -1,0 +1,271 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--228895-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--228895-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--228895-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=72","children":"Тюменская обл."}]]]}],["$","h1",null,{"children":"Ford Mondeo, 2015 года, 149 лс, АКПП"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268743450/268743450_thumb_0.jpg","alt":"Ford Mondeo, 2015 года, 149 лс, АКПП"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268743449/268743449_thumb_0.jpg",{"href":"https://m-ets.ru/download/268743449/268743449_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268743449/268743449_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268743444/268743444_thumb_0.jpg",{"href":"https://m-ets.ru/download/268743444/268743444_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268743444/268743444_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268743452/268743452_thumb_0.jpg",{"href":"https://m-ets.ru/download/268743452/268743452_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268743452/268743452_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268743447/268743447_thumb_0.jpg",{"href":"https://m-ets.ru/download/268743447/268743447_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268743447/268743447_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268743445/268743445_thumb_0.jpg",{"href":"https://m-ets.ru/download/268743445/268743445_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268743445/268743445_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Марка, модель FORD MONDEO, идентификационный номер - Z6FDXXEECDFC85245; наименование (тип ТС) - легковой седан, год изготовления - 2015; номер кузова - Z6FDXXEECDFC85245; цвет кузова - белый"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Ford",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Mondeo",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2015",""]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["149"," л.с."]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Автоматическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["Z6FDXXEECDFC85245",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24265568",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Тюменской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["28.08.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге в пользу АО \"АЛЬФА-БАНК\", (ИНН 7728168971 ) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",""]}]]}],"$L11"]}]}]]}],"$L12","$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С ЛОТОМ №1 можно ознакомиться по месту его нахождения: г. Тюмень, ул. Избышева, №6, предварительно согласовав время с Финансовым управляющим по тел. +79128007109, либо путем направления запроса на электронную почту ashchennikov1@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, относительно технического состояния ... Показать полностью имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",""]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 09:00 (МСК)"," —"," ","3 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 049 400 ₽"}],["$","td",null,{"children":"104 940 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["3 сент. 2026 г., 09:00 (МСК)"," —"," ","10 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"996 930 ₽"}],["$","td",null,{"children":"99 693 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 09:00 (МСК)"," —"," ","17 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"944 460 ₽"}],["$","td",null,{"children":"94 446 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 09:00 (МСК)"," —"," ","24 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"891 990 ₽"}],["$","td",null,{"children":"89 199 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["24 сент. 2026 г., 09:00 (МСК)"," —"," ","1 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"839 520 ₽"}],["$","td",null,{"children":"83 952 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["1 окт. 2026 г., 09:00 (МСК)"," —"," ","8 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"787 050 ₽"}],["$","td",null,{"children":"78 705 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["8 окт. 2026 г., 09:00 (МСК)"," —"," ","15 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"734 580 ₽"}],["$","td",null,{"children":"73 458 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["15 окт. 2026 г., 09:00 (МСК)"," —"," ","22 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"682 110 ₽"}],["$","td",null,{"children":"68 211 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["22 окт. 2026 г., 09:00 (МСК)"," —"," ","29 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"629 640 ₽"}],["$","td",null,{"children":"62 964 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["29 окт. 2026 г., 09:00 (МСК)"," —"," ","6 нояб. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"577 170 ₽"}],["$","td",null,{"children":"57 717 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["6 нояб. 2026 г., 09:00 (МСК)"," —"," ","13 нояб. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"524 700 ₽"}],["$","td",null,{"children":"52 470 ₽"}]]}]]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Сивков Анатолий Сергеевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=720512437155","children":"Сивков Анатолий Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","720512437155"]}],"$undefined"]}]]}],["$","tr","manager:Щенников Алексей Дмитриевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=744925237599","children":"Щенников Алексей Дмитриевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","744925237599"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:ЩЕННИКОВ АЛЕКСЕЙ ДМИТРИЕВИЧ",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=744925237599","children":"ЩЕННИКОВ АЛЕКСЕЙ ДМИТРИЕВИЧ"}],["$","span",null,{"className":"muted","children":[" · ИНН ","744925237599"]}],"$undefined"]}]]}],["$","tr","pledgee:АО \"АЛЬФА-БАНК\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7728168971","children":"АО \"АЛЬФА-БАНК\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7728168971"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9070-12668%2F2025","children":"А70-12668/2025"}]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Тюменская область"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",6,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268743455/%D0%A1%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/268743455/%D0%A1%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","СТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268743457/%D0%9F%D0%A2%D0%A1.pdf",{"href":"https://m-ets.ru/download/268743457/%D0%9F%D0%A2%D0%A1.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ПТС.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268743459/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%A2%D0%A1_compressed.pdf",{"href":"https://m-ets.ru/download/268743459/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%A2%D0%A1_compressed.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Фото ТС_compressed.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268743463/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC).docx",{"href":"https://m-ets.ru/download/268743463/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП на ЭТП (ТС с залогом).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268743512/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268743512/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268743514/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BF%D1%83%D0%B1%D0%BB.%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A1%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%20%D0%90.%D0%A1..pdf",{"href":"https://m-ets.ru/download/268743514/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BF%D1%83%D0%B1%D0%BB.%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A1%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%20%D0%90.%D0%A1..pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о реализации публ. предложение Сивков А.С..pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T2760,{
+  "id": "etp-mets:228895-1",
+  "sourceCode": "etp-mets",
+  "externalId": "228895-1",
+  "sourceUrl": "https://m-ets.ru/228895-1",
+  "title": "Ford Mondeo, 2015 года, 149 лс, АКПП",
+  "description": "Марка, модель FORD MONDEO, идентификационный номер - Z6FDXXEECDFC85245; наименование (тип ТС) - легковой седан, год изготовления - 2015; номер кузова - Z6FDXXEECDFC85245; цвет кузова - белый",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "72",
+  "address": "Тюменская область",
+  "priceStart": "1049400",
+  "priceMin": "524700.00",
+  "deposit": "104940.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-20T00:00:00+03:00",
+  "biddStartAt": "2026-08-27T09:00:00+03:00",
+  "biddEndAt": "2026-11-13T09:00:00+03:00",
+  "auctionAt": "2026-11-13T11:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А70-12668/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Сивков Анатолий Сергеевич",
+      "inn": "720512437155",
+      "efrsbId": "6a311623145d55183794a8965ac93fd1"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Щенников Алексей Дмитриевич",
+      "inn": "744925237599",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "ЩЕННИКОВ АЛЕКСЕЙ ДМИТРИЕВИЧ",
+      "inn": "744925237599",
+      "email": "ashchennikov1@mail.ru",
+      "phone": "+7 (912) 800 71 09"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "АО \"АЛЬФА-БАНК\"",
+      "inn": "7728168971"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-27T09:00:00+03:00",
+      "endAt": "2026-09-03T09:00:00+03:00",
+      "price": "1049400.00",
+      "deposit": "104940.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-03T09:00:00+03:00",
+      "endAt": "2026-09-10T09:00:00+03:00",
+      "price": "996930.00",
+      "deposit": "99693.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-10T09:00:00+03:00",
+      "endAt": "2026-09-17T09:00:00+03:00",
+      "price": "944460.00",
+      "deposit": "94446.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-17T09:00:00+03:00",
+      "endAt": "2026-09-24T09:00:00+03:00",
+      "price": "891990.00",
+      "deposit": "89199.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-24T09:00:00+03:00",
+      "endAt": "2026-10-01T09:00:00+03:00",
+      "price": "839520.00",
+      "deposit": "83952.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-10-01T09:00:00+03:00",
+      "endAt": "2026-10-08T09:00:00+03:00",
+      "price": "787050.00",
+      "deposit": "78705.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-08T09:00:00+03:00",
+      "endAt": "2026-10-15T09:00:00+03:00",
+      "price": "734580.00",
+      "deposit": "73458.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-15T09:00:00+03:00",
+      "endAt": "2026-10-22T09:00:00+03:00",
+      "price": "682110.00",
+      "deposit": "68211.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-22T09:00:00+03:00",
+      "endAt": "2026-10-29T09:00:00+03:00",
+      "price": "629640.00",
+      "deposit": "62964.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-10-29T09:00:00+03:00",
+      "endAt": "2026-11-06T09:00:00+03:00",
+      "price": "577170.00",
+      "deposit": "57717.00"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-11-06T09:00:00+03:00",
+      "endAt": "2026-11-13T09:00:00+03:00",
+      "price": "524700.00",
+      "deposit": "52470.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268743450/268743450_thumb_0.jpg",
+    "https://m-ets.ru/download/268743449/268743449_thumb_0.jpg",
+    "https://m-ets.ru/download/268743444/268743444_thumb_0.jpg",
+    "https://m-ets.ru/download/268743452/268743452_thumb_0.jpg",
+    "https://m-ets.ru/download/268743447/268743447_thumb_0.jpg",
+    "https://m-ets.ru/download/268743445/268743445_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268743455/%D0%A1%D0%A2%D0%A1.pdf",
+      "name": "СТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268743457/%D0%9F%D0%A2%D0%A1.pdf",
+      "name": "ПТС.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268743459/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%A2%D0%A1_compressed.pdf",
+      "name": "Фото ТС_compressed.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268743463/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC).docx",
+      "name": "Проект ДКП на ЭТП (ТС с залогом).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268743512/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268743514/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BF%D1%83%D0%B1%D0%BB.%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A1%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%20%D0%90.%D0%A1..pdf",
+      "name": "Положение о реализации публ. предложение Сивков А.С..pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Ford",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Mondeo",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2015",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "149",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Автоматическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "Z6FDXXEECDFC85245",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24265568",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Тюменской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "28.08.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге в пользу АО \"АЛЬФА-БАНК\", (ИНН 7728168971 ) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: г. Тюмень, ул. Избышева, №6, предварительно согласовав время с Финансовым управляющим по тел. +79128007109, либо путем направления запроса на электронную почту ashchennikov1@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. Во избежание претензий к Арбитражному управляющему, относительно технического состояния ... Показать полностью имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:29:26.172Z",
+  "lastSeenAt": "2026-08-31T18:29:26.172Z",
+  "contentHash": "983f8864289aeacbe3a3cfd4eb781f86b3cf95165efc92a5e7614bed70a373bb"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"996 930 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["944 460 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[9,", до ","524 700 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"1 049 400 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"104 940 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"19 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"13 нояб. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"68 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"13 нояб. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Тюменская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/228895-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Ford Mondeo, 2015 года, 149 лс, АКПП — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,268 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230752-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230752-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230752-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=68","children":"Тамбовская обл."}]]]}],["$","h1",null,{"children":"Дом в Тамбове, 616,2 кв.м"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Жилой дом "}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268777961/268777961_thumb_0.jpg","alt":"Дом в Тамбове, 616,2 кв.м"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268777962/268777962_thumb_0.jpg",{"href":"https://m-ets.ru/download/268777962/268777962_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268777962/268777962_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268777965/268777965_thumb_0.jpg",{"href":"https://m-ets.ru/download/268777965/268777965_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268777965/268777965_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268777960/268777960_thumb_0.jpg",{"href":"https://m-ets.ru/download/268777960/268777960_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268777960/268777960_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268777966/268777966_thumb_0.jpg",{"href":"https://m-ets.ru/download/268777966/268777966_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268777966/268777966_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268777967/268777967_thumb_0.jpg",{"href":"https://m-ets.ru/download/268777967/268777967_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268777967/268777967_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268777963/268777963_thumb_0.jpg",{"href":"https://m-ets.ru/download/268777963/268777963_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268777963/268777963_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Объект незавершенного строительства - здание, площадью 616,20 кв.м., расположенное по адресу: Российская Федерация, Тамбовская область, городской округ-город Тамбов, г. Тамбов, ул. Веселая, д.66."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24376325",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Тамбовской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["23.09.2019",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление производится по месту нахождения имущества по предварительной договоренности с организатором торгов (info@bankrot-prof.ru, 84752558225).",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],"$L11"]}],"$L12","$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["5 окт. 2026 г., 10:00 (МСК)"," —"," ","8 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"21 150 000 ₽"}],["$","td",null,{"children":"2 115 000 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["8 окт. 2026 г., 10:00 (МСК)"," —"," ","11 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"19 035 000 ₽"}],["$","td",null,{"children":"1 903 500 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["11 окт. 2026 г., 10:00 (МСК)"," —"," ","14 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"16 920 000 ₽"}],["$","td",null,{"children":"1 692 000 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["14 окт. 2026 г., 10:00 (МСК)"," —"," ","17 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"14 805 000 ₽"}],["$","td",null,{"children":"1 480 500 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["17 окт. 2026 г., 10:00 (МСК)"," —"," ","20 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"12 690 000 ₽"}],["$","td",null,{"children":"1 269 000 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["20 окт. 2026 г., 10:00 (МСК)"," —"," ","23 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"10 575 000 ₽"}],["$","td",null,{"children":"1 057 500 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["23 окт. 2026 г., 10:00 (МСК)"," —"," ","26 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"8 460 000 ₽"}],["$","td",null,{"children":"846 000 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["26 окт. 2026 г., 10:00 (МСК)"," —"," ","29 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 345 000 ₽"}],["$","td",null,{"children":"634 500 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["29 окт. 2026 г., 10:00 (МСК)"," —"," ","1 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 230 000 ₽"}],["$","td",null,{"children":"423 000 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["1 нояб. 2026 г., 10:00 (МСК)"," —"," ","4 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"2 115 000 ₽"}],["$","td",null,{"children":"211 500 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["4 нояб. 2026 г., 10:00 (МСК)"," —"," ","7 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 903 500 ₽"}],["$","td",null,{"children":"190 350 ₽"}]]}],["$","tr","12",{"className":"","children":[["$","td",null,{"children":["7 нояб. 2026 г., 10:00 (МСК)"," —"," ","10 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 692 000 ₽"}],["$","td",null,{"children":"169 200 ₽"}]]}],["$","tr","13",{"className":"","children":[["$","td",null,{"children":["10 нояб. 2026 г., 10:00 (МСК)"," —"," ","13 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 480 500 ₽"}],["$","td",null,{"children":"148 050 ₽"}]]}],["$","tr","14",{"className":"","children":[["$","td",null,{"children":["13 нояб. 2026 г., 10:00 (МСК)"," —"," ","16 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 269 000 ₽"}],["$","td",null,{"children":"126 900 ₽"}]]}],["$","tr","15",{"className":"","children":[["$","td",null,{"children":["16 нояб. 2026 г., 10:00 (МСК)"," —"," ","19 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 057 500 ₽"}],["$","td",null,{"children":"105 750 ₽"}]]}],["$","tr","16",{"className":"","children":[["$","td",null,{"children":["19 нояб. 2026 г., 10:00 (МСК)"," —"," ","22 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"846 000 ₽"}],["$","td",null,{"children":"84 600 ₽"}]]}],["$","tr","17",{"className":"","children":[["$","td",null,{"children":["22 нояб. 2026 г., 10:00 (МСК)"," —"," ","25 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"634 500 ₽"}],["$","td",null,{"children":"63 450 ₽"}]]}],["$","tr","18",{"className":"","children":[["$","td",null,{"children":["25 нояб. 2026 г., 10:00 (МСК)"," —"," ","28 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"423 000 ₽"}],["$","td",null,{"children":"42 300 ₽"}]]}],["$","tr","19",{"className":"","children":[["$","td",null,{"children":["28 нояб. 2026 г., 10:00 (МСК)"," —"," ","1 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"211 500 ₽"}],["$","td",null,{"children":"21 150 ₽"}]]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СТРОЙИНВЕСТ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7705545430","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СТРОЙИНВЕСТ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7705545430"]}],"$undefined"]}]]}],["$","tr","manager:Сапунов Роман Петрович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=682003130506","children":"Сапунов Роман Петрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","682003130506"]}],["$","span",null,{"className":"muted","children":[" · ","Союз АУ НЦРБ"]}]]}]]}],["$","tr","organizer:Сапунов Роман Петрович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=682003130506","children":"Сапунов Роман Петрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","682003130506"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9064-3108%2F2021","children":"А64-3108/2021"}]}]]}]]}]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Тамбовская область"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268777968/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf",{"href":"https://m-ets.ru/download/268777968/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли продажи.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268777970/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.pdf",{"href":"https://m-ets.ru/download/268777970/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+17:T1ed9,{
+  "id": "etp-mets:230752-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230752-1",
+  "sourceUrl": "https://m-ets.ru/230752-1",
+  "title": "Дом в Тамбове, 616,2 кв.м",
+  "description": "Объект незавершенного строительства - здание, площадью 616,20 кв.м., расположенное по адресу: Российская Федерация, Тамбовская область, городской округ-город Тамбов, г. Тамбов, ул. Веселая, д.66.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "published",
+  "statusRaw": "Объявленные торги",
+  "kind": "realty",
+  "categoryCode": "34",
+  "categoryName": "Жилой дом ",
+  "regionCode": "68",
+  "address": "Тамбовская область",
+  "priceStart": "21150000",
+  "priceMin": "211500.00",
+  "deposit": "2115000.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-28T00:00:00+03:00",
+  "biddStartAt": "2026-10-05T10:00:00+03:00",
+  "biddEndAt": "2026-12-01T10:00:00+03:00",
+  "auctionAt": "2026-12-01T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А64-3108/2021",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СТРОЙИНВЕСТ\"",
+      "inn": "7705545430",
+      "ogrn": "1137746630064"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Сапунов Роман Петрович",
+      "inn": "682003130506",
+      "sro": "Союз АУ НЦРБ"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Сапунов Роман Петрович",
+      "inn": "682003130506",
+      "email": "info@bankrot-prof.ru",
+      "phone": "+74752558225"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-10-05T10:00:00+03:00",
+      "endAt": "2026-10-08T10:00:00+03:00",
+      "price": "21150000.00",
+      "deposit": "2115000.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-10-08T10:00:00+03:00",
+      "endAt": "2026-10-11T10:00:00+03:00",
+      "price": "19035000.00",
+      "deposit": "1903500.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-10-11T10:00:00+03:00",
+      "endAt": "2026-10-14T10:00:00+03:00",
+      "price": "16920000.00",
+      "deposit": "1692000.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-10-14T10:00:00+03:00",
+      "endAt": "2026-10-17T10:00:00+03:00",
+      "price": "14805000.00",
+      "deposit": "1480500.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-10-17T10:00:00+03:00",
+      "endAt": "2026-10-20T10:00:00+03:00",
+      "price": "12690000.00",
+      "deposit": "1269000.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-10-20T10:00:00+03:00",
+      "endAt": "2026-10-23T10:00:00+03:00",
+      "price": "10575000.00",
+      "deposit": "1057500.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-23T10:00:00+03:00",
+      "endAt": "2026-10-26T10:00:00+03:00",
+      "price": "8460000.00",
+      "deposit": "846000.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-26T10:00:00+03:00",
+      "endAt": "2026-10-29T10:00:00+03:00",
+      "price": "6345000.00",
+      "deposit": "634500.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-29T10:00:00+03:00",
+      "endAt": "2026-11-01T10:00:00+03:00",
+      "price": "4230000.00",
+      "deposit": "423000.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-11-01T10:00:00+03:00",
+      "endAt": "2026-11-04T10:00:00+03:00",
+      "price": "2115000.00",
+      "deposit": "211500.00"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-11-04T10:00:00+03:00",
+      "endAt": "2026-11-07T10:00:00+03:00",
+      "price": "1903500.00",
+      "deposit": "190350.00"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-11-07T10:00:00+03:00",
+      "endAt": "2026-11-10T10:00:00+03:00",
+      "price": "1692000.00",
+      "deposit": "169200.00"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-11-10T10:00:00+03:00",
+      "endAt": "2026-11-13T10:00:00+03:00",
+      "price": "1480500.00",
+      "deposit": "148050.00"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-11-13T10:00:00+03:00",
+      "endAt": "2026-11-16T10:00:00+03:00",
+      "price": "1269000.00",
+      "deposit": "126900.00"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-11-16T10:00:00+03:00",
+      "endAt": "2026-11-19T10:00:00+03:00",
+      "price": "1057500.00",
+      "deposit": "105750.00"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-11-19T10:00:00+03:00",
+      "endAt": "2026-11-22T10:00:00+03:00",
+      "price": "846000.00",
+      "deposit": "84600.00"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-11-22T10:00:00+03:00",
+      "endAt": "2026-11-25T10:00:00+03:00",
+      "price": "634500.00",
+      "deposit": "63450.00"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-11-25T10:00:00+03:00",
+      "endAt": "2026-11-28T10:00:00+03:00",
+      "price": "423000.00",
+      "deposit": "42300.00"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-11-28T10:00:00+03:00",
+      "endAt": "2026-12-01T10:00:00+03:00",
+      "price": "211500.00",
+      "deposit": "21150.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268777961/268777961_thumb_0.jpg",
+    "https://m-ets.ru/download/268777962/268777962_thumb_0.jpg",
+    "https://m-ets.ru/download/268777965/268777965_thumb_0.jpg",
+    "https://m-ets.ru/download/268777960/268777960_thumb_0.jpg",
+    "https://m-ets.ru/download/268777966/268777966_thumb_0.jpg",
+    "https://m-ets.ru/download/268777967/268777967_thumb_0.jpg",
+    "https://m-ets.ru/download/268777963/268777963_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268777968/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf",
+      "name": "Проект договора купли продажи.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268777970/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.pdf",
+      "name": "Договор о задатке.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24376325",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Тамбовской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "23.09.2019",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление производится по месту нахождения имущества по предварительной договоренности с организатором торгов (info@bankrot-prof.ru, 84752558225).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:33:03.935Z",
+  "lastSeenAt": "2026-08-31T18:33:03.935Z",
+  "contentHash": "42e72b255ce0481004d3141f3e5c77b5c123bdac890eb8f96c4e3f45e1cb2436"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$17"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"21 150 000 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["21 150 000 ₽",["$","span",null,{"className":"muted","children":[" ","· ","5 окт. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[19,", до ","211 500 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"2 115 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"27 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"5 окт. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"1 дек. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"86 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"1 дек. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Тамбовская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230752-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Дом в Тамбове, 616,2 кв.м — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

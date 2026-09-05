@@ -1,0 +1,331 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--223535-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--223535-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--223535-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Daewoo Nexia, 2005 года, 85 лс, 450000 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268306635/268306635_thumb_0.jpg","alt":"Daewoo Nexia, 2005 года, 85 лс, 450000 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268306627/268306627_thumb_0.jpg",{"href":"https://m-ets.ru/download/268306627/268306627_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268306627/268306627_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268306640/268306640_thumb_0.jpg",{"href":"https://m-ets.ru/download/268306640/268306640_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268306640/268306640_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268306623/268306623_thumb_0.jpg",{"href":"https://m-ets.ru/download/268306623/268306623_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268306623/268306623_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268306634/268306634_thumb_0.jpg",{"href":"https://m-ets.ru/download/268306634/268306634_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268306634/268306634_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268306626/268306626_thumb_0.jpg",{"href":"https://m-ets.ru/download/268306626/268306626_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268306626/268306626_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268306631/268306631_thumb_0.jpg",{"href":"https://m-ets.ru/download/268306631/268306631_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268306631/268306631_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Транспортное средство: марка DАЕWОО NЕХIА, VIN ХWВ3D31UD6А098194, тип седан, 2006 г. выпуска, цвет ТЕМНО-СИНИЙ, мощность двигателя 85,0 л.с., гос.рег.знак Р422ХМ93. Транспортное средство имеет внешние повреждения (потертости, царапины, вмятины, очаги коррозии на кузове, трещины и сколы стекол, и т.д,). ОТСУТСТВУЮТ: сведения о техническом состоянии транспортного средства, ключи от транспортного средства (и доступ внутрь), Свидетельство о регистрации и паспорт транспортного средства. На сайте МВД РФ, ГИБДД МВД России имеются сведения о наличии ограничений: Запрет на регистрационные действия."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Daewoo",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Nexia",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2006",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],"$L11"]}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]}]]}],"$L1c","$L1d","$L1e","$L1f",false,"$L20"]}],"$L21"]}]]}]
+11:["$","td",null,{"children":["450 000"," км"]}]
+12:["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["85"," л.с."]}]]}]
+13:["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}]
+14:["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}]
+15:["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}]
+16:["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XWB3D31UD6A098194",""]}]]}]
+17:["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23892029",""]}]]}]
+18:["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Краснодарского края",""]}]]}]
+19:["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["25.08.2022",""]}]]}]
+1a:["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}]
+1b:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомиться с имуществом можно ПО ПРЕДВАРИТЕЛЬНОМУ СОГЛАСОВАНИЮ с финансовым управляющим (тел. +79094657575; электронная почта финансового управляющего: nagorny_igor@mail.ru; адрес: Краснодарский край, г. Краснодар, ул. им. Селезнёва, 4/3, офис 315) в рабочие дни с 10:00 до 12:00 часов по местному времени в период срока представления заявок для участия в торгах. Время согласования ознакомления с 10:00 до 12:00 часов по местному времени в рабочие дни.",""]}]]}]
+1c:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["27 июл. 2026 г., 00:00 (МСК)"," —"," ","30 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"99 000 ₽"}],["$","td",null,{"children":"9 900 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["30 июл. 2026 г., 00:00 (МСК)"," —"," ","2 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"94 050 ₽"}],["$","td",null,{"children":"9 405 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["2 авг. 2026 г., 00:00 (МСК)"," —"," ","5 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"89 100 ₽"}],["$","td",null,{"children":"8 910 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["5 авг. 2026 г., 00:00 (МСК)"," —"," ","8 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"84 150 ₽"}],["$","td",null,{"children":"8 415 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["8 авг. 2026 г., 00:00 (МСК)"," —"," ","11 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"79 200 ₽"}],["$","td",null,{"children":"7 920 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["11 авг. 2026 г., 00:00 (МСК)"," —"," ","14 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"74 250 ₽"}],["$","td",null,{"children":"7 425 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["14 авг. 2026 г., 00:00 (МСК)"," —"," ","17 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"69 300 ₽"}],["$","td",null,{"children":"6 930 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 00:00 (МСК)"," —"," ","20 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"64 350 ₽"}],["$","td",null,{"children":"6 435 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["20 авг. 2026 г., 00:00 (МСК)"," —"," ","23 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"59 400 ₽"}],["$","td",null,{"children":"5 940 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["23 авг. 2026 г., 00:00 (МСК)"," —"," ","26 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"54 450 ₽"}],["$","td",null,{"children":"5 445 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 00:00 (МСК)"," —"," ","29 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"49 500 ₽"}],["$","td",null,{"children":"4 950 ₽"}]]}],["$","tr","12",{"className":"","children":[["$","td",null,{"children":["29 авг. 2026 г., 00:00 (МСК)"," —"," ","1 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"44 550 ₽"}],["$","td",null,{"children":"4 455 ₽"}]]}],["$","tr","13",{"className":"","children":[["$","td",null,{"children":["1 сент. 2026 г., 00:00 (МСК)"," —"," ","4 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"39 600 ₽"}],["$","td",null,{"children":"3 960 ₽"}]]}],["$","tr","14",{"className":"now","children":[["$","td",null,{"children":["4 сент. 2026 г., 00:00 (МСК)"," —"," ","7 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"34 650 ₽"}],["$","td",null,{"children":"3 465 ₽"}]]}],["$","tr","15",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 00:00 (МСК)"," —"," ","10 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"29 700 ₽"}],["$","td",null,{"children":"2 970 ₽"}]]}],["$","tr","16",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 00:00 (МСК)"," —"," ","13 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"24 750 ₽"}],["$","td",null,{"children":"2 475 ₽"}]]}],["$","tr","17",{"className":"","children":[["$","td",null,{"children":["13 сент. 2026 г., 00:00 (МСК)"," —"," ","16 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"19 800 ₽"}],["$","td",null,{"children":"1 980 ₽"}]]}]]}]]}]]}]
+1d:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Труфанов Игорь Владимирович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=231000669983","children":"Труфанов Игорь Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","231000669983"]}],"$undefined"]}]]}],["$","tr","manager:Нагорный Игорь Владимирович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=231214109481","children":"Нагорный Игорь Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","231214109481"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация \"МСРО АУ\""]}]]}]]}],["$","tr","organizer:Нагорный Игорь Владимирович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=231214109481","children":"Нагорный Игорь Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","231214109481"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9032-25071%2F2022","children":"А32-25071/2022"}]}]]}]]}]}]]}]
+1e:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Краснодарский край"}]]}]
+1f:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268306718/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2010102025%20%D1%81%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8%208%D0%BB.pdf",{"href":"https://m-ets.ru/download/268306718/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2010102025%20%D1%81%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8%208%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение об оценке рыночной стоимости имущества от 10102025 с приложениями 8л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268306712/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268306712/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268306714/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%90%D0%B2%D1%82%D0%BE.odt.sig",{"href":"https://m-ets.ru/download/268306714/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%90%D0%B2%D1%82%D0%BE.odt.sig","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект Договор купли-продажи Авто.odt.sig"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268306716/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2010102025%2010%D0%BB.pdf",{"href":"https://m-ets.ru/download/268306716/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2010102025%2010%D0%BB.pdf","target":"_blank","rel":"noopener","children":["$L22","$L23"]}]]}]]}]
+24:T2d50,{
+  "id": "etp-mets:223535-1",
+  "sourceCode": "etp-mets",
+  "externalId": "223535-1",
+  "sourceUrl": "https://m-ets.ru/223535-1",
+  "title": "Daewoo Nexia, 2005 года, 85 лс, 450000 км",
+  "description": "Транспортное средство: марка DАЕWОО NЕХIА, VIN ХWВ3D31UD6А098194, тип седан, 2006 г. выпуска, цвет ТЕМНО-СИНИЙ, мощность двигателя 85,0 л.с., гос.рег.знак Р422ХМ93. Транспортное средство имеет внешние повреждения (потертости, царапины, вмятины, очаги коррозии на кузове, трещины и сколы стекол, и т.д,). ОТСУТСТВУЮТ: сведения о техническом состоянии транспортного средства, ключи от транспортного средства (и доступ внутрь), Свидетельство о регистрации и паспорт транспортного средства. На сайте МВД РФ, ГИБДД МВД России имеются сведения о наличии ограничений: Запрет на регистрационные действия.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "23",
+  "address": "Краснодарский край",
+  "priceStart": "99000",
+  "priceMin": "19800.00",
+  "deposit": "9900.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-24T00:00:00+03:00",
+  "biddStartAt": "2026-07-27T00:00:00+03:00",
+  "biddEndAt": "2026-09-16T00:00:00+03:00",
+  "auctionAt": "2026-09-16T00:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А32-25071/2022",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Труфанов Игорь Владимирович",
+      "inn": "231000669983",
+      "efrsbId": "29d691bf616b3aea15e45d3703bf92bd"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Нагорный Игорь Владимирович",
+      "inn": "231214109481",
+      "sro": "Ассоциация \"МСРО АУ\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Нагорный Игорь Владимирович",
+      "inn": "231214109481",
+      "email": "nagorny_igor@mail.ru",
+      "phone": "+7 (909) 465 75 75"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-27T00:00:00+03:00",
+      "endAt": "2026-07-30T00:00:00+03:00",
+      "price": "99000.00",
+      "deposit": "9900.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-30T00:00:00+03:00",
+      "endAt": "2026-08-02T00:00:00+03:00",
+      "price": "94050.00",
+      "deposit": "9405.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-02T00:00:00+03:00",
+      "endAt": "2026-08-05T00:00:00+03:00",
+      "price": "89100.00",
+      "deposit": "8910.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-05T00:00:00+03:00",
+      "endAt": "2026-08-08T00:00:00+03:00",
+      "price": "84150.00",
+      "deposit": "8415.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-08T00:00:00+03:00",
+      "endAt": "2026-08-11T00:00:00+03:00",
+      "price": "79200.00",
+      "deposit": "7920.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-11T00:00:00+03:00",
+      "endAt": "2026-08-14T00:00:00+03:00",
+      "price": "74250.00",
+      "deposit": "7425.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-14T00:00:00+03:00",
+      "endAt": "2026-08-17T00:00:00+03:00",
+      "price": "69300.00",
+      "deposit": "6930.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-17T00:00:00+03:00",
+      "endAt": "2026-08-20T00:00:00+03:00",
+      "price": "64350.00",
+      "deposit": "6435.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-08-20T00:00:00+03:00",
+      "endAt": "2026-08-23T00:00:00+03:00",
+      "price": "59400.00",
+      "deposit": "5940.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-08-23T00:00:00+03:00",
+      "endAt": "2026-08-26T00:00:00+03:00",
+      "price": "54450.00",
+      "deposit": "5445.00"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-08-26T00:00:00+03:00",
+      "endAt": "2026-08-29T00:00:00+03:00",
+      "price": "49500.00",
+      "deposit": "4950.00"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-08-29T00:00:00+03:00",
+      "endAt": "2026-09-01T00:00:00+03:00",
+      "price": "44550.00",
+      "deposit": "4455.00"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-09-01T00:00:00+03:00",
+      "endAt": "2026-09-04T00:00:00+03:00",
+      "price": "39600.00",
+      "deposit": "3960.00"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-09-04T00:00:00+03:00",
+      "endAt": "2026-09-07T00:00:00+03:00",
+      "price": "34650.00",
+      "deposit": "3465.00"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-09-07T00:00:00+03:00",
+      "endAt": "2026-09-10T00:00:00+03:00",
+      "price": "29700.00",
+      "deposit": "2970.00"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-09-10T00:00:00+03:00",
+      "endAt": "2026-09-13T00:00:00+03:00",
+      "price": "24750.00",
+      "deposit": "2475.00"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-09-13T00:00:00+03:00",
+      "endAt": "2026-09-16T00:00:00+03:00",
+      "price": "19800.00",
+      "deposit": "1980.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268306635/268306635_thumb_0.jpg",
+    "https://m-ets.ru/download/268306627/268306627_thumb_0.jpg",
+    "https://m-ets.ru/download/268306640/268306640_thumb_0.jpg",
+    "https://m-ets.ru/download/268306623/268306623_thumb_0.jpg",
+    "https://m-ets.ru/download/268306634/268306634_thumb_0.jpg",
+    "https://m-ets.ru/download/268306626/268306626_thumb_0.jpg",
+    "https://m-ets.ru/download/268306631/268306631_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268306718/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2010102025%20%D1%81%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8%208%D0%BB.pdf",
+      "name": "Решение об оценке рыночной стоимости имущества от 10102025 с приложениями 8л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268306712/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268306714/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%90%D0%B2%D1%82%D0%BE.odt.sig",
+      "name": "Проект Договор купли-продажи Авто.odt.sig"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268306716/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D0%BE%D0%B1%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%82%2010102025%2010%D0%BB.pdf",
+      "name": "Положение о порядке, об условиях и о сроках реализации имущества от 10102025 10л.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Daewoo",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Nexia",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2006",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "450 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "85",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XWB3D31UD6A098194",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23892029",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Краснодарского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "25.08.2022",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомиться с имуществом можно ПО ПРЕДВАРИТЕЛЬНОМУ СОГЛАСОВАНИЮ с финансовым управляющим (тел. +79094657575; электронная почта финансового управляющего: nagorny_igor@mail.ru; адрес: Краснодарский край, г. Краснодар, ул. им. Селезнёва, 4/3, офис 315) в рабочие дни с 10:00 до 12:00 часов по местному времени в период срока представления заявок для участия в торгах. Время согласования ознакомления с 10:00 до 12:00 часов по местному времени в рабочие дни.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:54:24.762Z",
+  "lastSeenAt": "2026-08-31T17:54:24.762Z",
+  "contentHash": "a2600e7f7b39dd172e3a5d00c189e6dbb9237a44d7a4d3b96cee94e166223a1f"
+}20:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$24"}]]}]
+21:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"34 650 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["29 700 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[3,", до ","19 800 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"99 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"9 900 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"23 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 июл. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"16 сент. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"10 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"16 сент. 2026 г., 00:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/223535-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+22:["$","span",null,{"children":["📎 ","Положение о порядке, об условиях и о сроках реализации имущества от 10102025 10л.pdf"]}]
+23:["$","span",null,{"className":"size","children":"$undefined"}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Daewoo Nexia, 2005 года, 85 лс, 450000 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

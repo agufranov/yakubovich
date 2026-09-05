@@ -1,0 +1,183 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229762-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229762-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229762-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=54","children":"Новосибирская обл."}]]]}],["$","h1",null,{"children":"Здание 972,7 кв.м. и доля земельного участка в Новосибирске"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилое здание"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268824172/268824172_thumb_0.jpg","alt":"Здание 972,7 кв.м. и доля земельного участка в Новосибирске"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268824174/268824174_thumb_0.jpg",{"href":"https://m-ets.ru/download/268824174/268824174_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268824174/268824174_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268824173/268824173_thumb_0.jpg",{"href":"https://m-ets.ru/download/268824173/268824173_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268824173/268824173_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268824177/268824177_thumb_0.jpg",{"href":"https://m-ets.ru/download/268824177/268824177_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268824177/268824177_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268824178/268824178_thumb_0.jpg",{"href":"https://m-ets.ru/download/268824178/268824178_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268824178/268824178_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268824175/268824175_thumb_0.jpg",{"href":"https://m-ets.ru/download/268824175/268824175_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268824175/268824175_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268824180/268824180_thumb_0.jpg",{"href":"https://m-ets.ru/download/268824180/268824180_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268824180/268824180_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268824184/268824184_thumb_0.jpg",{"href":"https://m-ets.ru/download/268824184/268824184_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268824184/268824184_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268824176/268824176_thumb_0.jpg",{"href":"https://m-ets.ru/download/268824176/268824176_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268824176/268824176_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268824185/268824185_thumb_0.jpg",{"href":"https://m-ets.ru/download/268824185/268824185_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268824185/268824185_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268824183/268824183_thumb_0.jpg",{"href":"https://m-ets.ru/download/268824183/268824183_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268824183/268824183_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268824181/268824181_thumb_0.jpg",{"href":"https://m-ets.ru/download/268824181/268824181_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$undefined","$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268824181/268824181_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",2," ","фотографии"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268824179/268824179_thumb_0.jpg",{"href":"https://m-ets.ru/download/268824179/268824179_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268824179/268824179_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268824182/268824182_thumb_0.jpg",{"href":"https://m-ets.ru/download/268824182/268824182_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268824182/268824182_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилые помещения, назначение: нежилые.Этаж: подвал 1, 2, 3. Площадь: общая 972,7 кв.м., адрес: НСО, г. Новосибирск, ул. Б. Хмельницкого 27/1. Кадастровый номер: 54:35:042025:67 8 076,2/10 000 доли в праве общей долевой собственности на земельный участок, категория земель: земли населенных пунктов. Виды разрешенного использования: занимаемы магазином. Площадь 1153 кв.м. Адрес: Новосибирская область, г. Новосибирск, ул. Богдана Хмельницкого 27/1. Кадастровый номер: 54:35:042025:14 ."}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24325070",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Новосибирской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["28.06.2023",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["1 285 840 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Информация отсутствует",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом с момента начала приема заявок до окончания приема заявок по предварительной записи по эл. почте: ton891@mail.ru.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Ермаков Андрей Васильевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=541005155707","children":"Ермаков Андрей Васильевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","541005155707"]}],"$undefined"]}]]}],["$","tr","manager:Терешкова Ольга Николаевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=540317541103","children":"Терешкова Ольга Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","540317541103"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСРО \"Содействие\""]}]]}]]}],["$","tr","organizer:Терешкова Ольга Николаевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=540317541103","children":"Терешкова Ольга Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","540317541103"]}],"$undefined"]}]]}],["$","tr","pledgee:АО \"БАНК ИНТЕЗА\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7708022300","children":"АО \"БАНК ИНТЕЗА\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7708022300"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9045-28028%2F2022","children":"А45-28028/2022"}]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Новосибирская область"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",8,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268817028/%D1%84%D0%BE%D1%82%D0%BE.pdf",{"href":"https://m-ets.ru/download/268817028/%D1%84%D0%BE%D1%82%D0%BE.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","фото.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268817030/%D0%97%D0%90%D0%9A%D0%9B%D0%AE%D0%A7%D0%95%D0%9D%D0%98%D0%95%20%D0%AD%D0%9A%D0%A1%D0%9F%D0%95%D0%A0%D0%A2%D0%90_%D0%A7%D0%B5%D0%B1%D1%83%D1%80%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20(%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81)%20!.pdf",{"href":"https://m-ets.ru/download/268817030/%D0%97%D0%90%D0%9A%D0%9B%D0%AE%D0%A7%D0%95%D0%9D%D0%98%D0%95%20%D0%AD%D0%9A%D0%A1%D0%9F%D0%95%D0%A0%D0%A2%D0%90_%D0%A7%D0%B5%D0%B1%D1%83%D1%80%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20(%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81)%20!.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ЗАКЛЮЧЕНИЕ ЭКСПЕРТА_Чебуречная (Космос) !.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268817016/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268817016/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268817018/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%9A%D0%9F%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%95%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20.docx",{"href":"https://m-ets.ru/download/268817018/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%9A%D0%9F%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%95%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор КП залог Ермаков .docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268817020/!%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%203%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%BC%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%BC%20%D0%95%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2.pdf",{"href":"https://m-ets.ru/download/268817020/!%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%203%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%BC%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%BC%20%D0%95%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","!Положение 3 о торгах залоговым имуществом Ермаков.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268817022/%D0%97%D0%90%D0%9A%D0%9B%D0%AE%D0%A7%D0%95%D0%9D%D0%98%D0%95%20%D0%AD%D0%9A%D0%A1%D0%9F%D0%95%D0%A0%D0%A2%D0%90_%D0%A7%D0%B5%D0%B1%D1%83%D1%80%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20(%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81)%20!.pdf",{"href":"https://m-ets.ru/download/268817022/%D0%97%D0%90%D0%9A%D0%9B%D0%AE%D0%A7%D0%95%D0%9D%D0%98%D0%95%20%D0%AD%D0%9A%D0%A1%D0%9F%D0%95%D0%A0%D0%A2%D0%90_%D0%A7%D0%B5%D0%B1%D1%83%D1%80%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20(%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81)%20!.pdf","target":"_blank","rel":"noopener","children":["$L1a","$L1b"]}],"$L1c","$L1d"]}]]}]
+1e:T1fba,{
+  "id": "etp-mets:229762-1",
+  "sourceCode": "etp-mets",
+  "externalId": "229762-1",
+  "sourceUrl": "https://m-ets.ru/229762-1",
+  "title": "Здание 972,7 кв.м. и доля земельного участка в Новосибирске",
+  "description": "Нежилые помещения, назначение: нежилые.Этаж: подвал 1, 2, 3. Площадь: общая 972,7 кв.м., адрес: НСО, г. Новосибирск, ул. Б. Хмельницкого 27/1. Кадастровый номер: 54:35:042025:67 8 076,2/10 000 доли в праве общей долевой собственности на земельный участок, категория земель: земли населенных пунктов. Виды разрешенного использования: занимаемы магазином. Площадь 1153 кв.м. Адрес: Новосибирская область, г. Новосибирск, ул. Богдана Хмельницкого 27/1. Кадастровый номер: 54:35:042025:14 .",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "38",
+  "categoryName": "Нежилое здание",
+  "regionCode": "54",
+  "address": "Новосибирская область",
+  "priceStart": "25716800",
+  "priceStep": "1285840",
+  "deposit": "2571680",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T00:00:00+03:00",
+  "biddStartAt": "2026-08-26T00:00:00+03:00",
+  "biddEndAt": "2026-09-30T23:59:00+03:00",
+  "auctionAt": "2026-10-07T15:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А45-28028/2022",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Ермаков Андрей Васильевич",
+      "inn": "541005155707",
+      "efrsbId": "2c787118203b3a48d604126317ea3473"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Терешкова Ольга Николаевна",
+      "inn": "540317541103",
+      "sro": "Ассоциация МСРО \"Содействие\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Терешкова Ольга Николаевна",
+      "inn": "540317541103",
+      "email": "olga2024t@mail.ru",
+      "phone": "+7 (913) 914 07 28"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "АО \"БАНК ИНТЕЗА\"",
+      "inn": "7708022300"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268824172/268824172_thumb_0.jpg",
+    "https://m-ets.ru/download/268824174/268824174_thumb_0.jpg",
+    "https://m-ets.ru/download/268824173/268824173_thumb_0.jpg",
+    "https://m-ets.ru/download/268824177/268824177_thumb_0.jpg",
+    "https://m-ets.ru/download/268824178/268824178_thumb_0.jpg",
+    "https://m-ets.ru/download/268824175/268824175_thumb_0.jpg",
+    "https://m-ets.ru/download/268824180/268824180_thumb_0.jpg",
+    "https://m-ets.ru/download/268824184/268824184_thumb_0.jpg",
+    "https://m-ets.ru/download/268824176/268824176_thumb_0.jpg",
+    "https://m-ets.ru/download/268824185/268824185_thumb_0.jpg",
+    "https://m-ets.ru/download/268824183/268824183_thumb_0.jpg",
+    "https://m-ets.ru/download/268824181/268824181_thumb_0.jpg",
+    "https://m-ets.ru/download/268824179/268824179_thumb_0.jpg",
+    "https://m-ets.ru/download/268824182/268824182_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268817028/%D1%84%D0%BE%D1%82%D0%BE.pdf",
+      "name": "фото.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268817030/%D0%97%D0%90%D0%9A%D0%9B%D0%AE%D0%A7%D0%95%D0%9D%D0%98%D0%95%20%D0%AD%D0%9A%D0%A1%D0%9F%D0%95%D0%A0%D0%A2%D0%90_%D0%A7%D0%B5%D0%B1%D1%83%D1%80%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20(%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81)%20!.pdf",
+      "name": "ЗАКЛЮЧЕНИЕ ЭКСПЕРТА_Чебуречная (Космос) !.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268817016/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268817018/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%9A%D0%9F%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%95%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20.docx",
+      "name": "Договор КП залог Ермаков .docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268817020/!%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%203%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%BC%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%BC%20%D0%95%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2.pdf",
+      "name": "!Положение 3 о торгах залоговым имуществом Ермаков.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268817022/%D0%97%D0%90%D0%9A%D0%9B%D0%AE%D0%A7%D0%95%D0%9D%D0%98%D0%95%20%D0%AD%D0%9A%D0%A1%D0%9F%D0%95%D0%A0%D0%A2%D0%90_%D0%A7%D0%B5%D0%B1%D1%83%D1%80%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20(%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81)%20!.pdf",
+      "name": "ЗАКЛЮЧЕНИЕ ЭКСПЕРТА_Чебуречная (Космос) !.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268817024/%D0%A3%D1%82%D0%B2.%20%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%201%D1%8F%20%D0%B8%D0%BD%D1%81%D1%82.%20A45-28028-2022_20260225_Opredelenie.pdf",
+      "name": "Утв. положения 1я инст. A45-28028-2022_20260225_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268817026/%D0%A3%D1%82%D0%B2.%20%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%207%D0%90%D0%90%D0%A1%20A45-28028-2022_20260813_Prochie_sudebnye_dokumenty.pdf",
+      "name": "Утв. положения 7ААС A45-28028-2022_20260813_Prochie_sudebnye_dokumenty.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24325070",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Новосибирской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "28.06.2023",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "1 285 840 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Информация отсутствует",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом с момента начала приема заявок до окончания приема заявок по предварительной записи по эл. почте: ton891@mail.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:21:35.950Z",
+  "lastSeenAt": "2026-08-31T19:21:35.950Z",
+  "contentHash": "28191ef1e0aabb7a89888f0a0023083c7470b96611c9fdc4db51840d8384e5a4"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1e"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"25 716 800 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"1 285 840 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"2 571 680 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"30 сент. 2026 г., 23:59 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"25 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"7 окт. 2026 г., 15:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Новосибирская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229762-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1a:["$","span",null,{"children":["📎 ","ЗАКЛЮЧЕНИЕ ЭКСПЕРТА_Чебуречная (Космос) !.pdf"]}]
+1b:["$","span",null,{"className":"size","children":"$undefined"}]
+1c:["$","a","https://m-ets.ru/download/268817024/%D0%A3%D1%82%D0%B2.%20%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%201%D1%8F%20%D0%B8%D0%BD%D1%81%D1%82.%20A45-28028-2022_20260225_Opredelenie.pdf",{"href":"https://m-ets.ru/download/268817024/%D0%A3%D1%82%D0%B2.%20%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%201%D1%8F%20%D0%B8%D0%BD%D1%81%D1%82.%20A45-28028-2022_20260225_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Утв. положения 1я инст. A45-28028-2022_20260225_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1d:["$","a","https://m-ets.ru/download/268817026/%D0%A3%D1%82%D0%B2.%20%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%207%D0%90%D0%90%D0%A1%20A45-28028-2022_20260813_Prochie_sudebnye_dokumenty.pdf",{"href":"https://m-ets.ru/download/268817026/%D0%A3%D1%82%D0%B2.%20%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%207%D0%90%D0%90%D0%A1%20A45-28028-2022_20260813_Prochie_sudebnye_dokumenty.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Утв. положения 7ААС A45-28028-2022_20260813_Prochie_sudebnye_dokumenty.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Здание 972,7 кв.м. и доля земельного участка в Новосибирске — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,160 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230817-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230817-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230817-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=64","children":"Саратовская обл."}]]]}],["$","h1",null,{"children":"Дом 362,3 кв.м. и земельный участок 1005 кв.м. в Саратове"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Жилой дом "}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268889930/268889930_thumb_0.jpg","alt":"Дом 362,3 кв.м. и земельный участок 1005 кв.м. в Саратове"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268889931/268889931_thumb_0.jpg",{"href":"https://m-ets.ru/download/268889931/268889931_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268889931/268889931_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268889925/268889925_thumb_0.jpg",{"href":"https://m-ets.ru/download/268889925/268889925_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268889925/268889925_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268889928/268889928_thumb_0.jpg",{"href":"https://m-ets.ru/download/268889928/268889928_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268889928/268889928_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268889929/268889929_thumb_0.jpg",{"href":"https://m-ets.ru/download/268889929/268889929_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268889929/268889929_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268889926/268889926_thumb_0.jpg",{"href":"https://m-ets.ru/download/268889926/268889926_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268889926/268889926_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268889932/268889932_thumb_0.jpg",{"href":"https://m-ets.ru/download/268889932/268889932_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268889932/268889932_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268889933/268889933_thumb_0.jpg",{"href":"https://m-ets.ru/download/268889933/268889933_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268889933/268889933_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268889934/268889934_thumb_0.jpg",{"href":"https://m-ets.ru/download/268889934/268889934_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268889934/268889934_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268889935/268889935_thumb_0.jpg",{"href":"https://m-ets.ru/download/268889935/268889935_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268889935/268889935_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268889936/268889936_thumb_0.jpg",{"href":"https://m-ets.ru/download/268889936/268889936_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268889936/268889936_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268889937/268889937_thumb_0.jpg",{"href":"https://m-ets.ru/download/268889937/268889937_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$undefined","$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268889937/268889937_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",3," ","фотографии"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268889938/268889938_thumb_0.jpg",{"href":"https://m-ets.ru/download/268889938/268889938_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268889938/268889938_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268889939/268889939_thumb_0.jpg",{"href":"https://m-ets.ru/download/268889939/268889939_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268889939/268889939_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268889940/268889940_thumb_0.jpg",{"href":"https://m-ets.ru/download/268889940/268889940_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268889940/268889940_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Дом, площадью: 362,3 кв.м., с кадастровым номером: 64:48:040732:212 , расположенный на земельном участке, площадью: 1 005 кв.м., с кадастровым номером: 64:48:040732:15 . Адрес: Российская Федерация, Саратовская область, г. Саратов, ул. 9 Дачная, пос. Алмаз, д. 1."}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24390466",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Саратовской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["29.01.2026",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["1 849 760 руб. (10%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: нет",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Оформление права собственности на имущество и его передача осуществляются согласно Положению. Ознакомление с необходимой информацией и документами осуществляется по предварительному согласованию с организатором торгов по телефону: +7 (929) 7732323, по электронной почте: domolit@mail.ru. по рабочим дням с 10-00 до 18.00. Ознакомление с имуществом производится строго по рабочим дням, в рабочее время ... Показать полностью (с 10-00 до 18-00), по месту нахождения имущества-- Адрес: Российская Федерация, Саратовская область, г. Саратов, ул. 9 Дачная, пос. Алмаз, д. 1. с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи. Торги проводятся в электронной форме на электронной площадке Межрегиональная Электронная Торговая Система, размещенной на https://m-ets.ru в сети Интернете",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Мерлева Татьяна Викторовна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=645318272504","children":"Мерлева Татьяна Викторовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","645318272504"]}],"$undefined"]}]]}],["$","tr","manager:Манукян Марина Сергеевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=246510940620","children":"Манукян Марина Сергеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","246510940620"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"ЦФОП АПК\""]}]]}]]}],["$","tr","organizer:Манукян Марина Сергеевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=246510940620","children":"Манукян Марина Сергеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","246510940620"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9057-34470%2F2025","children":"А57-34470/2025"}]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Саратовская область"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268890006/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.doc",{"href":"https://m-ets.ru/download/268890006/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","договор о задатке.doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268890008/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx",{"href":"https://m-ets.ru/download/268890008/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","проект договора купли продажи.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268890010/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9C%D0%B5%D1%80%D0%BB%D0%B5%D0%B2%D0%B0_%D1%84%D1%83.pdf",{"href":"https://m-ets.ru/download/268890010/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9C%D0%B5%D1%80%D0%BB%D0%B5%D0%B2%D0%B0_%D1%84%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","положение_Мерлева_фу.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1a:T1b96,{
+  "id": "etp-mets:230817-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230817-1",
+  "sourceUrl": "https://m-ets.ru/230817-1",
+  "title": "Дом 362,3 кв.м. и земельный участок 1005 кв.м. в Саратове",
+  "description": "Дом, площадью: 362,3 кв.м., с кадастровым номером: 64:48:040732:212 , расположенный на земельном участке, площадью: 1 005 кв.м., с кадастровым номером: 64:48:040732:15 . Адрес: Российская Федерация, Саратовская область, г. Саратов, ул. 9 Дачная, пос. Алмаз, д. 1.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "published",
+  "statusRaw": "Объявленные торги",
+  "kind": "land",
+  "categoryCode": "34",
+  "categoryName": "Жилой дом ",
+  "regionCode": "64",
+  "address": "Саратовская область",
+  "priceStart": "18497600",
+  "priceStep": "1849760",
+  "deposit": "1849760",
+  "currency": "RUB",
+  "publishedAt": "2026-08-28T00:00:00+03:00",
+  "biddStartAt": "2026-09-01T12:00:00+03:00",
+  "biddEndAt": "2026-10-05T12:00:00+03:00",
+  "auctionAt": "2026-10-06T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А57-34470/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Мерлева Татьяна Викторовна",
+      "inn": "645318272504",
+      "efrsbId": "50ee26984e5b1b3b9aa4e2718bcbfefd"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Манукян Марина Сергеевна",
+      "inn": "246510940620",
+      "sro": "ААУ \"ЦФОП АПК\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Манукян Марина Сергеевна",
+      "inn": "246510940620",
+      "email": "domolit@mail.ru",
+      "phone": "+7 (929) 773 23 23"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268889930/268889930_thumb_0.jpg",
+    "https://m-ets.ru/download/268889931/268889931_thumb_0.jpg",
+    "https://m-ets.ru/download/268889925/268889925_thumb_0.jpg",
+    "https://m-ets.ru/download/268889928/268889928_thumb_0.jpg",
+    "https://m-ets.ru/download/268889929/268889929_thumb_0.jpg",
+    "https://m-ets.ru/download/268889926/268889926_thumb_0.jpg",
+    "https://m-ets.ru/download/268889932/268889932_thumb_0.jpg",
+    "https://m-ets.ru/download/268889933/268889933_thumb_0.jpg",
+    "https://m-ets.ru/download/268889934/268889934_thumb_0.jpg",
+    "https://m-ets.ru/download/268889935/268889935_thumb_0.jpg",
+    "https://m-ets.ru/download/268889936/268889936_thumb_0.jpg",
+    "https://m-ets.ru/download/268889937/268889937_thumb_0.jpg",
+    "https://m-ets.ru/download/268889938/268889938_thumb_0.jpg",
+    "https://m-ets.ru/download/268889939/268889939_thumb_0.jpg",
+    "https://m-ets.ru/download/268889940/268889940_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268890006/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.doc",
+      "name": "договор о задатке.doc"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268890008/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx",
+      "name": "проект договора купли продажи.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268890010/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9C%D0%B5%D1%80%D0%BB%D0%B5%D0%B2%D0%B0_%D1%84%D1%83.pdf",
+      "name": "положение_Мерлева_фу.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24390466",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Саратовской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "29.01.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "1 849 760 руб. (10%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: нет",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Оформление права собственности на имущество и его передача осуществляются согласно Положению. Ознакомление с необходимой информацией и документами осуществляется по предварительному согласованию с организатором торгов по телефону: +7 (929) 7732323, по электронной почте: domolit@mail.ru. по рабочим дням с 10-00 до 18.00. Ознакомление с имуществом производится строго по рабочим дням, в рабочее время ... Показать полностью (с 10-00 до 18-00), по месту нахождения имущества-- Адрес: Российская Федерация, Саратовская область, г. Саратов, ул. 9 Дачная, пос. Алмаз, д. 1. с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи. Торги проводятся в электронной форме на электронной площадке Межрегиональная Электронная Торговая Система, размещенной на https://m-ets.ru в сети Интернете",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:50:54.129Z",
+  "lastSeenAt": "2026-08-31T18:50:54.129Z",
+  "contentHash": "86cbd2c1d5a83afdd1ac576b97b1dd6a105e80cb49f7e11e383bba2f41ebd103"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"18 497 600 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"1 849 760 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"1 849 760 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"27 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"1 сент. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"5 окт. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"29 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"6 окт. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Саратовская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230817-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Дом 362,3 кв.м. и земельный участок 1005 кв.м. в Саратове — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

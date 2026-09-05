@@ -1,0 +1,248 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--228751-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--228751-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--228751-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=78","children":"Санкт-Петербург"}]]]}],["$","h1",null,{"children":"Грузовой автомобиль СИЛАНТ, 2010 года"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Коммерческий транспорт и спецтехника"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268719383/268719383_thumb_0.jpg","alt":"Грузовой автомобиль СИЛАНТ, 2010 года"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268719382/268719382_thumb_0.jpg",{"href":"https://m-ets.ru/download/268719382/268719382_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268719382/268719382_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268719380/268719380_thumb_0.jpg",{"href":"https://m-ets.ru/download/268719380/268719380_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268719380/268719380_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268719381/268719381_thumb_0.jpg",{"href":"https://m-ets.ru/download/268719381/268719381_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268719381/268719381_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268719385/268719385_thumb_0.jpg",{"href":"https://m-ets.ru/download/268719385/268719385_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268719385/268719385_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Реализуется автомобиль Силант (Silant) 286822 - бортовой, с манипулятором. Категория C. Оснащен надежным дизельным двигателем Perkins Engine 1103C-33T. Полный привод. В автомобиле отсутствует аккумулятор, частично разукомплектован. От внешнего источника питания (бустера) завести не удалось. Возможен онлайн показ по договоренности."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2010",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24242983",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражного суда города Санкт-Петербурга и Ленинградской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["14.10.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом проводится по адресу: г. Санкт-Петербург, Коннолахтинская дорога, участок 51 по предварительно записи по телефону +79317067166",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":["$L11","$L12","$L13"]}],"$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]]}]]}],"$L20","$L21","$L22",false,"$L23"]}],"$L24"]}]]}]
+11:["$","td",null,{"children":["28 сент. 2026 г., 12:00 (МСК)"," —"," ","5 окт. 2026 г., 12:00 (МСК)"]}]
+12:["$","td",null,{"children":"1 057 500 ₽"}]
+13:["$","td",null,{"children":"105 750 ₽"}]
+14:["$","tr","2",{"className":"","children":[["$","td",null,{"children":["5 окт. 2026 г., 12:00 (МСК)"," —"," ","12 окт. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"1 022 500 ₽"}],["$","td",null,{"children":"102 250 ₽"}]]}]
+15:["$","tr","3",{"className":"","children":[["$","td",null,{"children":["12 окт. 2026 г., 12:00 (МСК)"," —"," ","19 окт. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"987 500 ₽"}],["$","td",null,{"children":"98 750 ₽"}]]}]
+16:["$","tr","4",{"className":"","children":[["$","td",null,{"children":["19 окт. 2026 г., 12:00 (МСК)"," —"," ","26 окт. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"952 500 ₽"}],["$","td",null,{"children":"95 250 ₽"}]]}]
+17:["$","tr","5",{"className":"","children":[["$","td",null,{"children":["26 окт. 2026 г., 12:00 (МСК)"," —"," ","2 нояб. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"917 500 ₽"}],["$","td",null,{"children":"91 750 ₽"}]]}]
+18:["$","tr","6",{"className":"","children":[["$","td",null,{"children":["2 нояб. 2026 г., 12:00 (МСК)"," —"," ","9 нояб. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"882 500 ₽"}],["$","td",null,{"children":"88 250 ₽"}]]}]
+19:["$","tr","7",{"className":"","children":[["$","td",null,{"children":["9 нояб. 2026 г., 12:00 (МСК)"," —"," ","16 нояб. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"847 500 ₽"}],["$","td",null,{"children":"84 750 ₽"}]]}]
+1a:["$","tr","8",{"className":"","children":[["$","td",null,{"children":["16 нояб. 2026 г., 12:00 (МСК)"," —"," ","23 нояб. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"812 500 ₽"}],["$","td",null,{"children":"81 250 ₽"}]]}]
+1b:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["23 нояб. 2026 г., 12:00 (МСК)"," —"," ","30 нояб. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"777 500 ₽"}],["$","td",null,{"children":"77 750 ₽"}]]}]
+1c:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["30 нояб. 2026 г., 12:00 (МСК)"," —"," ","7 дек. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"742 500 ₽"}],["$","td",null,{"children":"74 250 ₽"}]]}]
+1d:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["7 дек. 2026 г., 12:00 (МСК)"," —"," ","14 дек. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"707 500 ₽"}],["$","td",null,{"children":"70 750 ₽"}]]}]
+1e:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["14 дек. 2026 г., 12:00 (МСК)"," —"," ","21 дек. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"672 500 ₽"}],["$","td",null,{"children":"67 250 ₽"}]]}]
+1f:["$","tr","13",{"className":"","children":[["$","td",null,{"children":["21 дек. 2026 г., 12:00 (МСК)"," —"," ","28 дек. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"637 500 ₽"}],["$","td",null,{"children":"63 750 ₽"}]]}]
+20:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Абраамянц Борис Андреевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=782516608124","children":"Абраамянц Борис Андреевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","782516608124"]}],"$undefined"]}]]}],["$","tr","manager:Баронина Тамара Владимировна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=780429592210","children":"Баронина Тамара Владимировна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","780429592210"]}],["$","span",null,{"className":"muted","children":[" · ","МСО ПАУ"]}]]}]]}],["$","tr","organizer:Баронина Тамара Владимировна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=780429592210","children":"Баронина Тамара Владимировна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","780429592210"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9056-21488%2F2025","children":"А56-21488/2025"}]}]]}]]}]}]]}]
+21:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Санкт-Петербург"}]]}]
+22:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268719389/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf",{"href":"https://m-ets.ru/download/268719389/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_автомобиля.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268719391/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_%D0%A1%D0%B8%D0%BB%D0%B0%D0%BD%D1%82.pdf",{"href":"https://m-ets.ru/download/268719391/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_%D0%A1%D0%B8%D0%BB%D0%B0%D0%BD%D1%82.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о торгах_Силант.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268733435/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268733435/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+25:T1e8c,{
+  "id": "etp-mets:228751-1",
+  "sourceCode": "etp-mets",
+  "externalId": "228751-1",
+  "sourceUrl": "https://m-ets.ru/228751-1",
+  "title": "Грузовой автомобиль СИЛАНТ, 2010 года",
+  "description": "Реализуется автомобиль Силант (Silant) 286822 - бортовой, с манипулятором. Категория C. Оснащен надежным дизельным двигателем Perkins Engine 1103C-33T. Полный привод. В автомобиле отсутствует аккумулятор, частично разукомплектован. От внешнего источника питания (бустера) завести не удалось. Возможен онлайн показ по договоренности.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "published",
+  "statusRaw": "Объявленные торги",
+  "kind": "vehicle",
+  "categoryCode": "3",
+  "categoryName": "Коммерческий транспорт и спецтехника",
+  "regionCode": "78",
+  "address": "г. Санкт-Петербург",
+  "priceStart": "1057500",
+  "priceMin": "637500.00",
+  "deposit": "105750.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-19T00:00:00+03:00",
+  "biddStartAt": "2026-09-28T12:00:00+03:00",
+  "biddEndAt": "2026-12-28T12:00:00+03:00",
+  "auctionAt": "2026-12-30T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А56-21488/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Абраамянц Борис Андреевич",
+      "inn": "782516608124",
+      "efrsbId": "887b7449e2414bf92844c9f0633f3c1e"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Баронина Тамара Владимировна",
+      "inn": "780429592210",
+      "sro": "МСО ПАУ"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Баронина Тамара Владимировна",
+      "inn": "780429592210",
+      "email": "t9102762@yandex.ru",
+      "phone": "+7 (931) 706 71 66"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-09-28T12:00:00+03:00",
+      "endAt": "2026-10-05T12:00:00+03:00",
+      "price": "1057500.00",
+      "deposit": "105750.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-10-05T12:00:00+03:00",
+      "endAt": "2026-10-12T12:00:00+03:00",
+      "price": "1022500.00",
+      "deposit": "102250.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-10-12T12:00:00+03:00",
+      "endAt": "2026-10-19T12:00:00+03:00",
+      "price": "987500.00",
+      "deposit": "98750.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-10-19T12:00:00+03:00",
+      "endAt": "2026-10-26T12:00:00+03:00",
+      "price": "952500.00",
+      "deposit": "95250.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-10-26T12:00:00+03:00",
+      "endAt": "2026-11-02T12:00:00+03:00",
+      "price": "917500.00",
+      "deposit": "91750.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-11-02T12:00:00+03:00",
+      "endAt": "2026-11-09T12:00:00+03:00",
+      "price": "882500.00",
+      "deposit": "88250.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-11-09T12:00:00+03:00",
+      "endAt": "2026-11-16T12:00:00+03:00",
+      "price": "847500.00",
+      "deposit": "84750.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-11-16T12:00:00+03:00",
+      "endAt": "2026-11-23T12:00:00+03:00",
+      "price": "812500.00",
+      "deposit": "81250.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-11-23T12:00:00+03:00",
+      "endAt": "2026-11-30T12:00:00+03:00",
+      "price": "777500.00",
+      "deposit": "77750.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-11-30T12:00:00+03:00",
+      "endAt": "2026-12-07T12:00:00+03:00",
+      "price": "742500.00",
+      "deposit": "74250.00"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-12-07T12:00:00+03:00",
+      "endAt": "2026-12-14T12:00:00+03:00",
+      "price": "707500.00",
+      "deposit": "70750.00"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-12-14T12:00:00+03:00",
+      "endAt": "2026-12-21T12:00:00+03:00",
+      "price": "672500.00",
+      "deposit": "67250.00"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-12-21T12:00:00+03:00",
+      "endAt": "2026-12-28T12:00:00+03:00",
+      "price": "637500.00",
+      "deposit": "63750.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268719383/268719383_thumb_0.jpg",
+    "https://m-ets.ru/download/268719382/268719382_thumb_0.jpg",
+    "https://m-ets.ru/download/268719380/268719380_thumb_0.jpg",
+    "https://m-ets.ru/download/268719381/268719381_thumb_0.jpg",
+    "https://m-ets.ru/download/268719385/268719385_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268719389/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf",
+      "name": "Проект_договора_купли_продажи_автомобиля.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268719391/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_%D0%A1%D0%B8%D0%BB%D0%B0%D0%BD%D1%82.pdf",
+      "name": "Положение о торгах_Силант.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268733435/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2010",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24242983",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражного суда города Санкт-Петербурга и Ленинградской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "14.10.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом проводится по адресу: г. Санкт-Петербург, Коннолахтинская дорога, участок 51 по предварительно записи по телефону +79317067166",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:26:44.269Z",
+  "lastSeenAt": "2026-08-31T18:26:44.269Z",
+  "contentHash": "3e737be2b2fd304cb1c6cf6723963c3f64686ccc3189554264109a44e5d03c5a"
+}23:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$25"}]]}]
+24:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 057 500 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["1 057 500 ₽",["$","span",null,{"className":"muted","children":[" ","· ","28 сент. 2026 г., 12:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[13,", до ","637 500 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"105 750 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"18 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"28 сент. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"28 дек. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"113 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"30 дек. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Санкт-Петербург"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/228751-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Грузовой автомобиль СИЛАНТ, 2010 года — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

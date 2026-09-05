@@ -1,0 +1,206 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230995-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230995-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230995-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=77","children":"Москва"}]]]}],["$","h1",null,{"children":"Право требования к ООО «СК «ЭНЕРГОСТРОЙ» в размере 86 923,00 руб."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Задолженность юр. лиц"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Право (требование) ООО «ТЕХНОСТРОЙ РЕСУРС», ИНН 7702375846, к ООО «СК «ЭНЕРГОСТРОЙ», ИНН 7842199245, в размере 8 692 325 руб. Начальная цена продажи: 86 923,00 руб."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24401909",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Москвы",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["22.12.2023",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомиться с документами, имуществом можно по предварительному согласованию по тел.: +79160695591, e-mail: vital.arbitr@gmail.com.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 00:00 (МСК)"," —"," ","6 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"86 923 ₽"}],["$","td",null,{"children":"17 384,60 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 00:00 (МСК)"," —"," ","13 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"82 576,85 ₽"}],["$","td",null,{"children":"16 515,37 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 00:00 (МСК)"," —"," ","20 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"78 230,70 ₽"}],["$","td",null,{"children":"15 646,14 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 00:00 (МСК)"," —"," ","27 сент. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"73 884,55 ₽"}],["$","td",null,{"children":"14 776,91 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["28 сент. 2026 г., 00:00 (МСК)"," —"," ","4 окт. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"69 538,40 ₽"}],["$","td",null,{"children":"13 907,68 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["5 окт. 2026 г., 00:00 (МСК)"," —"," ","11 окт. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"65 192,25 ₽"}],["$","td",null,{"children":"13 038,45 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["12 окт. 2026 г., 00:00 (МСК)"," —"," ","18 окт. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"60 846,10 ₽"}],["$","td",null,{"children":"12 169,22 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["19 окт. 2026 г., 00:00 (МСК)"," —"," ","25 окт. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"56 499,95 ₽"}],["$","td",null,{"children":"11 299,99 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["26 окт. 2026 г., 00:00 (МСК)"," —"," ","1 нояб. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"52 153,80 ₽"}],["$","td",null,{"children":"10 430,76 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["2 нояб. 2026 г., 00:00 (МСК)"," —"," ","8 нояб. 2026 г., 23:59 (МСК)"]}],"$L11","$L12"]}],"$L13"]}]]}]]}],"$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","td",null,{"children":"47 807,65 ₽"}]
+12:["$","td",null,{"children":"9 561,53 ₽"}]
+13:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["9 нояб. 2026 г., 00:00 (МСК)"," —"," ","15 нояб. 2026 г., 23:59 (МСК)"]}],["$","td",null,{"children":"43 461,50 ₽"}],["$","td",null,{"children":"8 692,30 ₽"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Общество с ограниченной ответственностью \"ТЕХНОСТРОЙ РЕСУРС\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7702375846","children":"Общество с ограниченной ответственностью \"ТЕХНОСТРОЙ РЕСУРС\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7702375846"]}],"$undefined"]}]]}],["$","tr","manager:Лихачев Виталий Сергеевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=503125618602","children":"Лихачев Виталий Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","503125618602"]}],["$","span",null,{"className":"muted","children":[" · ","НП СОПАУ \"Альянс управляющих\""]}]]}]]}],["$","tr","organizer:Лихачев Виталий Сергеевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=503125618602","children":"Лихачев Виталий Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","503125618602"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-42532%2F2022%20106-114%20%D0%91","children":"А40-42532/2022 106-114 Б"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Москва"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268906519/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5_%D0%A2%D0%A1%D0%A0_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.docx",{"href":"https://m-ets.ru/download/268906519/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5_%D0%A2%D0%A1%D0%A0_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке_ТСР_публичное предложение.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268906521/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%9E%D0%9E%D0%9E%20%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87.%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6.docx",{"href":"https://m-ets.ru/download/268906521/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%9E%D0%9E%D0%9E%20%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87.%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора уступки ООО Технострой Ресурс_публич.предлож.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+19:T191f,{
+  "id": "etp-mets:230995-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230995-1",
+  "sourceUrl": "https://m-ets.ru/230995-1",
+  "title": "Право требования к ООО «СК «ЭНЕРГОСТРОЙ» в размере 86 923,00 руб.",
+  "description": "Право (требование) ООО «ТЕХНОСТРОЙ РЕСУРС», ИНН 7702375846, к ООО «СК «ЭНЕРГОСТРОЙ», ИНН 7842199245, в размере 8 692 325 руб. Начальная цена продажи: 86 923,00 руб.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "other",
+  "categoryCode": "25",
+  "categoryName": "Задолженность юр. лиц",
+  "regionCode": "77",
+  "address": "г. Москва",
+  "priceStart": "86923",
+  "priceMin": "43461.50",
+  "deposit": "17384.60",
+  "currency": "RUB",
+  "publishedAt": "2026-08-30T00:00:00+03:00",
+  "biddStartAt": "2026-08-31T00:00:00+03:00",
+  "biddEndAt": "2026-11-15T23:59:00+03:00",
+  "auctionAt": "2026-11-15T23:59:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-42532/2022 106-114 Б",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "Общество с ограниченной ответственностью \"ТЕХНОСТРОЙ РЕСУРС\"",
+      "inn": "7702375846",
+      "ogrn": "1157746085210"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Лихачев Виталий Сергеевич",
+      "inn": "503125618602",
+      "sro": "НП СОПАУ \"Альянс управляющих\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Лихачев Виталий Сергеевич",
+      "inn": "503125618602",
+      "email": "vital.arbitr@gmail.com",
+      "phone": "+7 (916) 069 55 91"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-31T00:00:00+03:00",
+      "endAt": "2026-09-06T23:59:00+03:00",
+      "price": "86923.00",
+      "deposit": "17384.60"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-07T00:00:00+03:00",
+      "endAt": "2026-09-13T23:59:00+03:00",
+      "price": "82576.85",
+      "deposit": "16515.37"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-14T00:00:00+03:00",
+      "endAt": "2026-09-20T23:59:00+03:00",
+      "price": "78230.70",
+      "deposit": "15646.14"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-21T00:00:00+03:00",
+      "endAt": "2026-09-27T23:59:00+03:00",
+      "price": "73884.55",
+      "deposit": "14776.91"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-28T00:00:00+03:00",
+      "endAt": "2026-10-04T23:59:00+03:00",
+      "price": "69538.40",
+      "deposit": "13907.68"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-10-05T00:00:00+03:00",
+      "endAt": "2026-10-11T23:59:00+03:00",
+      "price": "65192.25",
+      "deposit": "13038.45"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-12T00:00:00+03:00",
+      "endAt": "2026-10-18T23:59:00+03:00",
+      "price": "60846.10",
+      "deposit": "12169.22"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-19T00:00:00+03:00",
+      "endAt": "2026-10-25T23:59:00+03:00",
+      "price": "56499.95",
+      "deposit": "11299.99"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-26T00:00:00+03:00",
+      "endAt": "2026-11-01T23:59:00+03:00",
+      "price": "52153.80",
+      "deposit": "10430.76"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-11-02T00:00:00+03:00",
+      "endAt": "2026-11-08T23:59:00+03:00",
+      "price": "47807.65",
+      "deposit": "9561.53"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-11-09T00:00:00+03:00",
+      "endAt": "2026-11-15T23:59:00+03:00",
+      "price": "43461.50",
+      "deposit": "8692.30"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268906519/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5_%D0%A2%D0%A1%D0%A0_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.docx",
+      "name": "Договор о задатке_ТСР_публичное предложение.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268906521/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%9E%D0%9E%D0%9E%20%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B9%20%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87.%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6.docx",
+      "name": "Проект договора уступки ООО Технострой Ресурс_публич.предлож.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24401909",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "22.12.2023",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомиться с документами, имуществом можно по предварительному согласованию по тел.: +79160695591, e-mail: vital.arbitr@gmail.com.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:53:59.518Z",
+  "lastSeenAt": "2026-08-31T18:53:59.518Z",
+  "contentHash": "313652d2821ec8beb1d69fc9b0b4bab16bfdd32de93a6776939ffeb79d6fbac6"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"86 923 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["82 576,85 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[10,", до ","43 461,50 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"86 923 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"17 384,60 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"29 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"31 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"15 нояб. 2026 г., 23:59 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"71 день"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"15 нояб. 2026 г., 23:59 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Москва"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230995-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Право требования к ООО «СК «ЭНЕРГОСТРОЙ» в размере 86 923,00 руб. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

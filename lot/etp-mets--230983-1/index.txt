@@ -1,0 +1,144 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230983-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230983-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230983-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=50","children":"Московская обл."}]]]}],["$","h1",null,{"children":"Земельный участок в Московской обл., 1 200 кв.м"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок, расположенный по адресу: Российская Федерация, Московская область, городской округ Клин, СНТ \"Умка\", участок 178, кадастровый номер 50:03:0060128:613 , собственность: частная индивидуальная"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24402726",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Москвы",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["16.10.2025",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["20 000 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Осмотр осуществляется по предварительной записи по телефону: 8-985-000-82-73 (финансовый управляющий). Телефоны для связи: 8-985-000-82-73 (Финансовый управляющий). Адрес электронной почты для связи: maron_45@mail.ru.",""]}]]}]]}]}]]}],"$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Алушкова Елена Алексеевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=773503778759","children":"Алушкова Елена Алексеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","773503778759"]}],"$undefined"]}]]}],["$","tr","manager:Цыбенко Максим Юрьевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=165717193726","children":"Цыбенко Максим Юрьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","165717193726"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСОПАУ"]}]]}]]}],["$","tr","organizer:Цыбенко Максим Юрьевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=165717193726","children":"Цыбенко Максим Юрьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","165717193726"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-236764%2F2025","children":"А40-236764/2025"}]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Московская область"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268904977/report-b843ec51-8fe4-4e40-a5a5-685de3c26938-EPGU-2025-10-17-936406-00-01%5B0%5D%20%D0%AD%D0%9F_14_14_42_page-0001.jpg",{"href":"https://m-ets.ru/download/268904977/report-b843ec51-8fe4-4e40-a5a5-685de3c26938-EPGU-2025-10-17-936406-00-01%5B0%5D%20%D0%AD%D0%9F_14_14_42_page-0001.jpg","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","report-b843ec51-8fe4-4e40-a5a5-685de3c26938-EPGU-2025-10-17-936406-00-01[0] ЭП_14_14_42_page-0001.jpg"]}],"$L11"]}],"$L12","$L13","$L14","$L15"]}]]}],false,"$L16"]}],"$L17"]}]]}]
+11:["$","span",null,{"className":"size","children":"$undefined"}]
+12:["$","a","https://m-ets.ru/download/268904969/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268904969/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+13:["$","a","https://m-ets.ru/download/268904971/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0.docx",{"href":"https://m-ets.ru/download/268904971/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+14:["$","a","https://m-ets.ru/download/268904973/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx",{"href":"https://m-ets.ru/download/268904973/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Порядок продажи.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+15:["$","a","https://m-ets.ru/download/268904975/report-b843ec51-8fe4-4e40-a5a5-685de3c26938-EPGU-2025-10-17-936406-00-01%5B0%5D%20%D0%AD%D0%9F_14_14_42_page-0001.jpg",{"href":"https://m-ets.ru/download/268904975/report-b843ec51-8fe4-4e40-a5a5-685de3c26938-EPGU-2025-10-17-936406-00-01%5B0%5D%20%D0%AD%D0%9F_14_14_42_page-0001.jpg","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","report-b843ec51-8fe4-4e40-a5a5-685de3c26938-EPGU-2025-10-17-936406-00-01[0] ЭП_14_14_42_page-0001.jpg"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+18:T1538,{
+  "id": "etp-mets:230983-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230983-1",
+  "sourceUrl": "https://m-ets.ru/230983-1",
+  "title": "Земельный участок в Московской обл., 1 200 кв.м",
+  "description": "Земельный участок, расположенный по адресу: Российская Федерация, Московская область, городской округ Клин, СНТ \"Умка\", участок 178, кадастровый номер 50:03:0060128:613 , собственность: частная индивидуальная",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "50",
+  "address": "Московская область",
+  "priceStart": "400000",
+  "priceStep": "20000",
+  "deposit": "40000",
+  "currency": "RUB",
+  "publishedAt": "2026-08-30T00:00:00+03:00",
+  "biddStartAt": "2026-08-31T12:00:00+03:00",
+  "biddEndAt": "2026-10-06T12:00:00+03:00",
+  "auctionAt": "2026-10-12T20:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-236764/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Алушкова Елена Алексеевна",
+      "inn": "773503778759",
+      "efrsbId": "557f5492163804f8c20452f1676ccfd2"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Цыбенко Максим Юрьевич",
+      "inn": "165717193726",
+      "sro": "Ассоциация МСОПАУ"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Цыбенко Максим Юрьевич",
+      "inn": "165717193726",
+      "email": "maron_45@mail.ru",
+      "phone": "+7 (985) 000 82 73"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268904977/report-b843ec51-8fe4-4e40-a5a5-685de3c26938-EPGU-2025-10-17-936406-00-01%5B0%5D%20%D0%AD%D0%9F_14_14_42_page-0001.jpg",
+      "name": "report-b843ec51-8fe4-4e40-a5a5-685de3c26938-EPGU-2025-10-17-936406-00-01[0] ЭП_14_14_42_page-0001.jpg"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268904969/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268904971/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0.docx",
+      "name": "Проект договора.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268904973/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx",
+      "name": "Порядок продажи.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268904975/report-b843ec51-8fe4-4e40-a5a5-685de3c26938-EPGU-2025-10-17-936406-00-01%5B0%5D%20%D0%AD%D0%9F_14_14_42_page-0001.jpg",
+      "name": "report-b843ec51-8fe4-4e40-a5a5-685de3c26938-EPGU-2025-10-17-936406-00-01[0] ЭП_14_14_42_page-0001.jpg"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24402726",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "16.10.2025",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "20 000 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Осмотр осуществляется по предварительной записи по телефону: 8-985-000-82-73 (финансовый управляющий). Телефоны для связи: 8-985-000-82-73 (Финансовый управляющий). Адрес электронной почты для связи: maron_45@mail.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:54:20.259Z",
+  "lastSeenAt": "2026-08-31T18:54:20.259Z",
+  "contentHash": "fbae730fb11316faa0f195360187a117c25c5237a18e5cd93defd237dbea0815"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"400 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"20 000 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"40 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"29 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"31 авг. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"6 окт. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"30 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"12 окт. 2026 г., 20:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Московская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230983-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Московской обл., 1 200 кв.м — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

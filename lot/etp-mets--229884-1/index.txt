@@ -1,0 +1,337 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229884-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229884-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229884-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=74","children":"Челябинская обл."}]]]}],["$","h1",null,{"children":"Renault Logan, 2007 года, 87 лс"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268826405/268826405_thumb_0.jpg","alt":"Renault Logan, 2007 года, 87 лс"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268826402/268826402_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826402/268826402_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826402/268826402_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826412/268826412_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826412/268826412_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826412/268826412_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826407/268826407_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826407/268826407_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826407/268826407_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826406/268826406_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826406/268826406_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826406/268826406_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826417/268826417_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826417/268826417_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826417/268826417_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826418/268826418_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826418/268826418_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826418/268826418_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826396/268826396_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826396/268826396_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826396/268826396_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826394/268826394_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826394/268826394_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826394/268826394_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826397/268826397_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826397/268826397_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826397/268826397_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826414/268826414_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826414/268826414_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826414/268826414_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826409/268826409_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826409/268826409_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268826409/268826409_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",17," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268826395/268826395_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826395/268826395_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826395/268826395_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826410/268826410_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826410/268826410_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826410/268826410_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826404/268826404_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826404/268826404_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826404/268826404_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826393/268826393_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826393/268826393_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826393/268826393_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826398/268826398_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826398/268826398_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826398/268826398_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826403/268826403_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826403/268826403_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826403/268826403_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826399/268826399_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826399/268826399_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826399/268826399_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826408/268826408_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826408/268826408_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826408/268826408_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826413/268826413_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826413/268826413_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826413/268826413_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826390/268826390_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826390/268826390_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826390/268826390_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826392/268826392_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826392/268826392_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826392/268826392_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826400/268826400_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826400/268826400_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826400/268826400_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826401/268826401_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826401/268826401_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826401/268826401_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268826391/268826391_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826391/268826391_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L1b"}],"$L1c","$L1d","$L1e"]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Автомобиль легковой, марка: Renault , модель: Logan, VIN: X7LLSRAHH7H126262, гос. рег. номер: Т296АХ174, год изготовления: 2007"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Renault",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Logan",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2007",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["111 111"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["87"," л.с."]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["X7LLSRAHH7H126262",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24334670",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Челябинской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["23.01.2026",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге в пользу Акционерное общество «Тинькофф Банк», (ИНН 7710140679) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Челябинская область, Сосновский район, село Большое Баландино, ориентир заправка ТРК Геолокация: 55.371147, 61.453016, предварительно согласовав время с Финансовым управляющим по тел. +79191263160, либо путем направления запроса на электронную почту samonina_ve@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. ... Показать полностью Во избежание претензий к Арбитражному управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["1 сент. 2026 г., 09:00 (МСК)"," —"," ","4 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"90 000 ₽"}],["$","td",null,{"children":"9 000 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["4 сент. 2026 г., 09:00 (МСК)"," —"," ","7 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"85 500 ₽"}],["$","td",null,{"children":"8 550 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 09:00 (МСК)"," —"," ","10 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"81 000 ₽"}],["$","td",null,{"children":"8 100 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 09:00 (МСК)"," —"," ","13 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"76 500 ₽"}],["$","td",null,{"children":"7 650 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["13 сент. 2026 г., 09:00 (МСК)"," —"," ","16 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"72 000 ₽"}],["$","td",null,{"children":"7 200 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Закирова Альбина Афтандиловна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=743805995101","children":"Закирова Альбина Афтандиловна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","743805995101"]}],"$undefined"]}]]}],["$","tr","manager:Самонина Валерия Эдуардовна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=744845313477","children":"Самонина Валерия Эдуардовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","744845313477"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:Самонина Валерия Эдуардовна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=744845313477","children":"Самонина Валерия Эдуардовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","744845313477"]}],"$undefined"]}]]}],["$","tr","pledgee:АО \"ТБАНК\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7710140679","children":"АО \"ТБАНК\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7710140679"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9076-30264%2F2025","children":"А76-30264/2025"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Челябинская область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",20,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268826420/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC).docx",{"href":"https://m-ets.ru/download/268826420/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП на ЭТП (ТС с залогом).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268826422/IMG_1519.JPG",{"href":"https://m-ets.ru/download/268826422/IMG_1519.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1519.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268826424/IMG_1518.JPG",{"href":"https://m-ets.ru/download/268826424/IMG_1518.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1518.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268826426/IMG_1525.JPG",{"href":"https://m-ets.ru/download/268826426/IMG_1525.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1525.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268826428/IMG_1513.JPG",{"href":"https://m-ets.ru/download/268826428/IMG_1513.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1513.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268826430/IMG_1520.JPG",{"href":"https://m-ets.ru/download/268826430/IMG_1520.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1520.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268826432/IMG_1528.JPG",{"href":"https://m-ets.ru/download/268826432/IMG_1528.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1528.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268826434/IMG_1524.JPG",{"href":"https://m-ets.ru/download/268826434/IMG_1524.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1524.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268826436/IMG_1515.JPG",{"href":"https://m-ets.ru/download/268826436/IMG_1515.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1515.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268826438/IMG_1527.JPG",{"href":"https://m-ets.ru/download/268826438/IMG_1527.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1527.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268826440/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_%D0%97%D0%B0%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%20%D0%90%D0%BB%D1%8C%D0%B1%D0%B8%D0%BD%D0%B0%20%D0%90%D1%84%D1%82%D0%B0%D0%BD%D0%B4%D0%B8%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0.pdf",{"href":"https://m-ets.ru/download/268826440/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_%D0%97%D0%B0%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%20%D0%90%D0%BB%D1%8C%D0%B1%D0%B8%D0%BD%D0%B0%20%D0%90%D1%84%D1%82%D0%B0%D0%BD%D0%B4%D0%B8%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о торгах_Закирова Альбина Афтандиловна.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],"$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27"]}]]}]
+28:T3027,{
+  "id": "etp-mets:229884-1",
+  "sourceCode": "etp-mets",
+  "externalId": "229884-1",
+  "sourceUrl": "https://m-ets.ru/229884-1",
+  "title": "Renault Logan, 2007 года, 87 лс",
+  "description": "Автомобиль легковой, марка: Renault , модель: Logan, VIN: X7LLSRAHH7H126262, гос. рег. номер: Т296АХ174, год изготовления: 2007",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "published",
+  "statusRaw": "Объявленные торги",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "74",
+  "address": "Челябинская область",
+  "priceStart": "90000",
+  "priceMin": "72000.00",
+  "deposit": "9000.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T00:00:00+03:00",
+  "biddStartAt": "2026-09-01T09:00:00+03:00",
+  "biddEndAt": "2026-09-16T09:00:00+03:00",
+  "auctionAt": "2026-09-16T11:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А76-30264/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Закирова Альбина Афтандиловна",
+      "inn": "743805995101",
+      "efrsbId": "e06cc8dc80fe04790aa46ce86ca924a5"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Самонина Валерия Эдуардовна",
+      "inn": "744845313477",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Самонина Валерия Эдуардовна",
+      "inn": "744845313477",
+      "email": "samonina_ve@mail.ru",
+      "phone": "+7 (919) 126 31 60"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "АО \"ТБАНК\"",
+      "inn": "7710140679"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-09-01T09:00:00+03:00",
+      "endAt": "2026-09-04T09:00:00+03:00",
+      "price": "90000.00",
+      "deposit": "9000.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-04T09:00:00+03:00",
+      "endAt": "2026-09-07T09:00:00+03:00",
+      "price": "85500.00",
+      "deposit": "8550.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-07T09:00:00+03:00",
+      "endAt": "2026-09-10T09:00:00+03:00",
+      "price": "81000.00",
+      "deposit": "8100.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-10T09:00:00+03:00",
+      "endAt": "2026-09-13T09:00:00+03:00",
+      "price": "76500.00",
+      "deposit": "7650.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-13T09:00:00+03:00",
+      "endAt": "2026-09-16T09:00:00+03:00",
+      "price": "72000.00",
+      "deposit": "7200.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268826405/268826405_thumb_0.jpg",
+    "https://m-ets.ru/download/268826402/268826402_thumb_0.jpg",
+    "https://m-ets.ru/download/268826412/268826412_thumb_0.jpg",
+    "https://m-ets.ru/download/268826407/268826407_thumb_0.jpg",
+    "https://m-ets.ru/download/268826406/268826406_thumb_0.jpg",
+    "https://m-ets.ru/download/268826417/268826417_thumb_0.jpg",
+    "https://m-ets.ru/download/268826418/268826418_thumb_0.jpg",
+    "https://m-ets.ru/download/268826396/268826396_thumb_0.jpg",
+    "https://m-ets.ru/download/268826394/268826394_thumb_0.jpg",
+    "https://m-ets.ru/download/268826397/268826397_thumb_0.jpg",
+    "https://m-ets.ru/download/268826414/268826414_thumb_0.jpg",
+    "https://m-ets.ru/download/268826409/268826409_thumb_0.jpg",
+    "https://m-ets.ru/download/268826395/268826395_thumb_0.jpg",
+    "https://m-ets.ru/download/268826410/268826410_thumb_0.jpg",
+    "https://m-ets.ru/download/268826404/268826404_thumb_0.jpg",
+    "https://m-ets.ru/download/268826393/268826393_thumb_0.jpg",
+    "https://m-ets.ru/download/268826398/268826398_thumb_0.jpg",
+    "https://m-ets.ru/download/268826403/268826403_thumb_0.jpg",
+    "https://m-ets.ru/download/268826399/268826399_thumb_0.jpg",
+    "https://m-ets.ru/download/268826408/268826408_thumb_0.jpg",
+    "https://m-ets.ru/download/268826413/268826413_thumb_0.jpg",
+    "https://m-ets.ru/download/268826390/268826390_thumb_0.jpg",
+    "https://m-ets.ru/download/268826392/268826392_thumb_0.jpg",
+    "https://m-ets.ru/download/268826400/268826400_thumb_0.jpg",
+    "https://m-ets.ru/download/268826401/268826401_thumb_0.jpg",
+    "https://m-ets.ru/download/268826391/268826391_thumb_0.jpg",
+    "https://m-ets.ru/download/268826411/268826411_thumb_0.jpg",
+    "https://m-ets.ru/download/268826415/268826415_thumb_0.jpg",
+    "https://m-ets.ru/download/268826416/268826416_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268826420/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B0%20%D0%AD%D0%A2%D0%9F%20(%D0%A2%D0%A1%20%D1%81%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%BC).docx",
+      "name": "Проект ДКП на ЭТП (ТС с залогом).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826422/IMG_1519.JPG",
+      "name": "IMG_1519.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826424/IMG_1518.JPG",
+      "name": "IMG_1518.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826426/IMG_1525.JPG",
+      "name": "IMG_1525.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826428/IMG_1513.JPG",
+      "name": "IMG_1513.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826430/IMG_1520.JPG",
+      "name": "IMG_1520.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826432/IMG_1528.JPG",
+      "name": "IMG_1528.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826434/IMG_1524.JPG",
+      "name": "IMG_1524.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826436/IMG_1515.JPG",
+      "name": "IMG_1515.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826438/IMG_1527.JPG",
+      "name": "IMG_1527.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826440/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_%D0%97%D0%B0%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%20%D0%90%D0%BB%D1%8C%D0%B1%D0%B8%D0%BD%D0%B0%20%D0%90%D1%84%D1%82%D0%B0%D0%BD%D0%B4%D0%B8%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0.pdf",
+      "name": "Положение о торгах_Закирова Альбина Афтандиловна.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826442/IMG_1521.JPG",
+      "name": "IMG_1521.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826444/IMG_1522.JPG",
+      "name": "IMG_1522.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826446/IMG_1517.JPG",
+      "name": "IMG_1517.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826448/IMG_1516.JPG",
+      "name": "IMG_1516.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826450/IMG_1526.JPG",
+      "name": "IMG_1526.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826452/IMG_1523.JPG",
+      "name": "IMG_1523.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826454/IMG_1529.JPG",
+      "name": "IMG_1529.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826456/IMG_1514.JPG",
+      "name": "IMG_1514.JPG"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268826544/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Renault",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Logan",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2007",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "111 111",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "87",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "X7LLSRAHH7H126262",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24334670",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Челябинской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "23.01.2026",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге в пользу Акционерное общество «Тинькофф Банк», (ИНН 7710140679) Продажа имущества на торгах приводит к прекращению права залога (ипотеки) - пп. 4 п. 1 ст. 352 ГК РФ и абз. 6 п. 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» от 26.10.2002 г. № 127-ФЗ.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Челябинская область, Сосновский район, село Большое Баландино, ориентир заправка ТРК Геолокация: 55.371147, 61.453016, предварительно согласовав время с Финансовым управляющим по тел. +79191263160, либо путем направления запроса на электронную почту samonina_ve@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок. ... Показать полностью Во избежание претензий к Арбитражному управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:37:37.923Z",
+  "lastSeenAt": "2026-08-31T18:37:37.923Z",
+  "contentHash": "c91bdf1a8dbc69f1dada5058c0fde2e0a7e4b5eb02a397366ed82d884af48197"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$28"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"85 500 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["81 000 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[3,", до ","72 000 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"90 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"9 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"1 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"16 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"10 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"16 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Челябинская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229884-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1b:["$","img",null,{"src":"https://m-ets.ru/download/268826391/268826391_thumb_0.jpg","alt":"","loading":"lazy"}]
+1c:["$","a","https://m-ets.ru/download/268826411/268826411_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826411/268826411_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826411/268826411_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1d:["$","a","https://m-ets.ru/download/268826415/268826415_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826415/268826415_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826415/268826415_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1e:["$","a","https://m-ets.ru/download/268826416/268826416_thumb_0.jpg",{"href":"https://m-ets.ru/download/268826416/268826416_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268826416/268826416_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1f:["$","a","https://m-ets.ru/download/268826442/IMG_1521.JPG",{"href":"https://m-ets.ru/download/268826442/IMG_1521.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1521.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+20:["$","a","https://m-ets.ru/download/268826444/IMG_1522.JPG",{"href":"https://m-ets.ru/download/268826444/IMG_1522.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1522.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+21:["$","a","https://m-ets.ru/download/268826446/IMG_1517.JPG",{"href":"https://m-ets.ru/download/268826446/IMG_1517.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1517.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+22:["$","a","https://m-ets.ru/download/268826448/IMG_1516.JPG",{"href":"https://m-ets.ru/download/268826448/IMG_1516.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1516.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+23:["$","a","https://m-ets.ru/download/268826450/IMG_1526.JPG",{"href":"https://m-ets.ru/download/268826450/IMG_1526.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1526.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+24:["$","a","https://m-ets.ru/download/268826452/IMG_1523.JPG",{"href":"https://m-ets.ru/download/268826452/IMG_1523.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1523.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+25:["$","a","https://m-ets.ru/download/268826454/IMG_1529.JPG",{"href":"https://m-ets.ru/download/268826454/IMG_1529.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1529.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+26:["$","a","https://m-ets.ru/download/268826456/IMG_1514.JPG",{"href":"https://m-ets.ru/download/268826456/IMG_1514.JPG","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","IMG_1514.JPG"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+27:["$","a","https://m-ets.ru/download/268826544/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268826544/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Renault Logan, 2007 года, 87 лс — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,275 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230747-2",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230747-2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230747-2","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=76","children":"Ярославская обл."}]]]}],["$","h1",null,{"children":"Земельный участок в Ярославской обл., 410 +/- 7 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок, кадастровый номер 76:17:115201:2355 . для жилищного строительства, в том числе индивидуального, площадь 410 +/- 7 кв.м."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24243173",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Ярославской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["06.08.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с формой заявки, Положениями о порядке, сроках и условиях продажи имущества, с самим имуществом, производится ежедневно в рабочее время, предварительно связавшись по адресу: 150025, г. Ярославль, а/я 13 или по тел.: +79159683663 либо по адресу электронной почты: arbitr76ss@mail.ru",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 10:00 (МСК)"," —"," ","14 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"48 456,90 ₽"}],["$","td",null,{"children":"9 691,38 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 10:00 (МСК)"," —"," ","28 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"46 034,06 ₽"}],["$","td",null,{"children":"9 206,81 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["28 сент. 2026 г., 10:00 (МСК)"," —"," ","12 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"43 611,21 ₽"}],["$","td",null,{"children":"8 722,24 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["12 окт. 2026 г., 10:00 (МСК)"," —"," ","26 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"41 188,37 ₽"}],["$","td",null,{"children":"8 237,67 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["26 окт. 2026 г., 10:00 (МСК)"," —"," ","9 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"38 765,52 ₽"}],["$","td",null,{"children":"7 753,10 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["9 нояб. 2026 г., 10:00 (МСК)"," —"," ","23 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"36 342,68 ₽"}],["$","td",null,{"children":"7 268,54 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["23 нояб. 2026 г., 10:00 (МСК)"," —"," ","7 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"33 919,83 ₽"}],["$","td",null,{"children":"6 783,97 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["7 дек. 2026 г., 10:00 (МСК)"," —"," ","21 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"31 496,99 ₽"}],["$","td",null,{"children":"6 299,40 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["21 дек. 2026 г., 10:00 (МСК)"," —"," ","4 янв. 2027 г., 10:00 (МСК)"]}],"$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c"]}]]}]]}],"$L1d","$L1e","$L1f",false,"$L20"]}],"$L21"]}]]}]
+11:["$","td",null,{"children":"29 074,14 ₽"}]
+12:["$","td",null,{"children":"5 814,83 ₽"}]
+13:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["4 янв. 2027 г., 10:00 (МСК)"," —"," ","18 янв. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"26 651,30 ₽"}],["$","td",null,{"children":"5 330,26 ₽"}]]}]
+14:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["18 янв. 2027 г., 10:00 (МСК)"," —"," ","1 февр. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"24 228,45 ₽"}],["$","td",null,{"children":"4 845,69 ₽"}]]}]
+15:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["1 февр. 2027 г., 10:00 (МСК)"," —"," ","15 февр. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"21 805,61 ₽"}],["$","td",null,{"children":"4 361,12 ₽"}]]}]
+16:["$","tr","13",{"className":"","children":[["$","td",null,{"children":["15 февр. 2027 г., 10:00 (МСК)"," —"," ","1 мар. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"19 382,76 ₽"}],["$","td",null,{"children":"3 876,55 ₽"}]]}]
+17:["$","tr","14",{"className":"","children":[["$","td",null,{"children":["1 мар. 2027 г., 10:00 (МСК)"," —"," ","15 мар. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"16 959,92 ₽"}],["$","td",null,{"children":"3 391,98 ₽"}]]}]
+18:["$","tr","15",{"className":"","children":[["$","td",null,{"children":["15 мар. 2027 г., 10:00 (МСК)"," —"," ","29 мар. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"14 537,07 ₽"}],["$","td",null,{"children":"2 907,41 ₽"}]]}]
+19:["$","tr","16",{"className":"","children":[["$","td",null,{"children":["29 мар. 2027 г., 10:00 (МСК)"," —"," ","12 апр. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"12 114,23 ₽"}],["$","td",null,{"children":"2 422,85 ₽"}]]}]
+1a:["$","tr","17",{"className":"","children":[["$","td",null,{"children":["12 апр. 2027 г., 10:00 (МСК)"," —"," ","26 апр. 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"9 691,38 ₽"}],["$","td",null,{"children":"1 938,28 ₽"}]]}]
+1b:["$","tr","18",{"className":"","children":[["$","td",null,{"children":["26 апр. 2027 г., 10:00 (МСК)"," —"," ","10 мая 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"7 268,54 ₽"}],["$","td",null,{"children":"1 453,71 ₽"}]]}]
+1c:["$","tr","19",{"className":"","children":[["$","td",null,{"children":["10 мая 2027 г., 10:00 (МСК)"," —"," ","24 мая 2027 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 845,69 ₽"}],["$","td",null,{"children":"969,14 ₽"}]]}]
+1d:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:АГРОПРОИЗВОДСТВЕННЫЙ КООПЕРАТИВ \"ТУНОШНА\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7627001292","children":"АГРОПРОИЗВОДСТВЕННЫЙ КООПЕРАТИВ \"ТУНОШНА\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7627001292"]}],"$undefined"]}]]}],["$","tr","manager:Ежов Станислав Сергеевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=762703600637","children":"Ежов Станислав Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","762703600637"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСРО \"Содействие\""]}]]}]]}],["$","tr","organizer:ООО \"Астрея Менеджмент\"",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7606060265","children":"ООО \"Астрея Менеджмент\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7606060265"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9082-3531%2F2016","children":"А82-3531/2016"}]}]]}]]}]}]]}]
+1e:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Ярославская область"}]]}]
+1f:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268720507/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D1%82%D1%83%D0%BD%D0%BE%D1%88%D0%BD%D0%B0.pdf",{"href":"https://m-ets.ru/download/268720507/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D1%82%D1%83%D0%BD%D0%BE%D1%88%D0%BD%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект Договора купли-продажи туношна.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268720509/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B0.pdf",{"href":"https://m-ets.ru/download/268720509/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект Договора задатка.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268887278/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D1%82%D1%83%D0%BD%D0%BE%D1%88%D0%BD%D0%B0%20%D0%B4%D0%B2%D0%B8%D0%B6%20%D0%B8%D0%BC-%D0%B2%D0%BE.pdf",{"href":"https://m-ets.ru/download/268887278/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D1%82%D1%83%D0%BD%D0%BE%D1%88%D0%BD%D0%B0%20%D0%B4%D0%B2%D0%B8%D0%B6%20%D0%B8%D0%BC-%D0%B2%D0%BE.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект Договора купли-продажи туношна движ им-во.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+22:T1fcc,{
+  "id": "etp-mets:230747-2",
+  "sourceCode": "etp-mets",
+  "externalId": "230747-2",
+  "sourceUrl": "https://m-ets.ru/230747-2",
+  "title": "Земельный участок в Ярославской обл., 410 +/- 7 кв.м.",
+  "description": "Земельный участок, кадастровый номер 76:17:115201:2355 . для жилищного строительства, в том числе индивидуального, площадь 410 +/- 7 кв.м.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "76",
+  "address": "Ярославская область",
+  "priceStart": "48456.90",
+  "priceMin": "4845.69",
+  "deposit": "9691.38",
+  "currency": "RUB",
+  "publishedAt": "2026-08-19T00:00:00+03:00",
+  "biddStartAt": "2026-08-31T10:00:00+03:00",
+  "biddEndAt": "2027-05-24T10:00:00+03:00",
+  "auctionAt": "2027-05-25T17:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А82-3531/2016",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "АГРОПРОИЗВОДСТВЕННЫЙ КООПЕРАТИВ \"ТУНОШНА\"",
+      "inn": "7627001292",
+      "ogrn": "1027601594932"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Ежов Станислав Сергеевич",
+      "inn": "762703600637",
+      "sro": "Ассоциация МСРО \"Содействие\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "ООО \"Астрея Менеджмент\"",
+      "inn": "7606060265",
+      "email": "chistsony1989@gmail.com",
+      "phone": "+7 (960) 531 54 43"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-31T10:00:00+03:00",
+      "endAt": "2026-09-14T10:00:00+03:00",
+      "price": "48456.90",
+      "deposit": "9691.38"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-14T10:00:00+03:00",
+      "endAt": "2026-09-28T10:00:00+03:00",
+      "price": "46034.06",
+      "deposit": "9206.81"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-28T10:00:00+03:00",
+      "endAt": "2026-10-12T10:00:00+03:00",
+      "price": "43611.21",
+      "deposit": "8722.24"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-10-12T10:00:00+03:00",
+      "endAt": "2026-10-26T10:00:00+03:00",
+      "price": "41188.37",
+      "deposit": "8237.67"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-10-26T10:00:00+03:00",
+      "endAt": "2026-11-09T10:00:00+03:00",
+      "price": "38765.52",
+      "deposit": "7753.10"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-11-09T10:00:00+03:00",
+      "endAt": "2026-11-23T10:00:00+03:00",
+      "price": "36342.68",
+      "deposit": "7268.54"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-11-23T10:00:00+03:00",
+      "endAt": "2026-12-07T10:00:00+03:00",
+      "price": "33919.83",
+      "deposit": "6783.97"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-12-07T10:00:00+03:00",
+      "endAt": "2026-12-21T10:00:00+03:00",
+      "price": "31496.99",
+      "deposit": "6299.40"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-12-21T10:00:00+03:00",
+      "endAt": "2027-01-04T10:00:00+03:00",
+      "price": "29074.14",
+      "deposit": "5814.83"
+    },
+    {
+      "no": 10,
+      "startAt": "2027-01-04T10:00:00+03:00",
+      "endAt": "2027-01-18T10:00:00+03:00",
+      "price": "26651.30",
+      "deposit": "5330.26"
+    },
+    {
+      "no": 11,
+      "startAt": "2027-01-18T10:00:00+03:00",
+      "endAt": "2027-02-01T10:00:00+03:00",
+      "price": "24228.45",
+      "deposit": "4845.69"
+    },
+    {
+      "no": 12,
+      "startAt": "2027-02-01T10:00:00+03:00",
+      "endAt": "2027-02-15T10:00:00+03:00",
+      "price": "21805.61",
+      "deposit": "4361.12"
+    },
+    {
+      "no": 13,
+      "startAt": "2027-02-15T10:00:00+03:00",
+      "endAt": "2027-03-01T10:00:00+03:00",
+      "price": "19382.76",
+      "deposit": "3876.55"
+    },
+    {
+      "no": 14,
+      "startAt": "2027-03-01T10:00:00+03:00",
+      "endAt": "2027-03-15T10:00:00+03:00",
+      "price": "16959.92",
+      "deposit": "3391.98"
+    },
+    {
+      "no": 15,
+      "startAt": "2027-03-15T10:00:00+03:00",
+      "endAt": "2027-03-29T10:00:00+03:00",
+      "price": "14537.07",
+      "deposit": "2907.41"
+    },
+    {
+      "no": 16,
+      "startAt": "2027-03-29T10:00:00+03:00",
+      "endAt": "2027-04-12T10:00:00+03:00",
+      "price": "12114.23",
+      "deposit": "2422.85"
+    },
+    {
+      "no": 17,
+      "startAt": "2027-04-12T10:00:00+03:00",
+      "endAt": "2027-04-26T10:00:00+03:00",
+      "price": "9691.38",
+      "deposit": "1938.28"
+    },
+    {
+      "no": 18,
+      "startAt": "2027-04-26T10:00:00+03:00",
+      "endAt": "2027-05-10T10:00:00+03:00",
+      "price": "7268.54",
+      "deposit": "1453.71"
+    },
+    {
+      "no": 19,
+      "startAt": "2027-05-10T10:00:00+03:00",
+      "endAt": "2027-05-24T10:00:00+03:00",
+      "price": "4845.69",
+      "deposit": "969.14"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268720507/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D1%82%D1%83%D0%BD%D0%BE%D1%88%D0%BD%D0%B0.pdf",
+      "name": "Проект Договора купли-продажи туношна.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268720509/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B0.pdf",
+      "name": "Проект Договора задатка.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268887278/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D1%82%D1%83%D0%BD%D0%BE%D1%88%D0%BD%D0%B0%20%D0%B4%D0%B2%D0%B8%D0%B6%20%D0%B8%D0%BC-%D0%B2%D0%BE.pdf",
+      "name": "Проект Договора купли-продажи туношна движ им-во.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24243173",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Ярославской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "06.08.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с формой заявки, Положениями о порядке, сроках и условиях продажи имущества, с самим имуществом, производится ежедневно в рабочее время, предварительно связавшись по адресу: 150025, г. Ярославль, а/я 13 или по тел.: +79159683663 либо по адресу электронной почты: arbitr76ss@mail.ru",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:26:52.592Z",
+  "lastSeenAt": "2026-08-31T18:26:52.592Z",
+  "contentHash": "a52f886480f8bace331ce341c88fdbd6f071785e16eaa853c5a4e23c22a13b2a"
+}20:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$22"}]]}]
+21:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"48 456,90 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["46 034,06 ₽",["$","span",null,{"className":"muted","children":[" ","· ","14 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[18,", до ","4 845,69 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"48 456,90 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"9 691,38 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"18 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"31 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"24 мая 2027 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"260 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 мая 2027 г., 17:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Ярославская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230747-2","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Ярославской обл., 410 +/- 7 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

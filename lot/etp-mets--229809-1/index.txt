@@ -1,0 +1,171 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229809-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229809-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229809-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=69","children":"Тверская обл."}]]]}],["$","h1",null,{"children":"Земельный участок в Тверской обл., 3000 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок. Категория земель: Земли населенных пунктов. Вид разрешенного использования: Для ведения личного подсобного хозяйства. Площадь 3000 кв.м. Адрес: Местоположение установлено относительно ориентира, расположенного в границах участка. Почтовый адрес ориентира: р-н Кимрский ориентир местоположения вне границ Неклюдовское сельское поселение д. Неклюдово участок 19-а Кадастровый номер 69:14:0120702:60"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24330410",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Москвы",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["12.11.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Запрещение регистрации",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["в рабочие дни с 09:00 до 17:00, предварительно согласовав дату и время с организатором торгов по телефону +7 915 509-11-11",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 09:00 (МСК)"," —"," ","2 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 674 000 ₽"}],["$","td",null,{"children":"167 400 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 09:00 (МСК)"," —"," ","9 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 506 600 ₽"}],["$","td",null,{"children":"150 660 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["9 сент. 2026 г., 09:00 (МСК)"," —"," ","16 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 339 200 ₽"}],["$","td",null,{"children":"133 920 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["16 сент. 2026 г., 09:00 (МСК)"," —"," ","23 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 171 800 ₽"}],["$","td",null,{"children":"117 180 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["23 сент. 2026 г., 09:00 (МСК)"," —"," ","30 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 004 400 ₽"}],["$","td",null,{"children":"100 440 ₽"}]]}]]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Лапенко Анатолий Михайлович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=773370148586","children":"Лапенко Анатолий Михайлович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","773370148586"]}],"$undefined"]}]]}],["$","tr","manager:Мальцев Антон Андреевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],"$L11"]}],"$L12"],"$L13"]}]}]]}],"$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=575309043279","children":"Мальцев Антон Андреевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","575309043279"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСРО \"Содействие\""]}]]}]
+12:["$","tr","organizer:Мальцев Антон Андреевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=575309043279","children":"Мальцев Антон Андреевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","575309043279"]}],"$undefined"]}]]}]
+13:["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-224396%2F2025","children":"А40-224396/2025"}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Тверская область"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268821719/%D0%9B%D0%B0%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%90.%D0%9C.%20-%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%97%D0%A3.doc",{"href":"https://m-ets.ru/download/268821719/%D0%9B%D0%B0%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%90.%D0%9C.%20-%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%97%D0%A3.doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Лапенко А.М. - решение об оценке ЗУ.doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268821722/%D0%9B%D0%B0%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%90.%D0%9C.%20-%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%97%D0%A3.doc",{"href":"https://m-ets.ru/download/268821722/%D0%9B%D0%B0%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%90.%D0%9C.%20-%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%97%D0%A3.doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Лапенко А.М. - решение об оценке ЗУ.doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268821724/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268821724/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","проект договора купли-продажи недвижимого имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268821754/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268821754/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T19da,{
+  "id": "etp-mets:229809-1",
+  "sourceCode": "etp-mets",
+  "externalId": "229809-1",
+  "sourceUrl": "https://m-ets.ru/229809-1",
+  "title": "Земельный участок в Тверской обл., 3000 кв.м.",
+  "description": "Земельный участок. Категория земель: Земли населенных пунктов. Вид разрешенного использования: Для ведения личного подсобного хозяйства. Площадь 3000 кв.м. Адрес: Местоположение установлено относительно ориентира, расположенного в границах участка. Почтовый адрес ориентира: р-н Кимрский ориентир местоположения вне границ Неклюдовское сельское поселение д. Неклюдово участок 19-а Кадастровый номер 69:14:0120702:60",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "69",
+  "address": "Тверская область",
+  "priceStart": "1674000",
+  "priceMin": "1004400.00",
+  "deposit": "167400.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-25T00:00:00+03:00",
+  "biddStartAt": "2026-08-26T09:00:00+03:00",
+  "biddEndAt": "2026-09-30T09:00:00+03:00",
+  "auctionAt": "2026-09-30T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-224396/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Лапенко Анатолий Михайлович",
+      "inn": "773370148586",
+      "efrsbId": "292f6d88a926053a45d45a61df4a5bb0"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Мальцев Антон Андреевич",
+      "inn": "575309043279",
+      "sro": "Ассоциация МСРО \"Содействие\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Мальцев Антон Андреевич",
+      "inn": "575309043279",
+      "email": "am302000@ya.ru",
+      "phone": "+7 (915) 509 11 11"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-26T09:00:00+03:00",
+      "endAt": "2026-09-02T09:00:00+03:00",
+      "price": "1674000.00",
+      "deposit": "167400.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-02T09:00:00+03:00",
+      "endAt": "2026-09-09T09:00:00+03:00",
+      "price": "1506600.00",
+      "deposit": "150660.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-09T09:00:00+03:00",
+      "endAt": "2026-09-16T09:00:00+03:00",
+      "price": "1339200.00",
+      "deposit": "133920.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-16T09:00:00+03:00",
+      "endAt": "2026-09-23T09:00:00+03:00",
+      "price": "1171800.00",
+      "deposit": "117180.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-23T09:00:00+03:00",
+      "endAt": "2026-09-30T09:00:00+03:00",
+      "price": "1004400.00",
+      "deposit": "100440.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268821719/%D0%9B%D0%B0%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%90.%D0%9C.%20-%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%97%D0%A3.doc",
+      "name": "Лапенко А.М. - решение об оценке ЗУ.doc"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268821722/%D0%9B%D0%B0%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%90.%D0%9C.%20-%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5%20%D0%97%D0%A3.doc",
+      "name": "Лапенко А.М. - решение об оценке ЗУ.doc"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268821724/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "проект договора купли-продажи недвижимого имущества.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268821754/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24330410",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "12.11.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Запрещение регистрации",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "в рабочие дни с 09:00 до 17:00, предварительно согласовав дату и время с организатором торгов по телефону +7 915 509-11-11",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:22:00.371Z",
+  "lastSeenAt": "2026-08-31T19:22:00.371Z",
+  "contentHash": "bde91afbc0452ed209909245f3f383c0d845ce20c3e711275620f2f36bb008fb"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"1 506 600 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["1 339 200 ₽",["$","span",null,{"className":"muted","children":[" ","· ","9 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[3,", до ","1 004 400 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"1 674 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"167 400 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"24 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"30 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"24 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"30 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Тверская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229809-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Тверской обл., 3000 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

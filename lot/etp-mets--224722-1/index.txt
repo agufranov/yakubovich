@@ -1,0 +1,190 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--224722-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--224722-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--224722-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=50","children":"Московская обл."}]]]}],["$","h1",null,{"children":"Земельный участок в Московской обл., 1002 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок, общей площадью 1 002 м2, кадастровый (условный) номер: 50:09:0010201:366 , расположенный по адресу: Московская область, Солнечногорский р-н, д. Федино, д.6/1"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23984975",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Кабардино-Балкарской Республики",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["10.09.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Неустранимых обременений нет",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С имуществом, являющимся предметом торгов, можно ознакомиться по адресу: Россия, Московская область, Солнечногорский р-н, д. Федино, д.6/1, предварительно согласовав дату и время ознакомления по телефону: 8(928)077-77-37 или по электр. почте: amsrokbr@bk.ru. с организатором торгов.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["31 июл. 2026 г., 10:00 (МСК)"," —"," ","7 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 251 000 ₽"}],["$","td",null,{"children":"125 100 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["7 авг. 2026 г., 10:00 (МСК)"," —"," ","14 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 188 450 ₽"}],["$","td",null,{"children":"118 845 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["14 авг. 2026 г., 10:00 (МСК)"," —"," ","21 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 125 900 ₽"}],["$","td",null,{"children":"112 590 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 10:00 (МСК)"," —"," ","28 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 063 350 ₽"}],["$","td",null,{"children":"106 335 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["28 авг. 2026 г., 10:00 (МСК)"," —"," ","4 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 000 800 ₽"}],["$","td",null,{"children":"100 080 ₽"}]]}],["$","tr","6",{"className":"now","children":[["$","td",null,{"children":["4 сент. 2026 г., 10:00 (МСК)"," —"," ","11 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"938 250 ₽"}],["$","td",null,{"children":"93 825 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["11 сент. 2026 г., 10:00 (МСК)"," —"," ","18 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"875 700 ₽"}],["$","td",null,{"children":"87 570 ₽"}]]}]]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Ципинов Астемир Альбердович",{"children":["$L11","$L12"]}],"$L13","$L14","$L15"],"$L16"]}]}]]}],"$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","td",null,{"children":"Должник"}]
+12:["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=070200362556","children":"Ципинов Астемир Альбердович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","070200362556"]}],"$undefined"]}]
+13:["$","tr","manager:Малухов Зураб Мухарбекович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=070102997910","children":"Малухов Зураб Мухарбекович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","070102997910"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация \"МСРО АУ\""]}]]}]]}]
+14:["$","tr","organizer:Малухов Зураб Мухарбекович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=070102997910","children":"Малухов Зураб Мухарбекович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","070102997910"]}],"$undefined"]}]]}]
+15:["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]
+16:["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9020-4452%2F2024","children":"А20-4452/2024"}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Московская область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268403361/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A6%D0%B8%D0%BF%D0%B8%D0%BD%D0%BE%D0%B2_%D1%84%D1%83.pdf",{"href":"https://m-ets.ru/download/268403361/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A6%D0%B8%D0%BF%D0%B8%D0%BD%D0%BE%D0%B2_%D1%84%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","положение_Ципинов_фу.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268403363/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx",{"href":"https://m-ets.ru/download/268403363/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи недвижимого имущества.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268403365/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx",{"href":"https://m-ets.ru/download/268403365/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T1853,{
+  "id": "etp-mets:224722-1",
+  "sourceCode": "etp-mets",
+  "externalId": "224722-1",
+  "sourceUrl": "https://m-ets.ru/224722-1",
+  "title": "Земельный участок в Московской обл., 1002 кв.м.",
+  "description": "Земельный участок, общей площадью 1 002 м2, кадастровый (условный) номер: 50:09:0010201:366 , расположенный по адресу: Московская область, Солнечногорский р-н, д. Федино, д.6/1",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "50",
+  "address": "Московская область",
+  "priceStart": "1251000",
+  "priceMin": "875700.00",
+  "deposit": "125100.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-30T00:00:00+03:00",
+  "biddStartAt": "2026-07-31T10:00:00+03:00",
+  "biddEndAt": "2026-09-18T10:00:00+03:00",
+  "auctionAt": "2026-09-18T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А20-4452/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Ципинов Астемир Альбердович",
+      "inn": "070200362556",
+      "efrsbId": "93c7a2b3323a80c87bb471fc15e031f7"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Малухов Зураб Мухарбекович",
+      "inn": "070102997910",
+      "sro": "Ассоциация \"МСРО АУ\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Малухов Зураб Мухарбекович",
+      "inn": "070102997910",
+      "email": "malukhov.79@mail.ru",
+      "phone": "+7 (988) 920 30 07"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-31T10:00:00+03:00",
+      "endAt": "2026-08-07T10:00:00+03:00",
+      "price": "1251000.00",
+      "deposit": "125100.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-07T10:00:00+03:00",
+      "endAt": "2026-08-14T10:00:00+03:00",
+      "price": "1188450.00",
+      "deposit": "118845.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-14T10:00:00+03:00",
+      "endAt": "2026-08-21T10:00:00+03:00",
+      "price": "1125900.00",
+      "deposit": "112590.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-21T10:00:00+03:00",
+      "endAt": "2026-08-28T10:00:00+03:00",
+      "price": "1063350.00",
+      "deposit": "106335.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-28T10:00:00+03:00",
+      "endAt": "2026-09-04T10:00:00+03:00",
+      "price": "1000800.00",
+      "deposit": "100080.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-04T10:00:00+03:00",
+      "endAt": "2026-09-11T10:00:00+03:00",
+      "price": "938250.00",
+      "deposit": "93825.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-11T10:00:00+03:00",
+      "endAt": "2026-09-18T10:00:00+03:00",
+      "price": "875700.00",
+      "deposit": "87570.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268403361/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A6%D0%B8%D0%BF%D0%B8%D0%BD%D0%BE%D0%B2_%D1%84%D1%83.pdf",
+      "name": "положение_Ципинов_фу.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268403363/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.docx",
+      "name": "Договор купли-продажи недвижимого имущества.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268403365/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx",
+      "name": "Договор о задатке.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23984975",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Кабардино-Балкарской Республики",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "10.09.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Неустранимых обременений нет",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С имуществом, являющимся предметом торгов, можно ознакомиться по адресу: Россия, Московская область, Солнечногорский р-н, д. Федино, д.6/1, предварительно согласовав дату и время ознакомления по телефону: 8(928)077-77-37 или по электр. почте: amsrokbr@bk.ru. с организатором торгов.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:03:41.881Z",
+  "lastSeenAt": "2026-08-31T19:03:41.881Z",
+  "contentHash": "4261d1c4c18d8952b79b16aab7558812c15a4206c1fb16d3caeb5eeea64f6e1d"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"938 250 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["875 700 ₽",["$","span",null,{"className":"muted","children":[" ","· ","11 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[1,", до ","875 700 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"1 251 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"125 100 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"29 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"31 июл. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"18 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"12 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"18 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Московская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/224722-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Московской обл., 1002 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

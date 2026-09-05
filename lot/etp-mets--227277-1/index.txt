@@ -1,0 +1,202 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--227277-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--227277-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--227277-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=65","children":"Сахалинская обл."}]]]}],["$","h1",null,{"children":"Право требования к юридическим лицам"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Задолженность юр. лиц"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"право требования к ООО «Гранит» (ИНН 6501314785) задолженности в размере 10 934 590 руб. на основании Решения АС города Москвы от 27.10.2021 по делу №А59-1592/2021; права требования к ООО «Автомобилист-1» в общем размере 537 412,78 руб. на основании Решение АС Города Москвы от 12.02.2024г. по делу №А59-5057/2023, от 20.08.2024 по делу №А59-599/2024, от 28.08.2024 по делу №А59-600/2024"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24134679",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Москвы",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["01.06.2022",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом по адресу конкурсного управляющего (680000, г.Хабаровск, ул.Запарина, д.53, оф.32) с 10 до 12 часов в рабочие дни",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 09:00 (МСК)"," —"," ","20 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 032 480,24 ₽"}],["$","td",null,{"children":"103 248,02 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 09:00 (МСК)"," —"," ","24 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"929 232,22 ₽"}],["$","td",null,{"children":"92 923,22 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["25 авг. 2026 г., 09:00 (МСК)"," —"," ","28 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"825 984,19 ₽"}],["$","td",null,{"children":"82 598,42 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["29 авг. 2026 г., 09:00 (МСК)"," —"," ","1 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"722 736,17 ₽"}],["$","td",null,{"children":"72 273,62 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["2 сент. 2026 г., 09:00 (МСК)"," —"," ","5 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"619 488,14 ₽"}],["$","td",null,{"children":"61 948,81 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["6 сент. 2026 г., 09:00 (МСК)"," —"," ","9 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"516 240,12 ₽"}],["$","td",null,{"children":"51 624,01 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 09:00 (МСК)"," —"," ","13 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"412 992,10 ₽"}],["$","td",null,{"children":"41 299,21 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 09:00 (МСК)"," —"," ","17 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"309 744,07 ₽"}],["$","td",null,{"children":"30 974,41 ₽"}]]}],"$L11","$L12"]}]]}]]}],"$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["18 сент. 2026 г., 09:00 (МСК)"," —"," ","21 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"206 496,05 ₽"}],["$","td",null,{"children":"20 649,61 ₽"}]]}]
+12:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["22 сент. 2026 г., 09:00 (МСК)"," —"," ","25 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"103 248,02 ₽"}],["$","td",null,{"children":"10 324,80 ₽"}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ СТРОИТЕЛЬНО-КОММЕРЧЕСКАЯ ФИРМА \"ГОРСТРОЙ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=6501277702","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ СТРОИТЕЛЬНО-КОММЕРЧЕСКАЯ ФИРМА \"ГОРСТРОЙ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","6501277702"]}],"$undefined"]}]]}],["$","tr","manager:Стародумов Сергей Александрович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=251201361895","children":"Стародумов Сергей Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","251201361895"]}],["$","span",null,{"className":"muted","children":[" · ","ПАУ ЦФО"]}]]}]]}],["$","tr","organizer:Стародумов Сергей Александрович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=251201361895","children":"Стародумов Сергей Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","251201361895"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-197369%2F2021","children":"А40-197369/2021"}]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Сахалинская область"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268576248/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf",{"href":"https://m-ets.ru/download/268576248/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о продаже права требования.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268576250/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.pdf",{"href":"https://m-ets.ru/download/268576250/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договоро о задатке.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268576253/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%B0%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf",{"href":"https://m-ets.ru/download/268576253/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%B0%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДОГОВОРа уступки права требования.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T1a13,{
+  "id": "etp-mets:227277-1",
+  "sourceCode": "etp-mets",
+  "externalId": "227277-1",
+  "sourceUrl": "https://m-ets.ru/227277-1",
+  "title": "Право требования к юридическим лицам",
+  "description": "право требования к ООО «Гранит» (ИНН 6501314785) задолженности в размере 10 934 590 руб. на основании Решения АС города Москвы от 27.10.2021 по делу №А59-1592/2021; права требования к ООО «Автомобилист-1» в общем размере 537 412,78 руб. на основании Решение АС Города Москвы от 12.02.2024г. по делу №А59-5057/2023, от 20.08.2024 по делу №А59-599/2024, от 28.08.2024 по делу №А59-600/2024",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "other",
+  "categoryCode": "25",
+  "categoryName": "Задолженность юр. лиц",
+  "regionCode": "65",
+  "address": "Сахалинская область",
+  "priceStart": "1032480.24",
+  "priceMin": "103248.02",
+  "deposit": "103248.02",
+  "currency": "RUB",
+  "publishedAt": "2026-08-11T00:00:00+03:00",
+  "biddStartAt": "2026-08-17T09:00:00+03:00",
+  "biddEndAt": "2026-09-25T09:00:00+03:00",
+  "auctionAt": "2026-09-25T09:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-197369/2021",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ СТРОИТЕЛЬНО-КОММЕРЧЕСКАЯ ФИРМА \"ГОРСТРОЙ\"",
+      "inn": "6501277702",
+      "ogrn": "1156501007607"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Стародумов Сергей Александрович",
+      "inn": "251201361895",
+      "sro": "ПАУ ЦФО"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Стародумов Сергей Александрович",
+      "inn": "251201361895",
+      "email": "arbitr.starodumov@mail.ru",
+      "phone": "+7 (924) 121 33 88"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-17T09:00:00+03:00",
+      "endAt": "2026-08-20T09:00:00+03:00",
+      "price": "1032480.24",
+      "deposit": "103248.02"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-21T09:00:00+03:00",
+      "endAt": "2026-08-24T09:00:00+03:00",
+      "price": "929232.22",
+      "deposit": "92923.22"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-25T09:00:00+03:00",
+      "endAt": "2026-08-28T09:00:00+03:00",
+      "price": "825984.19",
+      "deposit": "82598.42"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-29T09:00:00+03:00",
+      "endAt": "2026-09-01T09:00:00+03:00",
+      "price": "722736.17",
+      "deposit": "72273.62"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-02T09:00:00+03:00",
+      "endAt": "2026-09-05T09:00:00+03:00",
+      "price": "619488.14",
+      "deposit": "61948.81"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-06T09:00:00+03:00",
+      "endAt": "2026-09-09T09:00:00+03:00",
+      "price": "516240.12",
+      "deposit": "51624.01"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-10T09:00:00+03:00",
+      "endAt": "2026-09-13T09:00:00+03:00",
+      "price": "412992.10",
+      "deposit": "41299.21"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-14T09:00:00+03:00",
+      "endAt": "2026-09-17T09:00:00+03:00",
+      "price": "309744.07",
+      "deposit": "30974.41"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-18T09:00:00+03:00",
+      "endAt": "2026-09-21T09:00:00+03:00",
+      "price": "206496.05",
+      "deposit": "20649.61"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-09-22T09:00:00+03:00",
+      "endAt": "2026-09-25T09:00:00+03:00",
+      "price": "103248.02",
+      "deposit": "10324.80"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268576248/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf",
+      "name": "Положение о продаже права требования.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268576250/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.pdf",
+      "name": "Договоро о задатке.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268576253/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%D0%B0%20%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf",
+      "name": "Проект ДОГОВОРа уступки права требования.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24134679",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "01.06.2022",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом по адресу конкурсного управляющего (680000, г.Хабаровск, ул.Запарина, д.53, оф.32) с 10 до 12 часов в рабочие дни",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:09:46.255Z",
+  "lastSeenAt": "2026-08-31T19:09:46.255Z",
+  "contentHash": "be25b2388bcf4d0ef566b3ad9bf0c8b821d96dd26d3d76edc7250090676d2c0b"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"1 032 480,24 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["516 240,12 ₽",["$","span",null,{"className":"muted","children":[" ","· ","6 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[10,", до ","103 248,02 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"103 248,02 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"10 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"17 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"25 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"19 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 09:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Сахалинская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/227277-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Право требования к юридическим лицам — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,343 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--219162-4",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--219162-4","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--219162-4","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=54","children":"Новосибирская обл."}]]]}],["$","h1",null,{"children":"Здание в Новосибирской обл., 31,5 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Нежилое здание"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/267970296/267970296_thumb_0.jpg","alt":"Здание в Новосибирской обл., 31,5 кв.м."}]}],false,false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Здание (кад. номер 54:19:110201:298 ; площадь 31.5 кв.м.; Местоположение: Новосибирская область, Новосибирский район, Станционный сельсовет, в районе п. Витаминка; дата гос. регистрации: 12.12.2011)."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23611925",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Новосибирской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["14.08.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Подробная информация о составе лотов приведена в Приложении №1 к Положению, опубликованному на ЕФРСБ и ЭТП. Ознакомление осуществляется по адресу 630007, г. Новосибирск, ул. Коммунистическая, 48, офис 8 в рабочие дни с 09:00 до 17:00 по телефону 89994505390, 89994505390@mail.ru. Место приема заявок, проведения торгов и подведения результатов: ЭТП ООО «МЭТС», www.m-ets.ru. Срок приема заявок: ... Показать полностью с 09:00 04.07.2026 до 09:00 12.10.2026 (здесь и далее по тексту – время московское). Подведение результатов торгов 12.10.2026 в 10:00. Первые пять календарных дня цена продажи лота остается неизменной, равной начальной цене продажи на торгах посредством публичного предложения. Далее торги проводятся путем снижения начальной цены лота каждые пять календарных дня на 5% от начальной цены продажи лота на публичных торгах. Общее количество шагов снижения - 20.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["4 июл. 2026 г., 09:00 (МСК)"," —"," ","9 июл. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"280 312,15 ₽"}],["$","td",null,{"children":"28 031,22 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["9 июл. 2026 г., 09:00 (МСК)"," —"," ","14 июл. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"266 296,54 ₽"}],["$","td",null,{"children":"26 629,65 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["14 июл. 2026 г., 09:00 (МСК)"," —"," ","19 июл. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"252 280,94 ₽"}],["$","td",null,{"children":"25 228,09 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["19 июл. 2026 г., 09:00 (МСК)"," —"," ","24 июл. 2026 г., 09:00 (МСК)"]}],"$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]]}]]}],"$L23","$L24","$L25",false,"$L26"]}],"$L27"]}]]}]
+11:["$","td",null,{"children":"238 265,33 ₽"}]
+12:["$","td",null,{"children":"23 826,53 ₽"}]
+13:["$","tr","5",{"className":"","children":[["$","td",null,{"children":["24 июл. 2026 г., 09:00 (МСК)"," —"," ","29 июл. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"224 249,72 ₽"}],["$","td",null,{"children":"22 424,97 ₽"}]]}]
+14:["$","tr","6",{"className":"","children":[["$","td",null,{"children":["29 июл. 2026 г., 09:00 (МСК)"," —"," ","3 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"210 234,11 ₽"}],["$","td",null,{"children":"21 023,41 ₽"}]]}]
+15:["$","tr","7",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 09:00 (МСК)"," —"," ","8 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"196 218,51 ₽"}],["$","td",null,{"children":"19 621,85 ₽"}]]}]
+16:["$","tr","8",{"className":"","children":[["$","td",null,{"children":["8 авг. 2026 г., 09:00 (МСК)"," —"," ","13 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"182 202,90 ₽"}],["$","td",null,{"children":"18 220,29 ₽"}]]}]
+17:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["13 авг. 2026 г., 09:00 (МСК)"," —"," ","18 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"168 187,29 ₽"}],["$","td",null,{"children":"16 818,73 ₽"}]]}]
+18:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["18 авг. 2026 г., 09:00 (МСК)"," —"," ","23 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"154 171,68 ₽"}],["$","td",null,{"children":"15 417,17 ₽"}]]}]
+19:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["23 авг. 2026 г., 09:00 (МСК)"," —"," ","28 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"140 156,08 ₽"}],["$","td",null,{"children":"14 015,61 ₽"}]]}]
+1a:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["28 авг. 2026 г., 09:00 (МСК)"," —"," ","2 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"126 140,47 ₽"}],["$","td",null,{"children":"12 614,05 ₽"}]]}]
+1b:["$","tr","13",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 09:00 (МСК)"," —"," ","7 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"112 124,86 ₽"}],["$","td",null,{"children":"11 212,49 ₽"}]]}]
+1c:["$","tr","14",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 09:00 (МСК)"," —"," ","12 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"98 109,25 ₽"}],["$","td",null,{"children":"9 810,93 ₽"}]]}]
+1d:["$","tr","15",{"className":"","children":[["$","td",null,{"children":["12 сент. 2026 г., 09:00 (МСК)"," —"," ","17 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"84 093,65 ₽"}],["$","td",null,{"children":"8 409,37 ₽"}]]}]
+1e:["$","tr","16",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 09:00 (МСК)"," —"," ","22 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"70 078,04 ₽"}],["$","td",null,{"children":"7 007,80 ₽"}]]}]
+1f:["$","tr","17",{"className":"","children":[["$","td",null,{"children":["22 сент. 2026 г., 09:00 (МСК)"," —"," ","27 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"56 062,43 ₽"}],["$","td",null,{"children":"5 606,24 ₽"}]]}]
+20:["$","tr","18",{"className":"","children":[["$","td",null,{"children":["27 сент. 2026 г., 09:00 (МСК)"," —"," ","2 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"42 046,82 ₽"}],["$","td",null,{"children":"4 204,68 ₽"}]]}]
+21:["$","tr","19",{"className":"","children":[["$","td",null,{"children":["2 окт. 2026 г., 09:00 (МСК)"," —"," ","7 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"28 031,22 ₽"}],["$","td",null,{"children":"2 803,12 ₽"}]]}]
+22:["$","tr","20",{"className":"","children":[["$","td",null,{"children":["7 окт. 2026 г., 09:00 (МСК)"," —"," ","12 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"14 015,61 ₽"}],["$","td",null,{"children":"1 401,56 ₽"}]]}]
+23:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АГРО-ИНВЕСТ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=5405343799","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АГРО-ИНВЕСТ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","5405343799"]}],"$undefined"]}]]}],["$","tr","manager:Мураховский Андрей Владимирович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=540400702042","children":"Мураховский Андрей Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","540400702042"]}],["$","span",null,{"className":"muted","children":[" · ","САМРО \"Ассоциация антикризисных управляющих\""]}]]}]]}],["$","tr","organizer:Мураховский Андрей Владимирович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=540400702042","children":"Мураховский Андрей Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","540400702042"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9045-42314%2F2024","children":"А45-42314/2024"}]}]]}]]}]}]]}]
+24:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Новосибирская область"}]]}]
+25:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",14,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/267970298/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx",{"href":"https://m-ets.ru/download/267970298/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект Договора купли-продажи.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267970300/1.%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%201%205%D0%BB.pdf",{"href":"https://m-ets.ru/download/267970300/1.%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%201%205%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1.Выписка ЕГРН по лоту № 1 5л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267970302/A45-42314-2024_20260402_Opredelenie.pdf",{"href":"https://m-ets.ru/download/267970302/A45-42314-2024_20260402_Opredelenie.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","A45-42314-2024_20260402_Opredelenie.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267970304/7.%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%204%205%D0%BB.pdf",{"href":"https://m-ets.ru/download/267970304/7.%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%204%205%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","7.Выписка ЕГРН по лоту № 4 5л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267970306/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83%202.pdf",{"href":"https://m-ets.ru/download/267970306/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83%202.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству 2.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267970308/5.%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%203%205%D0%BB.pdf",{"href":"https://m-ets.ru/download/267970308/5.%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%203%205%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","5.Выписка ЕГРН по лоту № 3 5л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267970310/3.%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%202.pdf",{"href":"https://m-ets.ru/download/267970310/3.%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%202.pdf","target":"_blank","rel":"noopener","children":["$L28","$L29"]}],"$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30"]}]]}]
+31:T34fc,{
+  "id": "etp-mets:219162-4",
+  "sourceCode": "etp-mets",
+  "externalId": "219162-4",
+  "sourceUrl": "https://m-ets.ru/219162-4",
+  "title": "Здание в Новосибирской обл., 31,5 кв.м.",
+  "description": "Здание (кад. номер 54:19:110201:298 ; площадь 31.5 кв.м.; Местоположение: Новосибирская область, Новосибирский район, Станционный сельсовет, в районе п. Витаминка; дата гос. регистрации: 12.12.2011).",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "38",
+  "categoryName": "Нежилое здание",
+  "regionCode": "54",
+  "address": "Новосибирская область",
+  "priceStart": "280312.15",
+  "priceMin": "14015.61",
+  "deposit": "28031.22",
+  "currency": "RUB",
+  "publishedAt": "2026-07-03T00:00:00+03:00",
+  "biddStartAt": "2026-07-04T09:00:00+03:00",
+  "biddEndAt": "2026-10-12T09:00:00+03:00",
+  "auctionAt": "2026-10-12T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А45-42314/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АГРО-ИНВЕСТ\"",
+      "inn": "5405343799",
+      "ogrn": "1075405012242"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Мураховский Андрей Владимирович",
+      "inn": "540400702042",
+      "sro": "САМРО \"Ассоциация антикризисных управляющих\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Мураховский Андрей Владимирович",
+      "inn": "540400702042",
+      "email": "andre.m1990@mail.ru",
+      "phone": "+7 (999) 450 53 90"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-04T09:00:00+03:00",
+      "endAt": "2026-07-09T09:00:00+03:00",
+      "price": "280312.15",
+      "deposit": "28031.22"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-09T09:00:00+03:00",
+      "endAt": "2026-07-14T09:00:00+03:00",
+      "price": "266296.54",
+      "deposit": "26629.65"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-07-14T09:00:00+03:00",
+      "endAt": "2026-07-19T09:00:00+03:00",
+      "price": "252280.94",
+      "deposit": "25228.09"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-07-19T09:00:00+03:00",
+      "endAt": "2026-07-24T09:00:00+03:00",
+      "price": "238265.33",
+      "deposit": "23826.53"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-07-24T09:00:00+03:00",
+      "endAt": "2026-07-29T09:00:00+03:00",
+      "price": "224249.72",
+      "deposit": "22424.97"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-07-29T09:00:00+03:00",
+      "endAt": "2026-08-03T09:00:00+03:00",
+      "price": "210234.11",
+      "deposit": "21023.41"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-03T09:00:00+03:00",
+      "endAt": "2026-08-08T09:00:00+03:00",
+      "price": "196218.51",
+      "deposit": "19621.85"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-08T09:00:00+03:00",
+      "endAt": "2026-08-13T09:00:00+03:00",
+      "price": "182202.90",
+      "deposit": "18220.29"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-08-13T09:00:00+03:00",
+      "endAt": "2026-08-18T09:00:00+03:00",
+      "price": "168187.29",
+      "deposit": "16818.73"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-08-18T09:00:00+03:00",
+      "endAt": "2026-08-23T09:00:00+03:00",
+      "price": "154171.68",
+      "deposit": "15417.17"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-08-23T09:00:00+03:00",
+      "endAt": "2026-08-28T09:00:00+03:00",
+      "price": "140156.08",
+      "deposit": "14015.61"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-08-28T09:00:00+03:00",
+      "endAt": "2026-09-02T09:00:00+03:00",
+      "price": "126140.47",
+      "deposit": "12614.05"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-09-02T09:00:00+03:00",
+      "endAt": "2026-09-07T09:00:00+03:00",
+      "price": "112124.86",
+      "deposit": "11212.49"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-09-07T09:00:00+03:00",
+      "endAt": "2026-09-12T09:00:00+03:00",
+      "price": "98109.25",
+      "deposit": "9810.93"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-09-12T09:00:00+03:00",
+      "endAt": "2026-09-17T09:00:00+03:00",
+      "price": "84093.65",
+      "deposit": "8409.37"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-09-17T09:00:00+03:00",
+      "endAt": "2026-09-22T09:00:00+03:00",
+      "price": "70078.04",
+      "deposit": "7007.80"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-09-22T09:00:00+03:00",
+      "endAt": "2026-09-27T09:00:00+03:00",
+      "price": "56062.43",
+      "deposit": "5606.24"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-09-27T09:00:00+03:00",
+      "endAt": "2026-10-02T09:00:00+03:00",
+      "price": "42046.82",
+      "deposit": "4204.68"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-10-02T09:00:00+03:00",
+      "endAt": "2026-10-07T09:00:00+03:00",
+      "price": "28031.22",
+      "deposit": "2803.12"
+    },
+    {
+      "no": 20,
+      "startAt": "2026-10-07T09:00:00+03:00",
+      "endAt": "2026-10-12T09:00:00+03:00",
+      "price": "14015.61",
+      "deposit": "1401.56"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/267970296/267970296_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/267970298/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx",
+      "name": "Проект Договора купли-продажи.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267970300/1.%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%201%205%D0%BB.pdf",
+      "name": "1.Выписка ЕГРН по лоту № 1 5л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267970302/A45-42314-2024_20260402_Opredelenie.pdf",
+      "name": "A45-42314-2024_20260402_Opredelenie.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267970304/7.%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%204%205%D0%BB.pdf",
+      "name": "7.Выписка ЕГРН по лоту № 4 5л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267970306/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83%202.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству 2.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267970308/5.%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%203%205%D0%BB.pdf",
+      "name": "5.Выписка ЕГРН по лоту № 3 5л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267970310/3.%D0%92%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%95%D0%93%D0%A0%D0%9D%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%202.pdf",
+      "name": "3.Выписка ЕГРН по лоту № 2.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267970312/8.%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%D0%B7%20%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%204%2023%D0%BB.pdf",
+      "name": "8.Документы из Росреестра по лоту № 4 23л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267970314/4.%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%D0%B7%20%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%202%2011%D0%BB.pdf",
+      "name": "4.Документы из Росреестра по лоту № 2 11л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267970316/6.%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%D0%B7%20%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%203%2011%D0%BB.pdf",
+      "name": "6.Документы из Росреестра по лоту № 3 11л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267970318/1.%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%B2%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%20%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B5%D0%B3%D0%BE%2014%D0%BB.pdf",
+      "name": "1.Положение о продаже в редакции конкурсного управляющего 14л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267970320/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%90%D0%A1%20%D0%9D%D0%A1%D0%9E%20%D0%BE%D1%82%2014.08.2025%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%90%D0%B3%D1%80%D0%BE-%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D0%BE%D0%BC.pdf",
+      "name": "Решение АС НСО от 14.08.2025 о признании Агро-Инвест банкротом.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267970322/2.%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%D0%B7%20%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%201%2010%D0%BB.pdf",
+      "name": "2.Документы из Росреестра по лоту № 1 10л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267970434/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23611925",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Новосибирской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "14.08.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Подробная информация о составе лотов приведена в Приложении №1 к Положению, опубликованному на ЕФРСБ и ЭТП. Ознакомление осуществляется по адресу 630007, г. Новосибирск, ул. Коммунистическая, 48, офис 8 в рабочие дни с 09:00 до 17:00 по телефону 89994505390, 89994505390@mail.ru. Место приема заявок, проведения торгов и подведения результатов: ЭТП ООО «МЭТС», www.m-ets.ru. Срок приема заявок: ... Показать полностью с 09:00 04.07.2026 до 09:00 12.10.2026 (здесь и далее по тексту – время московское). Подведение результатов торгов 12.10.2026 в 10:00. Первые пять календарных дня цена продажи лота остается неизменной, равной начальной цене продажи на торгах посредством публичного предложения. Далее торги проводятся путем снижения начальной цены лота каждые пять календарных дня на 5% от начальной цены продажи лота на публичных торгах. Общее количество шагов снижения - 20.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:56:48.967Z",
+  "lastSeenAt": "2026-08-31T18:56:48.967Z",
+  "contentHash": "8a1b7a74ef183b8b624a99c5db0df26553fc3ec9f00c50e53ea81e4b46fcd5b6"
+}26:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$31"}]]}]
+27:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"112 124,86 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["98 109,25 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[7,", до ","14 015,61 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"280 312,15 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"28 031,22 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"2 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"4 июл. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"12 окт. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"36 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"12 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Новосибирская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/219162-4","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+28:["$","span",null,{"children":["📎 ","3.Выписка ЕГРН по лоту № 2.pdf"]}]
+29:["$","span",null,{"className":"size","children":"$undefined"}]
+2a:["$","a","https://m-ets.ru/download/267970312/8.%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%D0%B7%20%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%204%2023%D0%BB.pdf",{"href":"https://m-ets.ru/download/267970312/8.%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%D0%B7%20%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%204%2023%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","8.Документы из Росреестра по лоту № 4 23л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2b:["$","a","https://m-ets.ru/download/267970314/4.%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%D0%B7%20%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%202%2011%D0%BB.pdf",{"href":"https://m-ets.ru/download/267970314/4.%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%D0%B7%20%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%202%2011%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","4.Документы из Росреестра по лоту № 2 11л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2c:["$","a","https://m-ets.ru/download/267970316/6.%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%D0%B7%20%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%203%2011%D0%BB.pdf",{"href":"https://m-ets.ru/download/267970316/6.%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%D0%B7%20%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%203%2011%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","6.Документы из Росреестра по лоту № 3 11л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2d:["$","a","https://m-ets.ru/download/267970318/1.%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%B2%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%20%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B5%D0%B3%D0%BE%2014%D0%BB.pdf",{"href":"https://m-ets.ru/download/267970318/1.%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%B2%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D0%B8%20%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B5%D0%B3%D0%BE%2014%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1.Положение о продаже в редакции конкурсного управляющего 14л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2e:["$","a","https://m-ets.ru/download/267970320/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%90%D0%A1%20%D0%9D%D0%A1%D0%9E%20%D0%BE%D1%82%2014.08.2025%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%90%D0%B3%D1%80%D0%BE-%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D0%BE%D0%BC.pdf",{"href":"https://m-ets.ru/download/267970320/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%90%D0%A1%20%D0%9D%D0%A1%D0%9E%20%D0%BE%D1%82%2014.08.2025%20%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%90%D0%B3%D1%80%D0%BE-%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D0%BE%D0%BC.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Решение АС НСО от 14.08.2025 о признании Агро-Инвест банкротом.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+2f:["$","a","https://m-ets.ru/download/267970322/2.%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%D0%B7%20%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%201%2010%D0%BB.pdf",{"href":"https://m-ets.ru/download/267970322/2.%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%D0%B7%20%D0%A0%D0%BE%D1%81%D1%80%D0%B5%D0%B5%D1%81%D1%82%D1%80%D0%B0%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%20%E2%84%96%201%2010%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","2.Документы из Росреестра по лоту № 1 10л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+30:["$","a","https://m-ets.ru/download/267970434/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/267970434/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Здание в Новосибирской обл., 31,5 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,193 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--228192-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--228192-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--228192-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=74","children":"Челябинская обл."}]]]}],["$","h1",null,{"children":"Гараж в Челябинской обл., 23 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Прочие постройки"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268694048/268694048_thumb_0.jpg","alt":"Гараж в Челябинской обл., 23 кв.м."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268694050/268694050_thumb_0.jpg",{"href":"https://m-ets.ru/download/268694050/268694050_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268694050/268694050_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268694053/268694053_thumb_0.jpg",{"href":"https://m-ets.ru/download/268694053/268694053_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268694053/268694053_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268694054/268694054_thumb_0.jpg",{"href":"https://m-ets.ru/download/268694054/268694054_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268694054/268694054_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268694052/268694052_thumb_0.jpg",{"href":"https://m-ets.ru/download/268694052/268694052_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268694052/268694052_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Нежилое помещение, площадь: 23кв.м., адрес (местонахождение): Россия, Челябинская обл., г. Озерск, в районе профессионального лицея №16 по ул.Космонавтов, 27, ГСК №109, гараж №12641, кадастровый номер: 74:41:0101056:905"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24218840",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Челябинской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["10.12.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Россия, Челябинская обл., г. Озерск, в районе профессионального лицея №16 по ул.Космонавтов, 27, ГСК №109, гараж №12641, предварительно согласовав время с Финансовым управляющим по тел. +79191263160, либо путем направления запроса на электронную почту samonina_ve@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема ... Показать полностью заявок. Во избежание претензий к Арбитражному управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",""]}]]}]]}]}]]}],"$L11","$L12","$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 09:00 (МСК)"," —"," ","28 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"545 454 ₽"}],["$","td",null,{"children":"54 545,40 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["28 авг. 2026 г., 09:00 (МСК)"," —"," ","1 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"463 635,90 ₽"}],["$","td",null,{"children":"46 363,59 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["1 сент. 2026 г., 09:00 (МСК)"," —"," ","5 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"381 817,80 ₽"}],["$","td",null,{"children":"38 181,78 ₽"}]]}],["$","tr","4",{"className":"now","children":[["$","td",null,{"children":["5 сент. 2026 г., 09:00 (МСК)"," —"," ","9 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"299 999,70 ₽"}],["$","td",null,{"children":"29 999,97 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["9 сент. 2026 г., 09:00 (МСК)"," —"," ","13 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"218 181,60 ₽"}],["$","td",null,{"children":"21 818,16 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["13 сент. 2026 г., 09:00 (МСК)"," —"," ","17 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"136 363,50 ₽"}],["$","td",null,{"children":"13 636,35 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 09:00 (МСК)"," —"," ","21 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"54 545,40 ₽"}],["$","td",null,{"children":"5 454,54 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 09:00 (МСК)"," —"," ","25 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"40 000 ₽"}],["$","td",null,{"children":"4 000 ₽"}]]}]]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Лайков Александр Сергеевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=742200495408","children":"Лайков Александр Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","742200495408"]}],"$undefined"]}]]}],["$","tr","manager:Самонина Валерия Эдуардовна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=744845313477","children":"Самонина Валерия Эдуардовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","744845313477"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Эверест\""]}]]}]]}],["$","tr","organizer:Самонина Валерия Эдуардовна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=744845313477","children":"Самонина Валерия Эдуардовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","744845313477"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9076-39789%2F2025","children":"А76-39789/2025"}]}]]}]]}]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Челябинская область"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268694057/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80..pdf",{"href":"https://m-ets.ru/download/268694057/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80..pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","АУ Положение о реализации имущества свыше 100т.р..pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268694059/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%20%D0%B1%D0%B5%D0%B7%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0.docx",{"href":"https://m-ets.ru/download/268694059/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%20%D0%B1%D0%B5%D0%B7%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП недвиж без залога.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268694120/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268694120/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+17:T1e36,{
+  "id": "etp-mets:228192-1",
+  "sourceCode": "etp-mets",
+  "externalId": "228192-1",
+  "sourceUrl": "https://m-ets.ru/228192-1",
+  "title": "Гараж в Челябинской обл., 23 кв.м.",
+  "description": "Нежилое помещение, площадь: 23кв.м., адрес (местонахождение): Россия, Челябинская обл., г. Озерск, в районе профессионального лицея №16 по ул.Космонавтов, 27, ГСК №109, гараж №12641, кадастровый номер: 74:41:0101056:905",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "39",
+  "categoryName": "Прочие постройки",
+  "regionCode": "74",
+  "address": "Челябинская область",
+  "priceStart": "545454",
+  "priceMin": "40000.00",
+  "deposit": "54545.40",
+  "currency": "RUB",
+  "publishedAt": "2026-08-17T00:00:00+03:00",
+  "biddStartAt": "2026-08-24T09:00:00+03:00",
+  "biddEndAt": "2026-09-25T09:00:00+03:00",
+  "auctionAt": "2026-09-25T11:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А76-39789/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Лайков Александр Сергеевич",
+      "inn": "742200495408",
+      "efrsbId": "4df258b0c49d06195d84992a700476db"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Самонина Валерия Эдуардовна",
+      "inn": "744845313477",
+      "sro": "ААУ \"Эверест\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Самонина Валерия Эдуардовна",
+      "inn": "744845313477",
+      "email": "samonina_ve@mail.ru",
+      "phone": "+7 (919) 126 31 60"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-24T09:00:00+03:00",
+      "endAt": "2026-08-28T09:00:00+03:00",
+      "price": "545454.00",
+      "deposit": "54545.40"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-28T09:00:00+03:00",
+      "endAt": "2026-09-01T09:00:00+03:00",
+      "price": "463635.90",
+      "deposit": "46363.59"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-01T09:00:00+03:00",
+      "endAt": "2026-09-05T09:00:00+03:00",
+      "price": "381817.80",
+      "deposit": "38181.78"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-05T09:00:00+03:00",
+      "endAt": "2026-09-09T09:00:00+03:00",
+      "price": "299999.70",
+      "deposit": "29999.97"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-09T09:00:00+03:00",
+      "endAt": "2026-09-13T09:00:00+03:00",
+      "price": "218181.60",
+      "deposit": "21818.16"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-13T09:00:00+03:00",
+      "endAt": "2026-09-17T09:00:00+03:00",
+      "price": "136363.50",
+      "deposit": "13636.35"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-17T09:00:00+03:00",
+      "endAt": "2026-09-21T09:00:00+03:00",
+      "price": "54545.40",
+      "deposit": "5454.54"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-21T09:00:00+03:00",
+      "endAt": "2026-09-25T09:00:00+03:00",
+      "price": "40000.00",
+      "deposit": "4000.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268694048/268694048_thumb_0.jpg",
+    "https://m-ets.ru/download/268694050/268694050_thumb_0.jpg",
+    "https://m-ets.ru/download/268694053/268694053_thumb_0.jpg",
+    "https://m-ets.ru/download/268694054/268694054_thumb_0.jpg",
+    "https://m-ets.ru/download/268694052/268694052_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268694057/%D0%90%D0%A3%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D1%81%D0%B2%D1%8B%D1%88%D0%B5%20100%D1%82.%D1%80..pdf",
+      "name": "АУ Положение о реализации имущества свыше 100т.р..pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268694059/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%20%D0%B1%D0%B5%D0%B7%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0.docx",
+      "name": "Проект ДКП недвиж без залога.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268694120/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24218840",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Челябинской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "10.12.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С ЛОТОМ №1 можно ознакомиться по месту его нахождения: Россия, Челябинская обл., г. Озерск, в районе профессионального лицея №16 по ул.Космонавтов, 27, ГСК №109, гараж №12641, предварительно согласовав время с Финансовым управляющим по тел. +79191263160, либо путем направления запроса на электронную почту samonina_ve@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема ... Показать полностью заявок. Во избежание претензий к Арбитражному управляющему, относительно технического состояния имущества (лота), его комплектности, покупателю действуя добросовестно, необходимо проявить должную осмотрительность и выехать по месту нахождения имущества (лота) с целью его осмотра - личного, либо через законного представителя (с надлежащим образом оформленной доверенностью).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:24:03.752Z",
+  "lastSeenAt": "2026-08-31T18:24:03.752Z",
+  "contentHash": "f3341f023864cacbe403eaeb6142c1f21c2101c9933f70949a2722a3fbca1f10"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$17"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"299 999,70 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["218 181,60 ₽",["$","span",null,{"className":"muted","children":[" ","· ","9 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[4,", до ","40 000 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"545 454 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"54 545,40 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"16 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"24 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"25 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"19 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"25 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Челябинская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/228192-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Гараж в Челябинской обл., 23 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

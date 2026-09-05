@@ -1,0 +1,212 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229382-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229382-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229382-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=50","children":"Московская обл."}]]]}],["$","h1",null,{"children":"Квартира в Московской обл., 85,6 кв.м, 1 комн."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Квартира"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268773540/268773540_thumb_0.jpg","alt":"Квартира в Московской обл., 85,6 кв.м, 1 комн."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268773547/268773547_thumb_0.jpg",{"href":"https://m-ets.ru/download/268773547/268773547_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268773547/268773547_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268773539/268773539_thumb_0.jpg",{"href":"https://m-ets.ru/download/268773539/268773539_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268773539/268773539_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268773541/268773541_thumb_0.jpg",{"href":"https://m-ets.ru/download/268773541/268773541_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268773541/268773541_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268773544/268773544_thumb_0.jpg",{"href":"https://m-ets.ru/download/268773544/268773544_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268773544/268773544_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268773533/268773533_thumb_0.jpg",{"href":"https://m-ets.ru/download/268773533/268773533_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268773533/268773533_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268773532/268773532_thumb_0.jpg",{"href":"https://m-ets.ru/download/268773532/268773532_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268773532/268773532_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268773546/268773546_thumb_0.jpg",{"href":"https://m-ets.ru/download/268773546/268773546_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268773546/268773546_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268773534/268773534_thumb_0.jpg",{"href":"https://m-ets.ru/download/268773534/268773534_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268773534/268773534_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268773548/268773548_thumb_0.jpg",{"href":"https://m-ets.ru/download/268773548/268773548_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268773548/268773548_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268773537/268773537_thumb_0.jpg",{"href":"https://m-ets.ru/download/268773537/268773537_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268773537/268773537_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268773538/268773538_thumb_0.jpg",{"href":"https://m-ets.ru/download/268773538/268773538_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],false]}],"$L12","$L13","$L14","$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268773538/268773538_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"1-комнатная квартира, расположенная по адресу: г Московская область, городской округ Пушкинский, город Ивантеевка, проезд Санаторный, дом. 2, помещение 135, кадастровый номер 50:43:0060201:3388 , общая площадь - 85,6 кв.м."}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24293198",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Пензенской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["15.12.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Информация отсутствует",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом производится по телефону 8 921 419 09 16 и посредством направления запроса на адрес электронной почты: es9312478483@xmail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок",""]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 00:00 (МСК)"," —"," ","31 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"8 870 400 ₽"}],["$","td",null,{"children":"443 520 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 00:00 (МСК)"," —"," ","7 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"8 426 880 ₽"}],["$","td",null,{"children":"421 344 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 00:00 (МСК)"," —"," ","14 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"7 983 360 ₽"}],["$","td",null,{"children":"399 168 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 00:00 (МСК)"," —"," ","21 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"7 539 840 ₽"}],["$","td",null,{"children":"376 992 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 00:00 (МСК)"," —"," ","28 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"7 096 320 ₽"}],["$","td",null,{"children":"354 816 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["28 сент. 2026 г., 00:00 (МСК)"," —"," ","5 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"6 652 800 ₽"}],["$","td",null,{"children":"332 640 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["5 окт. 2026 г., 00:00 (МСК)"," —"," ","12 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"6 209 280 ₽"}],["$","td",null,{"children":"310 464 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["12 окт. 2026 г., 00:00 (МСК)"," —"," ","19 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"5 765 760 ₽"}],["$","td",null,{"children":"288 288 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["19 окт. 2026 г., 00:00 (МСК)"," —"," ","26 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"5 322 240 ₽"}],["$","td",null,{"children":"266 112 ₽"}]]}]]}]]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Еникеев Ильдар Марысович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=580314175060","children":"Еникеев Ильдар Марысович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","580314175060"]}],"$undefined"]}]]}],["$","tr","manager:Сухова Елена Викторовна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=470600621446","children":"Сухова Елена Викторовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","470600621446"]}],["$","span",null,{"className":"muted","children":[" · ","Союз \"СРО АУ СЗ\""]}]]}]]}],["$","tr","organizer:Сухова Елена Викторовна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=470600621446","children":"Сухова Елена Викторовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","470600621446"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО \"БАНК \"САНКТ-ПЕТЕРБУРГ\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7831000027","children":"ПАО \"БАНК \"САНКТ-ПЕТЕРБУРГ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7831000027"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9049-2137%2F2025","children":"А49-2137/2025"}]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Московская область"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268777532/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx",{"href":"https://m-ets.ru/download/268777532/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора о задатке.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268777534/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx",{"href":"https://m-ets.ru/download/268777534/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект Договора купли-продажи.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1a:T1abf,{
+  "id": "etp-mets:229382-1",
+  "sourceCode": "etp-mets",
+  "externalId": "229382-1",
+  "sourceUrl": "https://m-ets.ru/229382-1",
+  "title": "Квартира в Московской обл., 85,6 кв.м, 1 комн.",
+  "description": "1-комнатная квартира, расположенная по адресу: г Московская область, городской округ Пушкинский, город Ивантеевка, проезд Санаторный, дом. 2, помещение 135, кадастровый номер 50:43:0060201:3388 , общая площадь - 85,6 кв.м.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "36",
+  "categoryName": "Квартира",
+  "regionCode": "50",
+  "address": "Московская область",
+  "priceStart": "8870400",
+  "priceMin": "5322240.00",
+  "deposit": "443520.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-21T00:00:00+03:00",
+  "biddStartAt": "2026-08-24T00:00:00+03:00",
+  "biddEndAt": "2026-10-26T00:00:00+03:00",
+  "auctionAt": "2026-10-26T14:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А49-2137/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Еникеев Ильдар Марысович",
+      "inn": "580314175060",
+      "efrsbId": "09a2ab899f99dea848246cbb3b0326a9"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Сухова Елена Викторовна",
+      "inn": "470600621446",
+      "sro": "Союз \"СРО АУ СЗ\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Сухова Елена Викторовна",
+      "inn": "470600621446",
+      "email": "es9312478483@xmail.ru",
+      "phone": "+7 (921) 585 73 20"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО \"БАНК \"САНКТ-ПЕТЕРБУРГ\"",
+      "inn": "7831000027"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-24T00:00:00+03:00",
+      "endAt": "2026-08-31T00:00:00+03:00",
+      "price": "8870400.00",
+      "deposit": "443520.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-31T00:00:00+03:00",
+      "endAt": "2026-09-07T00:00:00+03:00",
+      "price": "8426880.00",
+      "deposit": "421344.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-07T00:00:00+03:00",
+      "endAt": "2026-09-14T00:00:00+03:00",
+      "price": "7983360.00",
+      "deposit": "399168.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-14T00:00:00+03:00",
+      "endAt": "2026-09-21T00:00:00+03:00",
+      "price": "7539840.00",
+      "deposit": "376992.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-21T00:00:00+03:00",
+      "endAt": "2026-09-28T00:00:00+03:00",
+      "price": "7096320.00",
+      "deposit": "354816.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-28T00:00:00+03:00",
+      "endAt": "2026-10-05T00:00:00+03:00",
+      "price": "6652800.00",
+      "deposit": "332640.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-05T00:00:00+03:00",
+      "endAt": "2026-10-12T00:00:00+03:00",
+      "price": "6209280.00",
+      "deposit": "310464.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-12T00:00:00+03:00",
+      "endAt": "2026-10-19T00:00:00+03:00",
+      "price": "5765760.00",
+      "deposit": "288288.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-19T00:00:00+03:00",
+      "endAt": "2026-10-26T00:00:00+03:00",
+      "price": "5322240.00",
+      "deposit": "266112.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268773540/268773540_thumb_0.jpg",
+    "https://m-ets.ru/download/268773547/268773547_thumb_0.jpg",
+    "https://m-ets.ru/download/268773539/268773539_thumb_0.jpg",
+    "https://m-ets.ru/download/268773541/268773541_thumb_0.jpg",
+    "https://m-ets.ru/download/268773544/268773544_thumb_0.jpg",
+    "https://m-ets.ru/download/268773533/268773533_thumb_0.jpg",
+    "https://m-ets.ru/download/268773532/268773532_thumb_0.jpg",
+    "https://m-ets.ru/download/268773546/268773546_thumb_0.jpg",
+    "https://m-ets.ru/download/268773534/268773534_thumb_0.jpg",
+    "https://m-ets.ru/download/268773548/268773548_thumb_0.jpg",
+    "https://m-ets.ru/download/268773537/268773537_thumb_0.jpg",
+    "https://m-ets.ru/download/268773538/268773538_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268777532/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx",
+      "name": "Проект договора о задатке.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268777534/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx",
+      "name": "Проект Договора купли-продажи.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24293198",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Пензенской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "15.12.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Информация отсутствует",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом производится по телефону 8 921 419 09 16 и посредством направления запроса на адрес электронной почты: es9312478483@xmail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:42:11.292Z",
+  "lastSeenAt": "2026-08-31T17:42:11.292Z",
+  "contentHash": "a5acdea0335f34d877165b170a79a933c24ec9e94c2cc2253f5cdc68af6a85e2"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"8 426 880 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["7 983 360 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[7,", до ","5 322 240 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"8 870 400 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"443 520 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"20 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"24 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"26 окт. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"50 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"26 окт. 2026 г., 14:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Московская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229382-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Квартира в Московской обл., 85,6 кв.м, 1 комн. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

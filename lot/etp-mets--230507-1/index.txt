@@ -1,0 +1,297 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230507-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230507-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230507-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=50","children":"Московская обл."}]]]}],["$","h1",null,{"children":"1/2 доля земельного участка в Московской обл."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268869410/268869410_thumb_0.jpg","alt":"1/2 доля земельного участка в Московской обл."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268869407/268869407_thumb_0.jpg",{"href":"https://m-ets.ru/download/268869407/268869407_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268869407/268869407_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268869411/268869411_thumb_0.jpg",{"href":"https://m-ets.ru/download/268869411/268869411_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268869411/268869411_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268869408/268869408_thumb_0.jpg",{"href":"https://m-ets.ru/download/268869408/268869408_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268869408/268869408_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок со строениями 2400 кв.м., адрес (местонахождение): Россия, обл Московская, р-н Дмитровский, д Дубровки, дом 80, кадастровый (условный) номер: 50:04:0180401:523 Находится в долевой собственности, размер доли: 1/2"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24370378",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Москвы",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["06.06.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом и документами осуществляется удаленно без совместного присутствия в месте нахождения имущества. Для получения фотографий и имеющихся документов на реализуемое имущество необходимо перейти по ссылке https://disk.yandex.ru/d/scvLas0aR7LLvQ. Осмотр по договоренности с должником 89852222241",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"now","children":[["$","td",null,{"children":["1 сент. 2026 г., 10:00 (МСК)"," —"," ","6 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"7 348 276,76 ₽"}],["$","td",null,{"children":"367 413,84 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["6 сент. 2026 г., 10:00 (МСК)"," —"," ","11 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 980 862,92 ₽"}],["$","td",null,{"children":"349 043,15 ₽"}]]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]]}]]}],"$L23","$L24","$L25",false,"$L26"]}],"$L27"]}]]}]
+11:["$","tr","3",{"className":"","children":[["$","td",null,{"children":["11 сент. 2026 г., 10:00 (МСК)"," —"," ","16 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 613 449,08 ₽"}],["$","td",null,{"children":"330 672,45 ₽"}]]}]
+12:["$","tr","4",{"className":"","children":[["$","td",null,{"children":["16 сент. 2026 г., 10:00 (МСК)"," —"," ","21 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 246 035,25 ₽"}],["$","td",null,{"children":"312 301,76 ₽"}]]}]
+13:["$","tr","5",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 10:00 (МСК)"," —"," ","26 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"5 878 621,41 ₽"}],["$","td",null,{"children":"293 931,07 ₽"}]]}]
+14:["$","tr","6",{"className":"","children":[["$","td",null,{"children":["26 сент. 2026 г., 10:00 (МСК)"," —"," ","1 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"5 511 207,57 ₽"}],["$","td",null,{"children":"275 560,38 ₽"}]]}]
+15:["$","tr","7",{"className":"","children":[["$","td",null,{"children":["1 окт. 2026 г., 10:00 (МСК)"," —"," ","6 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"5 143 793,73 ₽"}],["$","td",null,{"children":"257 189,69 ₽"}]]}]
+16:["$","tr","8",{"className":"","children":[["$","td",null,{"children":["6 окт. 2026 г., 10:00 (МСК)"," —"," ","11 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 776 379,89 ₽"}],["$","td",null,{"children":"238 818,99 ₽"}]]}]
+17:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["11 окт. 2026 г., 10:00 (МСК)"," —"," ","16 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 408 966,06 ₽"}],["$","td",null,{"children":"220 448,30 ₽"}]]}]
+18:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["16 окт. 2026 г., 10:00 (МСК)"," —"," ","21 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 041 552,22 ₽"}],["$","td",null,{"children":"202 077,61 ₽"}]]}]
+19:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["21 окт. 2026 г., 10:00 (МСК)"," —"," ","26 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"3 674 138,38 ₽"}],["$","td",null,{"children":"183 706,92 ₽"}]]}]
+1a:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["26 окт. 2026 г., 10:00 (МСК)"," —"," ","31 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"3 306 724,54 ₽"}],["$","td",null,{"children":"165 336,23 ₽"}]]}]
+1b:["$","tr","13",{"className":"","children":[["$","td",null,{"children":["31 окт. 2026 г., 10:00 (МСК)"," —"," ","5 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"2 939 310,70 ₽"}],["$","td",null,{"children":"146 965,54 ₽"}]]}]
+1c:["$","tr","14",{"className":"","children":[["$","td",null,{"children":["5 нояб. 2026 г., 10:00 (МСК)"," —"," ","10 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"2 571 896,87 ₽"}],["$","td",null,{"children":"128 594,84 ₽"}]]}]
+1d:["$","tr","15",{"className":"","children":[["$","td",null,{"children":["10 нояб. 2026 г., 10:00 (МСК)"," —"," ","15 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"2 204 483,03 ₽"}],["$","td",null,{"children":"110 224,15 ₽"}]]}]
+1e:["$","tr","16",{"className":"","children":[["$","td",null,{"children":["15 нояб. 2026 г., 10:00 (МСК)"," —"," ","20 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 837 069,19 ₽"}],["$","td",null,{"children":"91 853,46 ₽"}]]}]
+1f:["$","tr","17",{"className":"","children":[["$","td",null,{"children":["20 нояб. 2026 г., 10:00 (МСК)"," —"," ","25 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 469 655,35 ₽"}],["$","td",null,{"children":"73 482,77 ₽"}]]}]
+20:["$","tr","18",{"className":"","children":[["$","td",null,{"children":["25 нояб. 2026 г., 10:00 (МСК)"," —"," ","30 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 102 241,51 ₽"}],["$","td",null,{"children":"55 112,08 ₽"}]]}]
+21:["$","tr","19",{"className":"","children":[["$","td",null,{"children":["30 нояб. 2026 г., 10:00 (МСК)"," —"," ","5 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"734 827,68 ₽"}],["$","td",null,{"children":"36 741,38 ₽"}]]}]
+22:["$","tr","20",{"className":"","children":[["$","td",null,{"children":["5 дек. 2026 г., 10:00 (МСК)"," —"," ","10 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"367 413,84 ₽"}],["$","td",null,{"children":"18 370,69 ₽"}]]}]
+23:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Галкин Дмитрий Николаевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=772635094440","children":"Галкин Дмитрий Николаевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","772635094440"]}],"$undefined"]}]]}],["$","tr","manager:Воронин Андрей Андреевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=164703969904","children":"Воронин Андрей Андреевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","164703969904"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Собр\""]}]]}]]}],["$","tr","organizer:Воронин Андрей Андреевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=164703969904","children":"Воронин Андрей Андреевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","164703969904"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9040-61298%2F2024","children":"А40-61298/2024"}]}]]}]]}]}]]}]
+24:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Московская область"}]]}]
+25:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268869412/%D0%9E%D1%81%D0%BD.%D1%81%D1%87%D0%B5%D1%82%20%D0%94%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf",{"href":"https://m-ets.ru/download/268869412/%D0%9E%D1%81%D0%BD.%D1%81%D1%87%D0%B5%D1%82%20%D0%94%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Осн.счет Должника.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268869414/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%93%D0%B0%D0%BB%D0%BA%D0%B8%D0%BD%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87%20%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%20%D1%81%D0%BE%20%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8.pdf",{"href":"https://m-ets.ru/download/268869414/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%93%D0%B0%D0%BB%D0%BA%D0%B8%D0%BD%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87%20%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%20%D1%81%D0%BE%20%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о торгах Галкин Дмитрий Николаевич Земля со строениями.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268869416/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B0.pdf",{"href":"https://m-ets.ru/download/268869416/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_зем_участка.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268869694/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268869694/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+28:T249b,{
+  "id": "etp-mets:230507-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230507-1",
+  "sourceUrl": "https://m-ets.ru/230507-1",
+  "title": "1/2 доля земельного участка в Московской обл.",
+  "description": "Земельный участок со строениями 2400 кв.м., адрес (местонахождение): Россия, обл Московская, р-н Дмитровский, д Дубровки, дом 80, кадастровый (условный) номер: 50:04:0180401:523 Находится в долевой собственности, размер доли: 1/2",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "published",
+  "statusRaw": "Объявленные торги",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "50",
+  "address": "Московская область",
+  "priceStart": "7348276.76",
+  "priceMin": "367413.84",
+  "deposit": "367413.84",
+  "currency": "RUB",
+  "publishedAt": "2026-08-27T00:00:00+03:00",
+  "biddStartAt": "2026-09-01T10:00:00+03:00",
+  "biddEndAt": "2026-12-10T10:00:00+03:00",
+  "auctionAt": "2026-12-10T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А40-61298/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Галкин Дмитрий Николаевич",
+      "inn": "772635094440",
+      "efrsbId": "c2384808b6d74df8b264f7458403a1ca"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Воронин Андрей Андреевич",
+      "inn": "164703969904",
+      "sro": "ААУ \"Собр\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Воронин Андрей Андреевич",
+      "inn": "164703969904",
+      "email": "arbitr-voronin@mail.ru",
+      "phone": "+7 (995) 098 68 67"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-09-01T10:00:00+03:00",
+      "endAt": "2026-09-06T10:00:00+03:00",
+      "price": "7348276.76",
+      "deposit": "367413.84"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-06T10:00:00+03:00",
+      "endAt": "2026-09-11T10:00:00+03:00",
+      "price": "6980862.92",
+      "deposit": "349043.15"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-11T10:00:00+03:00",
+      "endAt": "2026-09-16T10:00:00+03:00",
+      "price": "6613449.08",
+      "deposit": "330672.45"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-16T10:00:00+03:00",
+      "endAt": "2026-09-21T10:00:00+03:00",
+      "price": "6246035.25",
+      "deposit": "312301.76"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-21T10:00:00+03:00",
+      "endAt": "2026-09-26T10:00:00+03:00",
+      "price": "5878621.41",
+      "deposit": "293931.07"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-26T10:00:00+03:00",
+      "endAt": "2026-10-01T10:00:00+03:00",
+      "price": "5511207.57",
+      "deposit": "275560.38"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-01T10:00:00+03:00",
+      "endAt": "2026-10-06T10:00:00+03:00",
+      "price": "5143793.73",
+      "deposit": "257189.69"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-06T10:00:00+03:00",
+      "endAt": "2026-10-11T10:00:00+03:00",
+      "price": "4776379.89",
+      "deposit": "238818.99"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-11T10:00:00+03:00",
+      "endAt": "2026-10-16T10:00:00+03:00",
+      "price": "4408966.06",
+      "deposit": "220448.30"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-10-16T10:00:00+03:00",
+      "endAt": "2026-10-21T10:00:00+03:00",
+      "price": "4041552.22",
+      "deposit": "202077.61"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-10-21T10:00:00+03:00",
+      "endAt": "2026-10-26T10:00:00+03:00",
+      "price": "3674138.38",
+      "deposit": "183706.92"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-10-26T10:00:00+03:00",
+      "endAt": "2026-10-31T10:00:00+03:00",
+      "price": "3306724.54",
+      "deposit": "165336.23"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-10-31T10:00:00+03:00",
+      "endAt": "2026-11-05T10:00:00+03:00",
+      "price": "2939310.70",
+      "deposit": "146965.54"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-11-05T10:00:00+03:00",
+      "endAt": "2026-11-10T10:00:00+03:00",
+      "price": "2571896.87",
+      "deposit": "128594.84"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-11-10T10:00:00+03:00",
+      "endAt": "2026-11-15T10:00:00+03:00",
+      "price": "2204483.03",
+      "deposit": "110224.15"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-11-15T10:00:00+03:00",
+      "endAt": "2026-11-20T10:00:00+03:00",
+      "price": "1837069.19",
+      "deposit": "91853.46"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-11-20T10:00:00+03:00",
+      "endAt": "2026-11-25T10:00:00+03:00",
+      "price": "1469655.35",
+      "deposit": "73482.77"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-11-25T10:00:00+03:00",
+      "endAt": "2026-11-30T10:00:00+03:00",
+      "price": "1102241.51",
+      "deposit": "55112.08"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-11-30T10:00:00+03:00",
+      "endAt": "2026-12-05T10:00:00+03:00",
+      "price": "734827.68",
+      "deposit": "36741.38"
+    },
+    {
+      "no": 20,
+      "startAt": "2026-12-05T10:00:00+03:00",
+      "endAt": "2026-12-10T10:00:00+03:00",
+      "price": "367413.84",
+      "deposit": "18370.69"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268869410/268869410_thumb_0.jpg",
+    "https://m-ets.ru/download/268869407/268869407_thumb_0.jpg",
+    "https://m-ets.ru/download/268869411/268869411_thumb_0.jpg",
+    "https://m-ets.ru/download/268869408/268869408_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268869412/%D0%9E%D1%81%D0%BD.%D1%81%D1%87%D0%B5%D1%82%20%D0%94%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0.pdf",
+      "name": "Осн.счет Должника.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268869414/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85%20%D0%93%D0%B0%D0%BB%D0%BA%D0%B8%D0%BD%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87%20%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%20%D1%81%D0%BE%20%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8.pdf",
+      "name": "Положение о торгах Галкин Дмитрий Николаевич Земля со строениями.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268869416/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B0.pdf",
+      "name": "Проект_договора_купли_продажи_зем_участка.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268869694/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24370378",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Москвы",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "06.06.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом и документами осуществляется удаленно без совместного присутствия в месте нахождения имущества. Для получения фотографий и имеющихся документов на реализуемое имущество необходимо перейти по ссылке https://disk.yandex.ru/d/scvLas0aR7LLvQ. Осмотр по договоренности с должником 89852222241",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:25:44.066Z",
+  "lastSeenAt": "2026-08-31T19:25:44.066Z",
+  "contentHash": "eba71a1d0e2a802760d4a216bff3b554229f71aec47e4012e273e89032ac0224"
+}26:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$28"}]]}]
+27:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"7 348 276,76 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["6 980 862,92 ₽",["$","span",null,{"className":"muted","children":[" ","· ","6 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[19,", до ","367 413,84 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"7 348 276,76 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"367 413,84 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"26 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"1 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"10 дек. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"95 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"10 дек. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Московская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230507-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"1/2 доля земельного участка в Московской обл. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

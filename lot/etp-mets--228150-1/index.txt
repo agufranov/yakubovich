@@ -1,0 +1,204 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--228150-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--228150-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--228150-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=32","children":"Брянская обл."}]]]}],["$","h1",null,{"children":"Квартира в Брянске, 30,9 кв.м, 1 комн."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Квартира"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268688887/268688887_thumb_0.jpg","alt":"Квартира в Брянске, 30,9 кв.м, 1 комн."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268688874/268688874_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688874/268688874_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688874/268688874_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268688875/268688875_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688875/268688875_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688875/268688875_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268688872/268688872_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688872/268688872_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688872/268688872_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268688873/268688873_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688873/268688873_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688873/268688873_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268688876/268688876_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688876/268688876_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688876/268688876_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268688877/268688877_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688877/268688877_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688877/268688877_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268688878/268688878_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688878/268688878_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688878/268688878_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268688886/268688886_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688886/268688886_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688886/268688886_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268688888/268688888_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688888/268688888_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688888/268688888_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268688882/268688882_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688882/268688882_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688882/268688882_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268688885/268688885_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688885/268688885_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268688885/268688885_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",5," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268688889/268688889_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688889/268688889_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688889/268688889_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268688883/268688883_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688883/268688883_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688883/268688883_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268688884/268688884_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688884/268688884_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688884/268688884_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268688880/268688880_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688880/268688880_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688880/268688880_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268688879/268688879_thumb_0.jpg",{"href":"https://m-ets.ru/download/268688879/268688879_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268688879/268688879_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Жилое помещение (квартира) площадью 30,9 кв.м., расположенное по адресу: город Брянск, улица Киевская, дом 36, квартира 58, кадастровый номер 32:28:0042002:229 . Имущество находится в залоге у ПАО \"Сбербанк\"."}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24214519",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Брянской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["03.07.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге у ПАО \"Сбербанк\".",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["С имуществом можно ознакомиться в рабочие дни предварительно направив заявку на электронную почту uliy2005@mail.ru. Осмотр согласовать по тел. 8 996 447 57 18 Сергей Андреевич.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["18 авг. 2026 г., 10:00 (МСК)"," —"," ","25 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"2 080 800 ₽"}],["$","td",null,{"children":"208 080 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["25 авг. 2026 г., 10:00 (МСК)"," —"," ","1 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 976 760 ₽"}],["$","td",null,{"children":"197 676 ₽"}]]}],["$","tr","3",{"className":"now","children":[["$","td",null,{"children":["1 сент. 2026 г., 10:00 (МСК)"," —"," ","8 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 872 720 ₽"}],["$","td",null,{"children":"187 272 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["8 сент. 2026 г., 10:00 (МСК)"," —"," ","15 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 768 680 ₽"}],["$","td",null,{"children":"176 868 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["15 сент. 2026 г., 10:00 (МСК)"," —"," ","22 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 664 640 ₽"}],["$","td",null,{"children":"166 464 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["22 сент. 2026 г., 10:00 (МСК)"," —"," ","29 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 560 600 ₽"}],["$","td",null,{"children":"156 060 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["29 сент. 2026 г., 10:00 (МСК)"," —"," ","6 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"1 456 560 ₽"}],["$","td",null,{"children":"145 656 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Кряжков Сергей Андреевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=325401661304","children":"Кряжков Сергей Андреевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","325401661304"]}],"$undefined"]}]]}],["$","tr","manager:Трушина Юлия Николаевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=323210567603","children":"Трушина Юлия Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","323210567603"]}],["$","span",null,{"className":"muted","children":[" · ","ПАУ ЦФО"]}]]}]]}],["$","tr","organizer:Трушина Юлия Николаевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=323210567603","children":"Трушина Юлия Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","323210567603"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9009-4428%2F2025","children":"А09-4428/2025"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Брянская область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268688890/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9E%20%D0%97%D0%90%D0%94%D0%90%D0%A2%D0%9A%D0%95%20%D0%9A%D1%80%D1%8F%D0%B6%D0%BA%D0%BE%D0%B2%20(%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0%20-%D1%81%D0%B1%D0%B5%D1%80).pdf",{"href":"https://m-ets.ru/download/268688890/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9E%20%D0%97%D0%90%D0%94%D0%90%D0%A2%D0%9A%D0%95%20%D0%9A%D1%80%D1%8F%D0%B6%D0%BA%D0%BE%D0%B2%20(%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0%20-%D1%81%D0%B1%D0%B5%D1%80).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДОГОВОР О ЗАДАТКЕ Кряжков (квартира -сбер).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268688892/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9A%D0%A3%D0%9F%D0%9B%D0%98%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%20(%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0%20%D0%9A%D1%80%D1%8F%D0%B6%D0%BA%D0%BE%D0%B2).pdf",{"href":"https://m-ets.ru/download/268688892/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9A%D0%A3%D0%9F%D0%9B%D0%98%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%20(%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0%20%D0%9A%D1%80%D1%8F%D0%B6%D0%BA%D0%BE%D0%B2).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДОГОВОР КУПЛИ продажи ПРОЕКТ (квартира Кряжков).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T1ba0,{
+  "id": "etp-mets:228150-1",
+  "sourceCode": "etp-mets",
+  "externalId": "228150-1",
+  "sourceUrl": "https://m-ets.ru/228150-1",
+  "title": "Квартира в Брянске, 30,9 кв.м, 1 комн.",
+  "description": "Жилое помещение (квартира) площадью 30,9 кв.м., расположенное по адресу: город Брянск, улица Киевская, дом 36, квартира 58, кадастровый номер 32:28:0042002:229 . Имущество находится в залоге у ПАО \"Сбербанк\".",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "36",
+  "categoryName": "Квартира",
+  "regionCode": "32",
+  "address": "Брянская область",
+  "priceStart": "2080800",
+  "priceMin": "1456560.00",
+  "deposit": "208080.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-17T00:00:00+03:00",
+  "biddStartAt": "2026-08-18T10:00:00+03:00",
+  "biddEndAt": "2026-10-06T10:00:00+03:00",
+  "auctionAt": "2026-10-06T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А09-4428/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Кряжков Сергей Андреевич",
+      "inn": "325401661304",
+      "efrsbId": "6de092294d9766db02241c9081885516"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Трушина Юлия Николаевна",
+      "inn": "323210567603",
+      "sro": "ПАУ ЦФО"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Трушина Юлия Николаевна",
+      "inn": "323210567603",
+      "email": "mpnujul@mail.ru",
+      "phone": "+7 (903) 819 50 91"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-18T10:00:00+03:00",
+      "endAt": "2026-08-25T10:00:00+03:00",
+      "price": "2080800.00",
+      "deposit": "208080.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-25T10:00:00+03:00",
+      "endAt": "2026-09-01T10:00:00+03:00",
+      "price": "1976760.00",
+      "deposit": "197676.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-01T10:00:00+03:00",
+      "endAt": "2026-09-08T10:00:00+03:00",
+      "price": "1872720.00",
+      "deposit": "187272.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-08T10:00:00+03:00",
+      "endAt": "2026-09-15T10:00:00+03:00",
+      "price": "1768680.00",
+      "deposit": "176868.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-15T10:00:00+03:00",
+      "endAt": "2026-09-22T10:00:00+03:00",
+      "price": "1664640.00",
+      "deposit": "166464.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-22T10:00:00+03:00",
+      "endAt": "2026-09-29T10:00:00+03:00",
+      "price": "1560600.00",
+      "deposit": "156060.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-29T10:00:00+03:00",
+      "endAt": "2026-10-06T10:00:00+03:00",
+      "price": "1456560.00",
+      "deposit": "145656.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268688887/268688887_thumb_0.jpg",
+    "https://m-ets.ru/download/268688874/268688874_thumb_0.jpg",
+    "https://m-ets.ru/download/268688875/268688875_thumb_0.jpg",
+    "https://m-ets.ru/download/268688872/268688872_thumb_0.jpg",
+    "https://m-ets.ru/download/268688873/268688873_thumb_0.jpg",
+    "https://m-ets.ru/download/268688876/268688876_thumb_0.jpg",
+    "https://m-ets.ru/download/268688877/268688877_thumb_0.jpg",
+    "https://m-ets.ru/download/268688878/268688878_thumb_0.jpg",
+    "https://m-ets.ru/download/268688886/268688886_thumb_0.jpg",
+    "https://m-ets.ru/download/268688888/268688888_thumb_0.jpg",
+    "https://m-ets.ru/download/268688882/268688882_thumb_0.jpg",
+    "https://m-ets.ru/download/268688885/268688885_thumb_0.jpg",
+    "https://m-ets.ru/download/268688889/268688889_thumb_0.jpg",
+    "https://m-ets.ru/download/268688883/268688883_thumb_0.jpg",
+    "https://m-ets.ru/download/268688884/268688884_thumb_0.jpg",
+    "https://m-ets.ru/download/268688880/268688880_thumb_0.jpg",
+    "https://m-ets.ru/download/268688879/268688879_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268688890/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9E%20%D0%97%D0%90%D0%94%D0%90%D0%A2%D0%9A%D0%95%20%D0%9A%D1%80%D1%8F%D0%B6%D0%BA%D0%BE%D0%B2%20(%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0%20-%D1%81%D0%B1%D0%B5%D1%80).pdf",
+      "name": "ДОГОВОР О ЗАДАТКЕ Кряжков (квартира -сбер).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268688892/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9A%D0%A3%D0%9F%D0%9B%D0%98%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%20(%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0%20%D0%9A%D1%80%D1%8F%D0%B6%D0%BA%D0%BE%D0%B2).pdf",
+      "name": "ДОГОВОР КУПЛИ продажи ПРОЕКТ (квартира Кряжков).pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24214519",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Брянской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "03.07.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге у ПАО \"Сбербанк\".",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "С имуществом можно ознакомиться в рабочие дни предварительно направив заявку на электронную почту uliy2005@mail.ru. Осмотр согласовать по тел. 8 996 447 57 18 Сергей Андреевич.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:14:11.639Z",
+  "lastSeenAt": "2026-08-31T19:14:11.639Z",
+  "contentHash": "e9d7b384a5c7e42f2bcf53bf713c7ce5c87db9279ba6c072411c4e2875b2169d"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"1 872 720 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["1 768 680 ₽",["$","span",null,{"className":"muted","children":[" ","· ","8 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[4,", до ","1 456 560 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"2 080 800 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"208 080 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"16 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"18 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"6 окт. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"30 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"6 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Брянская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/228150-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Квартира в Брянске, 30,9 кв.м, 1 комн. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,330 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--221186-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--221186-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--221186-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=54","children":"Новосибирская обл."}]]]}],["$","h1",null,{"children":"Honda Odyssey, 2000 года, 153 лс, 308000 км, АКПП"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268129385/268129385_thumb_0.jpg","alt":"Honda Odyssey, 2000 года, 153 лс, 308000 км, АКПП"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268129384/268129384_thumb_0.jpg",{"href":"https://m-ets.ru/download/268129384/268129384_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268129384/268129384_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268129382/268129382_thumb_0.jpg",{"href":"https://m-ets.ru/download/268129382/268129382_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268129382/268129382_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268129386/268129386_thumb_0.jpg",{"href":"https://m-ets.ru/download/268129386/268129386_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268129386/268129386_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268129379/268129379_thumb_0.jpg",{"href":"https://m-ets.ru/download/268129379/268129379_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268129379/268129379_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"транспортное средство марки «HONDA ODYSSEY», идентификационный номер VIN: отсутствует, № кузова: RA61031701"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Honda",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Odyssey",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2000",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["308 000"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["153"," л.с."]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Автоматическая",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23752393",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Новосибирской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["02.06.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге у ПАО Банк \"ВТБ\".",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Документы и фотографии имущества можно запросить по email: olga-neekolaevna@ya.ru, тел. +79683635585 в течение срока подачи заявок на приобретение имущества. Акт оценки имущества, Положение о продаже прикреплены к настоящим торгам. Согласно пояснениям должника Состояние автомобиля : колеса отсутствуют, коробка не работает – только на металл, ремень ГРМ порвало, не работает водительский стеклоподъёмник, аккумулятора нет, музыка не работает, ходовая часть автомобиля повреждена.",""]}]]}]]}]}]]}],"$L11","$L12","$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["15 июл. 2026 г., 10:00 (МСК)"," —"," ","22 июл. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"269 188,20 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["22 июл. 2026 г., 10:00 (МСК)"," —"," ","29 июл. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"255 728,79 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["29 июл. 2026 г., 10:00 (МСК)"," —"," ","5 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"242 269,38 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["5 авг. 2026 г., 10:00 (МСК)"," —"," ","12 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"228 809,97 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["12 авг. 2026 г., 10:00 (МСК)"," —"," ","19 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"215 350,56 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["19 авг. 2026 г., 10:00 (МСК)"," —"," ","26 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"201 891,15 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 10:00 (МСК)"," —"," ","2 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"188 431,74 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","8",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 10:00 (МСК)"," —"," ","9 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"174 972,33 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["9 сент. 2026 г., 10:00 (МСК)"," —"," ","16 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"161 512,92 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["16 сент. 2026 г., 10:00 (МСК)"," —"," ","23 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"148 053,51 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["23 сент. 2026 г., 10:00 (МСК)"," —"," ","30 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"134 594,10 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","12",{"className":"","children":[["$","td",null,{"children":["30 сент. 2026 г., 10:00 (МСК)"," —"," ","7 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"121 134,69 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","13",{"className":"","children":[["$","td",null,{"children":["7 окт. 2026 г., 10:00 (МСК)"," —"," ","14 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"107 675,28 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","14",{"className":"","children":[["$","td",null,{"children":["14 окт. 2026 г., 10:00 (МСК)"," —"," ","21 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"94 215,87 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","15",{"className":"","children":[["$","td",null,{"children":["21 окт. 2026 г., 10:00 (МСК)"," —"," ","28 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"80 756,46 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","16",{"className":"","children":[["$","td",null,{"children":["28 окт. 2026 г., 10:00 (МСК)"," —"," ","4 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"67 297,05 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","17",{"className":"","children":[["$","td",null,{"children":["4 нояб. 2026 г., 10:00 (МСК)"," —"," ","11 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"53 837,64 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","18",{"className":"","children":[["$","td",null,{"children":["11 нояб. 2026 г., 10:00 (МСК)"," —"," ","18 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"40 378,23 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],["$","tr","19",{"className":"","children":[["$","td",null,{"children":["18 нояб. 2026 г., 10:00 (МСК)"," —"," ","25 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"26 918,82 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}],"$L17"]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Машников Константин Николаевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=541003434342","children":"Машников Константин Николаевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","541003434342"]}],"$undefined"]}]]}],["$","tr","manager:Пасько Ольга Николаевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=775107525349","children":"Пасько Ольга Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","775107525349"]}],["$","span",null,{"className":"muted","children":[" · ","АПАУ \"Гарант\""]}]]}]]}],["$","tr","organizer:Пасько Ольга Николаевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=775107525349","children":"Пасько Ольга Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","775107525349"]}],"$undefined"]}]]}],["$","tr","pledgee:БАНК ВТБ (ПАО)",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7702070139","children":"БАНК ВТБ (ПАО)"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7702070139"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9045-13841%2F2025","children":"А45-13841/2025"}]}]]}]]}]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Новосибирская область"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268129377/%D0%90%D0%BA%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268129377/%D0%90%D0%BA%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Акт оценки имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268129387/%D0%90%D0%BA%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268129387/%D0%90%D0%BA%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Акт оценки имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268129389/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf",{"href":"https://m-ets.ru/download/268129389/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268129391/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268129391/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о продаже имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268131319/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268131319/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T299e,{
+  "id": "etp-mets:221186-1",
+  "sourceCode": "etp-mets",
+  "externalId": "221186-1",
+  "sourceUrl": "https://m-ets.ru/221186-1",
+  "title": "Honda Odyssey, 2000 года, 153 лс, 308000 км, АКПП",
+  "description": "транспортное средство марки «HONDA ODYSSEY», идентификационный номер VIN: отсутствует, № кузова: RA61031701",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "54",
+  "address": "Новосибирская область",
+  "priceStart": "269188.20",
+  "priceMin": "13459.41",
+  "deposit": "53837.64",
+  "currency": "RUB",
+  "publishedAt": "2026-07-14T00:00:00+03:00",
+  "biddStartAt": "2026-07-15T10:00:00+03:00",
+  "biddEndAt": "2026-12-02T10:00:00+03:00",
+  "auctionAt": "2026-12-02T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А45-13841/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Машников Константин Николаевич",
+      "inn": "541003434342",
+      "efrsbId": "2f878ed0e7e899a822f40105c906006a"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Пасько Ольга Николаевна",
+      "inn": "775107525349",
+      "sro": "АПАУ \"Гарант\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Пасько Ольга Николаевна",
+      "inn": "775107525349",
+      "email": "pasko.arbitr@mail.ru",
+      "phone": "+7 (916) 909 71 81"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "БАНК ВТБ (ПАО)",
+      "inn": "7702070139"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-15T10:00:00+03:00",
+      "endAt": "2026-07-22T10:00:00+03:00",
+      "price": "269188.20",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-22T10:00:00+03:00",
+      "endAt": "2026-07-29T10:00:00+03:00",
+      "price": "255728.79",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-07-29T10:00:00+03:00",
+      "endAt": "2026-08-05T10:00:00+03:00",
+      "price": "242269.38",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-05T10:00:00+03:00",
+      "endAt": "2026-08-12T10:00:00+03:00",
+      "price": "228809.97",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-12T10:00:00+03:00",
+      "endAt": "2026-08-19T10:00:00+03:00",
+      "price": "215350.56",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-19T10:00:00+03:00",
+      "endAt": "2026-08-26T10:00:00+03:00",
+      "price": "201891.15",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-26T10:00:00+03:00",
+      "endAt": "2026-09-02T10:00:00+03:00",
+      "price": "188431.74",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-02T10:00:00+03:00",
+      "endAt": "2026-09-09T10:00:00+03:00",
+      "price": "174972.33",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-09T10:00:00+03:00",
+      "endAt": "2026-09-16T10:00:00+03:00",
+      "price": "161512.92",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-09-16T10:00:00+03:00",
+      "endAt": "2026-09-23T10:00:00+03:00",
+      "price": "148053.51",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-09-23T10:00:00+03:00",
+      "endAt": "2026-09-30T10:00:00+03:00",
+      "price": "134594.10",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-09-30T10:00:00+03:00",
+      "endAt": "2026-10-07T10:00:00+03:00",
+      "price": "121134.69",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-10-07T10:00:00+03:00",
+      "endAt": "2026-10-14T10:00:00+03:00",
+      "price": "107675.28",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-10-14T10:00:00+03:00",
+      "endAt": "2026-10-21T10:00:00+03:00",
+      "price": "94215.87",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-10-21T10:00:00+03:00",
+      "endAt": "2026-10-28T10:00:00+03:00",
+      "price": "80756.46",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-10-28T10:00:00+03:00",
+      "endAt": "2026-11-04T10:00:00+03:00",
+      "price": "67297.05",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-11-04T10:00:00+03:00",
+      "endAt": "2026-11-11T10:00:00+03:00",
+      "price": "53837.64",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-11-11T10:00:00+03:00",
+      "endAt": "2026-11-18T10:00:00+03:00",
+      "price": "40378.23",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-11-18T10:00:00+03:00",
+      "endAt": "2026-11-25T10:00:00+03:00",
+      "price": "26918.82",
+      "deposit": "53837.64"
+    },
+    {
+      "no": 20,
+      "startAt": "2026-11-25T10:00:00+03:00",
+      "endAt": "2026-12-02T10:00:00+03:00",
+      "price": "13459.41",
+      "deposit": "53837.64"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268129385/268129385_thumb_0.jpg",
+    "https://m-ets.ru/download/268129384/268129384_thumb_0.jpg",
+    "https://m-ets.ru/download/268129382/268129382_thumb_0.jpg",
+    "https://m-ets.ru/download/268129386/268129386_thumb_0.jpg",
+    "https://m-ets.ru/download/268129379/268129379_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268129377/%D0%90%D0%BA%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "Акт оценки имущества.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268129387/%D0%90%D0%BA%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "Акт оценки имущества.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268129389/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf",
+      "name": "Проект договора купли-продажи.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268129391/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "Положение о продаже имущества.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268131319/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Honda",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Odyssey",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2000",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "308 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "153",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Автоматическая",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23752393",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Новосибирской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "02.06.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество находится в залоге у ПАО Банк \"ВТБ\".",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Документы и фотографии имущества можно запросить по email: olga-neekolaevna@ya.ru, тел. +79683635585 в течение срока подачи заявок на приобретение имущества. Акт оценки имущества, Положение о продаже прикреплены к настоящим торгам. Согласно пояснениям должника Состояние автомобиля : колеса отсутствуют, коробка не работает – только на металл, ремень ГРМ порвало, не работает водительский стеклоподъёмник, аккумулятора нет, музыка не работает, ходовая часть автомобиля повреждена.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:48:17.364Z",
+  "lastSeenAt": "2026-08-31T17:48:17.364Z",
+  "contentHash": "7a77365b73bed2d703c962d4700bec9f2d8924243a7f213ef7d53186a64ed31e"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"174 972,33 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["161 512,92 ₽",["$","span",null,{"className":"muted","children":[" ","· ","9 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[12,", до ","13 459,41 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"269 188,20 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"53 837,64 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"13 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"15 июл. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"2 дек. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"87 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"2 дек. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Новосибирская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/221186-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+17:["$","tr","20",{"className":"","children":[["$","td",null,{"children":["25 нояб. 2026 г., 10:00 (МСК)"," —"," ","2 дек. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"13 459,41 ₽"}],["$","td",null,{"children":"53 837,64 ₽"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Honda Odyssey, 2000 года, 153 лс, 308000 км, АКПП — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

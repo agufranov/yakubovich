@@ -1,0 +1,245 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230157-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230157-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230157-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=78","children":"Санкт-Петербург"}]]]}],["$","h1",null,{"children":"Toyota Camry, 2018 года, 181 лс, АКПП"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268777160/268777160_thumb_0.jpg","alt":"Toyota Camry, 2018 года, 181 лс, АКПП"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268777161/268777161_thumb_0.jpg",{"href":"https://m-ets.ru/download/268777161/268777161_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268777161/268777161_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268777157/268777157_thumb_0.jpg",{"href":"https://m-ets.ru/download/268777157/268777157_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268777157/268777157_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268777159/268777159_thumb_0.jpg",{"href":"https://m-ets.ru/download/268777159/268777159_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268777159/268777159_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268777156/268777156_thumb_0.jpg",{"href":"https://m-ets.ru/download/268777156/268777156_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268777156/268777156_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль TOYOTA CAMRY, VIN: XW7BF4FK60S181058, 2018 г.в., гос.номер Е386КА147"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Toyota",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Camry",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2018",""]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["181"," л.с."]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Автоматическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XW7BF4FK60S181058",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24351451",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Санкт-Петербурга и Ленинградской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["13.04.2026",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Информация отсутствует",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом производится по телефону +7 (929) 111 13 46 и посредством направления запроса на адрес электронной почты: dm9291111346@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок.",""]}]]}]]}]}]]}],"$L11","$L12","$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 00:00 (МСК)"," —"," ","3 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"1 368 000 ₽"}],["$","td",null,{"children":"136 800 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["3 сент. 2026 г., 00:00 (МСК)"," —"," ","10 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"1 299 600 ₽"}],["$","td",null,{"children":"129 960 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 00:00 (МСК)"," —"," ","17 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"1 231 200 ₽"}],["$","td",null,{"children":"123 120 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 00:00 (МСК)"," —"," ","24 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"1 162 800 ₽"}],["$","td",null,{"children":"116 280 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["24 сент. 2026 г., 00:00 (МСК)"," —"," ","1 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"1 094 400 ₽"}],["$","td",null,{"children":"109 440 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["1 окт. 2026 г., 00:00 (МСК)"," —"," ","8 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"1 026 000 ₽"}],["$","td",null,{"children":"102 600 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["8 окт. 2026 г., 00:00 (МСК)"," —"," ","15 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"957 600 ₽"}],["$","td",null,{"children":"95 760 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["15 окт. 2026 г., 00:00 (МСК)"," —"," ","22 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"889 200 ₽"}],["$","td",null,{"children":"88 920 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["22 окт. 2026 г., 00:00 (МСК)"," —"," ","29 окт. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"861 840 ₽"}],["$","td",null,{"children":"86 184 ₽"}]]}]]}]]}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Ризоева Камилла Халиловна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=510504682391","children":"Ризоева Камилла Халиловна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","510504682391"]}],"$undefined"]}]]}],["$","tr","manager:Мироненко Дмитрий Александрович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=470306696937","children":"Мироненко Дмитрий Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","470306696937"]}],["$","span",null,{"className":"muted","children":[" · ","Союз \"СРО АУ СЗ\""]}]]}]]}],["$","tr","organizer:Мироненко Дмитрий Александрович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=470306696937","children":"Мироненко Дмитрий Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","470306696937"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО \"БАНК \"САНКТ-ПЕТЕРБУРГ\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7831000027","children":"ПАО \"БАНК \"САНКТ-ПЕТЕРБУРГ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7831000027"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9056-93074%2F2025","children":"А56-93074/2025"}]}]]}]]}]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Санкт-Петербург"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268846098/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx",{"href":"https://m-ets.ru/download/268846098/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора о задатке.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268846100/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx",{"href":"https://m-ets.ru/download/268846100/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект Договора купли-продажи.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+17:T1c31,{
+  "id": "etp-mets:230157-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230157-1",
+  "sourceUrl": "https://m-ets.ru/230157-1",
+  "title": "Toyota Camry, 2018 года, 181 лс, АКПП",
+  "description": "Легковой автомобиль TOYOTA CAMRY, VIN: XW7BF4FK60S181058, 2018 г.в., гос.номер Е386КА147",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "78",
+  "address": "г. Санкт-Петербург",
+  "priceStart": "1368000",
+  "priceMin": "861840.00",
+  "deposit": "136800.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-26T00:00:00+03:00",
+  "biddStartAt": "2026-08-27T00:00:00+03:00",
+  "biddEndAt": "2026-10-29T00:00:00+03:00",
+  "auctionAt": "2026-10-30T14:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А56-93074/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Ризоева Камилла Халиловна",
+      "inn": "510504682391",
+      "efrsbId": "9f01dcbb8e63d6ab6eb4634339c53655"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Мироненко Дмитрий Александрович",
+      "inn": "470306696937",
+      "sro": "Союз \"СРО АУ СЗ\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Мироненко Дмитрий Александрович",
+      "inn": "470306696937",
+      "email": "dm9291111346@mail.ru",
+      "phone": "+7 (929) 111 13 46"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО \"БАНК \"САНКТ-ПЕТЕРБУРГ\"",
+      "inn": "7831000027"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-27T00:00:00+03:00",
+      "endAt": "2026-09-03T00:00:00+03:00",
+      "price": "1368000.00",
+      "deposit": "136800.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-03T00:00:00+03:00",
+      "endAt": "2026-09-10T00:00:00+03:00",
+      "price": "1299600.00",
+      "deposit": "129960.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-10T00:00:00+03:00",
+      "endAt": "2026-09-17T00:00:00+03:00",
+      "price": "1231200.00",
+      "deposit": "123120.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-17T00:00:00+03:00",
+      "endAt": "2026-09-24T00:00:00+03:00",
+      "price": "1162800.00",
+      "deposit": "116280.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-24T00:00:00+03:00",
+      "endAt": "2026-10-01T00:00:00+03:00",
+      "price": "1094400.00",
+      "deposit": "109440.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-10-01T00:00:00+03:00",
+      "endAt": "2026-10-08T00:00:00+03:00",
+      "price": "1026000.00",
+      "deposit": "102600.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-08T00:00:00+03:00",
+      "endAt": "2026-10-15T00:00:00+03:00",
+      "price": "957600.00",
+      "deposit": "95760.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-15T00:00:00+03:00",
+      "endAt": "2026-10-22T00:00:00+03:00",
+      "price": "889200.00",
+      "deposit": "88920.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-22T00:00:00+03:00",
+      "endAt": "2026-10-29T00:00:00+03:00",
+      "price": "861840.00",
+      "deposit": "86184.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268777160/268777160_thumb_0.jpg",
+    "https://m-ets.ru/download/268777161/268777161_thumb_0.jpg",
+    "https://m-ets.ru/download/268777157/268777157_thumb_0.jpg",
+    "https://m-ets.ru/download/268777159/268777159_thumb_0.jpg",
+    "https://m-ets.ru/download/268777156/268777156_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268846098/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.docx",
+      "name": "Проект договора о задатке.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268846100/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.docx",
+      "name": "Проект Договора купли-продажи.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Toyota",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Camry",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2018",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "181",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Автоматическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XW7BF4FK60S181058",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24351451",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Санкт-Петербурга и Ленинградской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "13.04.2026",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Информация отсутствует",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом производится по телефону +7 (929) 111 13 46 и посредством направления запроса на адрес электронной почты: dm9291111346@mail.ru, с момента публикации сообщения о продаже имущества и до окончания приема заявок.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:42:16.880Z",
+  "lastSeenAt": "2026-08-31T17:42:16.880Z",
+  "contentHash": "2c50d633d95cfd70c5c92c50d769613348fb1c120873df79fed606af84cad2af"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$17"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"1 299 600 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["1 231 200 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[7,", до ","861 840 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"1 368 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"136 800 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"25 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 авг. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"29 окт. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"53 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"30 окт. 2026 г., 14:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Санкт-Петербург"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230157-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Toyota Camry, 2018 года, 181 лс, АКПП — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

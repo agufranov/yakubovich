@@ -1,0 +1,250 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--222591-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--222591-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--222591-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=42","children":"Кемеровская обл."}]]]}],["$","h1",null,{"children":"Hyundai Sonata, 2007 года, 172 лс, 340000 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268234454/268234454_thumb_0.jpg","alt":"Hyundai Sonata, 2007 года, 172 лс, 340000 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268234441/268234441_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234441/268234441_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234441/268234441_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268234445/268234445_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234445/268234445_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234445/268234445_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268234446/268234446_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234446/268234446_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234446/268234446_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268234449/268234449_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234449/268234449_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234449/268234449_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268234440/268234440_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234440/268234440_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234440/268234440_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268234442/268234442_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234442/268234442_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234442/268234442_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268234453/268234453_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234453/268234453_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234453/268234453_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268234443/268234443_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234443/268234443_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234443/268234443_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268234439/268234439_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234439/268234439_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234439/268234439_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268234448/268234448_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234448/268234448_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234448/268234448_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268234451/268234451_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234451/268234451_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268234451/268234451_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",5," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268234452/268234452_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234452/268234452_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234452/268234452_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268234447/268234447_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234447/268234447_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234447/268234447_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268234450/268234450_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234450/268234450_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234450/268234450_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268234456/268234456_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234456/268234456_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234456/268234456_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268234438/268234438_thumb_0.jpg",{"href":"https://m-ets.ru/download/268234438/268234438_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268234438/268234438_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+1b:Tc54,транспортное средство Hyundai sonata, 2007 года выпуска, ГРН Е388УУ42. Hyundai Sonata, год выпуска 2007, пробег 340 000 км. Мотор 2,7л. Мощность 172 л.с. Производство «Тагаз». VIN X7MEN41FP7A030776. 4 владельца. Установлен ГБО метан 4го поколения, в ПТС не вписан. Зарегистрирована в такси. ДТП. - 2 ДТП в правый бок (первое у первого владельца, второе у последнего) заменены передняя и задняя двери, ремонт заднего крыла); - удар в задний бампер, заменя бампера и багажника (в цвет кузова не окрашены); - удар в переднее левое колесо (наезд на бордюр) ушли зазоры дверей по левой стороне, не выправлялись; - удар в переднее левое крыло, не выправлялось, есть вмятина; - удар в район задней правой арки, ободрана краска; - несколько легких ДТП (притерт кузов в нескольких местах). Кузов. Корозия по задним аркам, сколы ЛКП. (видно на фото). Подвеска: есть разбитые сайлент блоки, сломана задняя правая пружина, задние стойки вытекли (под замену). Сквозная коррозия по правой задней опоре амортизатора и верхнему рычагу (видно на фото). Рулевое управление: люфт рулевых наконечников, требуется замена. Бензобак: несколько вмятин, ... Показать сведения об имуществе полностью течь, требуется ремонт или замена. Отсутствует адсорбер паров бензина (сгнили крепления). Выхлопная система: отсутствуют катализаторы. Электрика: ошибка по датчику распределительного вала (плавающая), есть проблемы с зажиганием. Плохо заводится в мороз (проблема по ЭБУ двигателя), может заглохнуть на ходу по причине отсутствия электропитания питания на бензонасос. Плавает напряжение зарядки аккумулятора. Коробка передач: рывки при отпускании педали газа. Ходовая: гул передних и задних ступичных подшипников. Двигатель: гул роликов приводного ремня и ремня грм. Тормоза: отсутствует механизм ручного тормоза.13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"$1b"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Hyundai",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Sonata",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2007",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["340 000"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["172"," л.с."]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["X7MEN41FP7A030776",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23842599",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Кемеровской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["03.04.2026",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["течение срока подачи заявок по предварительному согласованию с финансовым управляющим по телефону: 8(913)388-73-77, email: ay.nsk@mail.ru, предоставляется возможность ознакомления с имуществом должника.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["27 июл. 2026 г., 10:00 (МСК)"," —"," ","1 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"353 700 ₽"}],["$","td",null,{"children":"17 685 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["1 авг. 2026 г., 10:00 (МСК)"," —"," ","6 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"318 330 ₽"}],["$","td",null,{"children":"17 685 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["6 авг. 2026 г., 10:00 (МСК)"," —"," ","11 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"282 960 ₽"}],["$","td",null,{"children":"17 685 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["11 авг. 2026 г., 10:00 (МСК)"," —"," ","16 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"247 590 ₽"}],["$","td",null,{"children":"17 685 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["16 авг. 2026 г., 10:00 (МСК)"," —"," ","21 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"212 220 ₽"}],["$","td",null,{"children":"17 685 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 10:00 (МСК)"," —"," ","26 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"176 850 ₽"}],["$","td",null,{"children":"17 685 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["26 авг. 2026 г., 10:00 (МСК)"," —"," ","31 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"141 480 ₽"}],["$","td",null,{"children":"17 685 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["31 авг. 2026 г., 10:00 (МСК)"," —"," ","5 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"106 110 ₽"}],["$","td",null,{"children":"17 685 ₽"}]]}],["$","tr","9",{"className":"now","children":[["$","td",null,{"children":["5 сент. 2026 г., 10:00 (МСК)"," —"," ","10 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"70 740 ₽"}],["$","td",null,{"children":"17 685 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Петрова Надежда Михайловна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=421812196401","children":"Петрова Надежда Михайловна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","421812196401"]}],"$undefined"]}]]}],["$","tr","manager:Журавлев Владимир Владимирович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=220418183453","children":"Журавлев Владимир Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","220418183453"]}],["$","span",null,{"className":"muted","children":[" · ","АПАУ \"Гарант\""]}]]}]]}],["$","tr","organizer:Журавлев Владимир Владимирович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=220418183453","children":"Журавлев Владимир Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","220418183453"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9027-1282%2F2025","children":"А27-1282/2025"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Кемеровская область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268234458/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf",{"href":"https://m-ets.ru/download/268234458/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268234681/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268234681/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1c:T2a76,{
+  "id": "etp-mets:222591-1",
+  "sourceCode": "etp-mets",
+  "externalId": "222591-1",
+  "sourceUrl": "https://m-ets.ru/222591-1",
+  "title": "Hyundai Sonata, 2007 года, 172 лс, 340000 км",
+  "description": "транспортное средство Hyundai sonata, 2007 года выпуска, ГРН Е388УУ42. Hyundai Sonata, год выпуска 2007, пробег 340 000 км. Мотор 2,7л. Мощность 172 л.с. Производство «Тагаз». VIN X7MEN41FP7A030776. 4 владельца. Установлен ГБО метан 4го поколения, в ПТС не вписан. Зарегистрирована в такси. ДТП. - 2 ДТП в правый бок (первое у первого владельца, второе у последнего) заменены передняя и задняя двери, ремонт заднего крыла); - удар в задний бампер, заменя бампера и багажника (в цвет кузова не окрашены); - удар в переднее левое колесо (наезд на бордюр) ушли зазоры дверей по левой стороне, не выправлялись; - удар в переднее левое крыло, не выправлялось, есть вмятина; - удар в район задней правой арки, ободрана краска; - несколько легких ДТП (притерт кузов в нескольких местах). Кузов. Корозия по задним аркам, сколы ЛКП. (видно на фото). Подвеска: есть разбитые сайлент блоки, сломана задняя правая пружина, задние стойки вытекли (под замену). Сквозная коррозия по правой задней опоре амортизатора и верхнему рычагу (видно на фото). Рулевое управление: люфт рулевых наконечников, требуется замена. Бензобак: несколько вмятин, ... Показать сведения об имуществе полностью течь, требуется ремонт или замена. Отсутствует адсорбер паров бензина (сгнили крепления). Выхлопная система: отсутствуют катализаторы. Электрика: ошибка по датчику распределительного вала (плавающая), есть проблемы с зажиганием. Плохо заводится в мороз (проблема по ЭБУ двигателя), может заглохнуть на ходу по причине отсутствия электропитания питания на бензонасос. Плавает напряжение зарядки аккумулятора. Коробка передач: рывки при отпускании педали газа. Ходовая: гул передних и задних ступичных подшипников. Двигатель: гул роликов приводного ремня и ремня грм. Тормоза: отсутствует механизм ручного тормоза.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "42",
+  "address": "Кемеровская область",
+  "priceStart": "353700",
+  "priceMin": "70740.00",
+  "deposit": "17685.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-21T00:00:00+03:00",
+  "biddStartAt": "2026-07-27T10:00:00+03:00",
+  "biddEndAt": "2026-09-10T10:00:00+03:00",
+  "auctionAt": "2026-09-10T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А27-1282/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Петрова Надежда Михайловна",
+      "inn": "421812196401",
+      "efrsbId": "106ea14e430e16cb73f456772c160b43"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Журавлев Владимир Владимирович",
+      "inn": "220418183453",
+      "sro": "АПАУ \"Гарант\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Журавлев Владимир Владимирович",
+      "inn": "220418183453",
+      "email": "ay.nsk@mail.ru",
+      "phone": "+7 (913) 388 73 77"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-27T10:00:00+03:00",
+      "endAt": "2026-08-01T10:00:00+03:00",
+      "price": "353700.00",
+      "deposit": "17685.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-01T10:00:00+03:00",
+      "endAt": "2026-08-06T10:00:00+03:00",
+      "price": "318330.00",
+      "deposit": "17685.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-06T10:00:00+03:00",
+      "endAt": "2026-08-11T10:00:00+03:00",
+      "price": "282960.00",
+      "deposit": "17685.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-11T10:00:00+03:00",
+      "endAt": "2026-08-16T10:00:00+03:00",
+      "price": "247590.00",
+      "deposit": "17685.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-16T10:00:00+03:00",
+      "endAt": "2026-08-21T10:00:00+03:00",
+      "price": "212220.00",
+      "deposit": "17685.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-21T10:00:00+03:00",
+      "endAt": "2026-08-26T10:00:00+03:00",
+      "price": "176850.00",
+      "deposit": "17685.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-26T10:00:00+03:00",
+      "endAt": "2026-08-31T10:00:00+03:00",
+      "price": "141480.00",
+      "deposit": "17685.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-31T10:00:00+03:00",
+      "endAt": "2026-09-05T10:00:00+03:00",
+      "price": "106110.00",
+      "deposit": "17685.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-05T10:00:00+03:00",
+      "endAt": "2026-09-10T10:00:00+03:00",
+      "price": "70740.00",
+      "deposit": "17685.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268234454/268234454_thumb_0.jpg",
+    "https://m-ets.ru/download/268234441/268234441_thumb_0.jpg",
+    "https://m-ets.ru/download/268234445/268234445_thumb_0.jpg",
+    "https://m-ets.ru/download/268234446/268234446_thumb_0.jpg",
+    "https://m-ets.ru/download/268234449/268234449_thumb_0.jpg",
+    "https://m-ets.ru/download/268234440/268234440_thumb_0.jpg",
+    "https://m-ets.ru/download/268234442/268234442_thumb_0.jpg",
+    "https://m-ets.ru/download/268234453/268234453_thumb_0.jpg",
+    "https://m-ets.ru/download/268234443/268234443_thumb_0.jpg",
+    "https://m-ets.ru/download/268234439/268234439_thumb_0.jpg",
+    "https://m-ets.ru/download/268234448/268234448_thumb_0.jpg",
+    "https://m-ets.ru/download/268234451/268234451_thumb_0.jpg",
+    "https://m-ets.ru/download/268234452/268234452_thumb_0.jpg",
+    "https://m-ets.ru/download/268234447/268234447_thumb_0.jpg",
+    "https://m-ets.ru/download/268234450/268234450_thumb_0.jpg",
+    "https://m-ets.ru/download/268234456/268234456_thumb_0.jpg",
+    "https://m-ets.ru/download/268234438/268234438_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268234458/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.pdf",
+      "name": "Проект договора купли-продажи.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268234681/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Hyundai",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Sonata",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2007",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "340 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "172",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "X7MEN41FP7A030776",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23842599",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Кемеровской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "03.04.2026",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "течение срока подачи заявок по предварительному согласованию с финансовым управляющим по телефону: 8(913)388-73-77, email: ay.nsk@mail.ru, предоставляется возможность ознакомления с имуществом должника.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:51:00.476Z",
+  "lastSeenAt": "2026-08-31T17:51:00.476Z",
+  "contentHash": "23191c2341eb4ef7e1e104bceb3e4043328f6a631e4dcf5556c85813bcaaef82"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1c"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"70 740 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"353 700 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"17 685 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"20 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"27 июл. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"10 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"4 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"10 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Кемеровская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/222591-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Hyundai Sonata, 2007 года, 172 лс, 340000 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

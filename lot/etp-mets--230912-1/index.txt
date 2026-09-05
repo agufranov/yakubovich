@@ -1,0 +1,188 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230912-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230912-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230912-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=47","children":"Ленинградская обл."}]]]}],["$","h1",null,{"children":"Земельный участок в Ленинградской обл., 1 250 кв.м"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок, площадью 1 250 кв.м., расположенный по адресу: Волосовский муниципальный район, Калитинское сельское поселение, деревня Калитино, д.-. Кадастровый номер: 47:22:0630007:399 ."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24392167",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Санкт-Петербурга и Ленинградской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["10.10.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Находится в залоге у ПАО СБЕРБАНК",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом осуществляется по согласованию с финансовым управляющим и должником",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["29 авг. 2026 г., 09:00 (МСК)"," —"," ","5 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"801 900 ₽"}],["$","td",null,{"children":"40 095 ₽"}]]}],["$","tr","2",{"className":"now","children":[["$","td",null,{"children":["5 сент. 2026 г., 09:00 (МСК)"," —"," ","12 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"761 805 ₽"}],["$","td",null,{"children":"40 095 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["12 сент. 2026 г., 09:00 (МСК)"," —"," ","19 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"721 710 ₽"}],["$","td",null,{"children":"40 095 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["19 сент. 2026 г., 09:00 (МСК)"," —"," ","26 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"681 615 ₽"}],["$","td",null,{"children":"40 095 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["26 сент. 2026 г., 09:00 (МСК)"," —"," ","3 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"641 520 ₽"}],["$","td",null,{"children":"40 095 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["3 окт. 2026 г., 09:00 (МСК)"," —"," ","10 окт. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"601 425 ₽"}],["$","td",null,{"children":"40 095 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["10 окт. 2026 г., 09:00 (МСК)"," —"," ","17 окт. 2026 г., 20:00 (МСК)"]}],["$","td",null,{"children":"561 330 ₽"}],["$","td",null,{"children":"40 095 ₽"}]]}]]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Прокопенко Антонина Викторовна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=110203619660","children":"Прокопенко Антонина Викторовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","110203619660"]}],"$undefined"]}]]}],"$L11","$L12","$L13"],"$L14"]}]}]]}],"$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","tr","manager:Голубенко Алексей Павлович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=344345167964","children":"Голубенко Алексей Павлович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","344345167964"]}],["$","span",null,{"className":"muted","children":[" · ","Союз АУ НЦРБ"]}]]}]]}]
+12:["$","tr","organizer:Голубенко Алексей Павлович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=344345167964","children":"Голубенко Алексей Павлович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","344345167964"]}],"$undefined"]}]]}]
+13:["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]
+14:["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9056-18252%2F2025","children":"А56-18252/2025"}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Ленинградская область"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268891411/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268891411/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268891413/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B0.docx",{"href":"https://m-ets.ru/download/268891413/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B0.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_зем_участка.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268891415/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE_%D1%84%D1%83.pdf",{"href":"https://m-ets.ru/download/268891415/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE_%D1%84%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","положение_Прокопенко_фу.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+19:T1866,{
+  "id": "etp-mets:230912-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230912-1",
+  "sourceUrl": "https://m-ets.ru/230912-1",
+  "title": "Земельный участок в Ленинградской обл., 1 250 кв.м",
+  "description": "Земельный участок, площадью 1 250 кв.м., расположенный по адресу: Волосовский муниципальный район, Калитинское сельское поселение, деревня Калитино, д.-. Кадастровый номер: 47:22:0630007:399 .",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "47",
+  "address": "Ленинградская область",
+  "priceStart": "801900",
+  "priceMin": "561330.00",
+  "deposit": "40095.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-28T00:00:00+03:00",
+  "biddStartAt": "2026-08-29T09:00:00+03:00",
+  "biddEndAt": "2026-10-17T20:00:00+03:00",
+  "auctionAt": "2026-10-17T20:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А56-18252/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Прокопенко Антонина Викторовна",
+      "inn": "110203619660",
+      "efrsbId": "04630f0b00cbf4eb6394bb437d4b7dac"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Голубенко Алексей Павлович",
+      "inn": "344345167964",
+      "sro": "Союз АУ НЦРБ"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Голубенко Алексей Павлович",
+      "inn": "344345167964",
+      "email": "vlg_arbitr@mail.ru",
+      "phone": "+7 (937) 086 66 37"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-29T09:00:00+03:00",
+      "endAt": "2026-09-05T09:00:00+03:00",
+      "price": "801900.00",
+      "deposit": "40095.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-05T09:00:00+03:00",
+      "endAt": "2026-09-12T09:00:00+03:00",
+      "price": "761805.00",
+      "deposit": "40095.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-12T09:00:00+03:00",
+      "endAt": "2026-09-19T09:00:00+03:00",
+      "price": "721710.00",
+      "deposit": "40095.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-19T09:00:00+03:00",
+      "endAt": "2026-09-26T09:00:00+03:00",
+      "price": "681615.00",
+      "deposit": "40095.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-26T09:00:00+03:00",
+      "endAt": "2026-10-03T09:00:00+03:00",
+      "price": "641520.00",
+      "deposit": "40095.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-10-03T09:00:00+03:00",
+      "endAt": "2026-10-10T09:00:00+03:00",
+      "price": "601425.00",
+      "deposit": "40095.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-10T09:00:00+03:00",
+      "endAt": "2026-10-17T20:00:00+03:00",
+      "price": "561330.00",
+      "deposit": "40095.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268891411/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268891413/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B0.docx",
+      "name": "Проект_договора_купли_продажи_зем_участка.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268891415/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE_%D1%84%D1%83.pdf",
+      "name": "положение_Прокопенко_фу.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24392167",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Санкт-Петербурга и Ленинградской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "10.10.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Находится в залоге у ПАО СБЕРБАНК",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом осуществляется по согласованию с финансовым управляющим и должником",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:51:15.515Z",
+  "lastSeenAt": "2026-08-31T18:51:15.515Z",
+  "contentHash": "790464ccfea6bdba2fcc9f7de4f3c7bb2f3bfe9ebe6eb4e7c7293a7225fbfab3"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$19"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"761 805 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["721 710 ₽",["$","span",null,{"className":"muted","children":[" ","· ","12 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[5,", до ","561 330 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"801 900 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"40 095 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"27 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"29 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"17 окт. 2026 г., 20:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"41 день"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"17 окт. 2026 г., 20:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Ленинградская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230912-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Ленинградской обл., 1 250 кв.м — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

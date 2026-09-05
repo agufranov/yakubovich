@@ -1,0 +1,131 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","itender-bepspb--auctions_76364",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","itender-bepspb--auctions_76364","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","itender-bepspb--auctions_76364","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],"$undefined"]}],["$","h1",null,{"children":"Квартира с кадастровым номером 47:07:1044001:49123, расположенная по адресу: Ленинградская обл., Всеволожский муниципальный р-н, Заневское г-п, г. Кудрово, ул. Столичная, д.11, корп. 3, кв. 276, общая площадь 20.1 кв.м. Квартира в залоге у ПАО \"АК БАРС\" БАНК."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Жилые здания (помещения)"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Имущество, подлежащее реализации, находится в залоге у ПАО \"АК БАРС\" БАНК."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbMessageId",{"children":[["$","td",null,{"children":"Номер сообщения в ЕФРСБ"}],["$","td",null,{"children":["24215992",""]}]]}],["$","tr","efrsbClassifier",{"children":[["$","td",null,{"children":"Классификатор ЕФРСБ"}],["$","td",null,{"children":["Жилые здания (помещения)",""]}]]}],["$","tr","repeatTrades",{"children":[["$","td",null,{"children":"Повторные торги"}],["$","td",null,{"children":["Нет",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Шаг, % от начальной цены"}],["$","td",null,{"children":["5,00",""]}]]}]]}]}]]}],"$undefined","$undefined","$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",11,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://bankruptcy.bepspb.ru/public/attachments/file/787633/%d0%9f%d1%80%d0%be%d0%b5%d0%ba%d1%82%20%d0%b4%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%d0%b0%20%d0%be%20%d0%b7%d0%b0%d0%b4%d0%b0%d1%82%d0%ba%d0%b5%20%d0%bd%d0%b0%202%d0%bb.pdf",{"href":"https://bankruptcy.bepspb.ru/public/attachments/file/787633/%d0%9f%d1%80%d0%be%d0%b5%d0%ba%d1%82%20%d0%b4%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%d0%b0%20%d0%be%20%d0%b7%d0%b0%d0%b4%d0%b0%d1%82%d0%ba%d0%b5%20%d0%bd%d0%b0%202%d0%bb.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора о задатке на 2л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://bankruptcy.bepspb.ru/public/attachments/file/787634/%d0%9f%d1%80%d0%be%d0%b5%d0%ba%d1%82%20%d0%b4%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%d0%b0%20%d0%ba%d1%83%d0%bf%d0%bb%d0%b8-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b8%20.pdf",{"href":"https://bankruptcy.bepspb.ru/public/attachments/file/787634/%d0%9f%d1%80%d0%be%d0%b5%d0%ba%d1%82%20%d0%b4%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%d0%b0%20%d0%ba%d1%83%d0%bf%d0%bb%d0%b8-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b8%20.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи .pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://bankruptcy.bepspb.ru/public/attachments/file/787640/f7e262e2-830b-499f-91c9-e89d92464d5d.jpg",{"href":"https://bankruptcy.bepspb.ru/public/attachments/file/787640/f7e262e2-830b-499f-91c9-e89d92464d5d.jpg","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","f7e262e2-830b-499f-91c9-e89d92464d5d.jpg"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://bankruptcy.bepspb.ru/public/attachments/file/787642/ce4e8f09-b97f-4f52-a3b7-984bae6148f0.jpg",{"href":"https://bankruptcy.bepspb.ru/public/attachments/file/787642/ce4e8f09-b97f-4f52-a3b7-984bae6148f0.jpg","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ce4e8f09-b97f-4f52-a3b7-984bae6148f0.jpg"]}],"$L11"]}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18"]}]]}],false,"$L19"]}],"$L1a"]}]]}]
+11:["$","span",null,{"className":"size","children":"$undefined"}]
+12:["$","a","https://bankruptcy.bepspb.ru/public/attachments/file/787639/1055193e-67d1-44fb-b911-a6e7e6c9034a.jpg",{"href":"https://bankruptcy.bepspb.ru/public/attachments/file/787639/1055193e-67d1-44fb-b911-a6e7e6c9034a.jpg","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1055193e-67d1-44fb-b911-a6e7e6c9034a.jpg"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+13:["$","a","https://bankruptcy.bepspb.ru/public/attachments/file/787636/a4dec798-939f-481b-8a36-c9f5b36c20f6.jpg",{"href":"https://bankruptcy.bepspb.ru/public/attachments/file/787636/a4dec798-939f-481b-8a36-c9f5b36c20f6.jpg","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","a4dec798-939f-481b-8a36-c9f5b36c20f6.jpg"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+14:["$","a","https://bankruptcy.bepspb.ru/public/attachments/file/787638/8a3fb50e-8edd-479d-9677-4c08d821711c.jpg",{"href":"https://bankruptcy.bepspb.ru/public/attachments/file/787638/8a3fb50e-8edd-479d-9677-4c08d821711c.jpg","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","8a3fb50e-8edd-479d-9677-4c08d821711c.jpg"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+15:["$","a","https://bankruptcy.bepspb.ru/public/attachments/file/787635/11f8571a-4d34-4cec-a1b9-486af5f70a1e.jpg",{"href":"https://bankruptcy.bepspb.ru/public/attachments/file/787635/11f8571a-4d34-4cec-a1b9-486af5f70a1e.jpg","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","11f8571a-4d34-4cec-a1b9-486af5f70a1e.jpg"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+16:["$","a","https://bankruptcy.bepspb.ru/public/attachments/file/787641/1b7bb0f4-bdad-474d-b76f-01c8906fc16c.jpg",{"href":"https://bankruptcy.bepspb.ru/public/attachments/file/787641/1b7bb0f4-bdad-474d-b76f-01c8906fc16c.jpg","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","1b7bb0f4-bdad-474d-b76f-01c8906fc16c.jpg"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+17:["$","a","https://bankruptcy.bepspb.ru/public/attachments/file/787637/2f0ab462-ef0e-4e06-b65f-6eae585b279e.jpg",{"href":"https://bankruptcy.bepspb.ru/public/attachments/file/787637/2f0ab462-ef0e-4e06-b65f-6eae585b279e.jpg","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","2f0ab462-ef0e-4e06-b65f-6eae585b279e.jpg"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+18:["$","a","https://bankruptcy.bepspb.ru/public/attachments/file/787643/cd7a9ee4-db32-4133-9fab-908be8770c73.jpg",{"href":"https://bankruptcy.bepspb.ru/public/attachments/file/787643/cd7a9ee4-db32-4133-9fab-908be8770c73.jpg","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","cd7a9ee4-db32-4133-9fab-908be8770c73.jpg"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1b:T12a4,{
+  "id": "itender-bepspb:auctions_76364",
+  "sourceCode": "itender-bepspb",
+  "externalId": "auctions_76364",
+  "sourceUrl": "https://bankruptcy.bepspb.ru/public/auctions/lots/view/76364/",
+  "title": "Квартира с кадастровым номером 47:07:1044001:49123, расположенная по адресу: Ленинградская обл., Всеволожский муниципальный р-н, Заневское г-п, г. Кудрово, ул. Столичная, д.11, корп. 3, кв. 276, общая площадь 20.1 кв.м. Квартира в залоге у ПАО \"АК БАРС\" БАНК.",
+  "description": "Имущество, подлежащее реализации, находится в залоге у ПАО \"АК БАРС\" БАНК.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству (127-ФЗ)",
+  "tradeKind": "auction",
+  "tradeKindRaw": "auctions",
+  "status": "applications",
+  "statusRaw": "Прием заявок",
+  "kind": "realty",
+  "categoryName": "Жилые здания (помещения)",
+  "priceStart": "5223000.00",
+  "priceStep": "261150.00",
+  "deposit": "522300.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-17T00:00:00+03:00",
+  "biddStartAt": "2026-08-18T10:00:00+03:00",
+  "biddEndAt": "2026-09-21T18:00:00+03:00",
+  "auctionAt": "2026-09-22T11:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "bepspb",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://bankruptcy.bepspb.ru/public/attachments/file/787633/%d0%9f%d1%80%d0%be%d0%b5%d0%ba%d1%82%20%d0%b4%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%d0%b0%20%d0%be%20%d0%b7%d0%b0%d0%b4%d0%b0%d1%82%d0%ba%d0%b5%20%d0%bd%d0%b0%202%d0%bb.pdf",
+      "name": "Проект договора о задатке на 2л.pdf"
+    },
+    {
+      "fileId": "https://bankruptcy.bepspb.ru/public/attachments/file/787634/%d0%9f%d1%80%d0%be%d0%b5%d0%ba%d1%82%20%d0%b4%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%d0%b0%20%d0%ba%d1%83%d0%bf%d0%bb%d0%b8-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b8%20.pdf",
+      "name": "Проект договора купли-продажи .pdf"
+    },
+    {
+      "fileId": "https://bankruptcy.bepspb.ru/public/attachments/file/787640/f7e262e2-830b-499f-91c9-e89d92464d5d.jpg",
+      "name": "f7e262e2-830b-499f-91c9-e89d92464d5d.jpg"
+    },
+    {
+      "fileId": "https://bankruptcy.bepspb.ru/public/attachments/file/787642/ce4e8f09-b97f-4f52-a3b7-984bae6148f0.jpg",
+      "name": "ce4e8f09-b97f-4f52-a3b7-984bae6148f0.jpg"
+    },
+    {
+      "fileId": "https://bankruptcy.bepspb.ru/public/attachments/file/787639/1055193e-67d1-44fb-b911-a6e7e6c9034a.jpg",
+      "name": "1055193e-67d1-44fb-b911-a6e7e6c9034a.jpg"
+    },
+    {
+      "fileId": "https://bankruptcy.bepspb.ru/public/attachments/file/787636/a4dec798-939f-481b-8a36-c9f5b36c20f6.jpg",
+      "name": "a4dec798-939f-481b-8a36-c9f5b36c20f6.jpg"
+    },
+    {
+      "fileId": "https://bankruptcy.bepspb.ru/public/attachments/file/787638/8a3fb50e-8edd-479d-9677-4c08d821711c.jpg",
+      "name": "8a3fb50e-8edd-479d-9677-4c08d821711c.jpg"
+    },
+    {
+      "fileId": "https://bankruptcy.bepspb.ru/public/attachments/file/787635/11f8571a-4d34-4cec-a1b9-486af5f70a1e.jpg",
+      "name": "11f8571a-4d34-4cec-a1b9-486af5f70a1e.jpg"
+    },
+    {
+      "fileId": "https://bankruptcy.bepspb.ru/public/attachments/file/787641/1b7bb0f4-bdad-474d-b76f-01c8906fc16c.jpg",
+      "name": "1b7bb0f4-bdad-474d-b76f-01c8906fc16c.jpg"
+    },
+    {
+      "fileId": "https://bankruptcy.bepspb.ru/public/attachments/file/787637/2f0ab462-ef0e-4e06-b65f-6eae585b279e.jpg",
+      "name": "2f0ab462-ef0e-4e06-b65f-6eae585b279e.jpg"
+    },
+    {
+      "fileId": "https://bankruptcy.bepspb.ru/public/attachments/file/787643/cd7a9ee4-db32-4133-9fab-908be8770c73.jpg",
+      "name": "cd7a9ee4-db32-4133-9fab-908be8770c73.jpg"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbMessageId",
+      "name": "Номер сообщения в ЕФРСБ",
+      "value": "24215992",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbClassifier",
+      "name": "Классификатор ЕФРСБ",
+      "value": "Жилые здания (помещения)",
+      "source": "structured"
+    },
+    {
+      "key": "repeatTrades",
+      "name": "Повторные торги",
+      "value": "Нет",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Шаг, % от начальной цены",
+      "value": "5,00",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-26T18:32:53.752Z",
+  "lastSeenAt": "2026-08-26T18:32:53.752Z",
+  "contentHash": "4b880dd2aeee53b00db3650e6148f3dcbfe81c851eddd413b622e849a010dda8"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"5 223 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"261 150 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"522 300 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"16 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"18 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 18:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"15 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"22 сент. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=bepspb","children":"Балтийская ЭП"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://bankruptcy.bepspb.ru/public/auctions/lots/view/76364/","target":"_blank","rel":"noopener","children":["Смотреть на ","bankruptcy.bepspb.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Квартира с кадастровым номером 47:07:1044001:49123, расположенная по адресу: Ленинградская — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

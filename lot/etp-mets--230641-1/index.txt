@@ -1,0 +1,185 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230641-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230641-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230641-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=32","children":"Брянская обл."}]]]}],["$","h1",null,{"children":"Ford Focus, 2012 года, 149 лс"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268876799/268876799_thumb_0.jpg","alt":"Ford Focus, 2012 года, 149 лс"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268876803/268876803_thumb_0.jpg",{"href":"https://m-ets.ru/download/268876803/268876803_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268876803/268876803_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268876805/268876805_thumb_0.jpg",{"href":"https://m-ets.ru/download/268876805/268876805_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268876805/268876805_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268876802/268876802_thumb_0.jpg",{"href":"https://m-ets.ru/download/268876802/268876802_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268876802/268876802_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268876800/268876800_thumb_0.jpg",{"href":"https://m-ets.ru/download/268876800/268876800_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268876800/268876800_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268876804/268876804_thumb_0.jpg",{"href":"https://m-ets.ru/download/268876804/268876804_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268876804/268876804_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268876806/268876806_thumb_0.jpg",{"href":"https://m-ets.ru/download/268876806/268876806_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268876806/268876806_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"транспортное средство: Ford Focus, Идентификационный номер (VIN номер): X9FLXXEEBLCY62359, Год выпуска: 2012 гос.номер Н481МТ32"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Ford",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Focus",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2012",""]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["149"," л.с."]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["X9FLXXEEBLCY62359",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24375602",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Брянской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["12.11.2025",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["32 200 руб. (5%)",""]}]]}],"$L11","$L12"]}]}]]}],"$undefined","$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}]
+12:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Дополнительные сведения об имуществе, его характеристиках, порядке ознакомления с ним, порядке участия в торгах можно получить у организатора торгов - 89051203672, e-mail: yuliyakashleva5@gmail.com",""]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Новиков Евгений Васильевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=320600455522","children":"Новиков Евгений Васильевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","320600455522"]}],"$undefined"]}]]}],["$","tr","manager:Мартышко Юлия Юрьевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=682013515230","children":"Мартышко Юлия Юрьевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","682013515230"]}],["$","span",null,{"className":"muted","children":[" · ","Союз АУ НЦРБ"]}]]}]]}],["$","tr","organizer:Мартышко Юлия Юрьевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=682013515230","children":"Мартышко Юлия Юрьевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","682013515230"]}],"$undefined"]}]]}],["$","tr","pledgee:АО \"ТБАНК\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7710140679","children":"АО \"ТБАНК\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7710140679"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9009-10282%2F2025","children":"А09-10282/2025"}]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Брянская область"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268878989/Trekhstoronniy_dogovor_o_zadatke_-_torgi_po_bankrotstvu.pdf",{"href":"https://m-ets.ru/download/268878989/Trekhstoronniy_dogovor_o_zadatke_-_torgi_po_bankrotstvu.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Trekhstoronniy_dogovor_o_zadatke_-_torgi_po_bankrotstvu.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268878991/Proekt_Dogovora_kupli_prodazhi_imuschestvo.pdf",{"href":"https://m-ets.ru/download/268878991/Proekt_Dogovora_kupli_prodazhi_imuschestvo.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Proekt_Dogovora_kupli_prodazhi_imuschestvo.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268878993/Polozhenie_o_torgakh_Novikov.pdf",{"href":"https://m-ets.ru/download/268878993/Polozhenie_o_torgakh_Novikov.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Polozhenie_o_torgakh_Novikov.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268878995/NOVIKOV_EVGENIJ_VASIL_EVICh_X9FLXXEEBLCY62359.pdf",{"href":"https://m-ets.ru/download/268878995/NOVIKOV_EVGENIJ_VASIL_EVICh_X9FLXXEEBLCY62359.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","NOVIKOV_EVGENIJ_VASIL_EVICh_X9FLXXEEBLCY62359.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T1625,{
+  "id": "etp-mets:230641-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230641-1",
+  "sourceUrl": "https://m-ets.ru/230641-1",
+  "title": "Ford Focus, 2012 года, 149 лс",
+  "description": "транспортное средство: Ford Focus, Идентификационный номер (VIN номер): X9FLXXEEBLCY62359, Год выпуска: 2012 гос.номер Н481МТ32",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "32",
+  "address": "Брянская область",
+  "priceStart": "644000",
+  "priceStep": "32200",
+  "deposit": "64400",
+  "currency": "RUB",
+  "publishedAt": "2026-08-27T00:00:00+03:00",
+  "biddStartAt": "2026-08-28T09:00:00+03:00",
+  "biddEndAt": "2026-10-09T18:00:00+03:00",
+  "auctionAt": "2026-10-12T18:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А09-10282/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Новиков Евгений Васильевич",
+      "inn": "320600455522",
+      "efrsbId": "f14bd3d2be27dab90474a24f1fe3b858"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Мартышко Юлия Юрьевна",
+      "inn": "682013515230",
+      "sro": "Союз АУ НЦРБ"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Мартышко Юлия Юрьевна",
+      "inn": "682013515230",
+      "email": "yuliyakashleva5@gmail.com",
+      "phone": "+7 (905) 120 36 72"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "АО \"ТБАНК\"",
+      "inn": "7710140679"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268876799/268876799_thumb_0.jpg",
+    "https://m-ets.ru/download/268876803/268876803_thumb_0.jpg",
+    "https://m-ets.ru/download/268876805/268876805_thumb_0.jpg",
+    "https://m-ets.ru/download/268876802/268876802_thumb_0.jpg",
+    "https://m-ets.ru/download/268876800/268876800_thumb_0.jpg",
+    "https://m-ets.ru/download/268876804/268876804_thumb_0.jpg",
+    "https://m-ets.ru/download/268876806/268876806_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268878989/Trekhstoronniy_dogovor_o_zadatke_-_torgi_po_bankrotstvu.pdf",
+      "name": "Trekhstoronniy_dogovor_o_zadatke_-_torgi_po_bankrotstvu.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878991/Proekt_Dogovora_kupli_prodazhi_imuschestvo.pdf",
+      "name": "Proekt_Dogovora_kupli_prodazhi_imuschestvo.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878993/Polozhenie_o_torgakh_Novikov.pdf",
+      "name": "Polozhenie_o_torgakh_Novikov.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268878995/NOVIKOV_EVGENIJ_VASIL_EVICh_X9FLXXEEBLCY62359.pdf",
+      "name": "NOVIKOV_EVGENIJ_VASIL_EVICh_X9FLXXEEBLCY62359.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Ford",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Focus",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2012",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "149",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "X9FLXXEEBLCY62359",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24375602",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Брянской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "12.11.2025",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "32 200 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Дополнительные сведения об имуществе, его характеристиках, порядке ознакомления с ним, порядке участия в торгах можно получить у организатора торгов - 89051203672, e-mail: yuliyakashleva5@gmail.com",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:26:36.660Z",
+  "lastSeenAt": "2026-08-31T19:26:36.660Z",
+  "contentHash": "06eca09d9ce946fbb8e0b56004626a0e87b4b4595c3b22aa7a5435fcf88d206c"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"644 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"32 200 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"64 400 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"26 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"28 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"9 окт. 2026 г., 18:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"33 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"12 окт. 2026 г., 18:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Брянская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230641-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Ford Focus, 2012 года, 149 лс — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

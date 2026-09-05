@@ -1,0 +1,200 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--228255-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--228255-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--228255-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=69","children":"Тверская обл."}]]]}],["$","h1",null,{"children":"Земельный участок в Тверской обл., 1500 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок для ведения личного подсобного хозяйства и индивидуального жилищного строительства площадью 1500 кв.м. Местоположение установлено относительно ориентира, расположенного в границах участка. Почтовый адрес ориентира: Тверская область, р-н. Калининский, с/п. Верхневолжское, д. Абутьково, д. 24, кадастровый номер: 69:10:0400201:54 ."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24223707",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Тверской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["29.09.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с условиями, характеристиками имущества, с условиями торгов, порядком оформления участия в торгах, перечнем представляемых участниками документов и требованиями к их оформлению на сайте электронной площадки «Межрегиональная Электронная Торговая система» (www.m-ets.ru), а также по адресу: г. Тверь, ул. Серебряная, д. 12 в рабочие дни с 10:00 до 13:00.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["18 авг. 2026 г., 09:00 (МСК)"," —"," ","21 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"253 017 ₽"}],["$","td",null,{"children":"25 301,70 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 09:00 (МСК)"," —"," ","24 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"227 715,30 ₽"}],["$","td",null,{"children":"25 301,70 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 09:00 (МСК)"," —"," ","27 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"202 413,60 ₽"}],["$","td",null,{"children":"25 301,70 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 09:00 (МСК)"," —"," ","30 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"177 111,90 ₽"}],["$","td",null,{"children":"25 301,70 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["30 авг. 2026 г., 09:00 (МСК)"," —"," ","2 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"151 810,20 ₽"}],["$","td",null,{"children":"25 301,70 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["2 сент. 2026 г., 09:00 (МСК)"," —"," ","5 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"126 508,50 ₽"}],["$","td",null,{"children":"25 301,70 ₽"}]]}],["$","tr","7",{"className":"now","children":[["$","td",null,{"children":["5 сент. 2026 г., 09:00 (МСК)"," —"," ","8 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"101 206,80 ₽"}],"$L11"]}],"$L12","$L13","$L14"]}]]}]]}],"$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","td",null,{"children":"25 301,70 ₽"}]
+12:["$","tr","8",{"className":"","children":[["$","td",null,{"children":["8 сент. 2026 г., 09:00 (МСК)"," —"," ","11 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"75 905,10 ₽"}],["$","td",null,{"children":"25 301,70 ₽"}]]}]
+13:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["11 сент. 2026 г., 09:00 (МСК)"," —"," ","14 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"50 603,40 ₽"}],["$","td",null,{"children":"25 301,70 ₽"}]]}]
+14:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 09:00 (МСК)"," —"," ","16 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"25 301,70 ₽"}],["$","td",null,{"children":"25 301,70 ₽"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Вертегел Зинаида Николаевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=690141876281","children":"Вертегел Зинаида Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","690141876281"]}],"$undefined"]}]]}],["$","tr","manager:Прохоренко Анна Михайловна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=690504815768","children":"Прохоренко Анна Михайловна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","690504815768"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация ВАУ \"Достояние\""]}]]}]]}],["$","tr","organizer:Прохоренко Анна Михайловна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=690504815768","children":"Прохоренко Анна Михайловна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","690504815768"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9066-10802%2F2025","children":"А66-10802/2025"}]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Тверская область"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268698331/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9B%D0%BE%D1%82%20%E2%84%961%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx",{"href":"https://m-ets.ru/download/268698331/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9B%D0%BE%D1%82%20%E2%84%961%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли продажи Лот №1 проект.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268698543/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268698543/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1a:T1adb,{
+  "id": "etp-mets:228255-1",
+  "sourceCode": "etp-mets",
+  "externalId": "228255-1",
+  "sourceUrl": "https://m-ets.ru/228255-1",
+  "title": "Земельный участок в Тверской обл., 1500 кв.м.",
+  "description": "Земельный участок для ведения личного подсобного хозяйства и индивидуального жилищного строительства площадью 1500 кв.м. Местоположение установлено относительно ориентира, расположенного в границах участка. Почтовый адрес ориентира: Тверская область, р-н. Калининский, с/п. Верхневолжское, д. Абутьково, д. 24, кадастровый номер: 69:10:0400201:54 .",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "69",
+  "address": "Тверская область",
+  "priceStart": "253017",
+  "priceMin": "25301.70",
+  "deposit": "25301.70",
+  "currency": "RUB",
+  "publishedAt": "2026-08-17T00:00:00+03:00",
+  "biddStartAt": "2026-08-18T09:00:00+03:00",
+  "biddEndAt": "2026-09-16T09:00:00+03:00",
+  "auctionAt": "2026-09-16T09:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А66-10802/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Вертегел Зинаида Николаевна",
+      "inn": "690141876281",
+      "efrsbId": "15da6b5562f4c8690684bf755ca8d34c"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Прохоренко Анна Михайловна",
+      "inn": "690504815768",
+      "sro": "Ассоциация ВАУ \"Достояние\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Прохоренко Анна Михайловна",
+      "inn": "690504815768",
+      "email": "annaprh555@gmail.com",
+      "phone": "+7 (910) 534 11 94"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-18T09:00:00+03:00",
+      "endAt": "2026-08-21T09:00:00+03:00",
+      "price": "253017.00",
+      "deposit": "25301.70"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-21T09:00:00+03:00",
+      "endAt": "2026-08-24T09:00:00+03:00",
+      "price": "227715.30",
+      "deposit": "25301.70"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-24T09:00:00+03:00",
+      "endAt": "2026-08-27T09:00:00+03:00",
+      "price": "202413.60",
+      "deposit": "25301.70"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-27T09:00:00+03:00",
+      "endAt": "2026-08-30T09:00:00+03:00",
+      "price": "177111.90",
+      "deposit": "25301.70"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-30T09:00:00+03:00",
+      "endAt": "2026-09-02T09:00:00+03:00",
+      "price": "151810.20",
+      "deposit": "25301.70"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-02T09:00:00+03:00",
+      "endAt": "2026-09-05T09:00:00+03:00",
+      "price": "126508.50",
+      "deposit": "25301.70"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-05T09:00:00+03:00",
+      "endAt": "2026-09-08T09:00:00+03:00",
+      "price": "101206.80",
+      "deposit": "25301.70"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-08T09:00:00+03:00",
+      "endAt": "2026-09-11T09:00:00+03:00",
+      "price": "75905.10",
+      "deposit": "25301.70"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-11T09:00:00+03:00",
+      "endAt": "2026-09-14T09:00:00+03:00",
+      "price": "50603.40",
+      "deposit": "25301.70"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-09-14T09:00:00+03:00",
+      "endAt": "2026-09-16T09:00:00+03:00",
+      "price": "25301.70",
+      "deposit": "25301.70"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268698331/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9B%D0%BE%D1%82%20%E2%84%961%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx",
+      "name": "Договор купли продажи Лот №1 проект.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268698543/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24223707",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Тверской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "29.09.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с условиями, характеристиками имущества, с условиями торгов, порядком оформления участия в торгах, перечнем представляемых участниками документов и требованиями к их оформлению на сайте электронной площадки «Межрегиональная Электронная Торговая система» (www.m-ets.ru), а также по адресу: г. Тверь, ул. Серебряная, д. 12 в рабочие дни с 10:00 до 13:00.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:24:27.709Z",
+  "lastSeenAt": "2026-08-31T18:24:27.709Z",
+  "contentHash": "a50b8db4d1d5f9160ea042f2735209aae2a273f568092a16c68b9761fdadf2b0"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"101 206,80 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["75 905,10 ₽",["$","span",null,{"className":"muted","children":[" ","· ","8 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[3,", до ","25 301,70 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"253 017 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"25 301,70 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"16 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"18 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"16 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"10 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"16 сент. 2026 г., 09:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Тверская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/228255-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Тверской обл., 1500 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

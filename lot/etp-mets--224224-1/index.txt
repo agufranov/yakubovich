@@ -1,0 +1,163 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--224224-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--224224-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--224224-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=78","children":"Санкт-Петербург"}]]]}],["$","h1",null,{"children":"Квартира в Санкт-Петербурге, 76 кв.м, 3 комн."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Квартира"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268368733/268368733_thumb_0.jpg","alt":"Квартира в Санкт-Петербурге, 76 кв.м, 3 комн."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268368720/268368720_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368720/268368720_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368720/268368720_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368738/268368738_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368738/268368738_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368738/268368738_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368723/268368723_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368723/268368723_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368723/268368723_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368721/268368721_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368721/268368721_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368721/268368721_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368737/268368737_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368737/268368737_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368737/268368737_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368731/268368731_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368731/268368731_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368731/268368731_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368732/268368732_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368732/268368732_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368732/268368732_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368718/268368718_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368718/268368718_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368718/268368718_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368722/268368722_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368722/268368722_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368722/268368722_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368727/268368727_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368727/268368727_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368727/268368727_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368729/268368729_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368729/268368729_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$undefined","$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268368729/268368729_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",8," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268368730/268368730_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368730/268368730_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368730/268368730_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368735/268368735_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368735/268368735_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368735/268368735_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368719/268368719_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368719/268368719_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368719/268368719_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368728/268368728_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368728/268368728_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368728/268368728_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368734/268368734_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368734/268368734_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368734/268368734_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368724/268368724_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368724/268368724_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368724/268368724_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368739/268368739_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368739/268368739_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368739/268368739_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268368740/268368740_thumb_0.jpg",{"href":"https://m-ets.ru/download/268368740/268368740_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268368740/268368740_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Квартира, общей площадью 76 кв.м., кадастровый номер 78:36:0005354:3445 , адрес: 194156, ул. Манчестерская, 3 стр 1, кв 825"}]]}]
+1a:T733,Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: * Вид, номер и дата государственной регистрации: Запрещение регистрации, 78:36:0005354:3445-78/011/2026-3, 08.05.2026 Основание государственной регистрации Постановление судебного пристава-исполнителя Выборгский РОСП 1398893374/7802 (237008/26/78002-ИП), 06.05.2026, выдан Выборгский РОСП * Вид, номер и дата государственной регистрации: Ипотека, 78:36:0005354:3445-78/011/2022-2, 15.07.2022 Срок, на который ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью установлено ограничение прав и обременение объекта недвижимости c 19.11.2020, срок: на 330 месяцев Лицо, в пользу которого установлено ограничение прав и обременение объекта недвижимости: Акционерное общество "Российский Сельскохозяйственный банк", ИНН 7725114488 , ОГРН 1027700342890 Основание государственной регистрации: Разрешение на ввод объекта в эксплуатацию 78-03-01-2022, 12.01.2022, Договор участия в долевом строительстве многоквартирного дома 199178-СВ1.2, 21.08.2020, Акт приема-передачи, 26.05.202214:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23951119",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд города Санкт-Петербурга и Ленинградской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["04.12.2024",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["1 346 085 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["$1a",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом производится с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи по телефону: +7 911 239 84 83",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Левицкий Александр Сергеевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=470379239347","children":"Левицкий Александр Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","470379239347"]}],"$undefined"]}]]}],["$","tr","manager:Смирнов Андрей Анатольевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=250209742114","children":"Смирнов Андрей Анатольевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","250209742114"]}],["$","span",null,{"className":"muted","children":[" · ","САУ \"СРО \"ДЕЛО\""]}]]}]]}],["$","tr","organizer:Смирнов Андрей Анатольевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=250209742114","children":"Смирнов Андрей Анатольевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","250209742114"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9056-76871%2F2024","children":"А56-76871/2024"}]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"г. Санкт-Петербург"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268368725/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_25.05.2026%20(2).pdf",{"href":"https://m-ets.ru/download/268368725/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_25.05.2026%20(2).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о торгах_25.05.2026 (2).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268368741/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%B5%D0%B2%D0%B8%D1%86%D0%BA%D0%B8%D0%B9)%20(1).pdf",{"href":"https://m-ets.ru/download/268368741/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%B5%D0%B2%D0%B8%D1%86%D0%BA%D0%B8%D0%B9)%20(1).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи (Левицкий) (1).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268368743/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_25.05.2026%20(3).pdf",{"href":"https://m-ets.ru/download/268368743/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_25.05.2026%20(3).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о торгах_25.05.2026 (3).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268368749/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268368749/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T2027,{
+  "id": "etp-mets:224224-1",
+  "sourceCode": "etp-mets",
+  "externalId": "224224-1",
+  "sourceUrl": "https://m-ets.ru/224224-1",
+  "title": "Квартира в Санкт-Петербурге, 76 кв.м, 3 комн.",
+  "description": "Квартира, общей площадью 76 кв.м., кадастровый номер 78:36:0005354:3445 , адрес: 194156, ул. Манчестерская, 3 стр 1, кв 825",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "36",
+  "categoryName": "Квартира",
+  "regionCode": "78",
+  "address": "г. Санкт-Петербург",
+  "priceStart": "26921700",
+  "priceStep": "1346085",
+  "deposit": "2692170",
+  "currency": "RUB",
+  "publishedAt": "2026-07-28T00:00:00+03:00",
+  "biddStartAt": "2026-07-29T10:00:00+03:00",
+  "biddEndAt": "2026-09-02T10:00:00+03:00",
+  "auctionAt": "2026-09-03T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А56-76871/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Левицкий Александр Сергеевич",
+      "inn": "470379239347",
+      "efrsbId": "7046ee90262bdd580164ae429a2c61ce"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Смирнов Андрей Анатольевич",
+      "inn": "250209742114",
+      "sro": "САУ \"СРО \"ДЕЛО\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Смирнов Андрей Анатольевич",
+      "inn": "250209742114",
+      "email": "asm3262457@mail.ru",
+      "phone": "+7 (977) 326 24 57"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268368733/268368733_thumb_0.jpg",
+    "https://m-ets.ru/download/268368720/268368720_thumb_0.jpg",
+    "https://m-ets.ru/download/268368738/268368738_thumb_0.jpg",
+    "https://m-ets.ru/download/268368723/268368723_thumb_0.jpg",
+    "https://m-ets.ru/download/268368721/268368721_thumb_0.jpg",
+    "https://m-ets.ru/download/268368737/268368737_thumb_0.jpg",
+    "https://m-ets.ru/download/268368731/268368731_thumb_0.jpg",
+    "https://m-ets.ru/download/268368732/268368732_thumb_0.jpg",
+    "https://m-ets.ru/download/268368718/268368718_thumb_0.jpg",
+    "https://m-ets.ru/download/268368722/268368722_thumb_0.jpg",
+    "https://m-ets.ru/download/268368727/268368727_thumb_0.jpg",
+    "https://m-ets.ru/download/268368729/268368729_thumb_0.jpg",
+    "https://m-ets.ru/download/268368730/268368730_thumb_0.jpg",
+    "https://m-ets.ru/download/268368735/268368735_thumb_0.jpg",
+    "https://m-ets.ru/download/268368719/268368719_thumb_0.jpg",
+    "https://m-ets.ru/download/268368728/268368728_thumb_0.jpg",
+    "https://m-ets.ru/download/268368734/268368734_thumb_0.jpg",
+    "https://m-ets.ru/download/268368724/268368724_thumb_0.jpg",
+    "https://m-ets.ru/download/268368739/268368739_thumb_0.jpg",
+    "https://m-ets.ru/download/268368740/268368740_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268368725/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_25.05.2026%20(2).pdf",
+      "name": "Положение о торгах_25.05.2026 (2).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268368741/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%9B%D0%B5%D0%B2%D0%B8%D1%86%D0%BA%D0%B8%D0%B9)%20(1).pdf",
+      "name": "Проект договора купли-продажи (Левицкий) (1).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268368743/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85_25.05.2026%20(3).pdf",
+      "name": "Положение о торгах_25.05.2026 (3).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268368749/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23951119",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд города Санкт-Петербурга и Ленинградской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "04.12.2024",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "1 346 085 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: * Вид, номер и дата государственной регистрации: Запрещение регистрации, 78:36:0005354:3445-78/011/2026-3, 08.05.2026 Основание государственной регистрации Постановление судебного пристава-исполнителя Выборгский РОСП 1398893374/7802 (237008/26/78002-ИП), 06.05.2026, выдан Выборгский РОСП * Вид, номер и дата государственной регистрации: Ипотека, 78:36:0005354:3445-78/011/2022-2, 15.07.2022 Срок, на который ... Показать сведения об обременении, судебных спорах на момент размещения торгов полностью установлено ограничение прав и обременение объекта недвижимости c 19.11.2020, срок: на 330 месяцев Лицо, в пользу которого установлено ограничение прав и обременение объекта недвижимости: Акционерное общество \"Российский Сельскохозяйственный банк\", ИНН 7725114488 , ОГРН 1027700342890 Основание государственной регистрации: Разрешение на ввод объекта в эксплуатацию 78-03-01-2022, 12.01.2022, Договор участия в долевом строительстве многоквартирного дома 199178-СВ1.2, 21.08.2020, Акт приема-передачи, 26.05.2022",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом производится с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи по телефону: +7 911 239 84 83",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:58:44.471Z",
+  "lastSeenAt": "2026-08-31T17:58:44.471Z",
+  "contentHash": "cd43ecac8f00359a914fdd68ae39240a1f3b0688d90bb219e4dfa6b985b2221a"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"26 921 700 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"1 346 085 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"2 692 170 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"27 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"29 июл. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"2 сент. 2026 г., 10:00 (МСК)"}]],false,[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"3 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Санкт-Петербург"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/224224-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Квартира в Санкт-Петербурге, 76 кв.м, 3 комн. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

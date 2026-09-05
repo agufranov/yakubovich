@@ -1,0 +1,192 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229463-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229463-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229463-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=25","children":"Приморский край"}]]]}],["$","h1",null,{"children":"Дом в Приморском крае, 30,2 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Жилой дом "}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268783807/268783807_thumb_0.jpg","alt":"Дом в Приморском крае, 30,2 кв.м."}]}],false,false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Жилой дом, расположенный по адресу Приморский край, муниципальный округ Ольгинский, село Маргаритово, улица Центральная, дом 37. Кадастровый номер: 25:12:010601:520 . Площадь: 30.2 кв.м."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24301109",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Приморского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["28.10.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомиться с имуществом можно в рабочие дни с 10.00 час. до 16.00 час. согласовав дату ознакомлении у организатора торгов по тел.8-902-386-03-80, посредством эл. почты ksi031@mail.ru.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 12:00 (МСК)"," —"," ","27 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"61 096,71 ₽"}],["$","td",null,{"children":"6 109,67 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 12:00 (МСК)"," —"," ","30 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"54 987,04 ₽"}],["$","td",null,{"children":"5 498,70 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["30 авг. 2026 г., 12:00 (МСК)"," —"," ","2 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"48 877,37 ₽"}],["$","td",null,{"children":"4 887,74 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["2 сент. 2026 г., 12:00 (МСК)"," —"," ","5 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"42 767,70 ₽"}],["$","td",null,{"children":"4 276,77 ₽"}]]}],["$","tr","5",{"className":"now","children":[["$","td",null,{"children":["5 сент. 2026 г., 12:00 (МСК)"," —"," ","8 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"36 658,03 ₽"}],["$","td",null,{"children":"3 665,80 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["8 сент. 2026 г., 12:00 (МСК)"," —"," ","11 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"30 548,36 ₽"}],["$","td",null,{"children":"3 054,84 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["11 сент. 2026 г., 12:00 (МСК)"," —"," ","14 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"24 438,68 ₽"}],["$","td",null,{"children":"2 443,87 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 12:00 (МСК)"," —"," ","17 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"18 329,01 ₽"}],["$","td",null,{"children":"1 832,90 ₽"}]]}],"$L11"]}]]}]]}],"$L12","$L13","$L14",false,"$L15"]}],"$L16"]}]]}]
+11:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 12:00 (МСК)"," —"," ","20 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"12 219,34 ₽"}],["$","td",null,{"children":"1 221,93 ₽"}]]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Черноморцева Светлана Сергеевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=252302884808","children":"Черноморцева Светлана Сергеевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","252302884808"]}],"$undefined"]}]]}],["$","tr","manager:Каныгина Светлана Ивановна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=344700182999","children":"Каныгина Светлана Ивановна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","344700182999"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Солидарность\""]}]]}]]}],["$","tr","organizer:Каныгина Светлана Ивановна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=344700182999","children":"Каныгина Светлана Ивановна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","344700182999"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9051-16609%2F2025","children":"А51-16609/2025"}]}]]}]]}]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Приморский край"}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268783808/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20(2).pdf",{"href":"https://m-ets.ru/download/268783808/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20(2).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект ДКП (2).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268788134/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268788134/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+17:T16fc,{
+  "id": "etp-mets:229463-1",
+  "sourceCode": "etp-mets",
+  "externalId": "229463-1",
+  "sourceUrl": "https://m-ets.ru/229463-1",
+  "title": "Дом в Приморском крае, 30,2 кв.м.",
+  "description": "Жилой дом, расположенный по адресу Приморский край, муниципальный округ Ольгинский, село Маргаритово, улица Центральная, дом 37. Кадастровый номер: 25:12:010601:520 . Площадь: 30.2 кв.м.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "34",
+  "categoryName": "Жилой дом ",
+  "regionCode": "25",
+  "address": "Приморский край",
+  "priceStart": "61096.71",
+  "priceMin": "12219.34",
+  "deposit": "6109.67",
+  "currency": "RUB",
+  "publishedAt": "2026-08-23T00:00:00+03:00",
+  "biddStartAt": "2026-08-24T12:00:00+03:00",
+  "biddEndAt": "2026-09-20T12:00:00+03:00",
+  "auctionAt": "2026-09-21T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А51-16609/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Черноморцева Светлана Сергеевна",
+      "inn": "252302884808",
+      "efrsbId": "a3c785cfae2e6df88b740e678d5208b1"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Каныгина Светлана Ивановна",
+      "inn": "344700182999",
+      "sro": "ААУ \"Солидарность\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Каныгина Светлана Ивановна",
+      "inn": "344700182999",
+      "email": "ksi031@mail.ru",
+      "phone": "+7 (902) 386 03 80"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-24T12:00:00+03:00",
+      "endAt": "2026-08-27T12:00:00+03:00",
+      "price": "61096.71",
+      "deposit": "6109.67"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-27T12:00:00+03:00",
+      "endAt": "2026-08-30T12:00:00+03:00",
+      "price": "54987.04",
+      "deposit": "5498.70"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-30T12:00:00+03:00",
+      "endAt": "2026-09-02T12:00:00+03:00",
+      "price": "48877.37",
+      "deposit": "4887.74"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-02T12:00:00+03:00",
+      "endAt": "2026-09-05T12:00:00+03:00",
+      "price": "42767.70",
+      "deposit": "4276.77"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-05T12:00:00+03:00",
+      "endAt": "2026-09-08T12:00:00+03:00",
+      "price": "36658.03",
+      "deposit": "3665.80"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-08T12:00:00+03:00",
+      "endAt": "2026-09-11T12:00:00+03:00",
+      "price": "30548.36",
+      "deposit": "3054.84"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-11T12:00:00+03:00",
+      "endAt": "2026-09-14T12:00:00+03:00",
+      "price": "24438.68",
+      "deposit": "2443.87"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-14T12:00:00+03:00",
+      "endAt": "2026-09-17T12:00:00+03:00",
+      "price": "18329.01",
+      "deposit": "1832.90"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-17T12:00:00+03:00",
+      "endAt": "2026-09-20T12:00:00+03:00",
+      "price": "12219.34",
+      "deposit": "1221.93"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268783807/268783807_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268783808/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%94%D0%9A%D0%9F%20(2).pdf",
+      "name": "Проект ДКП (2).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268788134/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24301109",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Приморского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "28.10.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомиться с имуществом можно в рабочие дни с 10.00 час. до 16.00 час. согласовав дату ознакомлении у организатора торгов по тел.8-902-386-03-80, посредством эл. почты ksi031@mail.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:33:35.031Z",
+  "lastSeenAt": "2026-08-31T18:33:35.031Z",
+  "contentHash": "7342dc8b91b23725f63d8a6d9c7948fd54883ee70c8f0bf50a9e8a87ba464f33"
+}15:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$17"}]]}]
+16:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"36 658,03 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["30 548,36 ₽",["$","span",null,{"className":"muted","children":[" ","· ","8 сент. 2026 г., 12:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[4,", до ","12 219,34 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"61 096,71 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"6 109,67 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"22 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"24 авг. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"20 сент. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"14 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"21 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Приморский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229463-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Дом в Приморском крае, 30,2 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

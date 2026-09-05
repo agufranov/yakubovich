@@ -1,0 +1,195 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--223905-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--223905-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--223905-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=47","children":"Ленинградская обл."}]]]}],["$","h1",null,{"children":"Земельный участок в Ленинградской обл., 800 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок, общей площадью 800 м2, кадастровый (условный) номер: 47:14:0901003:211 , расположенный по адресу: Ленинградская область, Ломоносовский район, МО \"Гостилицкое сельское поселение\", ЗАО \"Племенной завод \"Красная Балтика\", у д. Сокули, поле 53, уч. 113. Виды разрешенного использования объекта недвижимости: для дачного строительства."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23936526",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Липецкой области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["22.09.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество, указанное в Лоте № 1, является предметом залога Публичного акционерного общества «Сбербанк России», ИНН 7707083893, Адрес: 117997, г. Москва, ул. Вавилова, д. 19, на основании кредитного договора № 11838385 от 11.04.2023. Требования кредитора ПАО Сбербанк включены в реестр требований кредиторов должника на основании определений Арбитражного суда Липецкой области по делу № А36-5126/2025 от 30.12.2025. Вид, номер и дата государственной регистрации ограничения прав и обременение объекта недвижимости: Ипотека в силу закона, 47:14:0901003:211-47/168/2023-5, 12.04.2023;",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомиться с документацией можно по адресу: 398059, г. Липецк, Коммунальная пл., д.9, оф. 409А, по предварительной записи по тел.: +7 9103535089. Имущество находится в свободном доступе, ознакомиться с ним можно по адресу нахождения: Ленинградская область, Ломоносовский район, МО \"Гостилицкое сельское поселение\", ЗАО \"Племенной завод \"Красная Балтика\", у д. Сокули, поле 53, уч. 113.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 09:00 (МСК)"," —"," ","10 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 353 600 ₽"}],["$","td",null,{"children":"135 360 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 09:00 (МСК)"," —"," ","17 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 285 920 ₽"}],["$","td",null,{"children":"135 360 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 09:00 (МСК)"," —"," ","24 авг. 2026 г., 09:00 (МСК)"]}],"$L11","$L12"]}],"$L13","$L14","$L15","$L16"]}]]}]]}],"$L17","$L18","$L19",false,"$L1a"]}],"$L1b"]}]]}]
+11:["$","td",null,{"children":"1 218 240 ₽"}]
+12:["$","td",null,{"children":"135 360 ₽"}]
+13:["$","tr","4",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 09:00 (МСК)"," —"," ","31 авг. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 150 560 ₽"}],["$","td",null,{"children":"135 360 ₽"}]]}]
+14:["$","tr","5",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 09:00 (МСК)"," —"," ","7 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 082 880 ₽"}],["$","td",null,{"children":"135 360 ₽"}]]}]
+15:["$","tr","6",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 09:00 (МСК)"," —"," ","14 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"1 015 200 ₽"}],["$","td",null,{"children":"135 360 ₽"}]]}]
+16:["$","tr","7",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 09:00 (МСК)"," —"," ","21 сент. 2026 г., 09:00 (МСК)"]}],["$","td",null,{"children":"947 520 ₽"}],["$","td",null,{"children":"135 360 ₽"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Савченко Людмила Владиславовна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=482613836304","children":"Савченко Людмила Владиславовна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","482613836304"]}],"$undefined"]}]]}],["$","tr","manager:Гулынский Алексей Николаевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=482601981900","children":"Гулынский Алексей Николаевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","482601981900"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация СРО ОАУ \"Лидер\""]}]]}]]}],["$","tr","organizer:Гулынский Алексей Николаевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=482601981900","children":"Гулынский Алексей Николаевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","482601981900"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9036-5126%2F2025","children":"А36-5126/2025"}]}]]}]]}]}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Ленинградская область"}]]}]
+19:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268341088/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A1%D0%B0%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D1%84%D1%83.pdf",{"href":"https://m-ets.ru/download/268341088/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A1%D0%B0%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D1%84%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","положение_Савченко_фу.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268341090/%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA.pdf",{"href":"https://m-ets.ru/download/268341090/%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Онлайн-выписка земельный участок.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268343106/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268343106/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268343108/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B02%D0%9F%D0%9F.pdf",{"href":"https://m-ets.ru/download/268343108/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B02%D0%9F%D0%9F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_зем_участка2ПП.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1c:T2048,{
+  "id": "etp-mets:223905-1",
+  "sourceCode": "etp-mets",
+  "externalId": "223905-1",
+  "sourceUrl": "https://m-ets.ru/223905-1",
+  "title": "Земельный участок в Ленинградской обл., 800 кв.м.",
+  "description": "Земельный участок, общей площадью 800 м2, кадастровый (условный) номер: 47:14:0901003:211 , расположенный по адресу: Ленинградская область, Ломоносовский район, МО \"Гостилицкое сельское поселение\", ЗАО \"Племенной завод \"Красная Балтика\", у д. Сокули, поле 53, уч. 113. Виды разрешенного использования объекта недвижимости: для дачного строительства.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "47",
+  "address": "Ленинградская область",
+  "priceStart": "1353600",
+  "priceMin": "947520.00",
+  "deposit": "135360.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-27T00:00:00+03:00",
+  "biddStartAt": "2026-08-03T09:00:00+03:00",
+  "biddEndAt": "2026-09-21T09:00:00+03:00",
+  "auctionAt": "2026-09-21T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А36-5126/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Савченко Людмила Владиславовна",
+      "inn": "482613836304",
+      "efrsbId": "12499e3489a79b68abb439480f9f5b88"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Гулынский Алексей Николаевич",
+      "inn": "482601981900",
+      "sro": "Ассоциация СРО ОАУ \"Лидер\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Гулынский Алексей Николаевич",
+      "inn": "482601981900",
+      "email": "9103535089@mail.ru",
+      "phone": "+7 (910) 353 50 89"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-03T09:00:00+03:00",
+      "endAt": "2026-08-10T09:00:00+03:00",
+      "price": "1353600.00",
+      "deposit": "135360.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-10T09:00:00+03:00",
+      "endAt": "2026-08-17T09:00:00+03:00",
+      "price": "1285920.00",
+      "deposit": "135360.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-17T09:00:00+03:00",
+      "endAt": "2026-08-24T09:00:00+03:00",
+      "price": "1218240.00",
+      "deposit": "135360.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-24T09:00:00+03:00",
+      "endAt": "2026-08-31T09:00:00+03:00",
+      "price": "1150560.00",
+      "deposit": "135360.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-31T09:00:00+03:00",
+      "endAt": "2026-09-07T09:00:00+03:00",
+      "price": "1082880.00",
+      "deposit": "135360.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-07T09:00:00+03:00",
+      "endAt": "2026-09-14T09:00:00+03:00",
+      "price": "1015200.00",
+      "deposit": "135360.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-14T09:00:00+03:00",
+      "endAt": "2026-09-21T09:00:00+03:00",
+      "price": "947520.00",
+      "deposit": "135360.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268341088/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A1%D0%B0%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D1%84%D1%83.pdf",
+      "name": "положение_Савченко_фу.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268341090/%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B2%D1%8B%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA.pdf",
+      "name": "Онлайн-выписка земельный участок.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268343106/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268343108/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B7%D0%B5%D0%BC_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B02%D0%9F%D0%9F.pdf",
+      "name": "Проект_договора_купли_продажи_зем_участка2ПП.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23936526",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Липецкой области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "22.09.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество, указанное в Лоте № 1, является предметом залога Публичного акционерного общества «Сбербанк России», ИНН 7707083893, Адрес: 117997, г. Москва, ул. Вавилова, д. 19, на основании кредитного договора № 11838385 от 11.04.2023. Требования кредитора ПАО Сбербанк включены в реестр требований кредиторов должника на основании определений Арбитражного суда Липецкой области по делу № А36-5126/2025 от 30.12.2025. Вид, номер и дата государственной регистрации ограничения прав и обременение объекта недвижимости: Ипотека в силу закона, 47:14:0901003:211-47/168/2023-5, 12.04.2023;",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомиться с документацией можно по адресу: 398059, г. Липецк, Коммунальная пл., д.9, оф. 409А, по предварительной записи по тел.: +7 9103535089. Имущество находится в свободном доступе, ознакомиться с ним можно по адресу нахождения: Ленинградская область, Ломоносовский район, МО \"Гостилицкое сельское поселение\", ЗАО \"Племенной завод \"Красная Балтика\", у д. Сокули, поле 53, уч. 113.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:56:44.724Z",
+  "lastSeenAt": "2026-08-31T17:56:44.724Z",
+  "contentHash": "c857581509bc61e3a2e69eceb2864bacb6c8c58829323c880a49c1431e602151"
+}1a:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1c"}]]}]
+1b:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"1 082 880 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["1 015 200 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 09:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[2,", до ","947 520 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"1 353 600 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"135 360 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"26 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"3 авг. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 09:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"15 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"21 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Ленинградская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/223905-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Ленинградской обл., 800 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

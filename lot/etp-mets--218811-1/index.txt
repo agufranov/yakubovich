@@ -1,0 +1,287 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--218811-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--218811-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--218811-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=19","children":"Хакасия"}]]]}],["$","h1",null,{"children":"Lada Granta, 2012 года, 82 лс, 200000 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/267947498/267947498_thumb_0.jpg","alt":"Lada Granta, 2012 года, 82 лс, 200000 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/267947510/267947510_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947510/267947510_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947510/267947510_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947499/267947499_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947499/267947499_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947499/267947499_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947508/267947508_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947508/267947508_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947508/267947508_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947503/267947503_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947503/267947503_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947503/267947503_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947487/267947487_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947487/267947487_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947487/267947487_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947494/267947494_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947494/267947494_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947494/267947494_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947488/267947488_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947488/267947488_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947488/267947488_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947491/267947491_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947491/267947491_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947491/267947491_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947493/267947493_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947493/267947493_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947493/267947493_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947497/267947497_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947497/267947497_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947497/267947497_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947496/267947496_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947496/267947496_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/267947496/267947496_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",13," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/267947495/267947495_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947495/267947495_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947495/267947495_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947509/267947509_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947509/267947509_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947509/267947509_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947502/267947502_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947502/267947502_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947502/267947502_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947486/267947486_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947486/267947486_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947486/267947486_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947489/267947489_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947489/267947489_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947489/267947489_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947490/267947490_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947490/267947490_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947490/267947490_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947505/267947505_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947505/267947505_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947505/267947505_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947504/267947504_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947504/267947504_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947504/267947504_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947492/267947492_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947492/267947492_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947492/267947492_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947511/267947511_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947511/267947511_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947511/267947511_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947507/267947507_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947507/267947507_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947507/267947507_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947500/267947500_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947500/267947500_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947500/267947500_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267947506/267947506_thumb_0.jpg",{"href":"https://m-ets.ru/download/267947506/267947506_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267947506/267947506_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Легковой автомобиль, марка: ВАЗ 219000, модель: ЛАДА ГРАНТА, год изготовления: 2012, VIN: XTA219000C0041081, г/н: О013КО19."}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Lada (ВАЗ)",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Granta",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2012",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["200 000"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["82"," л.с."]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XTA219000C0041081",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23587644",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["АС Республики Хакасия",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["09.02.2026",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: ООО МКК Каранга",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомиться с порядком продажи имущества, получить дополнительную информацию о праве требования можно в рабочие дни с 10:00 до 18:00 час. по предварительной договоренности с организатором торгов о дне и времени такого осмотра по телефону +79991789998, e-mail: ay.bankrot19@yandex.ru.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["13 июл. 2026 г., 10:00 (МСК)"," —"," ","20 июл. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"217 500 ₽"}],["$","td",null,{"children":"21 750 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["20 июл. 2026 г., 10:00 (МСК)"," —"," ","27 июл. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"206 625 ₽"}],["$","td",null,{"children":"21 750 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["27 июл. 2026 г., 10:00 (МСК)"," —"," ","3 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"195 750 ₽"}],["$","td",null,{"children":"21 750 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 10:00 (МСК)"," —"," ","10 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"184 875 ₽"}],["$","td",null,{"children":"21 750 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 10:00 (МСК)"," —"," ","17 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"174 000 ₽"}],["$","td",null,{"children":"21 750 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 10:00 (МСК)"," —"," ","24 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"163 125 ₽"}],["$","td",null,{"children":"21 750 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 10:00 (МСК)"," —"," ","31 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"152 250 ₽"}],["$","td",null,{"children":"21 750 ₽"}]]}],["$","tr","8",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 10:00 (МСК)"," —"," ","7 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"141 375 ₽"}],["$","td",null,{"children":"21 750 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 10:00 (МСК)"," —"," ","14 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"130 500 ₽"}],["$","td",null,{"children":"21 750 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 10:00 (МСК)"," —"," ","21 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"119 625 ₽"}],["$","td",null,{"children":"21 750 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Забавников Дмитрий Аркадьевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=190560192070","children":"Забавников Дмитрий Аркадьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","190560192070"]}],"$undefined"]}]]}],["$","tr","manager:Пластунова Алена Михайловна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=190113509550","children":"Пластунова Алена Михайловна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","190113509550"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Собр\""]}]]}]]}],["$","tr","organizer:ИП Пластунова Алена Михайловна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=190113509550","children":"ИП Пластунова Алена Михайловна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","190113509550"]}],"$undefined"]}]]}],["$","tr","pledgee:ООО МКК \"КАРАНГА\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=5405060085","children":"ООО МКК \"КАРАНГА\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","5405060085"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9074-14382%2F2025","children":"А74-14382/2025"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Республика Хакасия"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/267947786/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/267947786/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267947788/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf",{"href":"https://m-ets.ru/download/267947788/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_автомобиля.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267947790/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%8D%D0%BB%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%B0%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%20%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BE%D1%82%2026.06.2026.pdf",{"href":"https://m-ets.ru/download/267947790/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%8D%D0%BB%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%B0%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%20%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BE%D1%82%2026.06.2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение эл торги без аукциона Забавников от 26.06.2026.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T263c,{
+  "id": "etp-mets:218811-1",
+  "sourceCode": "etp-mets",
+  "externalId": "218811-1",
+  "sourceUrl": "https://m-ets.ru/218811-1",
+  "title": "Lada Granta, 2012 года, 82 лс, 200000 км",
+  "description": "Легковой автомобиль, марка: ВАЗ 219000, модель: ЛАДА ГРАНТА, год изготовления: 2012, VIN: XTA219000C0041081, г/н: О013КО19.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "19",
+  "address": "Республика Хакасия",
+  "priceStart": "217500",
+  "priceMin": "119625.00",
+  "deposit": "21750.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-02T00:00:00+03:00",
+  "biddStartAt": "2026-07-13T10:00:00+03:00",
+  "biddEndAt": "2026-09-21T10:00:00+03:00",
+  "auctionAt": "2026-09-22T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А74-14382/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Забавников Дмитрий Аркадьевич",
+      "inn": "190560192070",
+      "efrsbId": "cdc9a14303ce7c89c3b45c9b722b1a43"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Пластунова Алена Михайловна",
+      "inn": "190113509550",
+      "sro": "ААУ \"Собр\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "ИП Пластунова Алена Михайловна",
+      "inn": "190113509550",
+      "email": "ay.bankrot19@yandex.ru",
+      "phone": "+7 (999) 178 99 98"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ООО МКК \"КАРАНГА\"",
+      "inn": "5405060085"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-13T10:00:00+03:00",
+      "endAt": "2026-07-20T10:00:00+03:00",
+      "price": "217500.00",
+      "deposit": "21750.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-20T10:00:00+03:00",
+      "endAt": "2026-07-27T10:00:00+03:00",
+      "price": "206625.00",
+      "deposit": "21750.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-07-27T10:00:00+03:00",
+      "endAt": "2026-08-03T10:00:00+03:00",
+      "price": "195750.00",
+      "deposit": "21750.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-03T10:00:00+03:00",
+      "endAt": "2026-08-10T10:00:00+03:00",
+      "price": "184875.00",
+      "deposit": "21750.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-10T10:00:00+03:00",
+      "endAt": "2026-08-17T10:00:00+03:00",
+      "price": "174000.00",
+      "deposit": "21750.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-17T10:00:00+03:00",
+      "endAt": "2026-08-24T10:00:00+03:00",
+      "price": "163125.00",
+      "deposit": "21750.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-24T10:00:00+03:00",
+      "endAt": "2026-08-31T10:00:00+03:00",
+      "price": "152250.00",
+      "deposit": "21750.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-31T10:00:00+03:00",
+      "endAt": "2026-09-07T10:00:00+03:00",
+      "price": "141375.00",
+      "deposit": "21750.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-07T10:00:00+03:00",
+      "endAt": "2026-09-14T10:00:00+03:00",
+      "price": "130500.00",
+      "deposit": "21750.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-09-14T10:00:00+03:00",
+      "endAt": "2026-09-21T10:00:00+03:00",
+      "price": "119625.00",
+      "deposit": "21750.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/267947498/267947498_thumb_0.jpg",
+    "https://m-ets.ru/download/267947510/267947510_thumb_0.jpg",
+    "https://m-ets.ru/download/267947499/267947499_thumb_0.jpg",
+    "https://m-ets.ru/download/267947508/267947508_thumb_0.jpg",
+    "https://m-ets.ru/download/267947503/267947503_thumb_0.jpg",
+    "https://m-ets.ru/download/267947487/267947487_thumb_0.jpg",
+    "https://m-ets.ru/download/267947494/267947494_thumb_0.jpg",
+    "https://m-ets.ru/download/267947488/267947488_thumb_0.jpg",
+    "https://m-ets.ru/download/267947491/267947491_thumb_0.jpg",
+    "https://m-ets.ru/download/267947493/267947493_thumb_0.jpg",
+    "https://m-ets.ru/download/267947497/267947497_thumb_0.jpg",
+    "https://m-ets.ru/download/267947496/267947496_thumb_0.jpg",
+    "https://m-ets.ru/download/267947495/267947495_thumb_0.jpg",
+    "https://m-ets.ru/download/267947509/267947509_thumb_0.jpg",
+    "https://m-ets.ru/download/267947502/267947502_thumb_0.jpg",
+    "https://m-ets.ru/download/267947486/267947486_thumb_0.jpg",
+    "https://m-ets.ru/download/267947489/267947489_thumb_0.jpg",
+    "https://m-ets.ru/download/267947490/267947490_thumb_0.jpg",
+    "https://m-ets.ru/download/267947505/267947505_thumb_0.jpg",
+    "https://m-ets.ru/download/267947504/267947504_thumb_0.jpg",
+    "https://m-ets.ru/download/267947492/267947492_thumb_0.jpg",
+    "https://m-ets.ru/download/267947511/267947511_thumb_0.jpg",
+    "https://m-ets.ru/download/267947507/267947507_thumb_0.jpg",
+    "https://m-ets.ru/download/267947500/267947500_thumb_0.jpg",
+    "https://m-ets.ru/download/267947506/267947506_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/267947786/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267947788/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F.pdf",
+      "name": "Проект_договора_купли_продажи_автомобиля.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267947790/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%8D%D0%BB%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%B0%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%20%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BE%D1%82%2026.06.2026.pdf",
+      "name": "Положение эл торги без аукциона Забавников от 26.06.2026.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Lada (ВАЗ)",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Granta",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2012",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "200 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "82",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XTA219000C0041081",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23587644",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "АС Республики Хакасия",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "09.02.2026",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: ООО МКК Каранга",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомиться с порядком продажи имущества, получить дополнительную информацию о праве требования можно в рабочие дни с 10:00 до 18:00 час. по предварительной договоренности с организатором торгов о дне и времени такого осмотра по телефону +79991789998, e-mail: ay.bankrot19@yandex.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:46:37.766Z",
+  "lastSeenAt": "2026-08-31T17:46:37.766Z",
+  "contentHash": "23ced517ca12b1cad40e28673c9bf656467cdf07cdcef94685af5dd6ca52677d"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"141 375 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["130 500 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[2,", до ","119 625 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"217 500 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"21 750 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"1 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"13 июл. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"21 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"15 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"22 сент. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Хакасия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/218811-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Lada Granta, 2012 года, 82 лс, 200000 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

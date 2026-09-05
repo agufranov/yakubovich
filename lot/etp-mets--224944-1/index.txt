@@ -1,0 +1,209 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--224944-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--224944-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--224944-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=23","children":"Краснодарский край"}]]]}],["$","h1",null,{"children":"Земельный участок в Краснодаре, 950 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок, Категория земель: Земли населённых пунктов. Виды разрешенного использования: Индивидуальные жилые дома. Площадь: 950 кв.м. Кадастровый номер: 23:43:0431001:1243 Адрес (местоположение): установлено относительно ориентира, расположенного в границах участка. Почтовый адрес ориентира: Краснодарский край, г. Краснодар, х. Ленина, ул. Вольная, участок 191, в границах земельного участка расположен Объект незавершенного строительства (не находиться на кадастровом учете)."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23983438",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Краснодарского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["15.05.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом осуществляется в период подачи заявок, по месту нахождения имущества, в рабочие дни с 12.00 до 15.00 по местному времени, по согласованию с финансовым управляющим по электронной почте: compas2005@list.ru и по тел. +79667495875.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["1 авг. 2026 г., 10:00 (МСК)"," —"," ","15 авг. 2026 г., 17:00 (МСК)"]}],["$","td",null,{"children":"5 013 000 ₽"}],["$","td",null,{"children":"501 300 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["16 авг. 2026 г., 10:00 (МСК)"," —"," ","30 авг. 2026 г., 17:00 (МСК)"]}],["$","td",null,{"children":"4 762 350 ₽"}],["$","td",null,{"children":"476 235 ₽"}]]}],["$","tr","3",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 10:00 (МСК)"," —"," ","14 сент. 2026 г., 17:00 (МСК)"]}],["$","td",null,{"children":"4 524 232,50 ₽"}],["$","td",null,{"children":"452 423,25 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["15 сент. 2026 г., 10:00 (МСК)"," —"," ","29 сент. 2026 г., 17:00 (МСК)"]}],["$","td",null,{"children":"4 298 020,88 ₽"}],["$","td",null,{"children":"429 802,09 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["30 сент. 2026 г., 10:00 (МСК)"," —"," ","14 окт. 2026 г., 17:00 (МСК)"]}],["$","td",null,{"children":"4 083 119,83 ₽"}],["$","td",null,{"children":"408 311,98 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["15 окт. 2026 г., 10:00 (МСК)"," —"," ","29 окт. 2026 г., 17:00 (МСК)"]}],["$","td",null,{"children":"3 878 963,84 ₽"}],["$","td",null,{"children":"387 896,38 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["30 окт. 2026 г., 10:00 (МСК)"," —"," ","13 нояб. 2026 г., 17:00 (МСК)"]}],"$L11","$L12"]}],"$L13","$L14"]}]]}]]}],"$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","td",null,{"children":"3 685 015,65 ₽"}]
+12:["$","td",null,{"children":"368 501,57 ₽"}]
+13:["$","tr","8",{"className":"","children":[["$","td",null,{"children":["14 нояб. 2026 г., 10:00 (МСК)"," —"," ","28 нояб. 2026 г., 17:00 (МСК)"]}],["$","td",null,{"children":"3 500 764,87 ₽"}],["$","td",null,{"children":"350 076,49 ₽"}]]}]
+14:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["29 нояб. 2026 г., 10:00 (МСК)"," —"," ","13 дек. 2026 г., 17:00 (МСК)"]}],["$","td",null,{"children":"3 325 726,62 ₽"}],["$","td",null,{"children":"332 572,66 ₽"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Пономарев Олег Павлович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=230909855590","children":"Пономарев Олег Павлович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","230909855590"]}],"$undefined"]}]]}],["$","tr","manager:Васильева Надежда Николаевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=660502307079","children":"Васильева Надежда Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","660502307079"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ «ЕВРАЗИЯ»"]}]]}]]}],["$","tr","organizer:Васильева Надежда Николаевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=660502307079","children":"Васильева Надежда Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","660502307079"]}],"$undefined"]}]]}],["$","tr","pledgee:МКК ФОНД МИКРОФИНАНСИРОВАНИЯ КРАСНОДАРСКОГО КРАЯ",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=2310981029","children":"МКК ФОНД МИКРОФИНАНСИРОВАНИЯ КРАСНОДАРСКОГО КРАЯ"}],["$","span",null,{"className":"muted","children":[" · ИНН ","2310981029"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9032-65748%2F2023%2015%2F312-%D0%91","children":"А32-65748/2023 15/312-Б"}]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Краснодарский край"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268401799/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0_%D0%9F%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%80%D0%B5%D0%B2%20%D0%9E.%D0%9F._%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5.pdf",{"href":"https://m-ets.ru/download/268401799/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0_%D0%9F%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%80%D0%B5%D0%B2%20%D0%9E.%D0%9F._%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о продаже предмета залога_Пономарев О.П._согласованное.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268415846/%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_.docx",{"href":"https://m-ets.ru/download/268415846/%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ПРОЕКТ Договора о задатке земельный участок_публичное предложение_.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268415848/%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_.docx",{"href":"https://m-ets.ru/download/268415848/%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ПРОЕКТ Договора купли-продажи недвижимого имущества земельный участок_публичное предложение_.docx"]}],"$L1a"]}],"$L1b"]}]]}]
+1c:T21f4,{
+  "id": "etp-mets:224944-1",
+  "sourceCode": "etp-mets",
+  "externalId": "224944-1",
+  "sourceUrl": "https://m-ets.ru/224944-1",
+  "title": "Земельный участок в Краснодаре, 950 кв.м.",
+  "description": "Земельный участок, Категория земель: Земли населённых пунктов. Виды разрешенного использования: Индивидуальные жилые дома. Площадь: 950 кв.м. Кадастровый номер: 23:43:0431001:1243 Адрес (местоположение): установлено относительно ориентира, расположенного в границах участка. Почтовый адрес ориентира: Краснодарский край, г. Краснодар, х. Ленина, ул. Вольная, участок 191, в границах земельного участка расположен Объект незавершенного строительства (не находиться на кадастровом учете).",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "23",
+  "address": "Краснодарский край",
+  "priceStart": "5013000",
+  "priceMin": "3325726.62",
+  "deposit": "501300.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-31T00:00:00+03:00",
+  "biddStartAt": "2026-08-01T10:00:00+03:00",
+  "biddEndAt": "2026-12-13T17:00:00+03:00",
+  "auctionAt": "2026-12-13T17:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А32-65748/2023 15/312-Б",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Пономарев Олег Павлович",
+      "inn": "230909855590",
+      "efrsbId": "bf6f80356f4f3f185ee491efce9e630a"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Васильева Надежда Николаевна",
+      "inn": "660502307079",
+      "sro": "ААУ «ЕВРАЗИЯ»"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Васильева Надежда Николаевна",
+      "inn": "660502307079",
+      "email": "compas2005@list.ru",
+      "phone": "+7 (961) 500 03 77"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "МКК ФОНД МИКРОФИНАНСИРОВАНИЯ КРАСНОДАРСКОГО КРАЯ",
+      "inn": "2310981029"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-01T10:00:00+03:00",
+      "endAt": "2026-08-15T17:00:00+03:00",
+      "price": "5013000.00",
+      "deposit": "501300.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-16T10:00:00+03:00",
+      "endAt": "2026-08-30T17:00:00+03:00",
+      "price": "4762350.00",
+      "deposit": "476235.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-31T10:00:00+03:00",
+      "endAt": "2026-09-14T17:00:00+03:00",
+      "price": "4524232.50",
+      "deposit": "452423.25"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-15T10:00:00+03:00",
+      "endAt": "2026-09-29T17:00:00+03:00",
+      "price": "4298020.88",
+      "deposit": "429802.09"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-30T10:00:00+03:00",
+      "endAt": "2026-10-14T17:00:00+03:00",
+      "price": "4083119.83",
+      "deposit": "408311.98"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-10-15T10:00:00+03:00",
+      "endAt": "2026-10-29T17:00:00+03:00",
+      "price": "3878963.84",
+      "deposit": "387896.38"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-10-30T10:00:00+03:00",
+      "endAt": "2026-11-13T17:00:00+03:00",
+      "price": "3685015.65",
+      "deposit": "368501.57"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-11-14T10:00:00+03:00",
+      "endAt": "2026-11-28T17:00:00+03:00",
+      "price": "3500764.87",
+      "deposit": "350076.49"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-11-29T10:00:00+03:00",
+      "endAt": "2026-12-13T17:00:00+03:00",
+      "price": "3325726.62",
+      "deposit": "332572.66"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268401799/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0_%D0%9F%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%80%D0%B5%D0%B2%20%D0%9E.%D0%9F._%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5.pdf",
+      "name": "Положение о продаже предмета залога_Пономарев О.П._согласованное.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268415846/%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_.docx",
+      "name": "ПРОЕКТ Договора о задатке земельный участок_публичное предложение_.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268415848/%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%20%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_.docx",
+      "name": "ПРОЕКТ Договора купли-продажи недвижимого имущества земельный участок_публичное предложение_.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268415850/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0_%D0%9F%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%80%D0%B5%D0%B2%20%D0%9E.%D0%9F._%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5.pdf",
+      "name": "Дополнение к Положению о продаже предмета залога_Пономарев О.П._согласованное.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23983438",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Краснодарского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "15.05.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом осуществляется в период подачи заявок, по месту нахождения имущества, в рабочие дни с 12.00 до 15.00 по местному времени, по согласованию с финансовым управляющим по электронной почте: compas2005@list.ru и по тел. +79667495875.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:03:35.782Z",
+  "lastSeenAt": "2026-08-31T19:03:35.782Z",
+  "contentHash": "4103eeb2a74abc1467aacdb241d528f92b405017c948740b35617dc71a6bdc96"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1c"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"4 524 232,50 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["4 298 020,88 ₽",["$","span",null,{"className":"muted","children":[" ","· ","15 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[6,", до ","3 325 726,62 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"5 013 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"501 300 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"30 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"1 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"13 дек. 2026 г., 17:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"98 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"13 дек. 2026 г., 17:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Краснодарский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/224944-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1a:["$","span",null,{"className":"size","children":"$undefined"}]
+1b:["$","a","https://m-ets.ru/download/268415850/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0_%D0%9F%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%80%D0%B5%D0%B2%20%D0%9E.%D0%9F._%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5.pdf",{"href":"https://m-ets.ru/download/268415850/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0_%D0%9F%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%80%D0%B5%D0%B2%20%D0%9E.%D0%9F._%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Дополнение к Положению о продаже предмета залога_Пономарев О.П._согласованное.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Краснодаре, 950 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

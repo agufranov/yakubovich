@@ -1,0 +1,84 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","itender-centerr--auctions_1169174",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","itender-centerr--auctions_1169174","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","itender-centerr--auctions_1169174","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:Tbea,{
+  "id": "itender-centerr:auctions_1169174",
+  "sourceCode": "itender-centerr",
+  "externalId": "auctions_1169174",
+  "sourceUrl": "https://bankrupt.centerr.ru/public/auctions/lots/view/1169174/",
+  "title": "Объект незавершенного строительства с кадастровым номером 15:07:0050206:1366, площадью 21.5 кв.м., расположенный по адресу: Российская Федерация, Республика Северная Осетия-Алания, Алагирский муниципальный район, Алагирское городское поселение, г. Алагир, ул. К. Хетагурова, в районе 9-ти этажного жилого дома № 233 участок № 475.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству (127-ФЗ)",
+  "tradeKind": "auction",
+  "tradeKindRaw": "auctions",
+  "status": "applications",
+  "statusRaw": "Прием заявок",
+  "kind": "land",
+  "categoryName": "Незавершенное строительство - конструкции, сооружения, здания",
+  "priceStart": "115842.23",
+  "priceStep": "5792.12",
+  "deposit": "11584.22",
+  "currency": "RUB",
+  "biddStartAt": "2026-08-25T10:00:00+03:00",
+  "biddEndAt": "2026-09-29T18:00:00+03:00",
+  "auctionAt": "2026-10-05T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "etpCode": "centerr",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://bankrupt.centerr.ru/public/attachments/file/2916628/%d0%9f%d1%80%d0%be%d0%b5%d0%ba%d1%82%20%d0%b4%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%d0%b0%20%d0%ba%d1%83%d0%bf%d0%bb%d0%b8-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b8.docx",
+      "name": "Проект договора купли-продажи.docx"
+    },
+    {
+      "fileId": "https://bankrupt.centerr.ru/public/attachments/file/2916627/%d0%94%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%20%d0%be%20%d0%b7%d0%b0%d0%b4%d0%b0%d1%82%d0%ba%d0%b5.doc",
+      "name": "Договор о задатке.doc"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbMessageId",
+      "name": "Номер сообщения в ЕФРСБ",
+      "value": "24313571",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbClassifier",
+      "name": "Классификатор ЕФРСБ",
+      "value": "Незавершенное строительство - конструкции, сооружения, здания",
+      "source": "structured"
+    },
+    {
+      "key": "repeatTrades",
+      "name": "Повторные торги",
+      "value": "Нет",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Шаг, % от начальной цены",
+      "value": "5,00",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-26T18:26:56.021Z",
+  "lastSeenAt": "2026-08-26T18:26:56.021Z",
+  "contentHash": "6e33fce6535a601473614f7a665d69b7fcc32962392e693cb7c0101b10d3ebad"
+}7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],"$undefined"]}],["$","h1",null,{"children":"Объект незавершенного строительства с кадастровым номером 15:07:0050206:1366, площадью 21.5 кв.м., расположенный по адресу: Российская Федерация, Республика Северная Осетия-Алания, Алагирский муниципальный район, Алагирское городское поселение, г. Алагир, ул. К. Хетагурова, в районе 9-ти этажного жилого дома № 233 участок № 475."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip green","children":"Приём заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Незавершенное строительство - конструкции, сооружения, здания"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined","$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbMessageId",{"children":[["$","td",null,{"children":"Номер сообщения в ЕФРСБ"}],["$","td",null,{"children":["24313571",""]}]]}],["$","tr","efrsbClassifier",{"children":[["$","td",null,{"children":"Классификатор ЕФРСБ"}],["$","td",null,{"children":["Незавершенное строительство - конструкции, сооружения, здания",""]}]]}],["$","tr","repeatTrades",{"children":[["$","td",null,{"children":"Повторные торги"}],["$","td",null,{"children":["Нет",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Шаг, % от начальной цены"}],["$","td",null,{"children":["5,00",""]}]]}]]}]}]]}],"$undefined","$undefined","$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://bankrupt.centerr.ru/public/attachments/file/2916628/%d0%9f%d1%80%d0%be%d0%b5%d0%ba%d1%82%20%d0%b4%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%d0%b0%20%d0%ba%d1%83%d0%bf%d0%bb%d0%b8-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b8.docx",{"href":"https://bankrupt.centerr.ru/public/attachments/file/2916628/%d0%9f%d1%80%d0%be%d0%b5%d0%ba%d1%82%20%d0%b4%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%d0%b0%20%d0%ba%d1%83%d0%bf%d0%bb%d0%b8-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b8.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://bankrupt.centerr.ru/public/attachments/file/2916627/%d0%94%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%20%d0%be%20%d0%b7%d0%b0%d0%b4%d0%b0%d1%82%d0%ba%d0%b5.doc",{"href":"https://bankrupt.centerr.ru/public/attachments/file/2916627/%d0%94%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%20%d0%be%20%d0%b7%d0%b0%d0%b4%d0%b0%d1%82%d0%ba%d0%b5.doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке.doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}],false,["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$11"}]]}]]}],"$L12"]}]]}]
+12:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"115 842,23 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"5 792,12 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"11 584,22 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"29 сент. 2026 г., 18:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"23 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"5 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=centerr","children":"ЭП Центра реализации"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://bankrupt.centerr.ru/public/auctions/lots/view/1169174/","target":"_blank","rel":"noopener","children":["Смотреть на ","bankrupt.centerr.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Объект незавершенного строительства с кадастровым номером 15:07:0050206:1366, площадью 21. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

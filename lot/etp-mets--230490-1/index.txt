@@ -1,0 +1,183 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--230490-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--230490-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--230490-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=realty","children":"Недвижимость"}],[" · ",["$","$L4",null,{"href":"/?region=40","children":"Калужская обл."}]]]}],["$","h1",null,{"children":"Помещение в Калуге, 218,2 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Нежилое помещение"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268868096/268868096_thumb_0.jpg","alt":"Помещение в Калуге, 218,2 кв.м."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268868091/268868091_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868091/268868091_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868091/268868091_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868092/268868092_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868092/268868092_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868092/268868092_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868093/268868093_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868093/268868093_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868093/268868093_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868094/268868094_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868094/268868094_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868094/268868094_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868098/268868098_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868098/268868098_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868098/268868098_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868100/268868100_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868100/268868100_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868100/268868100_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868101/268868101_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868101/268868101_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868101/268868101_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868102/268868102_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868102/268868102_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868102/268868102_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868103/268868103_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868103/268868103_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868103/268868103_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868105/268868105_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868105/268868105_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868105/268868105_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868104/268868104_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868104/268868104_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868104/268868104_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],"$L11"]}],"$L12","$L13","$undefined","$L14","$L15","$L16",false,"$L17"]}],"$L18"]}]]}]
+11:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",17," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268868109/268868109_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868109/268868109_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868109/268868109_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868110/268868110_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868110/268868110_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868110/268868110_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868111/268868111_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868111/268868111_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868111/268868111_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868112/268868112_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868112/268868112_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868112/268868112_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868113/268868113_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868113/268868113_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868113/268868113_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868115/268868115_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868115/268868115_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868115/268868115_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868116/268868116_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868116/268868116_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868116/268868116_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868118/268868118_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868118/268868118_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868118/268868118_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868107/268868107_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868107/268868107_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868107/268868107_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868117/268868117_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868117/268868117_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868117/268868117_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868114/268868114_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868114/268868114_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868114/268868114_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868106/268868106_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868106/268868106_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868106/268868106_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868099/268868099_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868099/268868099_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868099/268868099_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268868077/268868077_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868077/268868077_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L19"}],"$L1a","$L1b","$L1c"]}]]}]
+1d:Tb5f,Недвижимость; кадастровый (или условный) номер: 40:26:000338:164 ; тип объекта: Помещение; вид сооружения: Иное; значение: 218.20; полезная площадь (кв.м.): 218.20; год постройки: 2008. Адрес: Калужская обл., г. Калуга, ул. Космонавта Комарова, д. 38/1, кв. 54. В случае приобретения имущества по результатам проведения торгов по его реализации за счет кредитных средств банка, договор купли-продажи заключается по форме ПАО Сбербанк. Проект договора купли-продажи с использованием заемных средств, залогодержателем не предоставлен. В соответствии со ст. 352 Гражданского Кодекса РФ, залог прекращается при реализации (продажи) заложенного имущества в целях удовлетворения требований залогодержателя в порядке, установленном законом. Продажа заложенного имущества в порядке, предусмотренном ФЗ «О несостоятельности (банкротстве)» ФЗ №-127 от 26.10.2002 приводит к прекращению права залога в силу закона применительно к подпункту 4 п.1 ст. 352 Гражданского Кодекса РФ, абзацу шестому пункта 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» ФЗ №-127 от 26.10.2002. Помещение находится на первом этаже многоквартирного жилого дома. Вход в помещение отдельный, имеется крыльцо. Из помещения во двор имеется запасной выход. Инженерные сети: отопления – собственная газовая котельная (разукомплектована, подача газа отключена), водопровод и канализация центральные, электрические сети центральные (подача электричества отсутствует). Помещение состоит из нескольких изолированных комнат, на полу кафельная плитка, на стенах обои, потолок без отделки. Состояние помещения удовлетворительное, в прошлом в помещении находился салон красоты.12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"$1d"}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24364449",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Калужской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["27.07.2026",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["688 950 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Залог у ПАО СБЕРБАНК.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом производится по адресу: Калужская обл., г. Калуга, ул. Космонавта Комарова, д. 38/1, кв. 54, с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи по телефону: 8-912-389-9101 или на адрес электронной почты: au_sutormin@mail.ru.",""]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ИП Соколова Наталья Николаевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=402915869785","children":"ИП Соколова Наталья Николаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","402915869785"]}],"$undefined"]}]]}],["$","tr","manager:Сутормин Дмитрий Викторович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=550500643397","children":"Сутормин Дмитрий Викторович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","550500643397"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация СРО \"ЦААУ\""]}]]}]]}],["$","tr","organizer:Сутормин Дмитрий Викторович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=550500643397","children":"Сутормин Дмитрий Викторович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","550500643397"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9023-9203%2F2025","children":"А23-9203/2025"}]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Калужская область"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268868260/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%98%D0%9F%20%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%9D.%D0%9D.docx",{"href":"https://m-ets.ru/download/268868260/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%98%D0%9F%20%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%9D.%D0%9D.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке ИП Соколова Н.Н.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268868262/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%98%D0%9F%20%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%9D.%D0%9D.docx",{"href":"https://m-ets.ru/download/268868262/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%98%D0%9F%20%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%9D.%D0%9D.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи недвижимого имущества ИП Соколова Н.Н.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268868264/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%98%D0%9F%20%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%9D.%D0%9D.%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%9F%D0%90%D0%9E%20%D0%A1%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA.pdf",{"href":"https://m-ets.ru/download/268868264/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%98%D0%9F%20%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%9D.%D0%9D.%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%9F%D0%90%D0%9E%20%D0%A1%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положениео порядке, сроках и условиях продажи имущества ИП Соколова Н.Н. залог ПАО Сбербанк.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268868266/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%98%D0%9F%20%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%9D.%D0%9D.pdf",{"href":"https://m-ets.ru/download/268868266/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%98%D0%9F%20%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%9D.%D0%9D.pdf","target":"_blank","rel":"noopener","children":["$L1e","$L1f"]}]]}]]}]
+20:T2a67,{
+  "id": "etp-mets:230490-1",
+  "sourceCode": "etp-mets",
+  "externalId": "230490-1",
+  "sourceUrl": "https://m-ets.ru/230490-1",
+  "title": "Помещение в Калуге, 218,2 кв.м.",
+  "description": "Недвижимость; кадастровый (или условный) номер: 40:26:000338:164 ; тип объекта: Помещение; вид сооружения: Иное; значение: 218.20; полезная площадь (кв.м.): 218.20; год постройки: 2008. Адрес: Калужская обл., г. Калуга, ул. Космонавта Комарова, д. 38/1, кв. 54. В случае приобретения имущества по результатам проведения торгов по его реализации за счет кредитных средств банка, договор купли-продажи заключается по форме ПАО Сбербанк. Проект договора купли-продажи с использованием заемных средств, залогодержателем не предоставлен. В соответствии со ст. 352 Гражданского Кодекса РФ, залог прекращается при реализации (продажи) заложенного имущества в целях удовлетворения требований залогодержателя в порядке, установленном законом. Продажа заложенного имущества в порядке, предусмотренном ФЗ «О несостоятельности (банкротстве)» ФЗ №-127 от 26.10.2002 приводит к прекращению права залога в силу закона применительно к подпункту 4 п.1 ст. 352 Гражданского Кодекса РФ, абзацу шестому пункта 5 ст. 18.1 ФЗ «О несостоятельности (банкротстве)» ФЗ №-127 от 26.10.2002. Помещение находится на первом этаже многоквартирного жилого дома. Вход в помещение отдельный, имеется крыльцо. Из помещения во двор имеется запасной выход. Инженерные сети: отопления – собственная газовая котельная (разукомплектована, подача газа отключена), водопровод и канализация центральные, электрические сети центральные (подача электричества отсутствует). Помещение состоит из нескольких изолированных комнат, на полу кафельная плитка, на стенах обои, потолок без отделки. Состояние помещения удовлетворительное, в прошлом в помещении находился салон красоты.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "realty",
+  "categoryCode": "37",
+  "categoryName": "Нежилое помещение",
+  "regionCode": "40",
+  "address": "Калужская область",
+  "priceStart": "13779000",
+  "priceStep": "688950",
+  "deposit": "1377900",
+  "currency": "RUB",
+  "publishedAt": "2026-08-27T00:00:00+03:00",
+  "biddStartAt": "2026-08-31T12:00:00+03:00",
+  "biddEndAt": "2026-10-06T12:00:00+03:00",
+  "auctionAt": "2026-10-08T13:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А23-9203/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "ИП Соколова Наталья Николаевна",
+      "inn": "402915869785",
+      "efrsbId": "be5c5703209411cac334139d48d59e15"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Сутормин Дмитрий Викторович",
+      "inn": "550500643397",
+      "sro": "Ассоциация СРО \"ЦААУ\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Сутормин Дмитрий Викторович",
+      "inn": "550500643397",
+      "email": "au_sutormin@mail.ru",
+      "phone": "+7 (912) 389 91 01"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268868096/268868096_thumb_0.jpg",
+    "https://m-ets.ru/download/268868091/268868091_thumb_0.jpg",
+    "https://m-ets.ru/download/268868092/268868092_thumb_0.jpg",
+    "https://m-ets.ru/download/268868093/268868093_thumb_0.jpg",
+    "https://m-ets.ru/download/268868094/268868094_thumb_0.jpg",
+    "https://m-ets.ru/download/268868098/268868098_thumb_0.jpg",
+    "https://m-ets.ru/download/268868100/268868100_thumb_0.jpg",
+    "https://m-ets.ru/download/268868101/268868101_thumb_0.jpg",
+    "https://m-ets.ru/download/268868102/268868102_thumb_0.jpg",
+    "https://m-ets.ru/download/268868103/268868103_thumb_0.jpg",
+    "https://m-ets.ru/download/268868105/268868105_thumb_0.jpg",
+    "https://m-ets.ru/download/268868104/268868104_thumb_0.jpg",
+    "https://m-ets.ru/download/268868109/268868109_thumb_0.jpg",
+    "https://m-ets.ru/download/268868110/268868110_thumb_0.jpg",
+    "https://m-ets.ru/download/268868111/268868111_thumb_0.jpg",
+    "https://m-ets.ru/download/268868112/268868112_thumb_0.jpg",
+    "https://m-ets.ru/download/268868113/268868113_thumb_0.jpg",
+    "https://m-ets.ru/download/268868115/268868115_thumb_0.jpg",
+    "https://m-ets.ru/download/268868116/268868116_thumb_0.jpg",
+    "https://m-ets.ru/download/268868118/268868118_thumb_0.jpg",
+    "https://m-ets.ru/download/268868107/268868107_thumb_0.jpg",
+    "https://m-ets.ru/download/268868117/268868117_thumb_0.jpg",
+    "https://m-ets.ru/download/268868114/268868114_thumb_0.jpg",
+    "https://m-ets.ru/download/268868106/268868106_thumb_0.jpg",
+    "https://m-ets.ru/download/268868099/268868099_thumb_0.jpg",
+    "https://m-ets.ru/download/268868077/268868077_thumb_0.jpg",
+    "https://m-ets.ru/download/268868090/268868090_thumb_0.jpg",
+    "https://m-ets.ru/download/268868108/268868108_thumb_0.jpg",
+    "https://m-ets.ru/download/268868097/268868097_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268868260/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%98%D0%9F%20%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%9D.%D0%9D.docx",
+      "name": "Договор о задатке ИП Соколова Н.Н.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268868262/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%98%D0%9F%20%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%9D.%D0%9D.docx",
+      "name": "Договор купли-продажи недвижимого имущества ИП Соколова Н.Н.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268868264/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%98%D0%9F%20%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%9D.%D0%9D.%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%20%D0%9F%D0%90%D0%9E%20%D0%A1%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA.pdf",
+      "name": "Положениео порядке, сроках и условиях продажи имущества ИП Соколова Н.Н. залог ПАО Сбербанк.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268868266/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%98%D0%9F%20%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%20%D0%9D.%D0%9D.pdf",
+      "name": "Заключение о стоимости имущества ИП Соколова Н.Н.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24364449",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Калужской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "27.07.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "688 950 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Залог у ПАО СБЕРБАНК.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом производится по адресу: Калужская обл., г. Калуга, ул. Космонавта Комарова, д. 38/1, кв. 54, с момента публикации сообщения о продаже имущества и до окончания приема заявок по предварительной записи по телефону: 8-912-389-9101 или на адрес электронной почты: au_sutormin@mail.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:55:06.020Z",
+  "lastSeenAt": "2026-08-31T19:55:06.020Z",
+  "contentHash": "d23a83fc760016b11e421876c9b66394414cb14c68371c861cdd13e217dd0509"
+}17:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$20"}]]}]
+18:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"13 779 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"688 950 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"1 377 900 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"26 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"31 авг. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"6 окт. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"30 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"8 окт. 2026 г., 13:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Калужская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/230490-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+19:["$","img",null,{"src":"https://m-ets.ru/download/268868077/268868077_thumb_0.jpg","alt":"","loading":"lazy"}]
+1a:["$","a","https://m-ets.ru/download/268868090/268868090_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868090/268868090_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868090/268868090_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1b:["$","a","https://m-ets.ru/download/268868108/268868108_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868108/268868108_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868108/268868108_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1c:["$","a","https://m-ets.ru/download/268868097/268868097_thumb_0.jpg",{"href":"https://m-ets.ru/download/268868097/268868097_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268868097/268868097_thumb_0.jpg","alt":"","loading":"lazy"}]}]
+1e:["$","span",null,{"children":["📎 ","Заключение о стоимости имущества ИП Соколова Н.Н.pdf"]}]
+1f:["$","span",null,{"className":"size","children":"$undefined"}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Помещение в Калуге, 218,2 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

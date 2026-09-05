@@ -1,0 +1,282 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--217271-3",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--217271-3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--217271-3","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=31","children":"Белгородская обл."}]]]}],["$","h1",null,{"children":"Земельный участок в Белгородской обл., 4919 кв.м."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Земельный участок"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Земельный участок с кадастровым номером 31:17:1909002:48 площадью 4919 +/- 123 кв. м., расположенное по адресу: Россия, Белгородская область, Шебекинский район."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23464330",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Воронежской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["01.07.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Информация отсутствует",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом, выставленным на торги, производится по месту нахождения имущества в Шебекинском районе Белгородской области, предварительно согласовав дату и время по тел. +7(917)4555469 или направив запрос на эл. адрес: gicupt@mail.ru. Ознакомление с порядком и условиями продажи имущества, иной документацией, характеристикой имущества, условиями договора купли-продажи имущества, заключение ... Показать полностью договоров о задатке, осуществляется по адресу: 450096, Республика Башкортостан, г. Уфа, ул. Энтузиастов, д. 4, в рабочие дни с 09 час. 00 мин. до 17 час. 00 мин., предварительно связавшись по телефону: 8(917)4555469 или направив запрос на эл. адрес: gicupt@mail.ru.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["29 июн. 2026 г., 16:00 (МСК)"," —"," ","4 июл. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"645 300 ₽"}],["$","td",null,{"children":"64 530 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["4 июл. 2026 г., 16:00 (МСК)"," —"," ","9 июл. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"613 035 ₽"}],["$","td",null,{"children":"61 303,50 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["9 июл. 2026 г., 16:00 (МСК)"," —"," ","14 июл. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"580 770 ₽"}],["$","td",null,{"children":"58 077 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["14 июл. 2026 г., 16:00 (МСК)"," —"," ","19 июл. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"548 505 ₽"}],["$","td",null,{"children":"54 850,50 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["19 июл. 2026 г., 16:00 (МСК)"," —"," ","24 июл. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"516 240 ₽"}],["$","td",null,{"children":"51 624 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["24 июл. 2026 г., 16:00 (МСК)"," —"," ","29 июл. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"483 975 ₽"}],["$","td",null,{"children":"48 397,50 ₽"}]]}],["$","tr","7",{"className":"","children":["$L11","$L12","$L13"]}],"$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]]}]]}],"$L20","$L21","$L22",false,"$L23"]}],"$L24"]}]]}]
+11:["$","td",null,{"children":["29 июл. 2026 г., 16:00 (МСК)"," —"," ","3 авг. 2026 г., 16:00 (МСК)"]}]
+12:["$","td",null,{"children":"451 710 ₽"}]
+13:["$","td",null,{"children":"45 171 ₽"}]
+14:["$","tr","8",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 16:00 (МСК)"," —"," ","8 авг. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"419 445 ₽"}],["$","td",null,{"children":"41 944,50 ₽"}]]}]
+15:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["8 авг. 2026 г., 16:00 (МСК)"," —"," ","13 авг. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"387 180 ₽"}],["$","td",null,{"children":"38 718 ₽"}]]}]
+16:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["13 авг. 2026 г., 16:00 (МСК)"," —"," ","18 авг. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"354 915 ₽"}],["$","td",null,{"children":"35 491,50 ₽"}]]}]
+17:["$","tr","11",{"className":"","children":[["$","td",null,{"children":["18 авг. 2026 г., 16:00 (МСК)"," —"," ","23 авг. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"322 650 ₽"}],["$","td",null,{"children":"32 265 ₽"}]]}]
+18:["$","tr","12",{"className":"","children":[["$","td",null,{"children":["23 авг. 2026 г., 16:00 (МСК)"," —"," ","28 авг. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"290 385 ₽"}],["$","td",null,{"children":"29 038,50 ₽"}]]}]
+19:["$","tr","13",{"className":"","children":[["$","td",null,{"children":["28 авг. 2026 г., 16:00 (МСК)"," —"," ","2 сент. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"258 120 ₽"}],["$","td",null,{"children":"25 812 ₽"}]]}]
+1a:["$","tr","14",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 16:00 (МСК)"," —"," ","7 сент. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"225 855 ₽"}],["$","td",null,{"children":"22 585,50 ₽"}]]}]
+1b:["$","tr","15",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 16:00 (МСК)"," —"," ","12 сент. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"193 590 ₽"}],["$","td",null,{"children":"19 359 ₽"}]]}]
+1c:["$","tr","16",{"className":"","children":[["$","td",null,{"children":["12 сент. 2026 г., 16:00 (МСК)"," —"," ","17 сент. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"161 325 ₽"}],["$","td",null,{"children":"16 132,50 ₽"}]]}]
+1d:["$","tr","17",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 16:00 (МСК)"," —"," ","22 сент. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"129 060 ₽"}],["$","td",null,{"children":"12 906 ₽"}]]}]
+1e:["$","tr","18",{"className":"","children":[["$","td",null,{"children":["22 сент. 2026 г., 16:00 (МСК)"," —"," ","27 сент. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"96 795 ₽"}],["$","td",null,{"children":"9 679,50 ₽"}]]}]
+1f:["$","tr","19",{"className":"","children":[["$","td",null,{"children":["27 сент. 2026 г., 16:00 (МСК)"," —"," ","2 окт. 2026 г., 16:00 (МСК)"]}],["$","td",null,{"children":"64 530 ₽"}],["$","td",null,{"children":"6 453 ₽"}]]}]
+20:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУДГОРМАШ-ЗАПЧАСТЬ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=3663100735","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУДГОРМАШ-ЗАПЧАСТЬ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","3663100735"]}],"$undefined"]}]]}],["$","tr","manager:Пташников Александр Владимирович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=027400491856","children":"Пташников Александр Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","027400491856"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСРО \"Содействие\""]}]]}]]}],["$","tr","organizer:Пташников Александр Владимирович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=027400491856","children":"Пташников Александр Владимирович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","027400491856"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9014-3101%2F2024","children":"А14-3101/2024"}]}]]}]]}]}]]}]
+21:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Белгородская область"}]]}]
+22:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/267797112/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%9E%D0%9E%D0%9E%20%C2%AB%D0%A0%D0%93%D0%9C-%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D1%8C%C2%BB.pdf",{"href":"https://m-ets.ru/download/267797112/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%9E%D0%9E%D0%9E%20%C2%AB%D0%A0%D0%93%D0%9C-%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D1%8C%C2%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Копия Положения о реализации недвижимости ООО «РГМ-Запчасть».pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267797114/%D0%9E%D1%82%D1%87%D0%B5%D1%82-57-25-%D0%A0%D0%93%D0%9C-%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C.pdf",{"href":"https://m-ets.ru/download/267797114/%D0%9E%D1%82%D1%87%D0%B5%D1%82-57-25-%D0%A0%D0%93%D0%9C-%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет-57-25-РГМ-недвижимость.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267797116/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/267797116/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи имущества.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/267798068/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/267798068/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+25:T2551,{
+  "id": "etp-mets:217271-3",
+  "sourceCode": "etp-mets",
+  "externalId": "217271-3",
+  "sourceUrl": "https://m-ets.ru/217271-3",
+  "title": "Земельный участок в Белгородской обл., 4919 кв.м.",
+  "description": "Земельный участок с кадастровым номером 31:17:1909002:48 площадью 4919 +/- 123 кв. м., расположенное по адресу: Россия, Белгородская область, Шебекинский район.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "11",
+  "categoryName": "Земельный участок",
+  "regionCode": "31",
+  "address": "Белгородская область",
+  "priceStart": "645300",
+  "priceMin": "64530.00",
+  "deposit": "64530.00",
+  "currency": "RUB",
+  "publishedAt": "2026-06-24T00:00:00+03:00",
+  "biddStartAt": "2026-06-29T16:00:00+03:00",
+  "biddEndAt": "2026-10-02T16:00:00+03:00",
+  "auctionAt": "2026-10-02T16:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А14-3101/2024",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУДГОРМАШ-ЗАПЧАСТЬ\"",
+      "inn": "3663100735",
+      "ogrn": "1133668049679"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Пташников Александр Владимирович",
+      "inn": "027400491856",
+      "sro": "Ассоциация МСРО \"Содействие\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Пташников Александр Владимирович",
+      "inn": "027400491856",
+      "email": "ptashnikovav@mail.ru",
+      "phone": "+7 (917) 455 54 69"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-06-29T16:00:00+03:00",
+      "endAt": "2026-07-04T16:00:00+03:00",
+      "price": "645300.00",
+      "deposit": "64530.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-04T16:00:00+03:00",
+      "endAt": "2026-07-09T16:00:00+03:00",
+      "price": "613035.00",
+      "deposit": "61303.50"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-07-09T16:00:00+03:00",
+      "endAt": "2026-07-14T16:00:00+03:00",
+      "price": "580770.00",
+      "deposit": "58077.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-07-14T16:00:00+03:00",
+      "endAt": "2026-07-19T16:00:00+03:00",
+      "price": "548505.00",
+      "deposit": "54850.50"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-07-19T16:00:00+03:00",
+      "endAt": "2026-07-24T16:00:00+03:00",
+      "price": "516240.00",
+      "deposit": "51624.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-07-24T16:00:00+03:00",
+      "endAt": "2026-07-29T16:00:00+03:00",
+      "price": "483975.00",
+      "deposit": "48397.50"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-07-29T16:00:00+03:00",
+      "endAt": "2026-08-03T16:00:00+03:00",
+      "price": "451710.00",
+      "deposit": "45171.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-03T16:00:00+03:00",
+      "endAt": "2026-08-08T16:00:00+03:00",
+      "price": "419445.00",
+      "deposit": "41944.50"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-08-08T16:00:00+03:00",
+      "endAt": "2026-08-13T16:00:00+03:00",
+      "price": "387180.00",
+      "deposit": "38718.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-08-13T16:00:00+03:00",
+      "endAt": "2026-08-18T16:00:00+03:00",
+      "price": "354915.00",
+      "deposit": "35491.50"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-08-18T16:00:00+03:00",
+      "endAt": "2026-08-23T16:00:00+03:00",
+      "price": "322650.00",
+      "deposit": "32265.00"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-08-23T16:00:00+03:00",
+      "endAt": "2026-08-28T16:00:00+03:00",
+      "price": "290385.00",
+      "deposit": "29038.50"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-08-28T16:00:00+03:00",
+      "endAt": "2026-09-02T16:00:00+03:00",
+      "price": "258120.00",
+      "deposit": "25812.00"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-09-02T16:00:00+03:00",
+      "endAt": "2026-09-07T16:00:00+03:00",
+      "price": "225855.00",
+      "deposit": "22585.50"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-09-07T16:00:00+03:00",
+      "endAt": "2026-09-12T16:00:00+03:00",
+      "price": "193590.00",
+      "deposit": "19359.00"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-09-12T16:00:00+03:00",
+      "endAt": "2026-09-17T16:00:00+03:00",
+      "price": "161325.00",
+      "deposit": "16132.50"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-09-17T16:00:00+03:00",
+      "endAt": "2026-09-22T16:00:00+03:00",
+      "price": "129060.00",
+      "deposit": "12906.00"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-09-22T16:00:00+03:00",
+      "endAt": "2026-09-27T16:00:00+03:00",
+      "price": "96795.00",
+      "deposit": "9679.50"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-09-27T16:00:00+03:00",
+      "endAt": "2026-10-02T16:00:00+03:00",
+      "price": "64530.00",
+      "deposit": "6453.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/267797112/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%9E%D0%9E%D0%9E%20%C2%AB%D0%A0%D0%93%D0%9C-%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D1%8C%C2%BB.pdf",
+      "name": "Копия Положения о реализации недвижимости ООО «РГМ-Запчасть».pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267797114/%D0%9E%D1%82%D1%87%D0%B5%D1%82-57-25-%D0%A0%D0%93%D0%9C-%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C.pdf",
+      "name": "Отчет-57-25-РГМ-недвижимость.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267797116/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0.pdf",
+      "name": "Проект договора купли-продажи имущества.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267798068/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23464330",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Воронежской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "01.07.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Информация отсутствует",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом, выставленным на торги, производится по месту нахождения имущества в Шебекинском районе Белгородской области, предварительно согласовав дату и время по тел. +7(917)4555469 или направив запрос на эл. адрес: gicupt@mail.ru. Ознакомление с порядком и условиями продажи имущества, иной документацией, характеристикой имущества, условиями договора купли-продажи имущества, заключение ... Показать полностью договоров о задатке, осуществляется по адресу: 450096, Республика Башкортостан, г. Уфа, ул. Энтузиастов, д. 4, в рабочие дни с 09 час. 00 мин. до 17 час. 00 мин., предварительно связавшись по телефону: 8(917)4555469 или направив запрос на эл. адрес: gicupt@mail.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:56:10.650Z",
+  "lastSeenAt": "2026-08-31T18:56:10.650Z",
+  "contentHash": "d789ab5c97d948313db727c00511279e2e8ad64238b4ff7b8467985a56057a5a"
+}23:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$25"}]]}]
+24:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"225 855 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["193 590 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 16:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[5,", до ","64 530 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"645 300 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"64 530 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"23 июн. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"29 июн. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"2 окт. 2026 г., 16:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"26 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"2 окт. 2026 г., 16:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Белгородская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/217271-3","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Земельный участок в Белгородской обл., 4919 кв.м. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

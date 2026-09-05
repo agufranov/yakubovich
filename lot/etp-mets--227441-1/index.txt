@@ -1,0 +1,297 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--227441-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--227441-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--227441-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=86","children":"Ханты-Мансийский АО"}]]]}],["$","h1",null,{"children":"Chevrolet Aveo, 2007 года, 94 лс, 195000 км, АКПП"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268627737/268627737_thumb_0.jpg","alt":"Chevrolet Aveo, 2007 года, 94 лс, 195000 км, АКПП"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268627741/268627741_thumb_0.jpg",{"href":"https://m-ets.ru/download/268627741/268627741_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268627741/268627741_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268627740/268627740_thumb_0.jpg",{"href":"https://m-ets.ru/download/268627740/268627740_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268627740/268627740_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268627738/268627738_thumb_0.jpg",{"href":"https://m-ets.ru/download/268627738/268627738_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268627738/268627738_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268627739/268627739_thumb_0.jpg",{"href":"https://m-ets.ru/download/268627739/268627739_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268627739/268627739_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"легковой автомобиль CHEVROLET AVEO, 2007 г.в., VIN KL1SF487J8B081501, ГРЗ Н279СВ86, ТС б/у, возможно наличие скрытых дефектов, физическое, техническое состояние, комплектность проверяется при личном осмотре. Авто изъято Банком и находится на стоянке: ХМАО Югры, Посёлок Солнечный, Солнечная промзона Находится в залоге ООО \"МБ РУС Банк\""}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Chevrolet",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Aveo",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2007",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["195 000"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["94"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Автоматическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["KL1SF487J8B081501",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24160223",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Ханты-Мансийского автономного округа",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],"$L11"]}],"$L12","$L13"]}]}]]}],"$L14","$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","td",null,{"children":["27.03.2025",""]}]
+12:["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Находится в залоге ООО \"МБ РУС Банк\"",""]}]]}]
+13:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомиться с порядком проведения торгов, направив предварительно запрос на адрес электронной почты: aytorgi@yandex.ru информацией об имуществе, формами документов, договориться об осмотре и т.д. можно по телефону +79231734943 по предварительной записи у организатора торгов.",""]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["13 авг. 2026 г., 10:00 (МСК)"," —"," ","20 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"266 040 ₽"}],["$","td",null,{"children":"26 604 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["20 авг. 2026 г., 10:00 (МСК)"," —"," ","27 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"252 738 ₽"}],["$","td",null,{"children":"26 604 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 10:00 (МСК)"," —"," ","3 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"239 436 ₽"}],["$","td",null,{"children":"26 604 ₽"}]]}],["$","tr","4",{"className":"now","children":[["$","td",null,{"children":["3 сент. 2026 г., 10:00 (МСК)"," —"," ","10 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"226 134 ₽"}],["$","td",null,{"children":"26 604 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 10:00 (МСК)"," —"," ","17 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"212 832 ₽"}],["$","td",null,{"children":"26 604 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 10:00 (МСК)"," —"," ","24 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"199 530 ₽"}],["$","td",null,{"children":"26 604 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["24 сент. 2026 г., 10:00 (МСК)"," —"," ","1 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"186 228 ₽"}],["$","td",null,{"children":"26 604 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["1 окт. 2026 г., 10:00 (МСК)"," —"," ","8 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"172 926 ₽"}],["$","td",null,{"children":"26 604 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["8 окт. 2026 г., 10:00 (МСК)"," —"," ","15 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"159 624 ₽"}],["$","td",null,{"children":"26 604 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["15 окт. 2026 г., 10:00 (МСК)"," —"," ","22 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"146 322 ₽"}],["$","td",null,{"children":"26 604 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["22 окт. 2026 г., 10:00 (МСК)"," —"," ","29 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"133 020 ₽"}],["$","td",null,{"children":"26 604 ₽"}]]}],["$","tr","12",{"className":"","children":[["$","td",null,{"children":["29 окт. 2026 г., 10:00 (МСК)"," —"," ","6 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"119 718 ₽"}],["$","td",null,{"children":"26 604 ₽"}]]}],["$","tr","13",{"className":"","children":[["$","td",null,{"children":["6 нояб. 2026 г., 10:00 (МСК)"," —"," ","13 нояб. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"106 416 ₽"}],["$","td",null,{"children":"26 604 ₽"}]]}]]}]]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Алексеева Наталья Анатольевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=861707437421","children":"Алексеева Наталья Анатольевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","861707437421"]}],"$undefined"]}]]}],["$","tr","manager:Гарин Максим Евгеньевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=540232235957","children":"Гарин Максим Евгеньевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","540232235957"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"ЦФОП АПК\""]}]]}]]}],["$","tr","organizer:Гарин Максим Евгеньевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=540232235957","children":"Гарин Максим Евгеньевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","540232235957"]}],"$undefined"]}]]}],["$","tr","pledgee:ООО \"МБ РУС БАНК\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7750004190","children":"ООО \"МБ РУС БАНК\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7750004190"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9075-2891%2F2025","children":"А75-2891/2025"}]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Ханты-Мансийский АО"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268627732/CHEVROLET%20AVEO%20KL1SF487J8B081501.pdf",{"href":"https://m-ets.ru/download/268627732/CHEVROLET%20AVEO%20KL1SF487J8B081501.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","CHEVROLET AVEO KL1SF487J8B081501.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268627742/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9C%D0%91%20%D0%A0%D0%A3%D0%A1%20%D0%91%D0%B0%D0%BD%D0%BA%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B0.pdf",{"href":"https://m-ets.ru/download/268627742/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9C%D0%91%20%D0%A0%D0%A3%D0%A1%20%D0%91%D0%B0%D0%BD%D0%BA%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение МБ РУС Банк Алексеева.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268627744/2.%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).pdf",{"href":"https://m-ets.ru/download/268627744/2.%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","2.Договор купли-продажи (проект).pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268627809/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268627809/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1a:T2570,{
+  "id": "etp-mets:227441-1",
+  "sourceCode": "etp-mets",
+  "externalId": "227441-1",
+  "sourceUrl": "https://m-ets.ru/227441-1",
+  "title": "Chevrolet Aveo, 2007 года, 94 лс, 195000 км, АКПП",
+  "description": "легковой автомобиль CHEVROLET AVEO, 2007 г.в., VIN KL1SF487J8B081501, ГРЗ Н279СВ86, ТС б/у, возможно наличие скрытых дефектов, физическое, техническое состояние, комплектность проверяется при личном осмотре. Авто изъято Банком и находится на стоянке: ХМАО Югры, Посёлок Солнечный, Солнечная промзона Находится в залоге ООО \"МБ РУС Банк\"",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "86",
+  "address": "Ханты-Мансийский АО",
+  "priceStart": "266040",
+  "priceMin": "106416.00",
+  "deposit": "26604.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-12T00:00:00+03:00",
+  "biddStartAt": "2026-08-13T10:00:00+03:00",
+  "biddEndAt": "2026-11-13T10:00:00+03:00",
+  "auctionAt": "2026-11-13T11:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А75-2891/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Алексеева Наталья Анатольевна",
+      "inn": "861707437421",
+      "efrsbId": "890604f692899879fa44e8edaef7e05e"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Гарин Максим Евгеньевич",
+      "inn": "540232235957",
+      "sro": "ААУ \"ЦФОП АПК\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Гарин Максим Евгеньевич",
+      "inn": "540232235957",
+      "email": "garin_torg@mail.ru",
+      "phone": "+7 (913) 456 09 67"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ООО \"МБ РУС БАНК\"",
+      "inn": "7750004190"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-13T10:00:00+03:00",
+      "endAt": "2026-08-20T10:00:00+03:00",
+      "price": "266040.00",
+      "deposit": "26604.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-20T10:00:00+03:00",
+      "endAt": "2026-08-27T10:00:00+03:00",
+      "price": "252738.00",
+      "deposit": "26604.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-27T10:00:00+03:00",
+      "endAt": "2026-09-03T10:00:00+03:00",
+      "price": "239436.00",
+      "deposit": "26604.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-03T10:00:00+03:00",
+      "endAt": "2026-09-10T10:00:00+03:00",
+      "price": "226134.00",
+      "deposit": "26604.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-10T10:00:00+03:00",
+      "endAt": "2026-09-17T10:00:00+03:00",
+      "price": "212832.00",
+      "deposit": "26604.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-17T10:00:00+03:00",
+      "endAt": "2026-09-24T10:00:00+03:00",
+      "price": "199530.00",
+      "deposit": "26604.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-24T10:00:00+03:00",
+      "endAt": "2026-10-01T10:00:00+03:00",
+      "price": "186228.00",
+      "deposit": "26604.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-10-01T10:00:00+03:00",
+      "endAt": "2026-10-08T10:00:00+03:00",
+      "price": "172926.00",
+      "deposit": "26604.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-10-08T10:00:00+03:00",
+      "endAt": "2026-10-15T10:00:00+03:00",
+      "price": "159624.00",
+      "deposit": "26604.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-10-15T10:00:00+03:00",
+      "endAt": "2026-10-22T10:00:00+03:00",
+      "price": "146322.00",
+      "deposit": "26604.00"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-10-22T10:00:00+03:00",
+      "endAt": "2026-10-29T10:00:00+03:00",
+      "price": "133020.00",
+      "deposit": "26604.00"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-10-29T10:00:00+03:00",
+      "endAt": "2026-11-06T10:00:00+03:00",
+      "price": "119718.00",
+      "deposit": "26604.00"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-11-06T10:00:00+03:00",
+      "endAt": "2026-11-13T10:00:00+03:00",
+      "price": "106416.00",
+      "deposit": "26604.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268627737/268627737_thumb_0.jpg",
+    "https://m-ets.ru/download/268627741/268627741_thumb_0.jpg",
+    "https://m-ets.ru/download/268627740/268627740_thumb_0.jpg",
+    "https://m-ets.ru/download/268627738/268627738_thumb_0.jpg",
+    "https://m-ets.ru/download/268627739/268627739_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268627732/CHEVROLET%20AVEO%20KL1SF487J8B081501.pdf",
+      "name": "CHEVROLET AVEO KL1SF487J8B081501.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268627742/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9C%D0%91%20%D0%A0%D0%A3%D0%A1%20%D0%91%D0%B0%D0%BD%D0%BA%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B0.pdf",
+      "name": "Положение МБ РУС Банк Алексеева.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268627744/2.%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82).pdf",
+      "name": "2.Договор купли-продажи (проект).pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268627809/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Chevrolet",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Aveo",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2007",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "195 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "94",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Автоматическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "KL1SF487J8B081501",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24160223",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Ханты-Мансийского автономного округа",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "27.03.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Находится в залоге ООО \"МБ РУС Банк\"",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомиться с порядком проведения торгов, направив предварительно запрос на адрес электронной почты: aytorgi@yandex.ru информацией об имуществе, формами документов, договориться об осмотре и т.д. можно по телефону +79231734943 по предварительной записи у организатора торгов.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:42:48.123Z",
+  "lastSeenAt": "2026-08-31T19:42:48.123Z",
+  "contentHash": "922210c15c93f8bb226c3a3b5295a0d4fad66805a6b4fa56c383d6d7222b1948"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1a"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"226 134 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["212 832 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[9,", до ","106 416 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"266 040 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"26 604 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"11 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"13 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"13 нояб. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"68 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"13 нояб. 2026 г., 11:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Ханты-Мансийский АО"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/227441-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Chevrolet Aveo, 2007 года, 94 лс, 195000 км, АКПП — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

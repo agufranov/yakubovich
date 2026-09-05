@@ -1,0 +1,321 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--217743-2",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--217743-2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--217743-2","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=42","children":"Кемеровская обл."}]]]}],["$","h1",null,{"children":"1/8 доля дома и 1/4 доля земельного участка в Кемеровской обл."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Состоялся"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Жилой дом "}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/267843300/267843300_thumb_0.jpg","alt":"1/8 доля дома и 1/4 доля земельного участка в Кемеровской обл."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/267843298/267843298_thumb_0.jpg",{"href":"https://m-ets.ru/download/267843298/267843298_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267843298/267843298_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267843299/267843299_thumb_0.jpg",{"href":"https://m-ets.ru/download/267843299/267843299_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267843299/267843299_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267843302/267843302_thumb_0.jpg",{"href":"https://m-ets.ru/download/267843302/267843302_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267843302/267843302_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/267843301/267843301_thumb_0.jpg",{"href":"https://m-ets.ru/download/267843301/267843301_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/267843301/267843301_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"1/4 доли в праве собственности на Земельный участок с КН 42:09:0301001:522 , общей площадью 2150 кв.м для ведения личного подсобного хозяйства. Местоположение установлено относительно ориентира, расположенного в границах участка. Почтовый адрес ориентира: Кемеровская область, р-н. Новокузнецкий, с. Бунгур, ул. Новоселов, д. 8. Кадастровая стоимость 240 789,25 руб. Общая долевая собственность(Елохин В.В.), 1/4, 42:09:0301001:522 -42/020/2018-5, 03.07.2018 с 1/8 доли в праве собственности на Жилой дом с КН 42:09:0301001:1015 , общей площадью 155.7 кв.м, 1998 г.п., расположен по адресу: Россия, Кемеровская область, Новокузнецкий район, с Бунгур, ул.Новоселов, дом №8. Кадастровая стоимость 1 523 869,32 руб. Общая долевая собственность (Елохин В.В.), 1/8, 42:09:0301001:1015 -42/020/2018-6, 03.07.2018. Границы ЗУ в ЕГРН не установлены"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23480689",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Республики Карелия",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["06.10.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],"$L11"]}]]}]}]]}],"$L12","$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","td",null,{"children":["Ознакомление с имуществом осуществляется в период приёма заявок, по предварительной договорённости по телефонному номеру: + 7 (995) 1047004, электронной почте nikanova_ia@mail.ru. Дополнительная информация об объекте продажи, условиях осмотра и о порядке проведения торгов, ознакомление с имуществом – направляются запросом на электронную почту с сохранением переписки: nikanova_ia@mail.ru. В отношении ... Показать полностью лотов 1 и 2: Извещение о продаже доли в недвижимом имуществе получено сособственником 06.03.2026, в срок до 07.04.2026 ответ о реализации преимущественного права покупки доли до объявления торгов не поступил. Правило о преимущественном праве покупки участниками долевой собственности не применяется.",""]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["26 июн. 2026 г., 00:00 (МСК)"," —"," ","26 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"450 000 ₽"}],["$","td",null,{"children":"45 000 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["26 июл. 2026 г., 00:01 (МСК)"," —"," ","28 июл. 2026 г., 09:59 (МСК)"]}],["$","td",null,{"children":"427 500 ₽"}],["$","td",null,{"children":"42 750 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["28 июл. 2026 г., 10:00 (МСК)"," —"," ","30 июл. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"405 000 ₽"}],["$","td",null,{"children":"40 500 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["30 июл. 2026 г., 10:01 (МСК)"," —"," ","1 авг. 2026 г., 10:01 (МСК)"]}],["$","td",null,{"children":"382 500 ₽"}],["$","td",null,{"children":"38 250 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["1 авг. 2026 г., 10:02 (МСК)"," —"," ","3 авг. 2026 г., 10:02 (МСК)"]}],["$","td",null,{"children":"360 000 ₽"}],["$","td",null,{"children":"36 000 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 10:03 (МСК)"," —"," ","5 авг. 2026 г., 10:03 (МСК)"]}],["$","td",null,{"children":"337 500 ₽"}],["$","td",null,{"children":"33 750 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["5 авг. 2026 г., 10:04 (МСК)"," —"," ","7 авг. 2026 г., 10:04 (МСК)"]}],["$","td",null,{"children":"315 000 ₽"}],["$","td",null,{"children":"31 500 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["7 авг. 2026 г., 10:05 (МСК)"," —"," ","9 авг. 2026 г., 10:05 (МСК)"]}],["$","td",null,{"children":"292 500 ₽"}],["$","td",null,{"children":"29 250 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["9 авг. 2026 г., 10:06 (МСК)"," —"," ","11 авг. 2026 г., 10:06 (МСК)"]}],["$","td",null,{"children":"270 000 ₽"}],["$","td",null,{"children":"27 000 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["11 авг. 2026 г., 10:07 (МСК)"," —"," ","13 авг. 2026 г., 10:07 (МСК)"]}],["$","td",null,{"children":"247 500 ₽"}],["$","td",null,{"children":"24 750 ₽"}]]}],["$","tr","11",{"className":"","children":[["$","td",null,{"children":["13 авг. 2026 г., 10:08 (МСК)"," —"," ","15 авг. 2026 г., 10:08 (МСК)"]}],["$","td",null,{"children":"225 000 ₽"}],["$","td",null,{"children":"22 500 ₽"}]]}],["$","tr","12",{"className":"","children":[["$","td",null,{"children":["15 авг. 2026 г., 10:09 (МСК)"," —"," ","17 авг. 2026 г., 10:09 (МСК)"]}],["$","td",null,{"children":"202 500 ₽"}],["$","td",null,{"children":"20 250 ₽"}]]}],["$","tr","13",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 10:10 (МСК)"," —"," ","19 авг. 2026 г., 10:10 (МСК)"]}],["$","td",null,{"children":"180 000 ₽"}],["$","td",null,{"children":"18 000 ₽"}]]}],["$","tr","14",{"className":"","children":[["$","td",null,{"children":["19 авг. 2026 г., 10:11 (МСК)"," —"," ","21 авг. 2026 г., 10:11 (МСК)"]}],["$","td",null,{"children":"157 500 ₽"}],["$","td",null,{"children":"15 750 ₽"}]]}],["$","tr","15",{"className":"","children":[["$","td",null,{"children":["21 авг. 2026 г., 10:12 (МСК)"," —"," ","23 авг. 2026 г., 10:12 (МСК)"]}],["$","td",null,{"children":"135 000 ₽"}],["$","td",null,{"children":"13 500 ₽"}]]}],["$","tr","16",{"className":"","children":[["$","td",null,{"children":["23 авг. 2026 г., 10:13 (МСК)"," —"," ","25 авг. 2026 г., 10:13 (МСК)"]}],["$","td",null,{"children":"112 500 ₽"}],["$","td",null,{"children":"11 250 ₽"}]]}],["$","tr","17",{"className":"","children":[["$","td",null,{"children":["25 авг. 2026 г., 10:14 (МСК)"," —"," ","27 авг. 2026 г., 10:14 (МСК)"]}],["$","td",null,{"children":"90 000 ₽"}],["$","td",null,{"children":"9 000 ₽"}]]}],["$","tr","18",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 10:15 (МСК)"," —"," ","29 авг. 2026 г., 10:15 (МСК)"]}],["$","td",null,{"children":"67 500 ₽"}],["$","td",null,{"children":"6 750 ₽"}]]}],["$","tr","19",{"className":"","children":[["$","td",null,{"children":["29 авг. 2026 г., 10:16 (МСК)"," —"," ","31 авг. 2026 г., 10:16 (МСК)"]}],["$","td",null,{"children":"45 000 ₽"}],["$","td",null,{"children":"4 500 ₽"}]]}]]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Елохин Юрий Викторович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=421803513326","children":"Елохин Юрий Викторович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","421803513326"]}],"$undefined"]}]]}],["$","tr","manager:Никанова Юлия Александровна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=100117989100","children":"Никанова Юлия Александровна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","100117989100"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Солидарность\""]}]]}]]}],["$","tr","organizer:Никанова Юлия Александровна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=100117989100","children":"Никанова Юлия Александровна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","100117989100"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9026-6322%2F2025","children":"А26-6322/2025"}]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Кемеровская область"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",13,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268915646/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268915646/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 217743-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268915648/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",{"href":"https://m-ets.ru/download/268915648/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 217743-МЭТС по лоту 1.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268915662/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202.pdf",{"href":"https://m-ets.ru/download/268915662/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 217743-МЭТС по лоту 2.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268915664/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202.pdf",{"href":"https://m-ets.ru/download/268915664/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202.pdf","target":"_blank","rel":"noopener","children":["$L18","$L19"]}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]]}]
+23:T39b5,{
+  "id": "etp-mets:217743-2",
+  "sourceCode": "etp-mets",
+  "externalId": "217743-2",
+  "sourceUrl": "https://m-ets.ru/217743-2",
+  "title": "1/8 доля дома и 1/4 доля земельного участка в Кемеровской обл.",
+  "description": "1/4 доли в праве собственности на Земельный участок с КН 42:09:0301001:522 , общей площадью 2150 кв.м для ведения личного подсобного хозяйства. Местоположение установлено относительно ориентира, расположенного в границах участка. Почтовый адрес ориентира: Кемеровская область, р-н. Новокузнецкий, с. Бунгур, ул. Новоселов, д. 8. Кадастровая стоимость 240 789,25 руб. Общая долевая собственность(Елохин В.В.), 1/4, 42:09:0301001:522 -42/020/2018-5, 03.07.2018 с 1/8 доли в праве собственности на Жилой дом с КН 42:09:0301001:1015 , общей площадью 155.7 кв.м, 1998 г.п., расположен по адресу: Россия, Кемеровская область, Новокузнецкий район, с Бунгур, ул.Новоселов, дом №8. Кадастровая стоимость 1 523 869,32 руб. Общая долевая собственность (Елохин В.В.), 1/8, 42:09:0301001:1015 -42/020/2018-6, 03.07.2018. Границы ЗУ в ЕГРН не установлены",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "finished",
+  "statusRaw": "Торги завершены",
+  "kind": "land",
+  "categoryCode": "34",
+  "categoryName": "Жилой дом ",
+  "regionCode": "42",
+  "address": "Кемеровская область",
+  "priceStart": "450000",
+  "priceMin": "45000.00",
+  "deposit": "45000.00",
+  "currency": "RUB",
+  "publishedAt": "2026-05-19T00:00:00+03:00",
+  "biddStartAt": "2026-06-26T00:00:00+03:00",
+  "biddEndAt": "2026-08-31T10:16:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А26-6322/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Елохин Юрий Викторович",
+      "inn": "421803513326",
+      "efrsbId": "0d546c9ea9246b4b4694a872e4e06a6e"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Никанова Юлия Александровна",
+      "inn": "100117989100",
+      "sro": "ААУ \"Солидарность\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Никанова Юлия Александровна",
+      "inn": "100117989100",
+      "email": "79951047004@mail.ru",
+      "phone": "+7 (995) 104 70 04"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-06-26T00:00:00+03:00",
+      "endAt": "2026-07-26T00:00:00+03:00",
+      "price": "450000.00",
+      "deposit": "45000.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-26T00:01:00+03:00",
+      "endAt": "2026-07-28T09:59:00+03:00",
+      "price": "427500.00",
+      "deposit": "42750.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-07-28T10:00:00+03:00",
+      "endAt": "2026-07-30T10:00:00+03:00",
+      "price": "405000.00",
+      "deposit": "40500.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-07-30T10:01:00+03:00",
+      "endAt": "2026-08-01T10:01:00+03:00",
+      "price": "382500.00",
+      "deposit": "38250.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-01T10:02:00+03:00",
+      "endAt": "2026-08-03T10:02:00+03:00",
+      "price": "360000.00",
+      "deposit": "36000.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-03T10:03:00+03:00",
+      "endAt": "2026-08-05T10:03:00+03:00",
+      "price": "337500.00",
+      "deposit": "33750.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-05T10:04:00+03:00",
+      "endAt": "2026-08-07T10:04:00+03:00",
+      "price": "315000.00",
+      "deposit": "31500.00"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-08-07T10:05:00+03:00",
+      "endAt": "2026-08-09T10:05:00+03:00",
+      "price": "292500.00",
+      "deposit": "29250.00"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-08-09T10:06:00+03:00",
+      "endAt": "2026-08-11T10:06:00+03:00",
+      "price": "270000.00",
+      "deposit": "27000.00"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-08-11T10:07:00+03:00",
+      "endAt": "2026-08-13T10:07:00+03:00",
+      "price": "247500.00",
+      "deposit": "24750.00"
+    },
+    {
+      "no": 11,
+      "startAt": "2026-08-13T10:08:00+03:00",
+      "endAt": "2026-08-15T10:08:00+03:00",
+      "price": "225000.00",
+      "deposit": "22500.00"
+    },
+    {
+      "no": 12,
+      "startAt": "2026-08-15T10:09:00+03:00",
+      "endAt": "2026-08-17T10:09:00+03:00",
+      "price": "202500.00",
+      "deposit": "20250.00"
+    },
+    {
+      "no": 13,
+      "startAt": "2026-08-17T10:10:00+03:00",
+      "endAt": "2026-08-19T10:10:00+03:00",
+      "price": "180000.00",
+      "deposit": "18000.00"
+    },
+    {
+      "no": 14,
+      "startAt": "2026-08-19T10:11:00+03:00",
+      "endAt": "2026-08-21T10:11:00+03:00",
+      "price": "157500.00",
+      "deposit": "15750.00"
+    },
+    {
+      "no": 15,
+      "startAt": "2026-08-21T10:12:00+03:00",
+      "endAt": "2026-08-23T10:12:00+03:00",
+      "price": "135000.00",
+      "deposit": "13500.00"
+    },
+    {
+      "no": 16,
+      "startAt": "2026-08-23T10:13:00+03:00",
+      "endAt": "2026-08-25T10:13:00+03:00",
+      "price": "112500.00",
+      "deposit": "11250.00"
+    },
+    {
+      "no": 17,
+      "startAt": "2026-08-25T10:14:00+03:00",
+      "endAt": "2026-08-27T10:14:00+03:00",
+      "price": "90000.00",
+      "deposit": "9000.00"
+    },
+    {
+      "no": 18,
+      "startAt": "2026-08-27T10:15:00+03:00",
+      "endAt": "2026-08-29T10:15:00+03:00",
+      "price": "67500.00",
+      "deposit": "6750.00"
+    },
+    {
+      "no": 19,
+      "startAt": "2026-08-29T10:16:00+03:00",
+      "endAt": "2026-08-31T10:16:00+03:00",
+      "price": "45000.00",
+      "deposit": "4500.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/267843300/267843300_thumb_0.jpg",
+    "https://m-ets.ru/download/267843298/267843298_thumb_0.jpg",
+    "https://m-ets.ru/download/267843299/267843299_thumb_0.jpg",
+    "https://m-ets.ru/download/267843302/267843302_thumb_0.jpg",
+    "https://m-ets.ru/download/267843301/267843301_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268915646/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Протокол определения участников торгов 217743-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268915648/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%201.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 217743-МЭТС по лоту 1.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268915662/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202.pdf",
+      "name": "Протокол определения участников торгов 217743-МЭТС по лоту 2.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268915664/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%202.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 217743-МЭТС по лоту 2.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268786430/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",
+      "name": "Протокол определения участников торгов 217743-МЭТС по лоту 3.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268786432/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",
+      "name": "Протокол о результатах проведения открытых торгов 217743-МЭТС по лоту 3.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267843306/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B4%D0%BE%D0%BB%D0%B8.pdf",
+      "name": "Проект_договора_купли_продажи_доли.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267843308/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%B4%D0%BE%D0%BC%D0%B0.pdf",
+      "name": "Фото дома.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267843310/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%D0%95%D0%BB%D0%BE%D1%85%D0%B8%D0%BD%20%D0%AE.%D0%92.%20%D0%A4%D0%A3%2019022026%20%D0%BD%D0%B0%2010%20%D0%BB.pdf",
+      "name": "ПоложениеЕлохин Ю.В. ФУ 19022026 на 10 л.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267843312/%D0%98%D0%9F%20%D0%BF%D0%BE%20%D0%A2%D1%80%D0%B5%D0%B9%D0%B4%D0%BA%D0%BB%D0%B8%D0%BD%2020%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.pdf",
+      "name": "ИП по Трейдклин 20 должников.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267843314/sprav-fl-421803513326-20260408200940.pdf",
+      "name": "sprav-fl-421803513326-20260408200940.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267843316/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9B%D0%9E%D0%A2%203%20%D0%B4%D0%B5%D0%B1%D0%B8%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf",
+      "name": "Договор купли-продажи ЛОТ 3 дебиторская задолженность проект.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/267855344/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23480689",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Республики Карелия",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "06.10.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом осуществляется в период приёма заявок, по предварительной договорённости по телефонному номеру: + 7 (995) 1047004, электронной почте nikanova_ia@mail.ru. Дополнительная информация об объекте продажи, условиях осмотра и о порядке проведения торгов, ознакомление с имуществом – направляются запросом на электронную почту с сохранением переписки: nikanova_ia@mail.ru. В отношении ... Показать полностью лотов 1 и 2: Извещение о продаже доли в недвижимом имуществе получено сособственником 06.03.2026, в срок до 07.04.2026 ответ о реализации преимущественного права покупки доли до объявления торгов не поступил. Правило о преимущественном праве покупки участниками долевой собственности не применяется.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:46:19.576Z",
+  "lastSeenAt": "2026-08-31T17:46:19.576Z",
+  "contentHash": "de0a09bf9cfcc4f92789ae3f136d86332b47dda429abfe810e12434030bc6fc7"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$23"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"450 000 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[19,", до ","45 000 ₽"]}]],"$undefined","$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"45 000 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"18 мая 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"26 июн. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"31 авг. 2026 г., 10:16 (МСК)"}]],false,"$undefined"]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Кемеровская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/217743-2","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+18:["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 217743-МЭТС по лоту 2.pdf"]}]
+19:["$","span",null,{"className":"size","children":"$undefined"}]
+1a:["$","a","https://m-ets.ru/download/268786430/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",{"href":"https://m-ets.ru/download/268786430/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол определения участников торгов 217743-МЭТС по лоту 3.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1b:["$","a","https://m-ets.ru/download/268786432/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf",{"href":"https://m-ets.ru/download/268786432/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%BE%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D1%85%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20217743-%D0%9C%D0%AD%D0%A2%D0%A1%20%D0%BF%D0%BE%20%D0%BB%D0%BE%D1%82%D1%83%203.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Протокол о результатах проведения открытых торгов 217743-МЭТС по лоту 3.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1c:["$","a","https://m-ets.ru/download/267843306/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B4%D0%BE%D0%BB%D0%B8.pdf",{"href":"https://m-ets.ru/download/267843306/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0_%D0%BA%D1%83%D0%BF%D0%BB%D0%B8_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8_%D0%B4%D0%BE%D0%BB%D0%B8.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект_договора_купли_продажи_доли.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1d:["$","a","https://m-ets.ru/download/267843308/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%B4%D0%BE%D0%BC%D0%B0.pdf",{"href":"https://m-ets.ru/download/267843308/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%B4%D0%BE%D0%BC%D0%B0.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Фото дома.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1e:["$","a","https://m-ets.ru/download/267843310/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%D0%95%D0%BB%D0%BE%D1%85%D0%B8%D0%BD%20%D0%AE.%D0%92.%20%D0%A4%D0%A3%2019022026%20%D0%BD%D0%B0%2010%20%D0%BB.pdf",{"href":"https://m-ets.ru/download/267843310/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%D0%95%D0%BB%D0%BE%D1%85%D0%B8%D0%BD%20%D0%AE.%D0%92.%20%D0%A4%D0%A3%2019022026%20%D0%BD%D0%B0%2010%20%D0%BB.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ПоложениеЕлохин Ю.В. ФУ 19022026 на 10 л.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+1f:["$","a","https://m-ets.ru/download/267843312/%D0%98%D0%9F%20%D0%BF%D0%BE%20%D0%A2%D1%80%D0%B5%D0%B9%D0%B4%D0%BA%D0%BB%D0%B8%D0%BD%2020%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.pdf",{"href":"https://m-ets.ru/download/267843312/%D0%98%D0%9F%20%D0%BF%D0%BE%20%D0%A2%D1%80%D0%B5%D0%B9%D0%B4%D0%BA%D0%BB%D0%B8%D0%BD%2020%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ИП по Трейдклин 20 должников.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+20:["$","a","https://m-ets.ru/download/267843314/sprav-fl-421803513326-20260408200940.pdf",{"href":"https://m-ets.ru/download/267843314/sprav-fl-421803513326-20260408200940.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","sprav-fl-421803513326-20260408200940.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+21:["$","a","https://m-ets.ru/download/267843316/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9B%D0%9E%D0%A2%203%20%D0%B4%D0%B5%D0%B1%D0%B8%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf",{"href":"https://m-ets.ru/download/267843316/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9B%D0%9E%D0%A2%203%20%D0%B4%D0%B5%D0%B1%D0%B8%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи ЛОТ 3 дебиторская задолженность проект.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+22:["$","a","https://m-ets.ru/download/267855344/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/267855344/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"1/8 доля дома и 1/4 доля земельного участка в Кемеровской обл. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

@@ -1,0 +1,202 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--227360-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--227360-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--227360-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=56","children":"Оренбургская обл."}]]]}],["$","h1",null,{"children":"Дом 139,7 кв.м. и земельный участок 760 кв.м. в Оренбургской обл."}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Жилой дом "}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268623068/268623068_thumb_0.jpg","alt":"Дом 139,7 кв.м. и земельный участок 760 кв.м. в Оренбургской обл."}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268623062/268623062_thumb_0.jpg",{"href":"https://m-ets.ru/download/268623062/268623062_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268623062/268623062_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268623065/268623065_thumb_0.jpg",{"href":"https://m-ets.ru/download/268623065/268623065_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268623065/268623065_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268623067/268623067_thumb_0.jpg",{"href":"https://m-ets.ru/download/268623067/268623067_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268623067/268623067_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268623060/268623060_thumb_0.jpg",{"href":"https://m-ets.ru/download/268623060/268623060_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268623060/268623060_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268623066/268623066_thumb_0.jpg",{"href":"https://m-ets.ru/download/268623066/268623066_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268623066/268623066_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268623064/268623064_thumb_0.jpg",{"href":"https://m-ets.ru/download/268623064/268623064_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268623064/268623064_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268623061/268623061_thumb_0.jpg",{"href":"https://m-ets.ru/download/268623061/268623061_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268623061/268623061_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268623063/268623063_thumb_0.jpg",{"href":"https://m-ets.ru/download/268623063/268623063_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268623063/268623063_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268623070/268623070_thumb_0.jpg",{"href":"https://m-ets.ru/download/268623070/268623070_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268623070/268623070_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"жилой дом пл. 139,7 кв.м. кад. № 56:25:1401015:642 и земельный участок 760 кв.м. кад. № 56:25:1401015:223 по адресу: Оренбургская обл. Оренбургский р-н с.Татарская Каргала ул.Столярная д. 12А"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],"$L11"]}],"$L12","$L13","$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24155896",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Оренбургской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["09.10.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомиться с имуществом возможно по предварительному согласованию, позвонив по телефону 8-922-627-41-39 Дилара или направив запрос на электронную почту: zholshieva@mail.ru.",""]}]]}]]}]}]
+12:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["13 авг. 2026 г., 10:00 (МСК)"," —"," ","20 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"7 423 200 ₽"}],["$","td",null,{"children":"742 320 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["20 авг. 2026 г., 10:00 (МСК)"," —"," ","27 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"7 052 040 ₽"}],["$","td",null,{"children":"705 204 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["27 авг. 2026 г., 10:00 (МСК)"," —"," ","3 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 680 880 ₽"}],["$","td",null,{"children":"668 088 ₽"}]]}],["$","tr","4",{"className":"now","children":[["$","td",null,{"children":["3 сент. 2026 г., 10:00 (МСК)"," —"," ","10 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"6 309 720 ₽"}],["$","td",null,{"children":"630 972 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["10 сент. 2026 г., 10:00 (МСК)"," —"," ","17 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"5 938 560 ₽"}],["$","td",null,{"children":"593 856 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 10:00 (МСК)"," —"," ","24 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"5 567 400 ₽"}],["$","td",null,{"children":"556 740 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["24 сент. 2026 г., 10:00 (МСК)"," —"," ","1 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"5 196 240 ₽"}],["$","td",null,{"children":"519 624 ₽"}]]}]]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Валитова Дилара Фанильевна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=561018945261","children":"Валитова Дилара Фанильевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","561018945261"]}],"$undefined"]}]]}],["$","tr","manager:Жолшиева Жанна Серикбаевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=564605223442","children":"Жолшиева Жанна Серикбаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","564605223442"]}],["$","span",null,{"className":"muted","children":[" · ","ААУ \"Собр\""]}]]}]]}],["$","tr","organizer:Жолшиева Жанна Серикбаевна",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=564605223442","children":"Жолшиева Жанна Серикбаевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","564605223442"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9047-14860%2F2025","children":"А47-14860/2025"}]}]]}]]}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Оренбургская область"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268623071/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D1%83%D0%B5%D0%BC%D0%B0%D1%8F%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%94%D0%9A%D0%9F.pdf",{"href":"https://m-ets.ru/download/268623071/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D1%83%D0%B5%D0%BC%D0%B0%D1%8F%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%94%D0%9A%D0%9F.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Рекомендуемая форма ДКП.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268623073/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D0%B0%D0%BB%D0%B8%D1%82%D0%BE%D0%B2%D0%B0_%D1%84%D1%83.pdf",{"href":"https://m-ets.ru/download/268623073/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D0%B0%D0%BB%D0%B8%D1%82%D0%BE%D0%B2%D0%B0_%D1%84%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","положение_Валитова_фу.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268623075/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%87%D0%B5%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2.pdf",{"href":"https://m-ets.ru/download/268623075/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%87%D0%B5%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Расчетный счет для торгов.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268623152/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268623152/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T1b14,{
+  "id": "etp-mets:227360-1",
+  "sourceCode": "etp-mets",
+  "externalId": "227360-1",
+  "sourceUrl": "https://m-ets.ru/227360-1",
+  "title": "Дом 139,7 кв.м. и земельный участок 760 кв.м. в Оренбургской обл.",
+  "description": "жилой дом пл. 139,7 кв.м. кад. № 56:25:1401015:642 и земельный участок 760 кв.м. кад. № 56:25:1401015:223 по адресу: Оренбургская обл. Оренбургский р-н с.Татарская Каргала ул.Столярная д. 12А",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "land",
+  "categoryCode": "34",
+  "categoryName": "Жилой дом ",
+  "regionCode": "56",
+  "address": "Оренбургская область",
+  "priceStart": "7423200",
+  "priceMin": "5196240.00",
+  "deposit": "742320.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-12T00:00:00+03:00",
+  "biddStartAt": "2026-08-13T10:00:00+03:00",
+  "biddEndAt": "2026-10-01T10:00:00+03:00",
+  "auctionAt": "2026-10-01T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А47-14860/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Валитова Дилара Фанильевна",
+      "inn": "561018945261",
+      "efrsbId": "fe3defa60ecbbf8bc4a41b0062a65b85"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Жолшиева Жанна Серикбаевна",
+      "inn": "564605223442",
+      "sro": "ААУ \"Собр\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Жолшиева Жанна Серикбаевна",
+      "inn": "564605223442",
+      "email": "zholshieva@mail.ru",
+      "phone": "+7 (987) 871 90 74"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-13T10:00:00+03:00",
+      "endAt": "2026-08-20T10:00:00+03:00",
+      "price": "7423200.00",
+      "deposit": "742320.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-20T10:00:00+03:00",
+      "endAt": "2026-08-27T10:00:00+03:00",
+      "price": "7052040.00",
+      "deposit": "705204.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-27T10:00:00+03:00",
+      "endAt": "2026-09-03T10:00:00+03:00",
+      "price": "6680880.00",
+      "deposit": "668088.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-03T10:00:00+03:00",
+      "endAt": "2026-09-10T10:00:00+03:00",
+      "price": "6309720.00",
+      "deposit": "630972.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-10T10:00:00+03:00",
+      "endAt": "2026-09-17T10:00:00+03:00",
+      "price": "5938560.00",
+      "deposit": "593856.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-17T10:00:00+03:00",
+      "endAt": "2026-09-24T10:00:00+03:00",
+      "price": "5567400.00",
+      "deposit": "556740.00"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-24T10:00:00+03:00",
+      "endAt": "2026-10-01T10:00:00+03:00",
+      "price": "5196240.00",
+      "deposit": "519624.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268623068/268623068_thumb_0.jpg",
+    "https://m-ets.ru/download/268623062/268623062_thumb_0.jpg",
+    "https://m-ets.ru/download/268623065/268623065_thumb_0.jpg",
+    "https://m-ets.ru/download/268623067/268623067_thumb_0.jpg",
+    "https://m-ets.ru/download/268623060/268623060_thumb_0.jpg",
+    "https://m-ets.ru/download/268623066/268623066_thumb_0.jpg",
+    "https://m-ets.ru/download/268623064/268623064_thumb_0.jpg",
+    "https://m-ets.ru/download/268623061/268623061_thumb_0.jpg",
+    "https://m-ets.ru/download/268623063/268623063_thumb_0.jpg",
+    "https://m-ets.ru/download/268623070/268623070_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268623071/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D1%83%D0%B5%D0%BC%D0%B0%D1%8F%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%94%D0%9A%D0%9F.pdf",
+      "name": "Рекомендуемая форма ДКП.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268623073/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D0%B0%D0%BB%D0%B8%D1%82%D0%BE%D0%B2%D0%B0_%D1%84%D1%83.pdf",
+      "name": "положение_Валитова_фу.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268623075/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%87%D0%B5%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2.pdf",
+      "name": "Расчетный счет для торгов.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268623152/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24155896",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Оренбургской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "09.10.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомиться с имуществом возможно по предварительному согласованию, позвонив по телефону 8-922-627-41-39 Дилара или направив запрос на электронную почту: zholshieva@mail.ru.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:11:59.922Z",
+  "lastSeenAt": "2026-08-31T19:11:59.922Z",
+  "contentHash": "4c7e150835d661f0d7b92a43677328ff836f308b143af9d4c4a299231c4487da"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"6 309 720 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["5 938 560 ₽",["$","span",null,{"className":"muted","children":[" ","· ","10 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[3,", до ","5 196 240 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"7 423 200 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"742 320 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"11 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"13 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"1 окт. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"25 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"1 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Оренбургская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/227360-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Дом 139,7 кв.м. и земельный участок 760 кв.м. в Оренбургской обл. — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

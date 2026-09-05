@@ -1,0 +1,191 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--229457-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--229457-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--229457-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=91","children":"Крым"}]]]}],["$","h1",null,{"children":"Kia Cerato, 2008 года, 121 лс, 300000 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268787445/268787445_thumb_0.jpg","alt":"Kia Cerato, 2008 года, 121 лс, 300000 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268787439/268787439_thumb_0.jpg",{"href":"https://m-ets.ru/download/268787439/268787439_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268787439/268787439_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268787447/268787447_thumb_0.jpg",{"href":"https://m-ets.ru/download/268787447/268787447_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268787447/268787447_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268787450/268787450_thumb_0.jpg",{"href":"https://m-ets.ru/download/268787450/268787450_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268787450/268787450_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268787451/268787451_thumb_0.jpg",{"href":"https://m-ets.ru/download/268787451/268787451_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268787451/268787451_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268787457/268787457_thumb_0.jpg",{"href":"https://m-ets.ru/download/268787457/268787457_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268787457/268787457_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268787455/268787455_thumb_0.jpg",{"href":"https://m-ets.ru/download/268787455/268787455_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268787455/268787455_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268787448/268787448_thumb_0.jpg",{"href":"https://m-ets.ru/download/268787448/268787448_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268787448/268787448_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Авто не заводится. Антифриз смешался с маслом и машина не заводится/глохнет. Контактный телефон ответственного хранителя: +7 (918) 181-94-99 марка, модель – КИА СЕРАТО; цвет – ЧЕРНЫЙ; идентификационный номер (VIN) – KNAFE227385584296; год изготовления – 2008; кузов № KNAFE227385584296; шасси (рама) – отсутствует; паспорт транспортного средства – серия 164303043249015 № 164303043249015"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Kia",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Cerato",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2008",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["300 000"," км"]}]]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18"]}]}]]}],"$undefined","$L19","$L1a","$L1b",false,"$L1c"]}],"$L1d"]}]]}]
+11:["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["121"," л.с."]}]]}]
+12:["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["KNAFE227385584296",""]}]]}]
+13:["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24242238",""]}]]}]
+14:["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["АС Краснодарского края",""]}]]}]
+15:["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["13.01.2026",""]}]]}]
+16:["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["11 655 руб. (5%)",""]}]]}]
+17:["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: находится в залоге ООО \"Резот Банк\"",""]}]]}]
+18:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомится с условиями и порядком проведения торгов, оформлением подачи заявок, проектом договора купли-продажи можно на сайте: электронной торговой площадке МЭТС на сайте https://m-ets.ru/. Дополнительная информация, а также описание, состав и характеристики имущества, порядок ознакомления с имуществом и документацией эл.почте: arbitrklykov@mail.ru",""]}]]}]
+19:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Григорян Григорий Сосович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=911008754073","children":"Григорян Григорий Сосович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","911008754073"]}],"$undefined"]}]]}],["$","tr","manager:Клыков Михаил Евгеньевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=382037142692","children":"Клыков Михаил Евгеньевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","382037142692"]}],["$","span",null,{"className":"muted","children":[" · ","Союз СРО \"ГАУ\""]}]]}]]}],["$","tr","organizer:Клыков Михаил Евгеньевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=382037142692","children":"Клыков Михаил Евгеньевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","382037142692"]}],"$undefined"]}]]}],["$","tr","pledgee:ООО \"РЕЗОРТ БАНК\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7459006240","children":"ООО \"РЕЗОРТ БАНК\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7459006240"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9032-64867%2F2025","children":"А32-64867/2025"}]}]]}]]}]}]]}]
+1a:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Республика Крым"}]]}]
+1b:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268787475/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%2B%D0%BE%2B%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8F%D0%BD%20(1).docx",{"href":"https://m-ets.ru/download/268787475/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%2B%D0%BE%2B%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8F%D0%BD%20(1).docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор+о+задатке Григорян (1).docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268787477/%D0%94%D0%9A%D0%9F.%D0%B0%D0%B2%D1%82%D0%BE.%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8F%D0%BD.docx",{"href":"https://m-ets.ru/download/268787477/%D0%94%D0%9A%D0%9F.%D0%B0%D0%B2%D1%82%D0%BE.%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8F%D0%BD.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДКП.авто.Григорян.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1e:T19dc,{
+  "id": "etp-mets:229457-1",
+  "sourceCode": "etp-mets",
+  "externalId": "229457-1",
+  "sourceUrl": "https://m-ets.ru/229457-1",
+  "title": "Kia Cerato, 2008 года, 121 лс, 300000 км",
+  "description": "Авто не заводится. Антифриз смешался с маслом и машина не заводится/глохнет. Контактный телефон ответственного хранителя: +7 (918) 181-94-99 марка, модель – КИА СЕРАТО; цвет – ЧЕРНЫЙ; идентификационный номер (VIN) – KNAFE227385584296; год изготовления – 2008; кузов № KNAFE227385584296; шасси (рама) – отсутствует; паспорт транспортного средства – серия 164303043249015 № 164303043249015",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "91",
+  "address": "Республика Крым",
+  "priceStart": "233100",
+  "priceStep": "11655",
+  "deposit": "23310",
+  "currency": "RUB",
+  "publishedAt": "2026-07-21T00:00:00+03:00",
+  "biddStartAt": "2026-08-25T10:00:00+03:00",
+  "biddEndAt": "2026-09-29T10:00:00+03:00",
+  "auctionAt": "2026-09-30T13:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А32-64867/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Григорян Григорий Сосович",
+      "inn": "911008754073",
+      "efrsbId": "51dfb66c2d83da796264ab2a9a045fce"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Клыков Михаил Евгеньевич",
+      "inn": "382037142692",
+      "sro": "Союз СРО \"ГАУ\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Клыков Михаил Евгеньевич",
+      "inn": "382037142692",
+      "email": "arbitrklykov@mail.ru",
+      "phone": "+7 (918) 694 98 00"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ООО \"РЕЗОРТ БАНК\"",
+      "inn": "7459006240"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268787445/268787445_thumb_0.jpg",
+    "https://m-ets.ru/download/268787439/268787439_thumb_0.jpg",
+    "https://m-ets.ru/download/268787447/268787447_thumb_0.jpg",
+    "https://m-ets.ru/download/268787450/268787450_thumb_0.jpg",
+    "https://m-ets.ru/download/268787451/268787451_thumb_0.jpg",
+    "https://m-ets.ru/download/268787457/268787457_thumb_0.jpg",
+    "https://m-ets.ru/download/268787455/268787455_thumb_0.jpg",
+    "https://m-ets.ru/download/268787448/268787448_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268787475/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%2B%D0%BE%2B%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8F%D0%BD%20(1).docx",
+      "name": "Договор+о+задатке Григорян (1).docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268787477/%D0%94%D0%9A%D0%9F.%D0%B0%D0%B2%D1%82%D0%BE.%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8F%D0%BD.docx",
+      "name": "ДКП.авто.Григорян.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Kia",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Cerato",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2008",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "300 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "121",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "KNAFE227385584296",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24242238",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "АС Краснодарского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "13.01.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "11 655 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: находится в залоге ООО \"Резот Банк\"",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомится с условиями и порядком проведения торгов, оформлением подачи заявок, проектом договора купли-продажи можно на сайте: электронной торговой площадке МЭТС на сайте https://m-ets.ru/. Дополнительная информация, а также описание, состав и характеристики имущества, порядок ознакомления с имуществом и документацией эл.почте: arbitrklykov@mail.ru",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T19:50:33.088Z",
+  "lastSeenAt": "2026-08-31T19:50:33.088Z",
+  "contentHash": "429f630a1358912296b9bb25b83c3abb4a97e56023ba50dae456878845b41e1a"
+}1c:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1e"}]]}]
+1d:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"233 100 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"11 655 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"23 310 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"20 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"25 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"29 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"23 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"30 сент. 2026 г., 13:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Крым"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/229457-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Kia Cerato, 2008 года, 121 лс, 300000 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

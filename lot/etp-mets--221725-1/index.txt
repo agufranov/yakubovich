@@ -1,0 +1,215 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--221725-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--221725-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--221725-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=71","children":"Тульская обл."}]]]}],["$","h1",null,{"children":"Смешанная задолженность"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Смешанная задолженность"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":["$undefined",["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Права требования ООО «Энерго Аудит» к 12 дебиторам на общую сумму 20 312 028,79 руб. Перечень должников, суммы долга, известные ИНН – в сообщении в ЕФРСБ № 19256505, отчете об оценке №03-05-25 от 02.06.2025г. Описание с наименованием дебитора (должника), известными ИНН, балансовой суммой задолженности и рыночной стоимостью задолженности - в разделе \"Дополнительная документация\" , файл \"Описание предмета торгов ООО Энерго Аудит дебиторская задолженность.docx\". В этом же разделе размещены сведения о документах-основаниях и о взыскании дебиторской задолженности."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23738270",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Тульской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["24.06.2024",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с Лотом производится по предварительному согласованию даты и времени (sodtula1@mail.ru, 8(4872)25-01-60).",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["20 июл. 2026 г., 00:00 (МСК)"," —"," ","27 июл. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"205 155 ₽"}],["$","td",null,{"children":"20 515,50 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["27 июл. 2026 г., 00:00 (МСК)"," —"," ","3 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"184 639,50 ₽"}],["$","td",null,{"children":"18 463,95 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["3 авг. 2026 г., 00:00 (МСК)"," —"," ","10 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"164 124 ₽"}],["$","td",null,{"children":"16 412,40 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["10 авг. 2026 г., 00:00 (МСК)"," —"," ","17 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"143 608,50 ₽"}],["$","td",null,{"children":"14 360,85 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["17 авг. 2026 г., 00:00 (МСК)"," —"," ","24 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"123 093 ₽"}],["$","td",null,{"children":"12 309,30 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 00:00 (МСК)"," —"," ","31 авг. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"102 577,50 ₽"}],["$","td",null,{"children":"10 257,75 ₽"}]]}],["$","tr","7",{"className":"now","children":[["$","td",null,{"children":["31 авг. 2026 г., 00:00 (МСК)"," —"," ","7 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"82 062 ₽"}],["$","td",null,{"children":"8 206,20 ₽"}]]}],["$","tr","8",{"className":"","children":["$L11","$L12","$L13"]}],"$L14","$L15"]}]]}]]}],"$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","td",null,{"children":["7 сент. 2026 г., 00:00 (МСК)"," —"," ","14 сент. 2026 г., 00:00 (МСК)"]}]
+12:["$","td",null,{"children":"61 546,50 ₽"}]
+13:["$","td",null,{"children":"6 154,65 ₽"}]
+14:["$","tr","9",{"className":"","children":[["$","td",null,{"children":["14 сент. 2026 г., 00:00 (МСК)"," —"," ","21 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"41 031 ₽"}],["$","td",null,{"children":"4 103,10 ₽"}]]}]
+15:["$","tr","10",{"className":"","children":[["$","td",null,{"children":["21 сент. 2026 г., 00:00 (МСК)"," —"," ","28 сент. 2026 г., 00:00 (МСК)"]}],["$","td",null,{"children":"20 515,50 ₽"}],["$","td",null,{"children":"2 051,55 ₽"}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭНЕРГО АУДИТ\"",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7729661900","children":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭНЕРГО АУДИТ\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7729661900"]}],"$undefined"]}]]}],["$","tr","manager:Носков Сергей Андреевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=710500618947","children":"Носков Сергей Андреевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","710500618947"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация МСРО \"Содействие\""]}]]}]]}],["$","tr","organizer:Носков Сергей Андреевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=710500618947","children":"Носков Сергей Андреевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","710500618947"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9068-7931%2F2023","children":"А68-7931/2023"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Тульская область"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",5,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268166693/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20%D0%9E%D0%9E%D0%9E%20%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%20%D0%90%D1%83%D0%B4%D0%B8%D1%82%20%D0%B4%D0%B5%D0%B1%D0%B8%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C.docx",{"href":"https://m-ets.ru/download/268166693/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20%D0%9E%D0%9E%D0%9E%20%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%20%D0%90%D1%83%D0%B4%D0%B8%D1%82%20%D0%B4%D0%B5%D0%B1%D0%B8%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Описание предмета торгов ООО Энерго Аудит дебиторская задолженность.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268166695/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%85%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D0%B2%D0%B7%D1%8B%D1%81%D0%BA%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%94%D0%97%20%D0%9E%D0%9E%D0%9E%20%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%20%D0%90%D1%83%D0%B4%D0%B8%D1%82.pdf",{"href":"https://m-ets.ru/download/268166695/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%85%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D0%B2%D0%B7%D1%8B%D1%81%D0%BA%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%94%D0%97%20%D0%9E%D0%9E%D0%9E%20%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%20%D0%90%D1%83%D0%B4%D0%B8%D1%82.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Сведения о документах основаниях и о взыскании ДЗ ООО Энерго Аудит.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268166697/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2003-05-25%20%D0%9E%D0%9E%D0%9E%20%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%20%D0%90%D1%83%D0%B4%D0%B8%D1%82_compressed.zip",{"href":"https://m-ets.ru/download/268166697/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2003-05-25%20%D0%9E%D0%9E%D0%9E%20%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%20%D0%90%D1%83%D0%B4%D0%B8%D1%82_compressed.zip","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Отчет 03-05-25 ООО Энерго Аудит_compressed.zip"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268166699/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%AD%D0%90.doc",{"href":"https://m-ets.ru/download/268166699/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%AD%D0%90.doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","проект договора купли-продажи ЭА.doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268167243/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268167243/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":["$L1b","$L1c"]}]]}]]}]
+1d:T2044,{
+  "id": "etp-mets:221725-1",
+  "sourceCode": "etp-mets",
+  "externalId": "221725-1",
+  "sourceUrl": "https://m-ets.ru/221725-1",
+  "title": "Смешанная задолженность",
+  "description": "Права требования ООО «Энерго Аудит» к 12 дебиторам на общую сумму 20 312 028,79 руб. Перечень должников, суммы долга, известные ИНН – в сообщении в ЕФРСБ № 19256505, отчете об оценке №03-05-25 от 02.06.2025г. Описание с наименованием дебитора (должника), известными ИНН, балансовой суммой задолженности и рыночной стоимостью задолженности - в разделе \"Дополнительная документация\" , файл \"Описание предмета торгов ООО Энерго Аудит дебиторская задолженность.docx\". В этом же разделе размещены сведения о документах-основаниях и о взыскании дебиторской задолженности.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "other",
+  "categoryCode": "26",
+  "categoryName": "Смешанная задолженность",
+  "regionCode": "71",
+  "address": "Тульская область",
+  "priceStart": "205155",
+  "priceMin": "20515.50",
+  "deposit": "20515.50",
+  "currency": "RUB",
+  "publishedAt": "2026-07-16T00:00:00+03:00",
+  "biddStartAt": "2026-07-20T00:00:00+03:00",
+  "biddEndAt": "2026-09-28T00:00:00+03:00",
+  "auctionAt": "2026-09-29T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А68-7931/2023",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "company",
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭНЕРГО АУДИТ\"",
+      "inn": "7729661900",
+      "ogrn": "1107746638790"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Носков Сергей Андреевич",
+      "inn": "710500618947",
+      "sro": "Ассоциация МСРО \"Содействие\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Носков Сергей Андреевич",
+      "inn": "710500618947",
+      "email": "sodtula1@mail.ru",
+      "phone": "+7 (487) 225 01 60"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-07-20T00:00:00+03:00",
+      "endAt": "2026-07-27T00:00:00+03:00",
+      "price": "205155.00",
+      "deposit": "20515.50"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-07-27T00:00:00+03:00",
+      "endAt": "2026-08-03T00:00:00+03:00",
+      "price": "184639.50",
+      "deposit": "18463.95"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-03T00:00:00+03:00",
+      "endAt": "2026-08-10T00:00:00+03:00",
+      "price": "164124.00",
+      "deposit": "16412.40"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-10T00:00:00+03:00",
+      "endAt": "2026-08-17T00:00:00+03:00",
+      "price": "143608.50",
+      "deposit": "14360.85"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-08-17T00:00:00+03:00",
+      "endAt": "2026-08-24T00:00:00+03:00",
+      "price": "123093.00",
+      "deposit": "12309.30"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-08-24T00:00:00+03:00",
+      "endAt": "2026-08-31T00:00:00+03:00",
+      "price": "102577.50",
+      "deposit": "10257.75"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-08-31T00:00:00+03:00",
+      "endAt": "2026-09-07T00:00:00+03:00",
+      "price": "82062.00",
+      "deposit": "8206.20"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-07T00:00:00+03:00",
+      "endAt": "2026-09-14T00:00:00+03:00",
+      "price": "61546.50",
+      "deposit": "6154.65"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-14T00:00:00+03:00",
+      "endAt": "2026-09-21T00:00:00+03:00",
+      "price": "41031.00",
+      "deposit": "4103.10"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-09-21T00:00:00+03:00",
+      "endAt": "2026-09-28T00:00:00+03:00",
+      "price": "20515.50",
+      "deposit": "2051.55"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268166693/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0%20%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%20%D0%9E%D0%9E%D0%9E%20%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%20%D0%90%D1%83%D0%B4%D0%B8%D1%82%20%D0%B4%D0%B5%D0%B1%D0%B8%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C.docx",
+      "name": "Описание предмета торгов ООО Энерго Аудит дебиторская задолженность.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268166695/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%85%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%D1%85%20%D0%B8%20%D0%BE%20%D0%B2%D0%B7%D1%8B%D1%81%D0%BA%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%94%D0%97%20%D0%9E%D0%9E%D0%9E%20%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%20%D0%90%D1%83%D0%B4%D0%B8%D1%82.pdf",
+      "name": "Сведения о документах основаниях и о взыскании ДЗ ООО Энерго Аудит.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268166697/%D0%9E%D1%82%D1%87%D0%B5%D1%82%2003-05-25%20%D0%9E%D0%9E%D0%9E%20%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%20%D0%90%D1%83%D0%B4%D0%B8%D1%82_compressed.zip",
+      "name": "Отчет 03-05-25 ООО Энерго Аудит_compressed.zip"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268166699/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%AD%D0%90.doc",
+      "name": "проект договора купли-продажи ЭА.doc"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268167243/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23738270",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Тульской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "24.06.2024",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с Лотом производится по предварительному согласованию даты и времени (sodtula1@mail.ru, 8(4872)25-01-60).",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T17:49:05.268Z",
+  "lastSeenAt": "2026-08-31T17:49:05.268Z",
+  "contentHash": "cb2fbf544f5426788e301c36d4fbd55bdd44f3e577580e19d18f22df2a8ce32f"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1d"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"82 062 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["61 546,50 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 00:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[3,", до ","20 515,50 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"205 155 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"20 515,50 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"15 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"20 июл. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"28 сент. 2026 г., 00:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"22 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"29 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Тульская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/221725-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1b:["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}]
+1c:["$","span",null,{"className":"size","children":"$undefined"}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Смешанная задолженность — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

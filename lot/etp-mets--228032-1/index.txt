@@ -1,0 +1,236 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--228032-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--228032-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--228032-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=69","children":"Тверская обл."}]]]}],["$","h1",null,{"children":"Volkswagen Polo, 2015 года, 105 лс, 62530 км"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Аукцион"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268673010/268673010_thumb_90.jpg","alt":"Volkswagen Polo, 2015 года, 105 лс, 62530 км"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268672984/268672984_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672984/268672984_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672984/268672984_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268672995/268672995_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672995/268672995_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672995/268672995_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268672982/268672982_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672982/268672982_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672982/268672982_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268673004/268673004_thumb_90.jpg",{"href":"https://m-ets.ru/download/268673004/268673004_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268673004/268673004_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268673000/268673000_thumb_90.jpg",{"href":"https://m-ets.ru/download/268673000/268673000_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268673000/268673000_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268672988/268672988_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672988/268672988_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672988/268672988_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268672989/268672989_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672989/268672989_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672989/268672989_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268673005/268673005_thumb_90.jpg",{"href":"https://m-ets.ru/download/268673005/268673005_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268673005/268673005_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268672983/268672983_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672983/268672983_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672983/268672983_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268672993/268672993_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672993/268672993_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672993/268672993_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268673002/268673002_thumb_90.jpg",{"href":"https://m-ets.ru/download/268673002/268673002_thumb_90.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$undefined","$L15","$L16","$L17",false,"$L18"]}],"$L19"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268673002/268673002_thumb_90.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",16," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268672991/268672991_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672991/268672991_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672991/268672991_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268672981/268672981_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672981/268672981_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672981/268672981_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268672996/268672996_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672996/268672996_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672996/268672996_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268672987/268672987_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672987/268672987_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672987/268672987_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268673001/268673001_thumb_90.jpg",{"href":"https://m-ets.ru/download/268673001/268673001_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268673001/268673001_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268672994/268672994_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672994/268672994_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672994/268672994_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268673003/268673003_thumb_90.jpg",{"href":"https://m-ets.ru/download/268673003/268673003_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268673003/268673003_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268672990/268672990_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672990/268672990_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672990/268672990_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268673007/268673007_thumb_90.jpg",{"href":"https://m-ets.ru/download/268673007/268673007_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268673007/268673007_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268672986/268672986_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672986/268672986_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672986/268672986_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268672992/268672992_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672992/268672992_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672992/268672992_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268673006/268673006_thumb_90.jpg",{"href":"https://m-ets.ru/download/268673006/268673006_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268673006/268673006_thumb_90.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268672980/268672980_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672980/268672980_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672980/268672980_thumb_90.jpg","alt":"","loading":"lazy"}]}],"$L1a","$L1b","$L1c"]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"транспортное средство: Volkswagen Polo, Идентификационный номер (VIN номер): XW8ZZZ61ZFG040344, Год выпуска: 2015 гос.номер Н826РО69. Автомобиль находится в залоге у АО «ТБанк»."}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Volkswagen",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Polo",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2015",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["62 530"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["105"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":[["$","td",null,{"children":"Коробка передач"}],["$","td",null,{"children":["Механическая",""]}]]}],["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XW8ZZZ61ZFG040344",""]}]]}],["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24203816",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Тверской области",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["06.02.2026",""]}]]}],["$","tr","priceStepPercent",{"children":[["$","td",null,{"children":"Величина повышения начальной цены"}],["$","td",null,{"children":["36 720 руб. (5%)",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Залог в пользу АО «ТБанк»",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом осуществляется с предварительного согласования по тел. 8(920)1741945.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Полякова Наталья Владимировна",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=691174486708","children":"Полякова Наталья Владимировна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","691174486708"]}],"$undefined"]}]]}],["$","tr","manager:Акопян Артем Ашотович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=695007737269","children":"Акопян Артем Ашотович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","695007737269"]}],["$","span",null,{"className":"muted","children":[" · ","Союз АУ НЦРБ"]}]]}]]}],["$","tr","organizer:Акопян Артем Ашотович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=695007737269","children":"Акопян Артем Ашотович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","695007737269"]}],"$undefined"]}]]}],["$","tr","pledgee:АО \"ТБАНК\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7710140679","children":"АО \"ТБАНК\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7710140679"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9066-21006%2F2025","children":"А66-21006/2025"}]}]]}]]}]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Тверская область"}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268672998/%D0%9F%D0%9E%D0%9B%D0%AF%D0%9A%D0%9E%D0%92%D0%90%20%D0%9D%D0%90%D0%A2%D0%90%D0%9B%D0%AC%D0%AF%20%D0%92%D0%9B%D0%90%D0%94%D0%98%D0%9C%D0%98%D0%A0%D0%9E%D0%92%D0%9D%D0%90%20XW8ZZZ61ZFG040344-2.pdf",{"href":"https://m-ets.ru/download/268672998/%D0%9F%D0%9E%D0%9B%D0%AF%D0%9A%D0%9E%D0%92%D0%90%20%D0%9D%D0%90%D0%A2%D0%90%D0%9B%D0%AC%D0%AF%20%D0%92%D0%9B%D0%90%D0%94%D0%98%D0%9C%D0%98%D0%A0%D0%9E%D0%92%D0%9D%D0%90%20XW8ZZZ61ZFG040344-2.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ПОЛЯКОВА НАТАЛЬЯ ВЛАДИМИРОВНА XW8ZZZ61ZFG040344-2.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268673011/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B.docx",{"href":"https://m-ets.ru/download/268673011/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор купли-продажи. Проекты.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268673013/%D0%9F%D0%9E%D0%9B%D0%AF%D0%9A%D0%9E%D0%92%D0%90%20%D0%9D%D0%90%D0%A2%D0%90%D0%9B%D0%AC%D0%AF%20%D0%92%D0%9B%D0%90%D0%94%D0%98%D0%9C%D0%98%D0%A0%D0%9E%D0%92%D0%9D%D0%90%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85-2.pdf",{"href":"https://m-ets.ru/download/268673013/%D0%9F%D0%9E%D0%9B%D0%AF%D0%9A%D0%9E%D0%92%D0%90%20%D0%9D%D0%90%D0%A2%D0%90%D0%9B%D0%AC%D0%AF%20%D0%92%D0%9B%D0%90%D0%94%D0%98%D0%9C%D0%98%D0%A0%D0%9E%D0%92%D0%9D%D0%90%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85-2.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ПОЛЯКОВА НАТАЛЬЯ ВЛАДИМИРОВНА Положение о торгах-2.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268673015/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx",{"href":"https://m-ets.ru/download/268673015/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке. Проект.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1d:T20ff,{
+  "id": "etp-mets:228032-1",
+  "sourceCode": "etp-mets",
+  "externalId": "228032-1",
+  "sourceUrl": "https://m-ets.ru/228032-1",
+  "title": "Volkswagen Polo, 2015 года, 105 лс, 62530 км",
+  "description": "транспортное средство: Volkswagen Polo, Идентификационный номер (VIN номер): XW8ZZZ61ZFG040344, Год выпуска: 2015 гос.номер Н826РО69. Автомобиль находится в залоге у АО «ТБанк».",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "auction",
+  "tradeKindRaw": "Открытый аукцион с открытой формой представления предложений о цене",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "69",
+  "address": "Тверская область",
+  "priceStart": "734400",
+  "priceStep": "36720",
+  "deposit": "73440",
+  "currency": "RUB",
+  "publishedAt": "2026-08-15T00:00:00+03:00",
+  "biddStartAt": "2026-08-17T12:00:00+03:00",
+  "biddEndAt": "2026-09-18T12:00:00+03:00",
+  "auctionAt": "2026-09-23T12:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А66-21006/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Полякова Наталья Владимировна",
+      "inn": "691174486708",
+      "efrsbId": "b171026656f10bb8fa34bb7723880c28"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Акопян Артем Ашотович",
+      "inn": "695007737269",
+      "sro": "Союз АУ НЦРБ"
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Акопян Артем Ашотович",
+      "inn": "695007737269",
+      "email": "tver-100@mail.ru",
+      "phone": "+7 (920) 174 19 45"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "АО \"ТБАНК\"",
+      "inn": "7710140679"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268673010/268673010_thumb_90.jpg",
+    "https://m-ets.ru/download/268672984/268672984_thumb_90.jpg",
+    "https://m-ets.ru/download/268672995/268672995_thumb_90.jpg",
+    "https://m-ets.ru/download/268672982/268672982_thumb_90.jpg",
+    "https://m-ets.ru/download/268673004/268673004_thumb_90.jpg",
+    "https://m-ets.ru/download/268673000/268673000_thumb_90.jpg",
+    "https://m-ets.ru/download/268672988/268672988_thumb_90.jpg",
+    "https://m-ets.ru/download/268672989/268672989_thumb_90.jpg",
+    "https://m-ets.ru/download/268673005/268673005_thumb_90.jpg",
+    "https://m-ets.ru/download/268672983/268672983_thumb_90.jpg",
+    "https://m-ets.ru/download/268672993/268672993_thumb_90.jpg",
+    "https://m-ets.ru/download/268673002/268673002_thumb_90.jpg",
+    "https://m-ets.ru/download/268672991/268672991_thumb_90.jpg",
+    "https://m-ets.ru/download/268672981/268672981_thumb_90.jpg",
+    "https://m-ets.ru/download/268672996/268672996_thumb_90.jpg",
+    "https://m-ets.ru/download/268672987/268672987_thumb_90.jpg",
+    "https://m-ets.ru/download/268673001/268673001_thumb_90.jpg",
+    "https://m-ets.ru/download/268672994/268672994_thumb_90.jpg",
+    "https://m-ets.ru/download/268673003/268673003_thumb_90.jpg",
+    "https://m-ets.ru/download/268672990/268672990_thumb_90.jpg",
+    "https://m-ets.ru/download/268673007/268673007_thumb_90.jpg",
+    "https://m-ets.ru/download/268672986/268672986_thumb_90.jpg",
+    "https://m-ets.ru/download/268672992/268672992_thumb_90.jpg",
+    "https://m-ets.ru/download/268673006/268673006_thumb_90.jpg",
+    "https://m-ets.ru/download/268672980/268672980_thumb_90.jpg",
+    "https://m-ets.ru/download/268672997/268672997_thumb_90.jpg",
+    "https://m-ets.ru/download/268673008/268673008_thumb_90.jpg",
+    "https://m-ets.ru/download/268673009/268673009_thumb_90.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268672998/%D0%9F%D0%9E%D0%9B%D0%AF%D0%9A%D0%9E%D0%92%D0%90%20%D0%9D%D0%90%D0%A2%D0%90%D0%9B%D0%AC%D0%AF%20%D0%92%D0%9B%D0%90%D0%94%D0%98%D0%9C%D0%98%D0%A0%D0%9E%D0%92%D0%9D%D0%90%20XW8ZZZ61ZFG040344-2.pdf",
+      "name": "ПОЛЯКОВА НАТАЛЬЯ ВЛАДИМИРОВНА XW8ZZZ61ZFG040344-2.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268673011/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B.docx",
+      "name": "Договор купли-продажи. Проекты.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268673013/%D0%9F%D0%9E%D0%9B%D0%AF%D0%9A%D0%9E%D0%92%D0%90%20%D0%9D%D0%90%D0%A2%D0%90%D0%9B%D0%AC%D0%AF%20%D0%92%D0%9B%D0%90%D0%94%D0%98%D0%9C%D0%98%D0%A0%D0%9E%D0%92%D0%9D%D0%90%20%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D1%82%D0%BE%D1%80%D0%B3%D0%B0%D1%85-2.pdf",
+      "name": "ПОЛЯКОВА НАТАЛЬЯ ВЛАДИМИРОВНА Положение о торгах-2.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268673015/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx",
+      "name": "Договор о задатке. Проект.docx"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Volkswagen",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Polo",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2015",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "62 530",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "105",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Механическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XW8ZZZ61ZFG040344",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24203816",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Тверской области",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "06.02.2026",
+      "source": "structured"
+    },
+    {
+      "key": "priceStepPercent",
+      "name": "Величина повышения начальной цены",
+      "value": "36 720 руб. (5%)",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Залог в пользу АО «ТБанк»",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом осуществляется с предварительного согласования по тел. 8(920)1741945.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:22:18.998Z",
+  "lastSeenAt": "2026-08-31T18:22:18.998Z",
+  "contentHash": "7eab35d8d2c9e98223c7f5922538dc1409d3c6c7690b5eef06ed3eb415a0e781"
+}18:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1d"}]]}]
+19:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Начальная цена"}],"734 400 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,"$undefined",[["$","dt",null,{"children":"Шаг"}],["$","dd",null,{"children":"36 720 ₽"}]],[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"73 440 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"14 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"17 авг. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"18 сент. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"12 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"23 сент. 2026 г., 12:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Тверская обл."}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/228032-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+1a:["$","a","https://m-ets.ru/download/268672997/268672997_thumb_90.jpg",{"href":"https://m-ets.ru/download/268672997/268672997_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268672997/268672997_thumb_90.jpg","alt":"","loading":"lazy"}]}]
+1b:["$","a","https://m-ets.ru/download/268673008/268673008_thumb_90.jpg",{"href":"https://m-ets.ru/download/268673008/268673008_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268673008/268673008_thumb_90.jpg","alt":"","loading":"lazy"}]}]
+1c:["$","a","https://m-ets.ru/download/268673009/268673009_thumb_90.jpg",{"href":"https://m-ets.ru/download/268673009/268673009_thumb_90.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268673009/268673009_thumb_90.jpg","alt":"","loading":"lazy"}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Volkswagen Polo, 2015 года, 105 лс, 62530 км — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

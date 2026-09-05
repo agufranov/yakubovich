@@ -1,0 +1,206 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--224448-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--224448-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--224448-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=land","children":"Земля"}],[" · ",["$","$L4",null,{"href":"/?region=59","children":"Пермский край"}]]]}],["$","h1",null,{"children":"Дом 172,9 кв.м. и земельный участок 1632 +/-9 кв.м. в Пермском крае"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip blue","children":"Опубликован"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Жилой дом "}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268383329/268383329_thumb_0.jpg","alt":"Дом 172,9 кв.м. и земельный участок 1632 +/-9 кв.м. в Пермском крае"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268383330/268383330_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383330/268383330_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383330/268383330_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383321/268383321_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383321/268383321_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383321/268383321_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383322/268383322_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383322/268383322_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383322/268383322_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383333/268383333_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383333/268383333_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383333/268383333_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383323/268383323_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383323/268383323_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383323/268383323_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383331/268383331_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383331/268383331_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383331/268383331_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383325/268383325_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383325/268383325_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383325/268383325_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383334/268383334_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383334/268383334_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383334/268383334_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383326/268383326_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383326/268383326_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383326/268383326_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383332/268383332_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383332/268383332_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383332/268383332_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383319/268383319_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383319/268383319_thumb_0.jpg","target":"_blank","rel":"noopener","children":"$L11"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18",false,"$L19"]}],"$L1a"]}]]}]
+11:["$","img",null,{"src":"https://m-ets.ru/download/268383319/268383319_thumb_0.jpg","alt":"","loading":"lazy"}]
+12:["$","details",null,{"className":"more-photos","children":[["$","summary",null,{"children":["Ещё ",6," ","фотографий"]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268383320/268383320_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383320/268383320_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383320/268383320_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383335/268383335_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383335/268383335_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383335/268383335_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383336/268383336_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383336/268383336_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383336/268383336_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383318/268383318_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383318/268383318_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383318/268383318_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383324/268383324_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383324/268383324_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383324/268383324_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268383327/268383327_thumb_0.jpg",{"href":"https://m-ets.ru/download/268383327/268383327_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268383327/268383327_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}]]}]
+13:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Жилой дом площадью 172,9 кв.м., кадастровый номер: 59:32:3250001:20891 , по адресу: Пермский край, муниципальный округ Пермский, деревня Заполье, улица Степная, дом 11, вид права, доля в праве: общая совместная собственность; земельный участок площадью 1632 +/-9 кв.м, кадастровый номер: 59:32:3250001:19647 , адрес: Пермский край, муниципальный округ Пермский, деревня Заполье, улица Степная, з/у 11, вид права, доля в праве: общая совместная собственность."}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["23925127",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Пермского края",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["22.12.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество является предметом залога ПАО Сбербанк.",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Согласовать ознакомление с имуществом, получить дополнительную информацию об имуществе можно у организатора торгов в рабочие дни с 10:00 ч. до 13:00 ч. или по телефону 8(342)236-88-52, +79024719200.",""]}]]}]]}]}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 10:00 (МСК)"," —"," ","9 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"5 651 100 ₽"}],["$","td",null,{"children":"565 110 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["9 сент. 2026 г., 10:00 (МСК)"," —"," ","16 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"5 368 545 ₽"}],["$","td",null,{"children":"536 854,50 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["16 сент. 2026 г., 10:00 (МСК)"," —"," ","23 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"5 085 990 ₽"}],["$","td",null,{"children":"508 599 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["23 сент. 2026 г., 10:00 (МСК)"," —"," ","30 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 803 435 ₽"}],["$","td",null,{"children":"480 343,50 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["30 сент. 2026 г., 10:00 (МСК)"," —"," ","7 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 520 880 ₽"}],["$","td",null,{"children":"452 088 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["7 окт. 2026 г., 10:00 (МСК)"," —"," ","14 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"4 238 325 ₽"}],["$","td",null,{"children":"423 832,50 ₽"}]]}]]}]]}]]}]
+16:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Булатов Алексей Геннадьевич",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=594102148220","children":"Булатов Алексей Геннадьевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","594102148220"]}],"$undefined"]}]]}],["$","tr","manager:Машковцев Юрий Александрович",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=591300244988","children":"Машковцев Юрий Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","591300244988"]}],["$","span",null,{"className":"muted","children":[" · ","САУ \"СРО \"ДЕЛО\""]}]]}]]}],["$","tr","organizer:Машковцев Юрий Александрович",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=591300244988","children":"Машковцев Юрий Александрович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","591300244988"]}],"$undefined"]}]]}],["$","tr","pledgee:ПАО СБЕРБАНК",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7707083893","children":"ПАО СБЕРБАНК"}],["$","span",null,{"className":"muted","children":[" · ИНН ","7707083893"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9050-14107%2F2025","children":"А50-14107/2025"}]}]]}]]}]}]]}]
+17:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Пермский край"}]]}]
+18:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",4,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268383350/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9F%D0%90%D0%9E%20%D0%A1%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA.pdf",{"href":"https://m-ets.ru/download/268383350/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9F%D0%90%D0%9E%20%D0%A1%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи ПАО Сбербанк.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268383352/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.doc",{"href":"https://m-ets.ru/download/268383352/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Договор о задатке.doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268383354/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D1%83%D0%BB%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%93..pdf",{"href":"https://m-ets.ru/download/268383354/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D1%83%D0%BB%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%93..pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Положение о порядке, сроках и условиях реализации имущества Булатова А.Г..pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268383356/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.doc",{"href":"https://m-ets.ru/download/268383356/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.doc","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Проект договора купли-продажи.doc"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1b:T201f,{
+  "id": "etp-mets:224448-1",
+  "sourceCode": "etp-mets",
+  "externalId": "224448-1",
+  "sourceUrl": "https://m-ets.ru/224448-1",
+  "title": "Дом 172,9 кв.м. и земельный участок 1632 +/-9 кв.м. в Пермском крае",
+  "description": "Жилой дом площадью 172,9 кв.м., кадастровый номер: 59:32:3250001:20891 , по адресу: Пермский край, муниципальный округ Пермский, деревня Заполье, улица Степная, дом 11, вид права, доля в праве: общая совместная собственность; земельный участок площадью 1632 +/-9 кв.м, кадастровый номер: 59:32:3250001:19647 , адрес: Пермский край, муниципальный округ Пермский, деревня Заполье, улица Степная, з/у 11, вид права, доля в праве: общая совместная собственность.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "published",
+  "statusRaw": "Объявленные торги",
+  "kind": "land",
+  "categoryCode": "34",
+  "categoryName": "Жилой дом ",
+  "regionCode": "59",
+  "address": "Пермский край",
+  "priceStart": "5651100",
+  "priceMin": "4238325.00",
+  "deposit": "565110.00",
+  "currency": "RUB",
+  "publishedAt": "2026-07-29T00:00:00+03:00",
+  "biddStartAt": "2026-09-02T10:00:00+03:00",
+  "biddEndAt": "2026-10-14T10:00:00+03:00",
+  "auctionAt": "2026-10-14T17:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А50-14107/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Булатов Алексей Геннадьевич",
+      "inn": "594102148220",
+      "efrsbId": "1fe13bd95469b18815b46bec457365d2"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Машковцев Юрий Александрович",
+      "inn": "591300244988",
+      "sro": "САУ \"СРО \"ДЕЛО\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Машковцев Юрий Александрович",
+      "inn": "591300244988",
+      "email": "permbankrot2@mail.ru",
+      "phone": "+7 (902) 471 92 00"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ПАО СБЕРБАНК",
+      "inn": "7707083893"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-09-02T10:00:00+03:00",
+      "endAt": "2026-09-09T10:00:00+03:00",
+      "price": "5651100.00",
+      "deposit": "565110.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-09-09T10:00:00+03:00",
+      "endAt": "2026-09-16T10:00:00+03:00",
+      "price": "5368545.00",
+      "deposit": "536854.50"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-09-16T10:00:00+03:00",
+      "endAt": "2026-09-23T10:00:00+03:00",
+      "price": "5085990.00",
+      "deposit": "508599.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-23T10:00:00+03:00",
+      "endAt": "2026-09-30T10:00:00+03:00",
+      "price": "4803435.00",
+      "deposit": "480343.50"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-30T10:00:00+03:00",
+      "endAt": "2026-10-07T10:00:00+03:00",
+      "price": "4520880.00",
+      "deposit": "452088.00"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-10-07T10:00:00+03:00",
+      "endAt": "2026-10-14T10:00:00+03:00",
+      "price": "4238325.00",
+      "deposit": "423832.50"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268383329/268383329_thumb_0.jpg",
+    "https://m-ets.ru/download/268383330/268383330_thumb_0.jpg",
+    "https://m-ets.ru/download/268383321/268383321_thumb_0.jpg",
+    "https://m-ets.ru/download/268383322/268383322_thumb_0.jpg",
+    "https://m-ets.ru/download/268383333/268383333_thumb_0.jpg",
+    "https://m-ets.ru/download/268383323/268383323_thumb_0.jpg",
+    "https://m-ets.ru/download/268383331/268383331_thumb_0.jpg",
+    "https://m-ets.ru/download/268383325/268383325_thumb_0.jpg",
+    "https://m-ets.ru/download/268383334/268383334_thumb_0.jpg",
+    "https://m-ets.ru/download/268383326/268383326_thumb_0.jpg",
+    "https://m-ets.ru/download/268383332/268383332_thumb_0.jpg",
+    "https://m-ets.ru/download/268383319/268383319_thumb_0.jpg",
+    "https://m-ets.ru/download/268383320/268383320_thumb_0.jpg",
+    "https://m-ets.ru/download/268383335/268383335_thumb_0.jpg",
+    "https://m-ets.ru/download/268383336/268383336_thumb_0.jpg",
+    "https://m-ets.ru/download/268383318/268383318_thumb_0.jpg",
+    "https://m-ets.ru/download/268383324/268383324_thumb_0.jpg",
+    "https://m-ets.ru/download/268383327/268383327_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268383350/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%9F%D0%90%D0%9E%20%D0%A1%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA.pdf",
+      "name": "Проект договора купли-продажи ПАО Сбербанк.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383352/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5.doc",
+      "name": "Договор о задатке.doc"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383354/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%2C%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%D1%85%20%D0%B8%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%91%D1%83%D0%BB%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%93..pdf",
+      "name": "Положение о порядке, сроках и условиях реализации имущества Булатова А.Г..pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268383356/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%20%D0%BA%D1%83%D0%BF%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8.doc",
+      "name": "Проект договора купли-продажи.doc"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "23925127",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Пермского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "22.12.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Имущество является предметом залога ПАО Сбербанк.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Согласовать ознакомление с имуществом, получить дополнительную информацию об имуществе можно у организатора торгов в рабочие дни с 10:00 ч. до 13:00 ч. или по телефону 8(342)236-88-52, +79024719200.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T20:08:21.614Z",
+  "lastSeenAt": "2026-08-31T20:08:21.614Z",
+  "contentHash": "d19282cf0e6ad8722b6ceeb4c0ddb642565d226a8b4465225ecd1d48bbcac2de"
+}19:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1b"}]]}]
+1a:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"5 651 100 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["5 368 545 ₽",["$","span",null,{"className":"muted","children":[" ","· ","9 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[5,", до ","4 238 325 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"5 651 100 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"565 110 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"28 июл. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"2 сент. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"14 окт. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"38 дней"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"14 окт. 2026 г., 17:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Пермский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/224448-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Дом 172,9 кв.м. и земельный участок 1632 +/-9 кв.м. в Пермском крае — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

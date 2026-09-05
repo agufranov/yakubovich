@@ -1,0 +1,278 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--225974-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--225974-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--225974-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=vehicle","children":"Транспорт"}],[" · ",["$","$L4",null,{"href":"/?region=24","children":"Красноярский край"}]]]}],["$","h1",null,{"children":"Lada Vesta, 2016 года, 106 лс, 500000 км, АКПП"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Легковой автомобиль"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268479037/268479037_thumb_0.jpg","alt":"Lada Vesta, 2016 года, 106 лс, 500000 км, АКПП"}]}],["$","div",null,{"className":"thumbs","children":[["$","a","https://m-ets.ru/download/268479036/268479036_thumb_0.jpg",{"href":"https://m-ets.ru/download/268479036/268479036_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268479036/268479036_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268479034/268479034_thumb_0.jpg",{"href":"https://m-ets.ru/download/268479034/268479034_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268479034/268479034_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268479032/268479032_thumb_0.jpg",{"href":"https://m-ets.ru/download/268479032/268479032_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268479032/268479032_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268479033/268479033_thumb_0.jpg",{"href":"https://m-ets.ru/download/268479033/268479033_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268479033/268479033_thumb_0.jpg","alt":"","loading":"lazy"}]}],["$","a","https://m-ets.ru/download/268479031/268479031_thumb_0.jpg",{"href":"https://m-ets.ru/download/268479031/268479031_thumb_0.jpg","target":"_blank","rel":"noopener","children":["$","img",null,{"src":"https://m-ets.ru/download/268479031/268479031_thumb_0.jpg","alt":"","loading":"lazy"}]}]]}],false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Наименование: Автомобиль ЛАДА GFL 130 ЛАДА ВЕСТА Гос номер: А302НН124 VIN: XTAGFL130HY041804 Модель: ЛАДА GFL 130 ЛАДА ВЕСТА Год выпуска: 2016 Цвет: коричневый Вид собственности: индивидуальная собственность Автомобиль в залоге у ООО ПКО «ЭОС» (ИНН 7714704125) Имеются дефекты: Требуется капитальный ремонт двигателя, подвески, коробки, замка зажигания нет, сломан. Машина использовалась в такси, лобовое под замену, повреждены оба бампера, многочисленные повреждения лакокрасочного покрытия по всему кузову, пробег около 500 тыс. ТС заводится, не едет."}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","brand",{"children":[["$","td",null,{"children":"Марка"}],["$","td",null,{"children":["Lada (ВАЗ)",""]}]]}],["$","tr","model",{"children":[["$","td",null,{"children":"Модель"}],["$","td",null,{"children":["Vesta",""]}]]}],["$","tr","year",{"children":[["$","td",null,{"children":"Год выпуска транспорта"}],["$","td",null,{"children":["2016",""]}]]}],["$","tr","mileage",{"children":[["$","td",null,{"children":"Пробег, км (по одометру)"}],["$","td",null,{"children":["500 000"," км"]}]]}],["$","tr","power",{"children":[["$","td",null,{"children":"Мощность, л.с.(по ПТС)"}],["$","td",null,{"children":["106"," л.с."]}]]}],["$","tr","engine",{"children":[["$","td",null,{"children":"Двигатель"}],["$","td",null,{"children":["Бензин",""]}]]}],["$","tr","drive",{"children":[["$","td",null,{"children":"Привод"}],["$","td",null,{"children":["Передний",""]}]]}],["$","tr","transmission",{"children":["$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18"]}]}]]}],"$L19","$L1a","$L1b","$L1c",false,"$L1d"]}],"$L1e"]}]]}]
+11:["$","td",null,{"children":"Коробка передач"}]
+12:["$","td",null,{"children":["Автоматическая",""]}]
+13:["$","tr","vin",{"children":[["$","td",null,{"children":"Идентификационный номер (VIN)"}],["$","td",null,{"children":["XTAGFL130HY041804",""]}]]}]
+14:["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24044720",""]}]]}]
+15:["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Красноярского края",""]}]]}]
+16:["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["13.05.2025",""]}]]}]
+17:["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Реализуемое имущество находится в залоге у ООО ПКО «ЭОС» (ИНН 7714704125), требования которого включены в реестр требований кредиторов должника Ветрова Александра Альбертовича определением АС Красноярского края от 05.09.2025г. по делу №А33-8863-2/2025. При реализации имущества на настоящих торгах в отношения залога наступают последствия, предусмотренные п. 4 ч. 1 ст. 352 ГК РФ.",""]}]]}]
+18:["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с документами об имуществе и о торгах осуществляется в период приема заявок в рабочие дни с 11.00 ч. до 18.00 ч. (время местное) по адресу: г. Красноярск, ул. Карла Маркса, 73А, 4-й этаж, каб. 4-02 по предварительной (не менее чем за 24 часа) записи по тел. +7 (962) 078 14 79 или путем запроса цифровых копий по адресу электронной почты: shuhanov_denis-arb@bk.ru. По вопросу осмотра имущества ... Показать полностью обращаться по тел. +7 (962) 078 14 79 или по e-mail: shuhanov_denis-arb@bk.ru. Осмотр имущества осуществляется в рабочие дни по предварительной записи, осуществляемой не позднее чем за 5 рабочих дней до осмотра.",""]}]]}]
+19:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["18 авг. 2026 г., 10:00 (МСК)"," —"," ","23 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"509 100,30 ₽"}],["$","td",null,{"children":"50 910,03 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["23 авг. 2026 г., 10:00 (МСК)"," —"," ","28 авг. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"458 190,27 ₽"}],["$","td",null,{"children":"45 819,03 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["28 авг. 2026 г., 10:00 (МСК)"," —"," ","2 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"407 280,24 ₽"}],["$","td",null,{"children":"40 728,02 ₽"}]]}],["$","tr","4",{"className":"now","children":[["$","td",null,{"children":["2 сент. 2026 г., 10:00 (МСК)"," —"," ","7 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"356 370,21 ₽"}],["$","td",null,{"children":"35 637,02 ₽"}]]}],["$","tr","5",{"className":"","children":[["$","td",null,{"children":["7 сент. 2026 г., 10:00 (МСК)"," —"," ","12 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"305 460,18 ₽"}],["$","td",null,{"children":"30 546,02 ₽"}]]}],["$","tr","6",{"className":"","children":[["$","td",null,{"children":["12 сент. 2026 г., 10:00 (МСК)"," —"," ","17 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"254 550,15 ₽"}],["$","td",null,{"children":"25 455,02 ₽"}]]}],["$","tr","7",{"className":"","children":[["$","td",null,{"children":["17 сент. 2026 г., 10:00 (МСК)"," —"," ","22 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"203 640,12 ₽"}],["$","td",null,{"children":"20 364,01 ₽"}]]}],["$","tr","8",{"className":"","children":[["$","td",null,{"children":["22 сент. 2026 г., 10:00 (МСК)"," —"," ","27 сент. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"152 730,09 ₽"}],["$","td",null,{"children":"15 273,01 ₽"}]]}],["$","tr","9",{"className":"","children":[["$","td",null,{"children":["27 сент. 2026 г., 10:00 (МСК)"," —"," ","2 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"101 820,06 ₽"}],["$","td",null,{"children":"10 182,01 ₽"}]]}],["$","tr","10",{"className":"","children":[["$","td",null,{"children":["2 окт. 2026 г., 10:00 (МСК)"," —"," ","7 окт. 2026 г., 10:00 (МСК)"]}],["$","td",null,{"children":"50 910,03 ₽"}],["$","td",null,{"children":"5 091 ₽"}]]}]]}]]}]]}]
+1a:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Ветров Александр Альбертович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=244700956671","children":"Ветров Александр Альбертович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","244700956671"]}],"$undefined"]}]]}],["$","tr","manager:Суханов Денис Сергеевич",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=243300711837","children":"Суханов Денис Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","243300711837"]}],["$","span",null,{"className":"muted","children":[" · ","Ассоциация \"ДМСО\""]}]]}]]}],["$","tr","organizer:Суханов Денис Сергеевич",{"children":[["$","td",null,{"children":"Организатор торгов"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=243300711837","children":"Суханов Денис Сергеевич"}],["$","span",null,{"className":"muted","children":[" · ИНН ","243300711837"]}],"$undefined"]}]]}],["$","tr","pledgee:ООО ПКО \"ЭОС\"",{"children":[["$","td",null,{"children":"Залоговый кредитор"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=7714704125","children":"ООО ПКО \"ЭОС\""}],["$","span",null,{"className":"muted","children":[" · ИНН ","7714704125"]}],"$undefined"]}]]}]],["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9033-8863%2F2025","children":"А33-8863/2025"}]}]]}]]}]}]]}]
+1b:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Красноярский край"}]]}]
+1c:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",3,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268479038/%5B%D0%A2%D0%9E%D0%A0%D0%93%D0%98%20%D0%97%D0%90%D0%9B%D0%9E%D0%93%5D%20%D0%94%D0%9A%D0%9F%20%D0%B8%20%D0%B0%D0%BA%D1%82%20%D0%9F%D0%9F%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D0%BE%D1%82%2008_04_2026.pdf",{"href":"https://m-ets.ru/download/268479038/%5B%D0%A2%D0%9E%D0%A0%D0%93%D0%98%20%D0%97%D0%90%D0%9B%D0%9E%D0%93%5D%20%D0%94%D0%9A%D0%9F%20%D0%B8%20%D0%B0%D0%BA%D1%82%20%D0%9F%D0%9F%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D0%BE%D1%82%2008_04_2026.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","[ТОРГИ ЗАЛОГ] ДКП и акт ПП движимость от 08_04_2026.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268479040/%5B%D0%A0%D0%95%D0%90%D0%9B%D0%98%D0%97%5D%20%D0%9F%D0%9F%D0%98%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%E2%84%96143818%20%D0%BE%D1%82%2013_11_2025.docx",{"href":"https://m-ets.ru/download/268479040/%5B%D0%A0%D0%95%D0%90%D0%9B%D0%98%D0%97%5D%20%D0%9F%D0%9F%D0%98%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%E2%84%96143818%20%D0%BE%D1%82%2013_11_2025.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","[РЕАЛИЗ] ППИ торги №143818 от 13_11_2025.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268499985/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268499985/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+1f:T2930,{
+  "id": "etp-mets:225974-1",
+  "sourceCode": "etp-mets",
+  "externalId": "225974-1",
+  "sourceUrl": "https://m-ets.ru/225974-1",
+  "title": "Lada Vesta, 2016 года, 106 лс, 500000 км, АКПП",
+  "description": "Наименование: Автомобиль ЛАДА GFL 130 ЛАДА ВЕСТА Гос номер: А302НН124 VIN: XTAGFL130HY041804 Модель: ЛАДА GFL 130 ЛАДА ВЕСТА Год выпуска: 2016 Цвет: коричневый Вид собственности: индивидуальная собственность Автомобиль в залоге у ООО ПКО «ЭОС» (ИНН 7714704125) Имеются дефекты: Требуется капитальный ремонт двигателя, подвески, коробки, замка зажигания нет, сломан. Машина использовалась в такси, лобовое под замену, повреждены оба бампера, многочисленные повреждения лакокрасочного покрытия по всему кузову, пробег около 500 тыс. ТС заводится, не едет.",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "vehicle",
+  "categoryCode": "1",
+  "categoryName": "Легковой автомобиль",
+  "regionCode": "24",
+  "address": "Красноярский край",
+  "priceStart": "509100.30",
+  "priceMin": "50910.03",
+  "deposit": "50910.03",
+  "currency": "RUB",
+  "publishedAt": "2026-08-05T00:00:00+03:00",
+  "biddStartAt": "2026-08-18T10:00:00+03:00",
+  "biddEndAt": "2026-10-07T10:00:00+03:00",
+  "auctionAt": "2026-10-08T10:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А33-8863/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Ветров Александр Альбертович",
+      "inn": "244700956671",
+      "efrsbId": "bb61957d6630c19b91440119913c8e7a"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Суханов Денис Сергеевич",
+      "inn": "243300711837",
+      "sro": "Ассоциация \"ДМСО\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Суханов Денис Сергеевич",
+      "inn": "243300711837",
+      "email": "shuhanov_denis-arb@bk.ru",
+      "phone": "+7 (962) 078 14 79"
+    },
+    {
+      "role": "pledgee",
+      "kind": "unknown",
+      "name": "ООО ПКО \"ЭОС\"",
+      "inn": "7714704125"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-18T10:00:00+03:00",
+      "endAt": "2026-08-23T10:00:00+03:00",
+      "price": "509100.30",
+      "deposit": "50910.03"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-23T10:00:00+03:00",
+      "endAt": "2026-08-28T10:00:00+03:00",
+      "price": "458190.27",
+      "deposit": "45819.03"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-28T10:00:00+03:00",
+      "endAt": "2026-09-02T10:00:00+03:00",
+      "price": "407280.24",
+      "deposit": "40728.02"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-09-02T10:00:00+03:00",
+      "endAt": "2026-09-07T10:00:00+03:00",
+      "price": "356370.21",
+      "deposit": "35637.02"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-07T10:00:00+03:00",
+      "endAt": "2026-09-12T10:00:00+03:00",
+      "price": "305460.18",
+      "deposit": "30546.02"
+    },
+    {
+      "no": 6,
+      "startAt": "2026-09-12T10:00:00+03:00",
+      "endAt": "2026-09-17T10:00:00+03:00",
+      "price": "254550.15",
+      "deposit": "25455.02"
+    },
+    {
+      "no": 7,
+      "startAt": "2026-09-17T10:00:00+03:00",
+      "endAt": "2026-09-22T10:00:00+03:00",
+      "price": "203640.12",
+      "deposit": "20364.01"
+    },
+    {
+      "no": 8,
+      "startAt": "2026-09-22T10:00:00+03:00",
+      "endAt": "2026-09-27T10:00:00+03:00",
+      "price": "152730.09",
+      "deposit": "15273.01"
+    },
+    {
+      "no": 9,
+      "startAt": "2026-09-27T10:00:00+03:00",
+      "endAt": "2026-10-02T10:00:00+03:00",
+      "price": "101820.06",
+      "deposit": "10182.01"
+    },
+    {
+      "no": 10,
+      "startAt": "2026-10-02T10:00:00+03:00",
+      "endAt": "2026-10-07T10:00:00+03:00",
+      "price": "50910.03",
+      "deposit": "5091.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268479037/268479037_thumb_0.jpg",
+    "https://m-ets.ru/download/268479036/268479036_thumb_0.jpg",
+    "https://m-ets.ru/download/268479034/268479034_thumb_0.jpg",
+    "https://m-ets.ru/download/268479032/268479032_thumb_0.jpg",
+    "https://m-ets.ru/download/268479033/268479033_thumb_0.jpg",
+    "https://m-ets.ru/download/268479031/268479031_thumb_0.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268479038/%5B%D0%A2%D0%9E%D0%A0%D0%93%D0%98%20%D0%97%D0%90%D0%9B%D0%9E%D0%93%5D%20%D0%94%D0%9A%D0%9F%20%D0%B8%20%D0%B0%D0%BA%D1%82%20%D0%9F%D0%9F%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D0%BE%D1%82%2008_04_2026.pdf",
+      "name": "[ТОРГИ ЗАЛОГ] ДКП и акт ПП движимость от 08_04_2026.pdf"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268479040/%5B%D0%A0%D0%95%D0%90%D0%9B%D0%98%D0%97%5D%20%D0%9F%D0%9F%D0%98%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%E2%84%96143818%20%D0%BE%D1%82%2013_11_2025.docx",
+      "name": "[РЕАЛИЗ] ППИ торги №143818 от 13_11_2025.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268499985/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "brand",
+      "name": "Марка",
+      "value": "Lada (ВАЗ)",
+      "source": "structured"
+    },
+    {
+      "key": "model",
+      "name": "Модель",
+      "value": "Vesta",
+      "source": "structured"
+    },
+    {
+      "key": "year",
+      "name": "Год выпуска транспорта",
+      "value": "2016",
+      "source": "structured"
+    },
+    {
+      "key": "mileage",
+      "name": "Пробег, км (по одометру)",
+      "value": "500 000",
+      "unit": "км",
+      "source": "structured"
+    },
+    {
+      "key": "power",
+      "name": "Мощность, л.с.(по ПТС)",
+      "value": "106",
+      "unit": "л.с.",
+      "source": "structured"
+    },
+    {
+      "key": "engine",
+      "name": "Двигатель",
+      "value": "Бензин",
+      "source": "structured"
+    },
+    {
+      "key": "drive",
+      "name": "Привод",
+      "value": "Передний",
+      "source": "structured"
+    },
+    {
+      "key": "transmission",
+      "name": "Коробка передач",
+      "value": "Автоматическая",
+      "source": "structured"
+    },
+    {
+      "key": "vin",
+      "name": "Идентификационный номер (VIN)",
+      "value": "XTAGFL130HY041804",
+      "source": "structured"
+    },
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24044720",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Красноярского края",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "13.05.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Неустранимых обременений нет, есть сведения об обременениях снимаемых по результатам торгов: Реализуемое имущество находится в залоге у ООО ПКО «ЭОС» (ИНН 7714704125), требования которого включены в реестр требований кредиторов должника Ветрова Александра Альбертовича определением АС Красноярского края от 05.09.2025г. по делу №А33-8863-2/2025. При реализации имущества на настоящих торгах в отношения залога наступают последствия, предусмотренные п. 4 ч. 1 ст. 352 ГК РФ.",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с документами об имуществе и о торгах осуществляется в период приема заявок в рабочие дни с 11.00 ч. до 18.00 ч. (время местное) по адресу: г. Красноярск, ул. Карла Маркса, 73А, 4-й этаж, каб. 4-02 по предварительной (не менее чем за 24 часа) записи по тел. +7 (962) 078 14 79 или путем запроса цифровых копий по адресу электронной почты: shuhanov_denis-arb@bk.ru. По вопросу осмотра имущества ... Показать полностью обращаться по тел. +7 (962) 078 14 79 или по e-mail: shuhanov_denis-arb@bk.ru. Осмотр имущества осуществляется в рабочие дни по предварительной записи, осуществляемой не позднее чем за 5 рабочих дней до осмотра.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:06:59.077Z",
+  "lastSeenAt": "2026-08-31T18:06:59.077Z",
+  "contentHash": "50d4c393a8096dce5af381a800b2876b9e91a10d399342a135e9a36b95d993aa"
+}1d:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$1f"}]]}]
+1e:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"356 370,21 ₽"]}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Снизится до"}],["$","dd",null,{"children":["305 460,18 ₽",["$","span",null,{"className":"muted","children":[" ","· ","7 сент. 2026 г., 10:00 (МСК)"]}]]}]],[["$","dt",null,{"children":"Снижений впереди"}],["$","dd",null,{"children":[6,", до ","50 910,03 ₽"]}]],[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"509 100,30 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"50 910,03 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"4 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"18 авг. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"","children":"7 окт. 2026 г., 10:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"","children":"31 день"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"8 окт. 2026 г., 10:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Красноярский край"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/225974-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Lada Vesta, 2016 года, 106 лс, 500000 км, АКПП — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"

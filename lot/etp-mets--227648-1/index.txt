@@ -1,0 +1,165 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9846,["664","static/chunks/664-6d821dc1aacb6b48.js","177","static/chunks/app/layout-29a22004ab7857ca.js"],"NavProgress"]
+4:I[9664,["664","static/chunks/664-6d821dc1aacb6b48.js","158","static/chunks/app/lot/%5Bslug%5D/page.static-8a438c910b5750b4.js"],""]
+5:I[5341,[],""]
+6:I[25,[],""]
+8:I[5104,[],"OutletBoundary"]
+a:I[7158,[],"AsyncMetadataOutlet"]
+c:I[5104,[],"ViewportBoundary"]
+e:I[5104,[],"MetadataBoundary"]
+10:I[4431,[],""]
+:HL["/yakubovich/_next/static/css/ce01c0db722f1042.css","style"]
+0:{"P":null,"b":"mCbBrO1RM-lPcbmJVO1vD","p":"/yakubovich","c":["","lot","etp-mets--227648-1",""],"i":false,"f":[[["",{"children":["lot",{"children":[["slug","etp-mets--227648-1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yakubovich/_next/static/css/ce01c0db722f1042.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"inner","children":[["$","$L4",null,{"href":"/","className":"brand","children":["Лот",["$","span",null,{"className":"accent","children":"Архив"}]]}],["$","nav",null,{"className":"site-nav","children":[["$","$L4",null,{"href":"/","children":"Каталог"}],["$","$L4",null,{"href":"/sources","children":"Источники"}],["$","$L4",null,{"href":"/status","children":"Статус проекта"}]]}]]}]}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"page","children":["$","div",null,{"className":"empty","children":[["$","p",null,{"children":"Такого лота у нас нет — возможно, он ушел в архив под другим адресом."}],["$","$L4",null,{"href":"/","children":"Вернуться в каталог"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["lot",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","etp-mets--227648-1","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$2",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:["$","main",null,{"className":"page lot-page","children":[["$","div",null,{"className":"crumbs","children":[["$","$L4",null,{"href":"/","children":"Каталог"}]," · ",["$","$L4",null,{"href":"/?kind=other","children":"Прочее"}],[" · ",["$","$L4",null,{"href":"/?region=3","children":"Бурятия"}]]]}],["$","h1",null,{"children":"Ружье ВПО 209"}],["$","div",null,{"className":"sub","children":[["$","span",null,{"className":"chip ","children":"Торги в стадии приема заявок"}],["$","span",null,{"className":"chip","children":"Банкротство"}],["$","span",null,{"className":"chip","children":"Публичное предложение"}],["$","span",null,{"children":"Товарно-материальные ценности"}]]}],["$","div",null,{"className":"lot-layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"panel gallery","children":[["$","div",null,{"className":"main","children":["$","img",null,{"src":"https://m-ets.ru/download/268642777/268642777_thumb_270.jpg","alt":"Ружье ВПО 209"}]}],false,false]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Описание"}],["$","div",null,{"className":"desc","children":"Ружье ВПО 209, калибр 366 ТКМ"}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Характеристики"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[["$","tr","efrsbTradeId",{"children":[["$","td",null,{"children":"Идентификационный номер торгов на ЕФРСБ"}],["$","td",null,{"children":["24174756",""]}]]}],["$","tr","court",{"children":[["$","td",null,{"children":"Арбитражный суд"}],["$","td",null,{"children":["Арбитражный суд Республики Бурятия",""]}]]}],["$","tr","procedureStartedAt",{"children":[["$","td",null,{"children":"Дата введения процедуры"}],["$","td",null,{"children":["14.07.2025",""]}]]}],["$","tr","encumbrances",{"children":[["$","td",null,{"children":"Обременения"}],["$","td",null,{"children":["Обременения и судебные споры отсутствуют",""]}]]}],["$","tr","inspection",{"children":[["$","td",null,{"children":"Порядок ознакомления с имуществом"}],["$","td",null,{"children":["Ознакомление с имуществом осуществляется с 7.7.2026 по 12.8.2026 по записи (тел. 89021666242) ежедневно в рабочие дни с 09:00 до 18:00 (время Улан-Удэнское) по адресу Место жительства: Республика Бурятия, Иволгинский район, ДНТ «Джидинское», ул. Заимская, д. 16.",""]}]]}]]}]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"График снижения цены"}],["$","table",null,{"className":"attr-table price-schedule","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Период"}],["$","th",null,{"children":"Цена"}],["$","th",null,{"children":"Задаток"}]]}]}],["$","tbody",null,{"children":[["$","tr","1",{"className":"","children":[["$","td",null,{"children":["14 авг. 2026 г., 12:00 (МСК)"," —"," ","19 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"81 000 ₽"}],["$","td",null,{"children":"8 100 ₽"}]]}],["$","tr","2",{"className":"","children":[["$","td",null,{"children":["19 авг. 2026 г., 12:00 (МСК)"," —"," ","24 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"64 800 ₽"}],["$","td",null,{"children":"8 100 ₽"}]]}],["$","tr","3",{"className":"","children":[["$","td",null,{"children":["24 авг. 2026 г., 12:00 (МСК)"," —"," ","29 авг. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"48 600 ₽"}],["$","td",null,{"children":"8 100 ₽"}]]}],["$","tr","4",{"className":"","children":[["$","td",null,{"children":["29 авг. 2026 г., 12:00 (МСК)"," —"," ","3 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"32 400 ₽"}],["$","td",null,{"children":"8 100 ₽"}]]}],["$","tr","5",{"className":"now","children":[["$","td",null,{"children":["3 сент. 2026 г., 12:00 (МСК)"," —"," ","8 сент. 2026 г., 12:00 (МСК)"]}],["$","td",null,{"children":"16 200 ₽"}],["$","td",null,{"children":"8 100 ₽"}]]}]]}]]}]]}],["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Стороны"}],["$","table",null,{"className":"attr-table","children":["$","tbody",null,{"children":[[["$","tr","debtor:Сахияев Зорикто Дабажапович",{"children":[["$","td",null,{"children":"Должник"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=032617317233","children":"Сахияев Зорикто Дабажапович"}],["$","span",null,{"className":"muted","children":[" · ИНН ","032617317233"]}],"$undefined"]}]]}],["$","tr","manager:Стрижакова Елена Валерьевна",{"children":[["$","td",null,{"children":"Арбитражный управляющий"}],["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=032605523760","children":"Стрижакова Елена Валерьевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","032605523760"]}],["$","span",null,{"className":"muted","children":[" · ","САУ \"СРО \"ДЕЛО\""]}]]}]]}],["$","tr","organizer:Стрижакова Елена Валерьевна",{"children":["$L11","$L12"]}]],"$L13"]}]}]]}],"$L14","$L15",false,"$L16"]}],"$L17"]}]]}]
+11:["$","td",null,{"children":"Организатор торгов"}]
+12:["$","td",null,{"children":[["$","$L4",null,{"href":"/?q=032605523760","children":"Стрижакова Елена Валерьевна"}],["$","span",null,{"className":"muted","children":[" · ИНН ","032605523760"]}],"$undefined"]}]
+13:["$","tr",null,{"children":[["$","td",null,{"children":"Дело о банкротстве"}],["$","td",null,{"children":["$","$L4",null,{"href":"/?q=%D0%9010-3101%2F2025","children":"А10-3101/2025"}]}]]}]
+14:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":"Местоположение"}],["$","div",null,{"children":"Республика Бурятия"}]]}]
+15:["$","section",null,{"className":"panel","children":[["$","h2",null,{"children":["Документы (",2,")"]}],["$","div",null,{"className":"files","children":[["$","a","https://m-ets.ru/download/268642778/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9A%D0%A3%D0%9F%D0%9B%D0%98-%D0%9F%D0%A0%D0%9E%D0%94%D0%90%D0%96%D0%98.docx",{"href":"https://m-ets.ru/download/268642778/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9A%D0%A3%D0%9F%D0%9B%D0%98-%D0%9F%D0%A0%D0%9E%D0%94%D0%90%D0%96%D0%98.docx","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","ДОГОВОР КУПЛИ-ПРОДАЖИ.docx"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}],["$","a","https://m-ets.ru/download/268643069/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",{"href":"https://m-ets.ru/download/268643069/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":["📎 ","Трехсторонний договор о задатке - торги по банкротству.pdf"]}],["$","span",null,{"className":"size","children":"$undefined"}]]}]]}]]}]
+18:T1414,{
+  "id": "etp-mets:227648-1",
+  "sourceCode": "etp-mets",
+  "externalId": "227648-1",
+  "sourceUrl": "https://m-ets.ru/227648-1",
+  "title": "Ружье ВПО 209",
+  "description": "Ружье ВПО 209, калибр 366 ТКМ",
+  "legalBasis": "bankruptcy_127fz",
+  "legalBasisRaw": "Торги по банкротству",
+  "tradeKind": "public_offer",
+  "tradeKindRaw": "Открытые торги посредством публичного предложения",
+  "status": "unknown",
+  "statusRaw": "Торги в стадии приема заявок",
+  "kind": "other",
+  "categoryCode": "27",
+  "categoryName": "Товарно-материальные ценности",
+  "regionCode": "3",
+  "address": "Республика Бурятия",
+  "priceStart": "81000",
+  "priceMin": "16200.00",
+  "deposit": "8100.00",
+  "currency": "RUB",
+  "publishedAt": "2026-08-13T00:00:00+03:00",
+  "biddStartAt": "2026-08-14T12:00:00+03:00",
+  "biddEndAt": "2026-09-08T12:00:00+03:00",
+  "auctionAt": "2026-09-08T13:00:00+03:00",
+  "tzOffsetMin": 180,
+  "tzName": "МСК",
+  "caseNumber": "А10-3101/2025",
+  "parties": [
+    {
+      "role": "debtor",
+      "kind": "person",
+      "name": "Сахияев Зорикто Дабажапович",
+      "inn": "032617317233",
+      "efrsbId": "c9d700cac8d021bb9f64e7d93fc59dc6"
+    },
+    {
+      "role": "manager",
+      "kind": "person",
+      "name": "Стрижакова Елена Валерьевна",
+      "inn": "032605523760",
+      "sro": "САУ \"СРО \"ДЕЛО\""
+    },
+    {
+      "role": "organizer",
+      "kind": "unknown",
+      "name": "Стрижакова Елена Валерьевна",
+      "inn": "032605523760",
+      "email": "arbupravlenie@mail.ru",
+      "phone": "+7 (902) 166 62 42"
+    }
+  ],
+  "pricePeriods": [
+    {
+      "no": 1,
+      "startAt": "2026-08-14T12:00:00+03:00",
+      "endAt": "2026-08-19T12:00:00+03:00",
+      "price": "81000.00",
+      "deposit": "8100.00"
+    },
+    {
+      "no": 2,
+      "startAt": "2026-08-19T12:00:00+03:00",
+      "endAt": "2026-08-24T12:00:00+03:00",
+      "price": "64800.00",
+      "deposit": "8100.00"
+    },
+    {
+      "no": 3,
+      "startAt": "2026-08-24T12:00:00+03:00",
+      "endAt": "2026-08-29T12:00:00+03:00",
+      "price": "48600.00",
+      "deposit": "8100.00"
+    },
+    {
+      "no": 4,
+      "startAt": "2026-08-29T12:00:00+03:00",
+      "endAt": "2026-09-03T12:00:00+03:00",
+      "price": "32400.00",
+      "deposit": "8100.00"
+    },
+    {
+      "no": 5,
+      "startAt": "2026-09-03T12:00:00+03:00",
+      "endAt": "2026-09-08T12:00:00+03:00",
+      "price": "16200.00",
+      "deposit": "8100.00"
+    }
+  ],
+  "etpCode": "mets",
+  "images": [
+    "https://m-ets.ru/download/268642777/268642777_thumb_270.jpg"
+  ],
+  "attachments": [
+    {
+      "fileId": "https://m-ets.ru/download/268642778/%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0%20%D0%9A%D0%A3%D0%9F%D0%9B%D0%98-%D0%9F%D0%A0%D0%9E%D0%94%D0%90%D0%96%D0%98.docx",
+      "name": "ДОГОВОР КУПЛИ-ПРОДАЖИ.docx"
+    },
+    {
+      "fileId": "https://m-ets.ru/download/268643069/%D0%A2%D1%80%D0%B5%D1%85%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BE%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B5%20-%20%D1%82%D0%BE%D1%80%D0%B3%D0%B8%20%D0%BF%D0%BE%20%D0%B1%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D1%83.pdf",
+      "name": "Трехсторонний договор о задатке - торги по банкротству.pdf"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "efrsbTradeId",
+      "name": "Идентификационный номер торгов на ЕФРСБ",
+      "value": "24174756",
+      "source": "structured"
+    },
+    {
+      "key": "court",
+      "name": "Арбитражный суд",
+      "value": "Арбитражный суд Республики Бурятия",
+      "source": "structured"
+    },
+    {
+      "key": "procedureStartedAt",
+      "name": "Дата введения процедуры",
+      "value": "14.07.2025",
+      "source": "structured"
+    },
+    {
+      "key": "encumbrances",
+      "name": "Обременения",
+      "value": "Обременения и судебные споры отсутствуют",
+      "source": "structured"
+    },
+    {
+      "key": "inspection",
+      "name": "Порядок ознакомления с имуществом",
+      "value": "Ознакомление с имуществом осуществляется с 7.7.2026 по 12.8.2026 по записи (тел. 89021666242) ежедневно в рабочие дни с 09:00 до 18:00 (время Улан-Удэнское) по адресу Место жительства: Республика Бурятия, Иволгинский район, ДНТ «Джидинское», ул. Заимская, д. 16.",
+      "source": "structured"
+    }
+  ],
+  "prevProcedureIds": [],
+  "firstSeenAt": "2026-08-31T18:20:19.913Z",
+  "lastSeenAt": "2026-08-31T18:20:19.913Z",
+  "contentHash": "eb2efd58cc98f82b87fe82ffd7eec5647a8b0023bcc89c61da098244a1e3dfe5"
+}16:["$","details",null,{"className":"raw","children":[["$","summary",null,{"children":"Служебные данные лота"}],["$","pre",null,{"children":"$18"}]]}]
+17:["$","aside",null,{"className":"lot-aside","children":["$","div",null,{"className":"aside-card","children":[["$","div",null,{"className":"big-price","children":[["$","small",null,{"children":"Цена сейчас"}],"16 200 ₽"]}],["$","dl",null,{"className":"kv","children":["$undefined",false,[["$","dt",null,{"children":"Начальная цена"}],["$","dd",null,{"children":"81 000 ₽"}]],"$undefined",[["$","dt",null,{"children":"Задаток"}],["$","dd",null,{"children":"8 100 ₽"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Опубликован"}],["$","dd",null,{"children":"12 авг. 2026 г."}]],[["$","dt",null,{"children":"Заявки с"}],["$","dd",null,{"children":"14 авг. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Заявки до"}],["$","dd",null,{"className":"hot","children":"8 сент. 2026 г., 12:00 (МСК)"}]],[["$","dt",null,{"children":"Осталось"}],["$","dd",null,{"className":"hot","children":"2 дня"}]],[["$","dt",null,{"children":"Торги"}],["$","dd",null,{"children":"8 сент. 2026 г., 13:00 (МСК)"}]]]}],["$","hr",null,{"className":"divider"}],["$","dl",null,{"className":"kv","children":[[["$","dt",null,{"children":"Регион"}],["$","dd",null,{"children":"Бурятия"}]],[["$","dt",null,{"children":"Площадка"}],["$","dd",null,{"children":["$","$L4",null,{"href":"/?etp=mets","children":"МЭТС"}]}]]]}],["$","a",null,{"className":"btn primary big","href":"https://m-ets.ru/227648-1","target":"_blank","rel":"noopener","children":["Смотреть на ","m-ets.ru"," →"]}],["$","div",null,{"style":{"fontSize":12,"color":"var(--text-faint)"},"children":"Участие в торгах — на официальной площадке. Мы не проводим торги и не принимаем задатки."}]]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+b:{"metadata":[["$","title","0",{"children":"Ружье ВПО 209 — ЛотАрхив"}],["$","meta","1",{"name":"description","content":"Лоты с государственных и банкротных торгов: арестованное имущество, приватизация. Поиск, карточки, переход на площадку."}]],"error":null,"digest":"$undefined"}
+f:"$b:metadata"
